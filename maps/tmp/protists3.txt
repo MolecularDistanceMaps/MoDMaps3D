@@ -1,0 +1,2077 @@
+7,6,11,13,15,20,8,4,8,9,10,9,10,19,18,14,13,13
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+P.falciparum (149), T.orientalis (58)
+Sampling from P.falciparum and T.orientalis; Number of genomic DNA sequences is 207; FCGR with k=9; Approx. Information
+0.815087
+-0.76293
+-0.371483
+0.569598
+-0.562209
+1
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+1
+0.929879
+0.673879
+0.299762
+0.84352
+-0.152669
+2
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+7
+0.86103
+0.804223
+0.0882832
+0.734043
+-0.318524
+3
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+5
+0.91717
+0.837083
+0.145164
+0.675354
+-0.353306
+4
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+4
+0.884029
+0.823132
+-0.0266087
+0.603458
+-0.362791
+5
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+3
+0.897261
+0.901747
+-0.145267
+0.53522
+-0.418062
+6
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+2
+0.858661
+0.713367
+-0.358562
+-0.688532
+0.0565923
+7
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+6
+0.85052
+-0.760981
+-0.126125
+0.617872
+-0.448966
+8
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+6
+0.889937
+0.67455
+0.300494
+0.842109
+-0.186555
+9
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+3
+0.877808
+0.727732
+0.228175
+0.687864
+-0.241616
+10
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+4
+0.909031
+0.899943
+-0.0963254
+0.627756
+-0.354678
+11
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+5
+0.906991
+0.909659
+-0.0905924
+0.512191
+-0.371737
+12
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+1
+0.975356
+0.841183
+-0.536663
+-0.413151
+-0.474142
+13
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+2
+0.84087
+-0.680247
+-0.311771
+0.742368
+-0.545025
+14
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+6
+0.912954
+0.634506
+0.426578
+0.79768
+-0.179298
+15
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+9
+0.897064
+0.762432
+0.116366
+0.764965
+-0.244586
+16
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+3
+0.969545
+0.774952
+-0.00618764
+0.662349
+-0.318188
+17
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+11
+0.942313
+0.719292
+0.243182
+0.641177
+-0.219974
+18
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+1
+0.935121
+0.775021
+0.255659
+0.693107
+-0.286593
+19
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+10
+0.92812
+0.715045
+0.316485
+0.633207
+-0.241733
+20
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+2
+0.909877
+0.78303
+0.289907
+0.592159
+-0.283955
+21
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+7
+0.855874
+0.865079
+0.0543858
+0.659688
+-0.320023
+22
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+8
+0.89412
+0.906199
+-0.308408
+0.458176
+-0.488309
+23
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+5
+0.842644
+0.712768
+-0.752076
+-1.
+-0.134828
+24
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+4
+0.755216
+-0.939478
+-0.178227
+0.514543
+-0.323066
+25
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+8
+0.916037
+0.705861
+0.223062
+0.846957
+-0.208231
+26
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+3
+0.905893
+0.716225
+0.155624
+0.731884
+-0.270102
+27
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+13
+0.946482
+0.830297
+-0.0743302
+0.702081
+-0.390415
+28
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+9
+0.880447
+0.718568
+0.176901
+0.742165
+-0.246862
+29
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+7
+0.997012
+0.813757
+0.0420536
+0.573829
+-0.35104
+30
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+2
+0.93331
+0.810662
+0.0345774
+0.608241
+-0.313425
+31
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+11
+0.918272
+0.875071
+0.0155235
+0.575417
+-0.339684
+32
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+12
+0.952377
+0.869626
+-0.10008
+0.688258
+-0.368996
+33
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+4
+0.984266
+0.873809
+-0.13442
+0.601178
+-0.427588
+34
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+1
+0.992221
+0.765737
+0.207528
+0.589321
+-0.273284
+35
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+10
+0.929452
+0.889079
+0.118316
+0.515108
+-0.325617
+36
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+6
+0.910581
+0.985351
+-0.274616
+-0.0863426
+-1.
+37
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+5
+0.742811
+-0.482877
+-0.0695691
+0.798659
+-0.375309
+38
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+3
+0.904522
+0.644088
+0.304213
+0.885183
+-0.130966
+39
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+4
+0.974395
+0.738048
+0.273518
+0.726809
+-0.238096
+40
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+11
+0.917932
+0.759078
+0.187749
+0.662994
+-0.256801
+41
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+8
+0.925813
+0.852368
+0.0588719
+0.672982
+-0.335697
+42
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+2
+0.818897
+0.613568
+0.140772
+0.425007
+0.269967
+43
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+9
+0.991052
+0.763493
+0.104691
+0.656751
+-0.345383
+44
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+12
+0.895553
+0.85646
+0.106986
+0.623916
+-0.322906
+45
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+10
+0.952704
+0.806739
+0.0642454
+0.634716
+-0.331107
+46
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+1
+0.864934
+0.890739
+-0.0987491
+0.642233
+-0.381416
+47
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+13
+0.948219
+0.884312
+-0.0947624
+0.595594
+-0.381599
+48
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+15
+0.727209
+0.50635
+-0.510032
+0.547561
+-0.329625
+49
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+6
+0.923213
+0.823815
+-0.0125143
+0.591923
+-0.364342
+50
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+5
+0.86405
+0.941969
+-0.136586
+0.536639
+-0.453852
+51
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+7
+0.879736
+0.663586
+-0.394723
+-0.438226
+-0.00723293
+52
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+14
+0.909848
+0.210955
+0.154952
+0.717826
+-0.179276
+53
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+14
+0.952199
+0.752559
+0.0361436
+0.690005
+-0.297683
+54
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+4
+0.975262
+0.702983
+0.19726
+0.754886
+-0.236444
+55
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+19
+0.945719
+0.718648
+0.206578
+0.731051
+-0.284262
+56
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+16
+0.962421
+0.764998
+0.111
+0.649039
+-0.282452
+57
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+8
+0.965337
+0.735478
+0.274638
+0.689203
+-0.267018
+58
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+5
+0.946757
+0.802161
+0.0753821
+0.685926
+-0.299106
+59
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+1
+0.94703
+0.819048
+0.00273624
+0.640104
+-0.35815
+60
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+11
+0.936099
+0.749966
+0.233613
+0.670728
+-0.229773
+61
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+17
+0.967336
+0.82253
+-0.0682031
+0.60289
+-0.340997
+62
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+21
+0.979476
+0.897435
+-0.132912
+0.633705
+-0.39804
+63
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+9
+0.947557
+0.784406
+0.0487129
+0.603262
+-0.381205
+64
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+7
+0.944476
+0.754729
+0.275844
+0.583236
+-0.243609
+65
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+18
+0.949357
+0.839834
+-0.14823
+0.536796
+-0.397167
+66
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+3
+0.964758
+0.844145
+-0.160457
+0.594189
+-0.390703
+67
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+6
+0.979419
+0.800322
+0.00593734
+0.631654
+-0.354417
+68
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+2
+0.948096
+0.862763
+-0.170796
+0.557642
+-0.41746
+69
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+13
+0.97695
+0.812866
+-0.0433914
+0.517718
+-0.319863
+70
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+20
+0.919105
+0.916208
+-0.158749
+0.480476
+-0.445073
+71
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+12
+0.945674
+0.94632
+-0.0971093
+0.401345
+-0.474853
+72
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+15
+0.717102
+-0.926014
+-0.23747
+0.382165
+-0.327108
+73
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+8
+0.908115
+0.668636
+0.158813
+0.747985
+-0.183283
+74
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+5
+0.849917
+0.778017
+0.171825
+0.689699
+-0.25242
+75
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+6
+0.762409
+0.544053
+0.415627
+0.217172
+1.
+76
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+2
+0.834367
+0.636788
+0.234017
+0.443985
+0.432829
+77
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+3
+0.948266
+0.924159
+-0.126278
+0.721213
+-0.418392
+78
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+7
+0.777537
+0.65199
+0.133097
+-0.0690051
+0.659744
+79
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+1
+0.727301
+0.680867
+-0.568676
+-0.323351
+0.0493386
+80
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+4
+0.775773
+-1.
+-0.192952
+0.59666
+-0.384215
+81
+NC_004325.1
+Plasmodium falciparum strain 3D7  chromosome 1
+150000
+4
+0.888212
+0.766269
+0.0347285
+0.869397
+-0.267568
+82
+NC_004325.1
+Plasmodium falciparum strain 3D7  chromosome 1
+150000
+1
+0.898945
+0.816422
+0.0369838
+0.684911
+-0.318978
+83
+NC_004325.1
+Plasmodium falciparum strain 3D7  chromosome 1
+150000
+2
+0.856038
+0.91035
+-0.592026
+-0.287952
+-0.950418
+84
+NC_004325.1
+Plasmodium falciparum strain 3D7  chromosome 1
+150000
+3
+0.819461
+-0.527842
+-0.119716
+0.794149
+-0.518874
+85
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+7
+0.899411
+0.716392
+0.164588
+0.886502
+-0.247579
+86
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+3
+0.88631
+0.766544
+0.03478
+0.766165
+-0.306739
+87
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+4
+0.978485
+0.862529
+-0.0831681
+0.675582
+-0.350742
+88
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+6
+0.882807
+0.844596
+0.108973
+0.645991
+-0.335676
+89
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+2
+0.935999
+0.835146
+0.0997914
+0.51713
+-0.313486
+90
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+1
+0.947812
+0.917126
+-0.301382
+0.59571
+-0.466251
+91
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+8
+0.897281
+0.859252
+-0.0433063
+0.442882
+-0.375773
+92
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+5
+0.839878
+0.0277349
+0.0264555
+0.508186
+-0.0405092
+93
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+1
+0.8886
+0.665974
+0.319027
+0.832873
+-0.18219
+94
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+7
+0.903031
+0.865023
+-0.140666
+0.69462
+-0.402006
+95
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+5
+0.936064
+0.754648
+0.235914
+0.626515
+-0.225554
+96
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+6
+0.877435
+0.745409
+0.139789
+0.453294
+-0.081403
+97
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+3
+0.980193
+0.81251
+0.0749161
+0.645771
+-0.320579
+98
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+2
+0.921035
+0.83802
+-0.00113099
+0.53563
+-0.3587
+99
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+9
+0.864925
+0.796983
+0.0483645
+0.60078
+-0.255565
+100
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+4
+0.930987
+0.818934
+-0.576559
+-0.444584
+-0.359017
+101
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+8
+0.80233
+-0.934004
+-0.366483
+0.490982
+-0.41728
+102
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+10
+0.961714
+0.628557
+0.334338
+0.963386
+-0.120856
+103
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+1
+0.942301
+0.74647
+0.230947
+0.798564
+-0.272266
+104
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+6
+0.84068
+0.544015
+0.297447
+0.263543
+0.634952
+105
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+8
+0.734546
+0.458928
+0.378236
+-0.0325225
+0.869846
+106
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+7
+0.889301
+0.813631
+0.16928
+0.669949
+-0.26548
+107
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+5
+0.891054
+0.91055
+-0.111032
+0.597572
+-0.387045
+108
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+4
+0.882049
+0.889967
+-0.0038287
+0.230343
+-0.796654
+109
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+2
+0.897135
+0.982328
+-0.182313
+0.479123
+-0.472813
+110
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+3
+0.801884
+0.56274
+-0.630351
+-0.541768
+0.135272
+111
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+9
+0.674414
+-0.480654
+-0.173322
+0.817254
+-0.347893
+112
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+8
+0.879115
+0.813197
+0.075022
+0.80864
+-0.231829
+113
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+5
+0.803336
+0.561675
+-0.0633383
+0.643874
+-0.323648
+114
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+9
+0.936775
+0.666016
+-0.113554
+0.658777
+-0.282659
+115
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+6
+0.952467
+0.7716
+0.130995
+0.546319
+-0.32422
+116
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+1
+0.914205
+0.759306
+0.158608
+0.603851
+-0.309312
+117
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+3
+0.945975
+0.860658
+0.0192835
+0.514193
+-0.418016
+118
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+2
+0.94049
+0.843563
+0.0240947
+0.495548
+-0.309905
+119
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+7
+0.878526
+1.
+-0.377441
+0.209614
+-0.801419
+120
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+4
+0.812599
+-0.816977
+-0.38753
+0.540927
+-0.488679
+121
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+6
+0.899394
+0.661544
+0.292438
+0.817545
+-0.12291
+122
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+5
+0.984189
+0.730999
+0.184848
+0.721052
+-0.279633
+123
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+9
+0.961842
+0.835716
+0.0322081
+0.676808
+-0.367471
+124
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+7
+0.917193
+0.75683
+0.113025
+0.707708
+-0.271098
+125
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+8
+0.953226
+0.811942
+0.0076901
+0.677054
+-0.343632
+126
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+2
+0.897774
+0.848574
+-0.0138681
+0.732733
+-0.372147
+127
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+3
+0.933231
+0.792798
+0.102685
+0.634497
+-0.35749
+128
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+1
+0.921113
+0.823272
+-0.0537604
+0.588091
+-0.305401
+129
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+4
+0.91549
+0.706804
+-0.345578
+-0.215829
+-0.105581
+130
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+10
+0.744009
+-0.798173
+-0.160365
+0.548468
+-0.398013
+131
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+17
+0.949776
+0.611627
+0.424929
+0.901627
+-0.186977
+132
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+2
+0.961343
+0.716317
+0.247724
+0.82839
+-0.205627
+133
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+11
+0.97015
+0.750666
+0.105573
+0.684193
+-0.293959
+134
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+13
+0.975038
+0.81848
+-0.0626725
+0.72218
+-0.404967
+135
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+9
+0.982567
+0.812094
+0.0445429
+0.681191
+-0.357877
+136
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+8
+0.918512
+0.833572
+0.0327447
+0.687447
+-0.368063
+137
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+15
+1.
+0.876694
+-0.0538703
+0.611068
+-0.42866
+138
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+7
+0.842939
+0.819602
+0.138546
+0.623848
+-0.290486
+139
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+18
+0.958707
+0.818244
+0.0762855
+0.545727
+-0.354781
+140
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+12
+0.907559
+0.783919
+0.230812
+0.629999
+-0.266391
+141
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+5
+0.932281
+0.797076
+0.0966097
+0.502576
+-0.341722
+142
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+16
+0.939979
+0.828295
+-0.0468931
+0.512785
+-0.395801
+143
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+3
+0.956944
+0.857795
+-0.0828838
+0.643526
+-0.398189
+144
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+14
+0.974726
+0.781213
+0.0470988
+0.555988
+-0.328365
+145
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+1
+0.944413
+0.875198
+-0.181648
+0.535122
+-0.441254
+146
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+10
+0.896767
+0.911944
+-0.259159
+0.482164
+-0.471891
+147
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+19
+0.925285
+0.932411
+-0.118017
+0.567272
+-0.432081
+148
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+4
+0.884091
+0.885942
+-0.468942
+-0.357119
+-0.920267
+149
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+6
+-0.649844
+0.54851
+0.921923
+0.174345
+-0.461758
+150
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+4
+-0.855937
+0.642969
+0.573938
+0.18078
+-0.530369
+151
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+2
+-0.812953
+0.521079
+0.817145
+0.27684
+-0.371927
+152
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+3
+-0.938024
+0.619753
+0.488393
+0.320637
+-0.482854
+153
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+10
+-0.678073
+0.601173
+0.318613
+0.587967
+-0.234602
+154
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+7
+-0.888385
+0.634193
+0.544024
+0.250802
+-0.457793
+155
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+6
+-1.
+0.714487
+-0.132929
+0.497843
+-0.361451
+156
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+11
+-0.678865
+0.737012
+-0.384162
+0.612088
+-0.179853
+157
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+14
+-0.783876
+0.698917
+-0.314844
+0.7083
+-0.0649591
+158
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+12
+-0.763012
+0.614091
+-0.167447
+0.71638
+-0.12562
+159
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+17
+-0.717733
+0.718874
+-0.339069
+0.735297
+-0.216595
+160
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+15
+-0.787393
+0.539539
+0.536367
+0.491974
+-0.272326
+161
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+16
+-0.884363
+0.729354
+-0.240025
+0.695873
+-0.332311
+162
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+9
+-0.770356
+0.754706
+-0.451044
+0.896114
+-0.217145
+163
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+5
+-0.848856
+0.732493
+-0.281029
+0.787014
+-0.261641
+164
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+8
+-0.818376
+0.832164
+-0.558624
+0.759778
+-0.330242
+165
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+13
+-0.689353
+0.928972
+-0.962928
+1.
+-0.146736
+166
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+1
+-0.799216
+0.896675
+-1.
+0.957354
+-0.258799
+167
+NC_025260.1
+Theileria orientalis strain Shintoku DNA  chromosome 1  complete genome
+150000
+18
+-0.744812
+0.571837
+0.892855
+0.265914
+-0.44424
+168
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+13
+-0.757104
+0.531192
+0.835019
+0.371179
+-0.390492
+169
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+14
+-0.797885
+0.560116
+0.705596
+0.321278
+-0.432182
+170
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+6
+-0.81235
+0.565899
+0.907047
+0.0752061
+-0.522058
+171
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+12
+-0.63573
+0.612144
+0.332176
+0.506264
+-0.274567
+172
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+8
+-0.840232
+0.70806
+0.251575
+0.445389
+-0.420842
+173
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+4
+-0.917976
+0.79385
+-0.0629086
+0.378163
+-0.479094
+174
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+5
+-0.985582
+0.771584
+-0.222837
+0.408881
+-0.452488
+175
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+2
+-0.616101
+0.692077
+-0.342803
+0.692922
+-0.0789487
+176
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+7
+-0.866865
+0.729736
+-0.491962
+0.781889
+-0.161156
+177
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+1
+-0.694175
+0.663214
+0.00247713
+0.61466
+-0.243077
+178
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+3
+-0.820322
+0.793369
+-0.872112
+0.769198
+-0.092541
+179
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+11
+-0.645874
+0.761268
+-0.597425
+0.832196
+-0.0892455
+180
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+9
+-0.878986
+0.681326
+-0.132492
+0.770546
+-0.160439
+181
+NC_025261.1
+Theileria orientalis strain Shintoku DNA  chromosome 2  complete genome
+150000
+10
+-0.688571
+0.56229
+0.831629
+0.171551
+-0.398892
+182
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+7
+-0.859192
+0.594123
+0.549667
+0.256145
+-0.508396
+183
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+1
+-0.768406
+0.584848
+0.476239
+0.389631
+-0.340836
+184
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+2
+-0.633814
+0.675334
+0.299967
+0.460599
+-0.327328
+185
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+3
+-0.821619
+0.698447
+0.12465
+0.467406
+-0.358195
+186
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+12
+-0.961942
+0.748649
+-0.111721
+0.542287
+-0.406765
+187
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+9
+-0.917791
+0.727996
+-0.13544
+0.579896
+-0.360879
+188
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+11
+-0.815337
+0.785276
+-0.213371
+0.581476
+-0.37247
+189
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+10
+-0.792507
+0.765473
+-0.396726
+0.679525
+-0.188433
+190
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+13
+-0.722142
+0.730176
+-0.584077
+0.87948
+-0.103999
+191
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+5
+-0.782925
+0.641179
+0.229756
+0.489109
+-0.263941
+192
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+4
+-0.651909
+0.798922
+-0.735015
+0.82831
+-0.108782
+193
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+8
+-0.655951
+0.741456
+-0.599056
+0.828009
+0.0131588
+194
+NC_025262.1
+Theileria orientalis strain Shintoku DNA  chromosome 3  complete genome
+150000
+6
+-0.573029
+0.544436
+0.799626
+0.296304
+-0.419387
+195
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+10
+-0.832566
+0.529451
+1.
+0.218854
+-0.518247
+196
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+6
+-0.722823
+0.541343
+0.78778
+0.321619
+-0.444313
+197
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+8
+-0.620684
+0.685145
+0.33996
+0.359544
+-0.435294
+198
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+3
+-0.747482
+0.617632
+0.219066
+0.544534
+-0.322456
+199
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+5
+-0.593318
+0.65411
+0.413784
+0.471101
+-0.394692
+200
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+2
+-0.819622
+0.732896
+0.0540062
+0.389744
+-0.39058
+201
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+9
+-0.864346
+0.751508
+-0.109323
+0.674534
+-0.309278
+202
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+12
+-0.872437
+0.818688
+-0.502779
+0.66347
+-0.334186
+203
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+11
+-0.843314
+0.792013
+-0.536995
+0.805793
+-0.250379
+204
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+1
+-0.874694
+0.828125
+-0.736715
+0.733687
+-0.17719
+205
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+4
+-0.754235
+0.778531
+-0.72781
+0.772529
+0.0133209
+206
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+13
+-0.576628
+0.8161
+-0.863232
+0.977865
+-0.10722
+207
+NC_025263.1
+Theileria orientalis strain Shintoku DNA  chromosome 4  complete genome
+150000
+7

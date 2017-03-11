@@ -1,0 +1,2117 @@
+58,87,17,36,13
+blue,green,red,cyan,orange
+5
+Index,Acc,Name,Length,Taxa
+blue,green,red,cyan,orange
+Land Plants (58),Green algae (87),Red algae (17),Stramenopile (36),Alveolata (13)
+Protists#ptDNA, complete genome#211 sequences#Approx.Inf.Dist.(k=9)#145,337
+0.1867286018561687
+0.6162574664951957
+0.590817200218863
+0.56789436314304
+0.34260869637104663
+0
+AB086179
+Anthoceros formosae chloroplast DNA, complete genome
+161162
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Anthocerotophyta; Anthocerotopsida; Anthocerotidae; Anthocerotales; Anthocerotaceae; Anthoceros
+-0.1828203260792446
+0.4290844928859693
+0.8568233820317499
+0.9969031406862797
+0.991430549702158
+1
+KP765733
+Nyholmiella obtusifolia chloroplast, complete genome
+122895
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryophytina; Bryopsida; Bryidae; Bryanae; Orthotrichales; Orthotrichaceae; Nyholmiella
+-0.06216062455913436
+0.40916125672289577
+0.8196344952026534
+0.7958860257432196
+0.810150229119246
+2
+KM111545
+Sanionia uncinata chloroplast, complete genome
+124374
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryophytina; Bryopsida; Bryidae; Hypnanae; Hypnales; Amblystegiaceae; Sanionia
+-0.16689675180711425
+0.4162660150817525
+0.8532280918831447
+1.0000000000000002
+1.0000000000000002
+3
+FJ546412
+Syntrichia ruralis chloroplast, complete genome
+122630
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryophytina; Bryopsida; Dicranidae; Pottiales; Pottiaceae; Syntrichia
+-0.1548392573580291
+0.4175512155902646
+0.8461252578931028
+0.9836816947315508
+0.9929188825246592
+4
+AP005672
+Physcomitrella patens chloroplast DNA, complete genome
+122890
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryophytina; Bryopsida; Funariidae; Funariales; Funariaceae; Physcomitrella
+-0.058241771907701176
+0.4415250029861374
+0.808755144310684
+0.9272306210338618
+0.9343397740504237
+5
+KJ817846
+Tetraphis pellucida chloroplast, complete genome
+127489
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Bryophyta; Bryophytina; Tetraphidopsida; Tetraphidales; Tetraphidaceae; Tetraphis
+0.049141320167170766
+0.43718907440051036
+0.6979543810321281
+0.5772285070676968
+0.8410342917136917
+6
+HM222519
+Ptilidium pulcherrimum chloroplast, complete genome
+119007
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Marchantiophyta; Jungermanniopsida; Jungermanniidae; Ptilidiales; Ptilidiaceae; Ptilidium
+0.23884080355739357
+0.28126745393882946
+0.3332949983762404
+0.17951438592097962
+0.9680761215613158
+7
+EU043314
+Aneura mirabilis chloroplast, complete genome
+108007
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Marchantiophyta; Jungermanniopsida; Metzgeriidae; Metzgeriales; Aneuraceae; Aneura
+0.14276363960013289
+0.4266360448639921
+0.5394437125690883
+0.47992959159841364
+0.7951540315608111
+8
+JX827163
+Pellia endiviifolia chloroplast, complete genome
+120546
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Marchantiophyta; Jungermanniopsida; Pelliidae; Pelliales; Pelliaceae; Apopellia
+-0.13141823422831783
+0.42858068539637134
+0.8530845694426886
+0.7509776740236227
+0.7279849034283438
+9
+NC_001319
+Marchantia polymorpha chloroplast, complete genome
+121024
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Marchantiophyta; Marchantiopsida; Marchantiidae; Marchantiales; Marchantiaceae; Marchantia
+0.3112092719182556
+0.48018740994958664
+0.3814453806467153
+0.39607882131385513
+0.6903062370082697
+10
+GU191333
+Isoetes flaccida chloroplast, complete genome
+145303
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Lycopodiidae; Isoetales; Isoetaceae; Isoetes
+0.23203418943410808
+0.5799776134797594
+0.4439034779085708
+0.4829207956784262
+0.572471989397842
+11
+AY660566
+Huperzia lucidula chloroplast, complete genome
+154373
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Lycopodiidae; Lycopodiales; Lycopodiaceae; Huperzia
+0.40267383861961337
+0.19836339606221368
+-0.3643828144488377
+-0.4189113013728015
+0.7472968834748779
+12
+FJ755183
+Selaginella moellendorffii plastid, complete genome
+143780
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Lycopodiidae; Selaginellales; Selaginellaceae; Selaginella
+0.025145235275081355
+0.5538656782289377
+0.594723000332398
+0.526770596745844
+0.5546973635946145
+13
+GU191334
+Equisetum arvense chloroplast, complete genome
+133309
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Equisetidae; Equisetales; Equisetaceae; Equisetum
+0.3078570437719219
+0.5481445296561938
+0.557109745552559
+0.5128165543108509
+0.6094251850941896
+14
+KP099647
+Angiopteris angustifolia plastid, complete genome
+153596
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Marattiidae; Marattiales; Marattiaceae; Angiopteris
+0.32797001463891945
+0.5283756768843249
+0.39607277672959623
+0.3840444376114839
+0.5071484036005854
+15
+JF343520
+Mankyua chejuensis chloroplast, complete genome
+146221
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Ophioglossidae; Ophioglossales; Ophioglossaceae; Mankyua
+0.27405619346710003
+0.4842468511430592
+0.540439497222943
+0.478705272404936
+0.5080513503182692
+16
+AP004638
+Psilotum nudum chloroplast DNA, complete genome
+138829
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Ophioglossidae; Psilotales; Psilotaceae; Psilotum
+0.4102059966729229
+0.4971686525708121
+0.13326376190716102
+0.20863376432687378
+0.6803267654942124
+17
+FJ556581
+Alsophila spinulosa chloroplast, complete genome
+156661
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Polypodiidae; Cyatheales; Cyatheaceae; Alsophila
+0.38909441605095074
+0.46471675462817913
+0.26361972698443686
+0.24731990242848964
+0.686990843879768
+18
+KF225594
+Diplopterygium glaucum chloroplast, complete genome
+151007
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Polypodiidae; Gleicheniales; Gleicheniaceae; Diplopterygium
+0.478717453547246
+0.3776999150398705
+0.3684144802557403
+0.3146764189025512
+0.9060657207850099
+19
+KF225592
+Osmundastrum cinnamomeum chloroplast, complete genome
+142812
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Polypodiidae; Osmundales; Osmundaceae; Osmundastrum
+0.3667707528293173
+0.5229226533195952
+0.015228977944544702
+0.0882406101439523
+0.668336908921784
+20
+HM535629
+Pteridium aquilinum subsp. aquilinum chloroplast, complete genome
+152362
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Polypodiidae; Polypodiales; Dennstaedtiaceae; Pteridium
+0.37921652707125875
+0.4758050086835495
+-0.0661699931529047
+-0.0007558497713490694
+0.6725989900140867
+21
+KT599101
+Woodwardia unigemmata chloroplast, complete genome
+153717
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Polypodiidae; Polypodiales; eupolypods II; Blechnaceae; Woodwardia
+0.33855547028470495
+0.5061983371779166
+0.021301290298847732
+0.053482052373513805
+0.598247183330483
+22
+AY178864
+Adiantum capillus-veneris chloroplast, complete genome
+150568
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Polypodiidae; Polypodiales; Pteridaceae; Adiantum
+0.4066092254404046
+0.49305639261531914
+0.028554644130562242
+0.07115826003221598
+0.7029320225430572
+23
+KC536646
+Marsilea crenata chloroplast, complete genome
+151628
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Moniliformopses; Polypodiidae; Salviniales; Marsileaceae; Marsilea
+0.5150935933613888
+0.47559042084024095
+0.30801195467140474
+0.23547290844945412
+0.5705636518769746
+24
+JX402774
+Bowenia serrulata chloroplast, complete genome
+165695
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Cycadidae; Cycadales; Cycadaceae; Bowenia
+0.636260483556191
+0.403329444609717
+0.4794762965952284
+0.15582373499445212
+0.5254643307492006
+25
+AP009339
+Cycas taitungensis chloroplast DNA, complete genome
+163403
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Cycadidae; Cycadales; Cycadaceae; Cycas
+0.6331321879228277
+0.4206087168204351
+0.42133115199103627
+0.14779496254494856
+0.46642798750521297
+26
+JX416857
+Zamia furfuracea chloroplast, complete genome
+164953
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Cycadidae; Cycadales; Zamiaceae; Zamia
+0.623731511338363
+0.3795112784450733
+0.5032234207798318
+0.14234760524733514
+0.563854348800236
+27
+AB684440
+Ginkgo biloba chloroplast DNA, complete genome
+156945
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Ginkgoidae; Ginkgoales; Ginkgoaceae; Ginkgo
+0.14267923650990819
+0.36464267257516636
+0.5260538454949893
+0.33362595958354857
+0.5094856774623906
+28
+NC_011954
+Ephedra equisetina chloroplast, complete genome
+109518
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Gnetidae; Ephedrales; Ephedraceae; Ephedra
+0.21008978338507917
+0.365822038422989
+0.4269781861732008
+0.24942473880437516
+0.568001554454688
+29
+KP099649
+Gnetum gnemon plastid, complete genome
+115022
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Gnetidae; Gnetales; Gnetaceae; Gnetum
+0.14591180564994177
+0.4109229917904131
+0.47372421685455707
+0.3726441183364075
+0.5853628069031747
+30
+AP009568
+Welwitschia mirabilis chloroplast DNA, complete genome
+118919
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Gnetidae; Welwitschiales; Welwitschiaceae; Welwitschia
+0.8725996295344598
+0.23316891254375036
+0.8377594648826396
+-0.46645977158285706
+-0.31687257037289246
+31
+NC_005086
+Amborella trichopoda chloroplast, complete genome
+162686
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; basal Magnoliophyta; Amborellales; Amborellaceae; Amborella
+0.8503292094113978
+0.2531885147381454
+0.7932290529441278
+-0.4520354204012451
+-0.2987416660787496
+32
+AJ627251
+Nymphaea alba chloroplast, complete genome
+159930
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; basal Magnoliophyta; Nymphaeales; Nymphaeaceae; Nymphaea
+0.8776367671373462
+0.2186368844351128
+0.8975333493832803
+-0.497968751529353
+-0.37744268427866157
+33
+AM712908
+Ceratophyllum demersum chloroplast, complete genome
+156177
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Ceratophyllales; Ceratophyllaceae; Ceratophyllum
+0.9385022760437716
+0.1907547773725662
+0.9001861277092087
+-0.5907004437249089
+-0.4361178322710432
+34
+KP256024
+Chloranthus japonicus voucher CJCP20141206 chloroplast, complete genome
+158640
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Chloranthales; Chloranthaceae; Chloranthus
+0.9401400752551224
+0.17607930272476371
+0.9634703077818421
+-0.5853095875992765
+-0.5188228206784513
+35
+EF380351
+Buxus microphylla chloroplast, complete genome
+159010
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Buxales; Buxaceae; Buxus
+0.8160030403592541
+0.24547687204379384
+0.8611606468660273
+-0.4164296463659368
+-0.3497833107077707
+36
+NC_001879
+Nicotiana tabacum plastid, complete genome
+155943
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; asterids; lamiids; Solanales; Solanaceae; Nicotianoideae; Nicotianeae; Nicotiana
+0.7351610495646831
+0.24173241033080312
+0.8845859504243507
+-0.3373896622665678
+-0.2609719065604114
+37
+KR230391
+Beta vulgaris subsp. vulgaris cultivar KWS2320 chloroplast, complete genome
+149722
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; Caryophyllales; Amaranthaceae; Betoideae; Beta
+0.7087929536681503
+0.2793201333314829
+0.8609567658620123
+-0.3046812705579475
+-0.2691507466732804
+38
+AP000423
+Arabidopsis thaliana chloroplast DNA, complete genome, ecotype: Columbia
+154478
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; rosids; malvids; Brassicales; Brassicaceae; Camelineae; Arabidopsis
+0.5743687134262823
+0.19398541177898923
+0.817970662276102
+-0.2093121675773605
+-0.038636567085132204
+39
+KT003925
+Viscum album voucher C2546 chloroplast, complete genome
+128921
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; Santalales; Viscaceae; Viscum
+0.7359989443317952
+0.27134180996875196
+0.835108493983069
+-0.3615845625417307
+-0.282310579836256
+40
+JX427551
+Sedum sarmentosum chloroplast, complete genome
+150448
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae; Pentapetalae; Saxifragales; Crassulaceae; Sedum
+0.9642167267054608
+0.1862219881067239
+0.9606859604825437
+-0.6095825675567598
+-0.5217571292111419
+41
+FJ754269
+Nelumbo lutea chloroplast, complete genome
+163206
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Proteales; Nelumbonaceae; Nelumbo
+0.8342273164706449
+0.23259314366672035
+0.8514323847280235
+-0.48607273266410617
+-0.3714463404337145
+42
+KJ956785
+Clematis terniflora chloroplast, complete genome
+159528
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Ranunculales; Ranunculaceae; Ranunculoideae; Anemoneae; Clematis
+0.9629010946410538
+0.1901575212796408
+0.9537388032382312
+-0.5983548751117386
+-0.5272372922344972
+43
+KC608752
+Tetracentron sinense chloroplast, complete genome
+164467
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons; Trochodendrales; Trochodendraceae; Tetracentron
+0.8515901043942707
+0.21878243573957462
+0.8579138025526686
+-0.47946079152935667
+-0.33347998445725596
+44
+EU273602
+Acorus americanus chloroplast, complete genome
+153819
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Acoraceae; Acorus
+0.9158236489968762
+0.1842478674114938
+1.0000000000000002
+-0.5825991627078665
+-0.49293740817386633
+45
+JX088663
+Calamus caryotoides plastid, complete genome
+157270
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Arecaceae; Calamoideae; Calameae; Calaminae; Calamus
+0.8157655768432072
+0.21886703486290443
+0.9601074950821284
+-0.42767846809158794
+-0.3988629883517964
+46
+KM088013
+Allium cepa chloroplast, complete genome
+153529
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Amaryllidaceae; Allioideae; Allieae; Allium
+0.6009583377819957
+0.2576898929662821
+0.8232153176305647
+-0.20065794575407922
+-0.12798100822585354
+47
+KJ566306
+Vanilla planifolia chloroplast, complete genome
+148011
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Asparagales; Orchidaceae; Vanilloideae; Vanilleae; Vanilla
+0.8147432218945142
+0.23967373107101414
+0.9200430598498922
+-0.4482073274406581
+-0.38878037766402457
+48
+KJ490011
+Dioscorea rotundata plastid, complete genome
+155406
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Dioscoreales; Dioscoreaceae; Dioscorea
+0.6548451076420352
+0.3218413375662525
+0.6357008571390099
+-0.20814210882258102
+-0.1468936010413119
+49
+JX978472
+Najas flexilis chloroplast, complete genome
+156366
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Hydrocharitaceae; Najas
+0.8312383325894629
+0.22316424758971698
+0.8828691187365788
+-0.4637819549005641
+-0.40211705619216814
+50
+KR534612
+Trillium decumbens plastid, complete genome
+158552
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Liliales; Melanthiaceae; Trillium
+-0.4913006693169039
+-0.7065255394675721
+0.0909671367742682
+-0.3282541758650884
+0.5007542613045831
+51
+KR902497
+Sciaphila densiflora chloroplast, complete genome
+21485
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Pandanales; Triuridaceae; Sciaphila
+0.6107904264258412
+0.2592237090939571
+0.6666403082478783
+-0.17079104831882516
+-0.054589684474573574
+52
+KM103368
+Oryza sativa cultivar IR8 chloroplast, complete genome
+134502
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BOP clade; Oryzoideae; Oryzeae; Oryzinae; Oryza
+0.6153429094351457
+0.2819761356496816
+0.673392477187768
+-0.17347738159985918
+-0.09972614786561151
+53
+EF115542
+Sorghum bicolor cultivar BTx623 chloroplast, complete genome
+140754
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACMAD clade; Panicoideae; Andropogonodae; Andropogoneae; Sorghinae; Sorghum
+0.889555438189117
+0.2125436179842148
+0.9710037101668938
+-0.5116176905088095
+-0.4886351668300156
+54
+KF601567
+Musa textilis plastid, complete genome
+161347
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Liliopsida; Zingiberales; Musaceae; Musa
+0.9999999999999998
+0.16502602507358516
+0.9304420129221206
+-0.6472047538214114
+-0.5113998409560465
+55
+JN227740
+Magnolia denudata isolate BJ006 chloroplast, complete genome
+160053
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Magnoliophyta; Magnoliidae; Magnoliales; Magnoliaceae; Magnolia
+0.29346763019105737
+0.3661561697843939
+0.3493914920545263
+0.24128786632303645
+0.6502888907009888
+56
+HF937082
+Picea abies chloroplast complete genome
+124084
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Pinidae; Pinales; Pinaceae; Picea
+0.2880174954087523
+0.3425500685378174
+0.38722559275042895
+0.24543282317924345
+0.6335875063402596
+57
+NC_001631
+Pinus thunbergii chloroplast, complete genome
+119707
+Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta; Spermatophyta; Pinidae; Pinales; Pinaceae; Pinus; Pinus
+0.25725487858178886
+0.9101685205208586
+-0.25214478026189346
+-0.14129591959630408
+-0.5359559949128042
+58
+KT625420
+Carteria cerasiformis culture-collection NIES:425 chloroplast, complete genome
+318967
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Carteria
+-0.15973368513661423
+0.8265313087882856
+0.37535706013066955
+0.05071604633580723
+-0.2100224340750367
+59
+KT625419
+Carteria sp. SAG 8-5 chloroplast, complete genome
+180596
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Carteria
+0.05594771948842839
+0.852666625185356
+-0.10671228006093916
+-0.13343591695989315
+-0.42796128124494864
+60
+GU196268
+Floydiella terrestris culture-collection UTEX:1709 chloroplast, complete genome
+521168
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chaetopeltidales; Chaetopeltidaceae; Floydiella
+-0.2176689238075482
+0.8291600321935884
+0.37577218264105
+0.09774253798735404
+-0.4044245202777557
+61
+DQ630521
+Stigeoclonium helveticum strain UTEX 441 chloroplast, complete genome
+223902
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chaetophorales; Chaetophorales incertae sedis; Stigeoclonium
+-0.3130927848688521
+0.8215061519871344
+0.46255535493318184
+0.08838996671525053
+-0.3940662379116893
+62
+HQ700713
+Schizomeris leibleinii culture-collection UTEX:LB 1228 chloroplast, complete genome
+182759
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chaetophorales; Schizomeridaceae; Schizomeris
+-0.13405096525122112
+0.8515246979026118
+0.10592795595353512
+-0.059140333598961696
+-0.3679343043706242
+63
+KT625418
+Characiochloris acuminata culture-collection SAG:31.95 chloroplast, complete genome
+197180
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Characiochloridaceae; Characiochloris
+-0.19008804226303747
+0.8976525492524585
+0.2089995333257194
+-0.00028075085485534165
+-0.43440559516122
+64
+FJ423446
+Chlamydomonas reinhardtii strain CC-503 cw92 mt+ chloroplast, complete genome
+204159
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Chlamydomonadaceae; Chlamydomonas
+0.033197890757552105
+0.9134631128693201
+0.042995340244263235
+0.009915553476662658
+-0.4483859373246828
+65
+KT625412
+Oogamochlamys gigantea culture-collection SAG:44.91 chloroplast, complete genome
+254077
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Chlamydomonadaceae; Oogamochlamys
+-0.29839850058136047
+0.7276994068351916
+0.39368284915674123
+0.0938987848474216
+0.0747498636718228
+66
+KM462869
+Ettlia pseudoalveolaris culture-collection UTEX:975 chloroplast, complete genome
+145947
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Chlamydomonadales incertae sedis; Ettlia
+-0.03465919041838698
+0.9396068296254839
+0.1892094578808418
+-0.03677129857870384
+-0.4635828169170912
+67
+GQ250046
+Dunaliella salina strain CCAP 19/18 chloroplast, complete genome
+269044
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Dunaliellaceae; Dunaliella
+0.06525433556845885
+0.9337410569750206
+0.025125112980820537
+-0.1506925044089295
+-0.4453460414937156
+68
+KT625415
+Hafniomonas laevis culture-collection NIES:257 chloroplast, complete genome
+263327
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Dunaliellaceae; Hafniomonas
+-0.1402460729128896
+0.9191758491172064
+0.26949572301839575
+0.07031074963464527
+-0.5228649658912884
+69
+KT625422
+Phacotus lenticularis culture-collection SAG:61-1 chloroplast, complete genome
+203369
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Phacotaceae; Phacotus
+-0.2372244766930909
+0.8703872307287156
+0.40679900116182816
+0.1736504769803216
+-0.47613118468668286
+70
+AP012494
+Gonium pectorale chloroplast DNA, complete genome, isolate: K3-F3-4
+222582
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Volvocaceae; Gonium
+0.04784389440054235
+1
+-0.07631673380642186
+-0.1291663954125248
+-0.6518286265178046
+71
+JX977846
+Pleodorina starrii plastid, complete genome
+269857
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Volvocaceae; Pleodorina
+0.09128646742301137
+0.9344320556411183
+-0.189852105902501
+-0.14789961522751088
+-0.6413691065149864
+72
+GU084820
+Volvox carteri f. nagariensis strain UTEX 2908 plastid, partial genome
+461064
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Chlamydomonadales; Volvocaceae; Volvox
+-0.04337639975495835
+0.8869306497325715
+0.29587021196053165
+0.16054130477870374
+-0.4806111440603336
+73
+KT625414
+Jenufa minuta culture-collection CAUP:H 8102 chloroplast, complete genome
+206680
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Jenufa
+-0.2654580544831568
+0.773143687259711
+0.486903869049386
+0.20410773042586097
+-0.4064746325271136
+74
+KT625413
+Jenufa perforata culture-collection CAUP:H 8101 chloroplast, complete genome
+198040
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Jenufa
+-0.13599880529945352
+0.8505647576619351
+0.36283655163793804
+0.03422997615096087
+-0.2762227758462324
+75
+EU677193
+Oedogonium cardiacum strain SAG 575-1b chloroplast, complete genome
+196547
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Oedogoniales; Oedogonium
+0.011344801213180745
+0.8683624415887811
+0.16118166333079453
+-0.06549025510212411
+-0.3426156554279926
+76
+KT625421
+Bracteacoccus giganteus culture-collection UTEX:1251 chloroplast, complete genome
+242897
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Sphaeropleales; Bracteacoccaceae; Bracteacoccus
+-0.2470884824930433
+0.6432219454404959
+0.06675862183564467
+-0.378749679000291
+0.04037715201392972
+77
+KT625411
+Mychonastes jurisii culture-collection SAG:37.98 chloroplast, complete genome
+103047
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Sphaeropleales; Mychonastaceae; Mychonastes
+-0.39621131438873275
+0.6550510065533314
+0.521907642643524
+0.0076463688902802685
+0.005013210061727416
+78
+DQ396875
+Scenedesmus obliquus strain UTEX 393 chloroplast, complete genome
+161452
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Sphaeropleales; Scenedesmaceae; Acutodesmus
+-0.2657785131658403
+0.7641661264508647
+0.5819457374493647
+0.20448858221121904
+-0.20398402956148548
+79
+KT625410
+Treubaria triappendiculata culture-collection SAG:38.83 chloroplast, complete genome
+179588
+Eukaryota; Viridiplantae; Chlorophyta; Chlorophyceae; Treubariaceae; Treubaria
+-0.427582535412376
+0.6198877139216866
+0.640494595805212
+0.3502824818040916
+0.30658273748248
+80
+KM462883
+Geminella minor culture-collection SAG:22.88 chloroplast, complete genome
+129187
+Eukaryota; Viridiplantae; Chlorophyta; Geminella
+-0.15586427159915558
+0.7240817719898732
+0.054630630830548116
+-0.24499212202104786
+-0.09169995813242073
+81
+DQ291132
+Oltmannsiellopsis viridis chloroplast, complete genome
+151933
+Eukaryota; Viridiplantae; Chlorophyta; Oltmannsiellopsis
+-0.10021196847513579
+0.4375288034336779
+0.14463108325977872
+-0.31873811831848614
+0.5624187539910911
+82
+KM462870
+Marsupiomonas sp. NIES 1824 chloroplast, complete genome
+94262
+Eukaryota; Viridiplantae; Chlorophyta; Pedinophyceae; Marsupiomonadales; Marsupiomonadaceae; Marsupiomonas
+-0.43236353049816584
+0.5792086898023108
+0.37757599934944747
+-0.14333563594911725
+0.329601727913035
+83
+FJ968740
+Pedinomonas minor culture-collection UTEX:LB 1350 chloroplast, complete genome
+98340
+Eukaryota; Viridiplantae; Chlorophyta; Pedinophyceae; Pedinomonadales; Pedinomonadaceae; Pedinomonas
+-0.269125839951572
+0.6742169485471665
+0.37550960330946476
+-0.0916781183008124
+0.31261264317434745
+84
+KM462867
+Pedinomonas tuberculata culture-collection SAG:42.84 chloroplast, complete genome
+126694
+Eukaryota; Viridiplantae; Chlorophyta; Pedinophyceae; Pedinomonadales; Pedinomonadaceae; Pedinomonas
+-0.5546219596086286
+0.2793969106487773
+0.309504627639511
+-0.34078190814825976
+0.20629799643982494
+85
+KJ746601
+Prasinophyceae sp. CCMP1205 chloroplast, complete genome
+64335
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes
+-0.4413381917541966
+0.3426870112632556
+0.24497274981104317
+-0.3936467012220555
+0.14815612386738133
+86
+KJ746602
+Prasinophyceae sp. MBIC10622 chloroplast, complete genome
+72423
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes
+-0.4336980076983005
+0.055864091148859596
+0.06673601273300206
+-0.5860143529444645
+0.4113707495112996
+87
+NC_024811
+Bathycoccus prasinos chloroplast, complete genome
+72700
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Mamiellophyceae; Mamiellales; Bathycoccaceae; Bathycoccus
+-0.3880313562053155
+0.30042629753908395
+0.13303552121456697
+-0.5417184554813594
+0.48340452755240626
+88
+CR954199
+Ostreococcus tauri chloroplast, complete genome
+71666
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Mamiellophyceae; Mamiellales; Bathycoccaceae; Ostreococcus
+-0.42601116606137585
+0.32444163038047596
+0.25358642555126565
+-0.4273745046512111
+0.3437129394363629
+89
+FJ858267
+Micromonas sp. RCC299 chloroplast, complete genome
+72585
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Mamiellophyceae; Mamiellales; Mamiellaceae; Micromonas
+-0.27839658799152606
+0.5254948103836211
+0.21443435448255996
+-0.20332778080784208
+0.031188232899614372
+90
+FJ493497
+Monomastix sp. OKE-1 chloroplast, complete genome
+114528
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Mamiellophyceae; Monomastigales; Monomastigaceae; Monomastix
+0.05523067562407778
+0.642413469558254
+0.09308916277108452
+-0.03079827799826274
+0.24511754071431857
+91
+KJ746600
+Nephroselmis astigmatica culture-collection NIES:252 chloroplast, complete genome
+125042
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Nephroselmidophyceae; Nephroselmis
+0.2842880225352483
+0.7778492692322265
+-0.19821383318844707
+-0.21216518868031004
+-0.12520514470999405
+92
+AF137379
+Nephroselmis olivacea chloroplast DNA, complete genome
+200799
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Nephroselmidophyceae; Nephroselmis
+-0.506769436575237
+0.43320060426918583
+0.49047711928425436
+-0.15477618878769964
+0.05218378045527777
+93
+KJ746597
+Prasinococcus sp. CCMP1194 chloroplast, complete genome
+85590
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Prasinococcales; Prasinococcus
+-0.5326379358339975
+0.3908912356207851
+0.4766497491726313
+-0.30564621442670004
+0.08763444531263966
+94
+KJ746598
+Prasinoderma coloniale culture-collection CCMP:1220 chloroplast, complete genome
+77750
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Prasinococcales; Prasinoderma
+-0.37173309166355484
+0.4507068538162349
+0.4142500117967478
+-0.14439875952881848
+0.3994646997160135
+95
+KJ746599
+Picocystis salinarum culture-collection CCMP:1897 chloroplast, complete genome
+81133
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; prasinophyte clade VII; Picocystis
+-0.341246228362291
+0.4116830505826588
+0.12402234958354727
+-0.4216627314251902
+0.24448440207293945
+96
+FJ493498
+Pycnococcus provasolii chloroplast, complete genome
+80211
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Pycnococcaceae; Pycnococcus
+-0.3154472395360069
+0.579323881388304
+0.5160036338797946
+0.15898847179266273
+0.2810508989489469
+97
+FJ493499
+Pyramimonas parkeae chloroplast, complete genome
+101605
+Eukaryota; Viridiplantae; Chlorophyta; prasinophytes; Pyramimonadales; Pyramimonas
+0.10561281287202004
+0.67369401100986
+-0.2194296279849018
+-0.1342076320929291
+-0.18958347390175603
+98
+KM462884
+Botryococcus braunii culture-collection SAG:807-1 chloroplast, complete genome
+172826
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Botryococcaceae; Botryococcus
+-0.24350603081585648
+0.8168103131939256
+0.3807536298699198
+0.1626047532505465
+-0.09460827257534367
+99
+KM462865
+'Chlorella' mirabilis culture-collection SAG:38.88 chloroplast, complete genome
+167972
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; unclassified Trebouxiophyceae
+-0.5605388639146601
+0.3327590804559064
+0.6347470448708982
+0.10849028184203108
+-0.08749607332464995
+100
+KC843975
+Auxenochlorella protothecoides chloroplast, complete genome
+84580
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales; Chlorellaceae; Auxenochlorella
+-0.28026772837230957
+0.6832996074675767
+0.2333302352161314
+-0.16657979968008244
+0.039761740794011936
+101
+KJ718922
+Chlorella variabilis isolate NC64A chloroplast, complete genome
+124793
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales; Chlorellaceae; Chlorella
+-0.24281936505271384
+0.7155445923523219
+0.24970111240491355
+-0.0756352654485505
+-0.08695078814418539
+102
+NC_001865
+Chlorella vulgaris chloroplast, complete genome
+150613
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales; Chlorellaceae; Chlorella
+-0.3565625793081505
+0.7213998057348154
+0.5310544421129558
+0.09825184794002764
+-0.145835561599025
+103
+KM462871
+Lobosphaera incisa culture-collection SAG:2007 chloroplast, complete genome
+156031
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales; Chlorellaceae; Lobosphaera
+-0.23758460119256633
+0.5949323758042675
+0.08744460420410068
+-0.29957856277303707
+0.11100476193387047
+104
+KM462888
+Marvania geminata culture-collection SAG:12.88 chloroplast, complete genome
+108470
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales; Chlorellaceae; Marvania
+-0.6618228939220984
+-0.0534765020564794
+0.5720690179307162
+0.15800297969337854
+-0.11949073915911576
+105
+KJ001761
+Prototheca wickerhamii strain SAG 263-11 plastid, complete genome
+55636
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales; Chlorellaceae; Prototheca
+-0.4325431512702862
+0.6137728819623915
+0.607878404671215
+0.14311943818852432
+0.19361796152683078
+106
+FJ968741
+Parachlorella kessleri culture-collection SAG:211-11g chloroplast, complete genome
+123994
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales; Chlorellales incertae sedis; Parachlorella
+-0.8189839999306279
+-0.42538808793513716
+0.5354653909240163
+0.1638522510701039
+-0.36511750255608144
+107
+DQ398104
+Helicosporidium sp. ex Simulium jonesii plastid, complete genome
+37454
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Chlorellales; Helicosporidium
+-0.17601492947307795
+0.35552515178687566
+-0.29641277020827345
+-0.7890724000686457
+0.32249512861986235
+108
+KM462878
+Choricystis parasitica culture-collection SAG:17.98 chloroplast, complete genome
+94206
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Choricystis
+0.27467614463310236
+0.49145809391927886
+-0.7353002159450058
+-0.5193763404305162
+0.013226738138133654
+109
+HQ693844
+Coccomyxa sp. C-169 plastid, complete genome
+175731
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Coccomyxaceae; Coccomyxa
+-0.2794090337767318
+0.8309985461310346
+0.4230120208985165
+0.20317051909321338
+-0.6044098490879191
+110
+EF506945
+Leptosira terrestris UTEX 333 chloroplast, complete genome
+195081
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Ctenocladales; Ctenocladaceae; Leptosira
+-0.2422552468958635
+0.8237701813625703
+0.49478006828927124
+0.15305339584835678
+-0.09775603933420207
+111
+KM462885
+Dicloster acuatus culture-collection SAG:41.98 chloroplast, complete genome
+169201
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Dicloster
+0.11372553041437643
+0.9287184595943755
+-0.029957641901966453
+-0.04695542240686749
+-0.5384378605349305
+112
+KM462860
+Symbiochloris handae culture-collection SAG:2150 chloroplast, complete genome
+289394
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Microthamniales; Symbiochloris
+0.10782115733636335
+0.3819375345012853
+-0.3745916683535749
+-0.4374882800109351
+0.3929148921074945
+113
+KM462887
+Elliptochloris bilobata culture-collection CAUP:H7103 chloroplast, complete genome
+134677
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Microthamniales; Elliptochloris
+-0.2410629559676227
+0.7374350686629056
+0.17970447930596747
+0.0019391328544887806
+-0.21770484593917563
+114
+KM462882
+Fusochloris perforata culture-collection SAG:28.85 chloroplast, complete genome
+148459
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Microthamniales; Fusochloris
+-0.108791859127228
+0.9012458556293688
+0.2959990201697572
+0.1861744572101656
+-0.28950027345523405
+115
+KM462868
+Koliella longiseta culture-collection UTEX:339 chloroplast, complete genome
+197094
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Microthamniales; Koliella
+-0.2147818892863471
+0.7204217440955376
+0.16062146100764063
+0.045538128631255365
+-0.23440051170927842
+116
+KM462876
+Microthamnion kuetzingianum culture-collection UTEX:318 chloroplast, complete genome
+158609
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Microthamniales; Microthamnion
+-0.3653685057392867
+0.5954447345323589
+0.3987687814433579
+-0.07420881497118316
+-0.11556388916495303
+117
+KM462864
+Stichococcus bacillaris culture-collection UTEX:176 chloroplast, complete genome
+116952
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Microthamniales; Stichococcus
+-0.28374263516696135
+0.682095894388289
+0.4176024738790398
+0.13176697951114122
+-0.1187917769485091
+118
+KM462861
+Myrmecia israelensis culture-collection UTEX:1181 chloroplast, complete genome
+146596
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Myrmecia
+-0.1602224557712101
+0.8527996383681586
+0.3771358940677966
+0.0948370081678566
+-0.3074753337862493
+119
+KM462873
+Neocystis brevis culture-collection CAUP:D802 chloroplast, complete genome
+211747
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Neocystis
+0.2259936659566356
+0.5507973152623237
+-0.6120475421697176
+-0.43570341807493773
+-0.05686278368313679
+120
+KM462879
+Paradoxia multiseta culture-collection SAG:18.84 chloroplast, complete genome
+183394
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Paradoxia
+-0.3518858615500645
+0.6050226616975386
+0.5645018454969253
+0.20391234970938613
+0.24112622310257345
+121
+KM462880
+Planctonema lauterbornii culture-collection SAG:68.94 chloroplast, complete genome
+114128
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Planctonema
+-0.00882293165164193
+0.9038573319864357
+0.009925862402767067
+-0.05240145456875069
+-0.5313462146807283
+122
+KM462862
+Prasiolopsis sp. SAG 84.81 chloroplast, complete genome
+306152
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Prasiolales; Prasiolaceae; Prasiolopsis
+-0.07766028313603145
+0.9336457710866624
+0.2591230886791205
+0.1539710358349544
+-0.3029991072354479
+123
+KM462866
+Pabia signiensis culture-collection SAG:7.90 chloroplast, complete genome
+236463
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Prasiolales; Prasiolales incertae sedis; Pabia
+-0.2857215918179885
+0.5877761633132209
+0.3655725649386576
+-0.15079047368521992
+0.20086128269850054
+124
+KM462886
+Pseudochloris wilhelmii culture-collection SAG:1.80 chloroplast, complete genome
+109775
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Pseudochloris
+0.3061208386205151
+0.09367742162840226
+-1
+-0.7983724730317378
+0.3982520218608373
+125
+JX402620
+Trebouxiophyceae sp. MX-AZ01 chloroplast, complete genome
+149707
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; unclassified Trebouxiophyceae
+0.02152252699658567
+0.7725678140480992
+-0.11768339375939585
+-0.13869273395770668
+-0.3616541716002903
+126
+KM462863
+Watanabea reniformis culture-collection SAG:211-9b chloroplast, complete genome
+201425
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Watanabea
+0.11368489975772818
+0.7104707355283854
+-0.20686392329602055
+-0.19720805346524245
+-0.028773871699253
+127
+KM462872
+Xylochloris irregularis culture-collection CAUP:H7801 chloroplast, complete genome
+181542
+Eukaryota; Viridiplantae; Chlorophyta; Trebouxiophyceae; Trebouxiophyceae incertae sedis; Xylochloris
+-0.21039206775842464
+0.664523541242986
+0.37403500156632574
+-0.05374908250660131
+-0.23957702638423234
+128
+GQ892829
+Bryopsis hypnoides chloroplast, complete genome
+153429
+Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae; Bryopsidales; Bryopsidaceae; Bryopsis
+-0.3887344112957551
+0.5118213127152956
+0.5222126265088269
+-0.001062400916014356
+-0.172087107659573
+129
+LN810504
+Bryopsis plumosa chloroplast complete genome, strain West4718
+106859
+Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae; Bryopsidales; Bryopsidaceae; Bryopsis
+-0.30821435475537323
+0.5036325839093437
+0.41343905787719065
+-0.07179556411064264
+-0.06096707258407233
+130
+LN810505
+Tydemania expeditionis chloroplast complete genome, strain FL1151
+105200
+Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae; Bryopsidales; Udoteaceae; Tydemania
+-0.3722866736694753
+0.6315238660466727
+0.5951993348220392
+0.34587831096177984
+0.2549462997283781
+131
+KM462877
+Gloeotilopsis sterilis culture-collection UTEX:1704 chloroplast, complete genome
+132626
+Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae; Ulotrichales; Gloeotilopsis
+-0.12497459316703119
+0.8095514762320062
+0.23247859830925324
+-0.04227937784859559
+-0.15549164290776862
+132
+AY835431
+Pseudendoclonium akinetum chloroplast, complete genome
+195867
+Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae; Ulvales; Pseudendoclonium
+-0.6269795426212044
+0.3618689108182686
+0.7167044011913716
+0.04456332346436794
+-0.1250111624987833
+133
+KP720616
+Ulva sp. UNA00071828 chloroplast, complete genome
+99983
+Eukaryota; Viridiplantae; Chlorophyta; Ulvophyceae; Ulvales; Ulvaceae; Ulva
+-0.0900975060908404
+0.6753872831339233
+0.7088601725113085
+0.5516806569853918
+-0.10160061140793222
+134
+DQ229107
+Chara vulgaris chloroplast, complete genome
+184933
+Eukaryota; Viridiplantae; Streptophyta; Charophyceae; Charales; Characeae; Chara
+-0.03295386708534949
+0.764080607496575
+0.25793422271814487
+0.19273882638522472
+-0.10374446084080965
+135
+DQ422812
+Chlorokybus atmophyticus chloroplast, complete genome
+152254
+Eukaryota; Viridiplantae; Streptophyta; Chlorokybophyceae; Chlorokybales; Chlorokybaceae; Chlorokybus
+-0.208709336535672
+0.5992240964980456
+0.68078987303971
+0.48393624559902687
+0.2605174445160015
+136
+AF494278
+Chaetosphaeridium globosum chloroplast, complete genome
+131183
+Eukaryota; Viridiplantae; Streptophyta; Coleochaetophyceae; Coleochaetales; Chaetosphaeridiaceae; Chaetosphaeridium
+-0.2944115942983857
+0.7374863891237134
+0.45482377668801255
+0.33205864818696323
+0.12520809016617795
+137
+KM462881
+Interfilum terricola culture-collection SAG:20.91 chloroplast, complete genome
+187843
+Eukaryota; Viridiplantae; Streptophyta; Klebsormidiophyceae; Klebsormidiales; Klebsormidiaceae; Interfilum
+0.24001148076831177
+0.6591549999714184
+-0.2306244855517609
+-0.08055950253788526
+-0.1879570273899073
+138
+KJ461680
+Klebsormidium flaccidum culture-collection SAG:121.8 chloroplast, complete genome
+176832
+Eukaryota; Viridiplantae; Streptophyta; Klebsormidiophyceae; Klebsormidiales; Klebsormidiaceae; Klebsormidium
+-0.46936546131648804
+0.4736147461023089
+0.6064023954795488
+0.3942640335310451
+0.04052111386144484
+139
+KM462874
+Koliella corcontica culture-collection SAG:24.84 chloroplast, complete genome
+117543
+Eukaryota; Viridiplantae; Streptophyta; Klebsormidiophyceae; Klebsormidiales; Klebsormidiaceae; Koliella
+-0.3193983880913451
+0.6157690430399431
+0.7295864981110367
+0.4007432983468409
+0.04756327697227453
+140
+AF166114
+Mesostigma viride chloroplast DNA, complete genome
+118360
+Eukaryota; Viridiplantae; Streptophyta; Mesostigmatophyceae; Mesostigmatales; Mesostigmataceae; Mesostigma
+-0.05607995737445257
+0.738539648717048
+0.4253841365033698
+0.29962848634974526
+-0.15095386372991032
+141
+AY958085
+Staurastrum punctulatum chloroplast, complete genome
+157089
+Eukaryota; Viridiplantae; Streptophyta; Zygnemophyceae; Desmidiales; Desmidiaceae; Staurastrum
+0.10882115759907797
+0.6263253400081749
+-0.1563559906766523
+0.05049486691638552
+-0.2769329316922707
+142
+KJ461682
+Mesotaenium endlicherianum culture-collection SAG:12.97 chloroplast, complete genome
+142017
+Eukaryota; Viridiplantae; Streptophyta; Zygnemophyceae; Zygnematales; Mesotaeniaceae; Mesotaenium
+-0.04113223703423728
+0.6649479608090517
+0.542382935632676
+0.47311449357246016
+0.07620135503050834
+143
+KJ461681
+Roya anglica culture-collection ACOI:799 chloroplast, complete genome
+138275
+Eukaryota; Viridiplantae; Streptophyta; Zygnemophyceae; Zygnematales; Mesotaeniaceae; Roya
+-0.1108278128199762
+0.7938235425325658
+0.41231618007516896
+0.2411885563346984
+-0.439660488975449
+144
+AY958086
+Zygnema circumcarinatum chloroplast, complete genome
+165372
+Eukaryota; Viridiplantae; Streptophyta; Zygnemophyceae; Zygnematales; Zygnemataceae; Zygnema
+-0.06024444177086484
+0.965601293972098
+0.2984751168643574
+0.1270637128721694
+-0.7337701651977332
+145
+KP714733
+Bangia fuscopurpurea OUCPT01 chloroplast, complete genome
+196913
+Eukaryota; Rhodophyta; Bangiophyceae; Bangiales; Bangiaceae; Bangia
+-0.08969684975294535
+0.9433820754646179
+0.35042513298469474
+0.15403212971473232
+-0.7117167357426951
+146
+NC_000925
+Porphyra purpurea chloroplast, complete genome
+191028
+Eukaryota; Rhodophyta; Bangiophyceae; Bangiales; Bangiaceae; Porphyra
+-0.08663766345348191
+0.9626382307776721
+0.3231749396998996
+0.1573971903914873
+-0.7736612893568031
+147
+KC904971
+Pyropia perforata plastid, complete genome
+189789
+Eukaryota; Rhodophyta; Bangiophyceae; Bangiales; Bangiaceae; Pyropia
+-0.0851638820298824
+0.9463657187054699
+0.3333246638806528
+0.1693315358245155
+-0.7421020306332574
+148
+AP006715
+Porphyra yezoensis chloroplast DNA, complete genome
+191952
+Eukaryota; Rhodophyta; Bangiophyceae; Bangiales; Bangiaceae; Pyropia
+-0.09226141479076953
+0.8130496603036294
+0.152168692581509
+-0.14050815560671193
+-0.40279769530571313
+149
+AB002583
+Cyanidioschyzon merolae chloroplast DNA, complete genome, strain: 10D
+149987
+Eukaryota; Rhodophyta; Bangiophyceae; Cyanidiales; Cyanidiaceae; Cyanidioschyzon
+-0.10662166348269672
+0.8222567302358145
+0.36286582019400165
+0.18951983214113854
+-0.6980530935036284
+150
+AF022186
+Cyanidium caldarium strain RK1 chloroplast, complete genome
+164921
+Eukaryota; Rhodophyta; Bangiophyceae; Cyanidiales; Cyanidiaceae; Cyanidium
+-0.26751174269547673
+0.8310988867682467
+0.683407820637747
+0.22153387219675244
+-0.47945491168804555
+151
+KJ700459
+Galdieria sulphuraria strain 074W plastid, complete genome
+167741
+Eukaryota; Rhodophyta; Bangiophyceae; Cyanidiales; Cyanidiaceae; Galdieria
+-0.11883519102310627
+0.8047927933465647
+0.18662277680936035
+-0.19542116460084447
+-0.3473955904290334
+152
+KJ569775
+Cyanidiaceae sp. MX-AZ01 chloroplast, complete genome
+145533
+Eukaryota; Rhodophyta; Bangiophyceae; Cyanidiales; Cyanidiaceae; unclassified Cyanidiaceae
+-0.07349731625077668
+0.9712700170552452
+0.40553421382938204
+0.1293026131066315
+-0.6217043255566204
+153
+NC_023133
+Porphyridium purpureum chloroplast, complete genome
+217694
+Eukaryota; Rhodophyta; Bangiophyceae; Porphyridiales; Porphyridiaceae; Porphyridium
+-0.24085683377585337
+0.8696106094380319
+0.5841967273724316
+0.26477342288044964
+-0.7537491002931425
+154
+KP308097
+Vertebrata lanosa plastid, complete genome
+167158
+Eukaryota; Rhodophyta; Florideophyceae; Ceramiales; Rhodomelaceae; Vertebrata
+-0.25095406186634656
+0.8917211597845343
+0.6397246037649488
+0.26090238500712426
+-0.7519864383369717
+155
+KC153978
+Calliarthron tuberculosum chloroplast, complete genome
+178981
+Eukaryota; Rhodophyta; Florideophyceae; Corallinophycidae; Corallinales; Corallinaceae; Corallinoideae; Calliarthron
+-0.7831270486710395
+0.11289076912526647
+0.9628827821136398
+0.40663499833581035
+-0.5809542662460875
+156
+KP308096
+Choreocolax polysiphoniae plastid, complete genome
+90243
+Eukaryota; Rhodophyta; Florideophyceae; Gigartinales; Choreocolacaceae; Choreocolax
+-0.2689569670824442
+0.8995274958820808
+0.6598165734895794
+0.27349713111389273
+-0.7903023366430703
+157
+HF562234
+Chondrus crispus plastid complete genome, strain PCG
+180086
+Eukaryota; Rhodophyta; Florideophyceae; Gigartinales; Gigartinaceae; Chondrus
+-0.24997200636138697
+0.8938195555413107
+0.6419625597784074
+0.3146752590218309
+-0.8402721142657833
+158
+KF861575
+Gracilaria salicornia chloroplast, complete genome
+179757
+Eukaryota; Rhodophyta; Florideophyceae; Gracilariales; Gracilariaceae; Gracilaria
+-0.20684862938645482
+0.8968401077859283
+0.612926151590885
+0.291484606705887
+-0.8415089652867593
+159
+AY673996
+Gracilaria tenuistipitata var. liui chloroplast, complete genome
+183883
+Eukaryota; Rhodophyta; Florideophyceae; Gracilariales; Gracilariaceae; Gracilaria
+-0.30055984458640816
+0.872929745937023
+0.7090491396468382
+0.3261269656210768
+-0.8121253238018088
+160
+KP330491
+Gracilariopsis lemaneiformis chloroplast, complete genome
+183013
+Eukaryota; Rhodophyta; Florideophyceae; Gracilariales; Gracilariaceae; Gracilariopsis
+-0.13436180946470092
+0.9234005390687476
+0.5156713600715578
+0.23594560145033844
+-0.7905986428129993
+161
+KC894740
+Grateloupia taiwanensis plastid, complete genome
+191270
+Eukaryota; Rhodophyta; Florideophyceae; Halymeniales; Halymeniaceae; Grateloupia
+-0.3080130542507556
+0.9391531638450338
+0.6663417297874416
+-0.6028409483641264
+0.13794005499904774
+162
+KC509522
+Cylindrotheca closterium chloroplast, complete genome
+165809
+Eukaryota; Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Bacillariales; Bacillariaceae; Cylindrotheca
+-0.4958563555905297
+0.7255277783969449
+0.768585539674939
+-0.6059833278993472
+0.14247324563310781
+163
+KR709240
+Pseudo-nitzschia multiseries chloroplast, complete genome
+111539
+Eukaryota; Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Bacillariales; Bacillariaceae; Pseudo-nitzschia
+-0.4854827103077553
+0.79301631543161
+0.7805466723595993
+-0.7309624539911409
+0.37944842342119
+164
+KC509523
+Didymosphenia geminata chloroplast, complete genome
+117972
+Eukaryota; Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Cymbellales; Gomphonemataceae; Didymosphenia
+-0.4001625929577347
+0.8658577235466494
+0.6829513743896333
+-0.7027909830772647
+0.267999231895068
+165
+AP011960
+Fistulifera solaris chloroplast DNA, complete genome
+134918
+Eukaryota; Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Naviculales; Naviculaceae; Fistulifera
+-0.47311406121720284
+0.8029256386599141
+0.7167535453810219
+-0.8559149406007744
+0.42169909506251313
+166
+EF067920
+Phaeodactylum tricornutum chloroplast, complete genome
+117369
+Eukaryota; Stramenopiles; Bacillariophyta; Bacillariophyceae; Bacillariophycidae; Naviculales; Phaeodactylaceae; Phaeodactylum
+-0.459360292919231
+0.9143666086013651
+0.8654390106779194
+-0.6898329078606623
+0.352340635763666
+167
+KF733443
+Eunotia naegelii chloroplast, complete genome
+152906
+Eukaryota; Stramenopiles; Bacillariophyta; Bacillariophyceae; Eunotiophycidae; Eunotiales; Eunotiaceae; Eunotia
+-0.5616213607867894
+0.8292940730503369
+0.8095742272424922
+-0.95782328954397
+0.5056421037824945
+168
+KJ958479
+Chaetoceros simplex chloroplast, complete genome
+116459
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Chaetocerotophycidae; Chaetocerotales; Chaetocerotaceae; Chaetoceros
+-0.45852439031441267
+0.834407114283991
+0.7258220943256183
+-0.7115810592011443
+0.2688566535767344
+169
+KC509524
+Leptocylindrus danicus chloroplast, complete genome
+125213
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Chaetocerotophycidae; Leptocylindrales; Leptocylindraceae; Leptocylindrus
+-0.4951162615170278
+0.7944242359604443
+0.8536609820816682
+-0.7133819202207422
+0.3886219038015494
+170
+KC509521
+Coscinodiscus radiatus chloroplast, complete genome
+122213
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Coscinodiscophycidae; Coscinodiscales; Coscinodiscaceae; Coscinodiscus
+-0.4538481293857771
+0.797153491933602
+0.7496306310230066
+-0.7162657271901487
+0.3501346938342282
+171
+KJ958482
+Rhizosolenia imbricata chloroplast, complete genome
+120956
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Rhizosoleniophycidae; Rhizosoleniales; Rhizosoleniaceae; Rhizosolenia
+-0.5307425052484027
+0.8900247390106754
+0.9422882198858754
+-0.9814952529827483
+0.5471111275074984
+172
+KJ958480
+Cyclotella sp. L04_2 chloroplast, complete genome
+129400
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Thalassiosirophycidae; Thalassiosirales; Stephanodiscaceae; Cyclotella
+-0.5399765554015116
+0.893967540185437
+0.9431537189198127
+-1
+0.554059469552551
+173
+KJ958481
+Cyclotella sp. WC03_2 chloroplast, complete genome
+129498
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Thalassiosirophycidae; Thalassiosirales; Stephanodiscaceae; Cyclotella
+-0.5113655394339925
+0.8779151588885682
+0.8240194264004839
+-0.8670835485885593
+0.3877450649265638
+174
+KJ958483
+Roundia cardiophora chloroplast, complete genome
+126871
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Roundia
+-0.45488350623427415
+0.9136738241297655
+0.805545354273691
+-0.8117412122533655
+0.31570880044819316
+175
+GU323224
+Thalassiosira oceanica CCMP1005 chloroplast, complete genome
+141790
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Thalassiosira
+-0.539514074443858
+0.8934078283455115
+0.8700035562095902
+-0.986021859854862
+0.48171679782938376
+176
+EF067921
+Thalassiosira pseudonana chloroplast, complete genome
+128814
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Thalassiosira
+-0.5332021472807574
+0.8840529793690259
+0.8642697959308491
+-0.990481361122507
+0.4953438695692919
+177
+KJ958485
+Thalassiosira weissflogii chloroplast, complete genome
+127601
+Eukaryota; Stramenopiles; Bacillariophyta; Coscinodiscophyceae; Thalassiosirophycidae; Thalassiosirales; Thalassiosiraceae; Thalassiosira
+-0.5179854794025861
+0.8147828618854484
+0.829931853759305
+-0.7061921866483265
+0.331227624236412
+178
+KC509519
+Asterionella formosa chloroplast, complete genome
+121238
+Eukaryota; Stramenopiles; Bacillariophyta; Fragilariophyceae; Fragilariophycidae; Fragilariales; Fragilariaceae; Asterionella
+-0.3750398206073932
+0.9155425182206112
+0.7240091375061254
+-0.71282358831843
+0.26896288992591016
+179
+KC509520
+Asterionellopsis glacialis chloroplast, complete genome
+146024
+Eukaryota; Stramenopiles; Bacillariophyta; Fragilariophyceae; Fragilariophycidae; Fragilariales; Fragilariaceae; Asterionellopsis
+-0.536082218952606
+0.7800327206971419
+0.8807900419745709
+-0.6085925329739987
+0.3417086928156087
+180
+JQ088178
+Synedra acus chloroplast, complete genome
+116251
+Eukaryota; Stramenopiles; Bacillariophyta; Fragilariophyceae; Fragilariophycidae; Fragilariales; Fragilariaceae; Ulnaria
+-0.459463641298257
+0.7995433963540082
+0.7693663084534351
+-0.6896809732642815
+0.3271430024001945
+181
+NC_001713
+Odontella sinensis chloroplast, complete genome
+119704
+Eukaryota; Stramenopiles; Bacillariophyta; Mediophyceae; Biddulphiophycidae; Eupodiscales; Eupodiscaceae; Odontella
+-0.5343850981287998
+0.8252965049248789
+0.8370914559391579
+-0.8663732925167182
+0.4438959683433683
+182
+KJ958484
+Cerataulina daemon chloroplast, complete genome
+120144
+Eukaryota; Stramenopiles; Bacillariophyta; Mediophyceae; Biddulphiophycidae; Hemiaulales; Hemiaulaceae; Cerataulina
+-0.5198467630572987
+0.8309046243365513
+0.8206950570480412
+-0.8824610512668654
+0.46941561223778017
+183
+KC509525
+Lithodesmium undulatum chloroplast, complete genome
+122660
+Eukaryota; Stramenopiles; Bacillariophyta; Mediophyceae; Lithodesmiophycidae; Lithodesmiales; Lithodesmiaceae; Lithodesmium
+-0.3833190984708281
+0.7374473966629405
+0.6812661620589977
+-0.20631282790932015
+0.02707819771284818
+184
+KJ877675
+Ochromonas sp. CCMP1393 plastid, complete genome
+126746
+Eukaryota; Stramenopiles; Chrysophyceae; Chromulinales; Chromulinaceae; Ochromonas
+-0.3672109955904708
+0.7734836361625194
+0.586851481828974
+-0.17618452050594402
+-0.05401811123951045
+185
+KC598090
+Nannochloropsis oceanica strain CCMP531 chloroplast, complete genome
+117557
+Eukaryota; Stramenopiles; Eustigmatophyceae; Eustigmatales; Monodopsidaceae; Nannochloropsis
+-0.3719499503046723
+0.7718485474460332
+0.6142146783514175
+-0.18318572361269708
+-0.037416139670967116
+186
+KJ410684
+Nannochloropsis oculata strain CCMP525 chloroplast, complete genome
+117463
+Eukaryota; Stramenopiles; Eustigmatophyceae; Eustigmatales; Monodopsidaceae; Nannochloropsis
+-0.31170190658774893
+0.7514877884756047
+0.5215852970936858
+-0.2074782217281592
+-0.033823183763242
+187
+KJ624065
+Trachydiscus minutus plastid, complete genome
+120091
+Eukaryota; Stramenopiles; Eustigmatophyceae; Trachydiscus
+-0.4679161905564088
+0.5473262926105592
+0.36583446302658706
+-0.5894137859231796
+0.10777670538416591
+188
+GQ231541
+Aureococcus anophagefferens strain CCMP 1984 chloroplast, complete genome
+89599
+Eukaryota; Stramenopiles; Pelagophyceae; Pelagomonadales; Aureococcus
+-0.5220170829186029
+0.5810358639188937
+0.4807835782869549
+-0.49158391419098635
+0.035132878413366216
+189
+GQ231542
+Aureoumbra lagunensis strain CCMP 1507 chloroplast, complete genome
+94346
+Eukaryota; Stramenopiles; Pelagophyceae; Pelagomonadales; Aureoumbra
+-0.47961080081969343
+0.5228131769202382
+0.5515734812475077
+-0.3888724284173954
+0.03749416103168391
+190
+JX297813
+Uncultured Pelagomonas plastid, complete genome
+91306
+Eukaryota; Stramenopiles; Pelagophyceae; Pelagomonadales; Pelagomonas; environmental samples
+-0.34278870117162846
+0.8109470212521813
+0.6547133984308465
+-0.1429486656205409
+-0.15828919055917567
+191
+FP102296
+Ectocarpus siliculosus chloroplast, complete genome
+139954
+Eukaryota; Stramenopiles; PX clade; Phaeophyceae; Ectocarpales; Ectocarpaceae; Ectocarpus
+-0.4793455389270409
+0.7267655615888173
+0.7827670094940195
+-0.10636394239478629
+-0.012671319030538409
+192
+NC_016735
+Fucus vesiculosus chloroplast, complete genome
+124986
+Eukaryota; Stramenopiles; PX clade; Phaeophyceae; Fucales; Fucaceae; Fucus
+-0.42302909931573085
+0.8061985243243697
+0.7153066667949196
+-0.14855760428027923
+-0.13901254355742082
+193
+KP298002
+Undaria pinnatifida chloroplast, complete genome
+130383
+Eukaryota; Stramenopiles; PX clade; Phaeophyceae; Laminariales; Alariaceae; Undaria
+-0.41304090224956114
+0.8115989136122448
+0.7188750568618275
+-0.14189787845918148
+-0.16531814736325026
+194
+KR336545
+Costaria costata chloroplast, complete genome
+129947
+Eukaryota; Stramenopiles; PX clade; Phaeophyceae; Laminariales; Costariaceae; Costaria
+-0.41258798189099133
+0.8222890976266776
+0.6932984032668725
+-0.14676374511102538
+-0.16417281524903068
+195
+JQ405663
+Saccharina japonica chloroplast, complete genome
+130584
+Eukaryota; Stramenopiles; PX clade; Phaeophyceae; Laminariales; Laminariaceae; Saccharina
+-0.5709089525618984
+0.6292766974308928
+0.9053174432311202
+-0.0942188731271206
+0.08770069511188466
+196
+EU912438
+Vaucheria litorea chloroplast, complete genome
+115341
+Eukaryota; Stramenopiles; PX clade; Xanthophyceae; Vaucheriales; Vaucheriaceae; Vaucheria
+-0.3231862722501527
+0.8933686729382642
+0.575003378637031
+-0.3626419616962363
+-0.027625708126823065
+197
+EU168191
+Heterosigma akashiwo strain CCMP 452 chloroplast, complete genome
+160149
+Eukaryota; Stramenopiles; Raphidophyceae; Chattonellales; Chattonellaceae; Heterosigma
+-1
+-1
+0.5126750163988926
+0.11513464782583051
+-0.7558692774010756
+198
+DQ642846
+Plasmodium falciparum HB3 apicoplast, complete genome
+29529
+Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Haemosporida; Plasmodiidae; Plasmodium; Plasmodium (Laverania)
+-0.9417718590178028
+-0.7296182224671566
+0.5351121852814568
+0.20759696052611157
+-1
+199
+AAXT01000007
+Babesia bovis strain T2Bo apicoplast, complete genome, whole genome shotgun sequence
+35107
+Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Piroplasmida; Babesiidae; Babesia
+-0.965229562503806
+-0.7543153659213373
+0.5456154036353108
+0.1939156003701695
+-0.9893630630477622
+200
+KT428643
+Babesia orientalis strain Wuhan apicoplast, complete genome
+33200
+Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Piroplasmida; Babesiidae; Babesia
+-0.9382025916807744
+-0.6540061378442708
+0.5875831139163642
+0.13967052844767633
+-0.7247830003282016
+201
+AAGK01000009
+Theileria parva strain Muguga apicoplast, complete genome, whole genome shotgun sequence
+39579
+Eukaryota; Alveolata; Apicomplexa; Aconoidasida; Piroplasmida; Theileriidae; Theileria
+-0.939870042902827
+-0.8563248794467633
+0.6135317083917937
+0.2137276945296601
+-0.6005737552427448
+202
+KP866208
+Cyclospora cayetanensis isolate CHN_HEN01 apicoplast, complete genome
+34155
+Eukaryota; Alveolata; Apicomplexa; Conoidasida; Coccidia; Eucoccidiorida; Eimeriorina; Eimeriidae; Cyclospora
+-0.9586548680057703
+-0.8772517692509595
+0.6110909609230728
+0.17473114206835802
+-0.5543934867958212
+203
+AY217738
+Eimeria tenella apicoplast, complete genome
+34750
+Eukaryota; Alveolata; Apicomplexa; Conoidasida; Coccidia; Eucoccidiorida; Eimeriorina; Eimeriidae; Eimeria
+-0.9531357839534762
+-0.7351232626095606
+0.6169226969304507
+0.1368660196703152
+-0.45997867792974195
+204
+NC_001799
+Toxoplasma gondii RH apicoplast, complete genome
+34996
+Eukaryota; Alveolata; Apicomplexa; Conoidasida; Coccidia; Eucoccidiorida; Eimeriorina; Sarcocystidae; Toxoplasma
+-0.07541207928481437
+0.2071029045944391
+-0.35261102490555274
+-0.48471790210867816
+0.12702167655312768
+205
+HM222968
+Alveolata sp. CCMP3155 chloroplast, complete genome
+85535
+Eukaryota; Alveolata; Chromerida
+-0.15606896341515258
+0.582768194283424
+0.1858401573944337
+-0.11114210698247246
+-0.4145703555219458
+206
+HM222967
+Chromera velia strain CCMP2878 chloroplast, complete genome
+120426
+Eukaryota; Alveolata; Chromerida; Chromera
+-0.5736743791508725
+-0.8945253849595759
+-0.4616750141511899
+-0.9497388132495524
+0.20901651923795422
+207
+AB818490
+Amphidinium massartii chloroplast psbA gene, extrachromosomal minicircle, complete genome, strain: TM16
+3569
+Eukaryota; Alveolata; Dinophyceae; Gymnodiniales; Gymnodiniaceae; Amphidinium
+-0.47084737433976553
+0.8093832949325632
+0.7505920081255524
+-0.8894646600616398
+0.5323155424836318
+208
+GU591327
+Durinskia baltica strain CS-38 chloroplast, complete genome
+116470
+Eukaryota; Alveolata; Dinophyceae; Peridiniales; Peridiniaceae; Durinskia
+-0.36217423270495447
+0.90487723559857
+0.676788049445505
+-0.8189953365955261
+0.4041899528542683
+209
+GU591328
+Kryptoperidinium foliaceum strain CCMP1326 chloroplast, complete genome
+140426
+Eukaryota; Alveolata; Dinophyceae; Peridiniales; Peridiniaceae; Kryptoperidinium
+-0.5852712063355205
+-0.9015836996517564
+-0.4523497251338664
+-0.9339992924831434
+0.17305154924946722
+210
+JX094304
+Symbiodinium sp. Mf1.05b clone 1 minicircle ATP synthase CF1 subunit alpha (atpA) gene, complete cds; chloroplast
+2632
+Eukaryota; Alveolata; Dinophyceae; Suessiales; Symbiodiniaceae; Symbiodinium

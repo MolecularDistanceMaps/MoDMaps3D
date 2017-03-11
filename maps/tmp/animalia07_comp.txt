@@ -1,0 +1,9007 @@
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+H.sapiens (480), P.anubis (420)
+Composite signature (nuclear + mtDNA); Sampling from H.sapiens and P.anubis; Number of genomic DNA sequences is 900; FCGR with k=9; Approx. Information
+-0.26001
+-0.411412
+0.80239
+-0.481107
+0.361145
+1
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+249
+-0.139329
+-0.447341
+0.590357
+0.807934
+0.364199
+2
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+640
+-0.254745
+-0.192552
+0.885619
+-0.848057
+0.272849
+3
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+856
+-0.276701
+-0.29069
+0.838027
+-0.419195
+0.022461
+4
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+188
+-0.254805
+-0.192241
+0.895544
+-0.738808
+0.412594
+5
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+243
+-0.240724
+-0.182302
+0.830815
+-0.0511584
+-0.133504
+6
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1310
+-0.269624
+-0.78072
+0.629403
+-0.618963
+0.0128802
+7
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+916
+-0.277242
+-0.796646
+0.611873
+-0.19971
+0.343696
+8
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1523
+-0.285149
+-0.638045
+0.691776
+-0.264198
+0.0980475
+9
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+197
+-0.264056
+-0.838617
+0.583103
+-0.367311
+0.370636
+10
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+869
+-0.271709
+-0.514555
+0.742122
+-0.164417
+0.443271
+11
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+936
+-0.286744
+-0.600421
+0.724053
+-0.490607
+0.388929
+12
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+221
+-0.259946
+-0.590107
+0.661203
+-0.287105
+-0.292627
+13
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+505
+-0.190039
+-0.297277
+0.721365
+0.326821
+0.115625
+14
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+458
+-0.274124
+-0.840365
+0.571377
+-0.331057
+-0.034051
+15
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+84
+-0.213876
+-0.271594
+0.761168
+-0.324188
+0.21685
+16
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1464
+-0.271616
+-0.79781
+0.607776
+-0.381307
+0.523063
+17
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+838
+-0.286006
+-0.746911
+0.647623
+-0.371873
+0.359326
+18
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+627
+-0.282576
+-0.742982
+0.651429
+-0.368248
+0.376607
+19
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1336
+-0.245379
+-0.452744
+0.706811
+0.161974
+-0.0969075
+20
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+955
+-0.250239
+-0.453011
+0.719613
+0.0712831
+-0.245523
+21
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1600
+-0.294579
+-0.705348
+0.659606
+-0.396667
+0.0386654
+22
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1051
+-0.298506
+-0.749198
+0.651003
+-0.612023
+0.0779042
+23
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+725
+-0.261871
+-0.930755
+0.51075
+-0.287238
+0.0283412
+24
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1231
+-0.243038
+-0.822275
+0.557456
+0.21718
+0.318946
+25
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+771
+-0.27768
+-0.815904
+0.569518
+-0.207962
+-0.278021
+26
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+496
+-0.266465
+-0.333154
+0.81672
+-0.378307
+-0.058094
+27
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+336
+0.942794
+0.587467
+-0.939145
+-0.530615
+0.253138
+28
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+297
+-0.226034
+-0.33067
+0.778885
+-0.0593439
+0.114931
+29
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1202
+-0.286493
+-0.41774
+0.798665
+-0.567436
+-0.00131198
+30
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+660
+-0.272223
+-0.822973
+0.572028
+-0.185686
+-0.00712206
+31
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+836
+-0.260387
+-0.243516
+0.862394
+-0.800545
+-0.19474
+32
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+785
+-0.272957
+-0.807701
+0.574963
+-0.300094
+-0.296568
+33
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+116
+-0.26768
+-0.373724
+0.798028
+-0.264375
+-0.133188
+34
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+684
+-0.274216
+-0.708554
+0.675254
+-0.51894
+0.3962
+35
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+272
+-0.279665
+-0.337862
+0.836426
+-0.616745
+0.23877
+36
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+98
+-0.2652
+-0.445795
+0.766844
+-0.168517
+0.290399
+37
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+805
+-0.270869
+-0.871509
+0.559069
+-0.155907
+0.450589
+38
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+661
+-0.250475
+-0.881567
+0.522562
+-0.257893
+-0.56767
+39
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+612
+-0.164623
+0.226988
+0.918812
+-0.109526
+-0.352753
+40
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+75
+-0.264123
+-0.81333
+0.590955
+-0.445666
+-0.305124
+41
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+716
+-0.282782
+-0.812663
+0.604922
+-0.277826
+0.499192
+42
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+623
+-0.257965
+-0.901746
+0.53245
+-0.337917
+-0.0159402
+43
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+783
+-0.254969
+-0.821601
+0.587353
+-0.271941
+0.326262
+44
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+563
+-0.283783
+-0.778542
+0.612419
+-0.218828
+0.336366
+45
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+717
+-0.297948
+-0.780851
+0.641297
+-0.517502
+0.495294
+46
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+747
+-0.288636
+-0.527689
+0.768336
+-0.641049
+0.157698
+47
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+156
+-0.288715
+-0.741286
+0.659951
+-0.373028
+0.295663
+48
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+47
+-0.266286
+-0.767668
+0.620959
+-0.289637
+0.657724
+49
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+6
+-0.286732
+-0.604946
+0.693315
+-0.239623
+-0.335112
+50
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+739
+-0.236161
+-1.
+0.441307
+-0.128893
+0.163555
+51
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+366
+0.96401
+0.621114
+-0.957906
+-0.51357
+0.275618
+52
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+815
+-0.230759
+-0.901047
+0.511714
+-0.182221
+0.681066
+53
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1313
+-0.286516
+-0.695014
+0.648057
+-0.168153
+-0.249514
+54
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+166
+-0.250656
+-0.810192
+0.574443
+0.0556567
+0.671814
+55
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+192
+-0.286385
+-0.834959
+0.607405
+-0.496247
+0.0492098
+56
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+147
+-0.273763
+-0.656911
+0.688971
+-0.448065
+0.775069
+57
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+646
+-0.277745
+-0.828701
+0.580827
+-0.212159
+0.0293444
+58
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+452
+-0.277364
+-0.597665
+0.6962
+-0.162325
+-0.0470617
+59
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+419
+-0.226615
+-0.126873
+0.843056
+-0.0142993
+0.062815
+60
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+460
+-0.286121
+-0.812898
+0.593754
+-0.249903
+-0.0524822
+61
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1237
+-0.282986
+-0.835133
+0.594552
+-0.360366
+0.376841
+62
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1066
+-0.29255
+-0.451287
+0.785736
+-0.689012
+-0.353744
+63
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+143
+-0.265919
+-0.864145
+0.544817
+-0.248043
+0.00128582
+64
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1174
+-0.254541
+-0.968065
+0.48231
+-0.235696
+0.334256
+65
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+897
+-0.293004
+-0.700609
+0.693698
+-0.645014
+0.194813
+66
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+611
+-0.263217
+-0.872418
+0.545258
+-0.242294
+-0.243779
+67
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+847
+-0.259735
+-0.76112
+0.615986
+-0.282033
+0.423495
+68
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1090
+-0.251629
+-0.846661
+0.562709
+-0.0774443
+0.574753
+69
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+498
+-0.281121
+-0.801739
+0.579341
+-0.354959
+-0.420105
+70
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+234
+-0.241941
+-0.965733
+0.468292
+-0.0449727
+0.153871
+71
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+910
+-0.24643
+-0.971588
+0.472172
+-0.293974
+-0.122821
+72
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1112
+-0.262242
+-0.859956
+0.556644
+-0.121108
+0.335887
+73
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+166
+-0.26641
+-0.895875
+0.537758
+-0.348487
+0.410411
+74
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+793
+-0.261688
+-0.90427
+0.51386
+-0.0907239
+-0.0809688
+75
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+438
+-0.259333
+-0.918303
+0.503229
+-0.257579
+-0.439582
+76
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1115
+-0.256042
+-0.898945
+0.518618
+-0.117014
+0.270125
+77
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+873
+-0.269513
+-0.842632
+0.565765
+-0.174665
+0.0553053
+78
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1239
+-0.281352
+-0.563051
+0.705476
+-0.247523
+0.0650466
+79
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+156
+-0.247986
+-0.475159
+0.73967
+-0.328686
+0.663186
+80
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+754
+-0.25946
+-0.858679
+0.552671
+-0.198761
+-0.0667908
+81
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1008
+-0.254013
+-0.830784
+0.551952
+-0.00536723
+-0.0255131
+82
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+84
+-0.208594
+-0.448382
+0.681981
+0.359698
+0.290349
+83
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+431
+-0.276836
+-0.896243
+0.540086
+-0.181866
+0.0683539
+84
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+296
+-0.208888
+-0.41743
+0.711351
+0.22474
+0.102092
+85
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+630
+-0.261631
+-0.897809
+0.527818
+-0.0160829
+0.309743
+86
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+288
+-0.290174
+-0.60525
+0.709605
+-0.252194
+0.240972
+87
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+373
+-0.282407
+-0.575148
+0.724393
+-0.342055
+-0.0291252
+88
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+988
+-0.247363
+-0.92384
+0.495118
+0.0887268
+0.369088
+89
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+709
+-0.25399
+-0.836339
+0.531341
+0.114455
+0.0947094
+90
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+163
+-0.245547
+-0.924204
+0.497496
+-0.286715
+-0.213089
+91
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+433
+-0.247952
+-0.952733
+0.485866
+-0.148843
+0.284787
+92
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+554
+-0.279883
+-0.556666
+0.734571
+-0.367988
+0.15321
+93
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+795
+-0.285021
+-0.800606
+0.62681
+-0.366156
+0.291853
+94
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1084
+-0.274211
+-0.858277
+0.580789
+-0.283013
+0.286611
+95
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1080
+-0.289033
+-0.704753
+0.673015
+-0.383825
+0.286169
+96
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+957
+-0.271185
+-0.859169
+0.569312
+-0.395344
+0.372898
+97
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+665
+-0.269672
+-0.515513
+0.747793
+-0.322839
+0.581361
+98
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+496
+-0.267364
+-0.87519
+0.548902
+-0.21205
+0.145671
+99
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+857
+-0.253808
+-0.891878
+0.532914
+-0.236343
+0.0623233
+100
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+858
+-0.221876
+-0.320071
+0.755083
+0.124063
+-0.389632
+101
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+884
+-0.286938
+-0.472942
+0.794466
+-0.51584
+0.313407
+102
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+274
+-0.278143
+-0.864308
+0.573468
+-0.29874
+0.0967795
+103
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1058
+-0.274264
+-0.875586
+0.554541
+-0.268986
+0.249756
+104
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+838
+-0.278497
+-0.858632
+0.56809
+-0.347467
+-0.0854177
+105
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+641
+-0.252088
+-0.758119
+0.620731
+-0.130635
+0.596848
+106
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+670
+-0.263709
+-0.781528
+0.577657
+-0.0724737
+-0.368972
+107
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+320
+-0.264468
+-0.833204
+0.582874
+-0.129761
+0.498926
+108
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+335
+-0.254091
+-0.873172
+0.542145
+-0.342647
+-0.0625221
+109
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+616
+-0.273608
+-0.867038
+0.559081
+-0.364824
+-0.239499
+110
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+979
+-0.290758
+-0.774779
+0.61426
+-0.436389
+-0.430895
+111
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+503
+-0.256086
+-0.835493
+0.582599
+-0.428484
+0.226439
+112
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+790
+-0.267635
+-0.65724
+0.648651
+-0.0304301
+-0.196686
+113
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+480
+-0.248489
+-0.938981
+0.491173
+-0.195033
+-0.296605
+114
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+909
+-0.269365
+-0.857884
+0.577611
+-0.28174
+0.409553
+115
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+231
+-0.260748
+-0.830097
+0.582535
+-0.398154
+0.488804
+116
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+527
+-0.251847
+-0.609479
+0.673001
+-0.0251382
+0.599261
+117
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+532
+-0.268298
+-0.814551
+0.579242
+-0.0889183
+0.0611515
+118
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+799
+-0.27861
+-0.42948
+0.796911
+-0.484349
+0.555305
+119
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1127
+-0.258348
+-0.354871
+0.75402
+-0.371677
+-0.462602
+120
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+539
+-0.134585
+0.305056
+0.926232
+-0.0188628
+0.508216
+121
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+864
+-0.128905
+0.511534
+0.968903
+-0.628343
+-0.496529
+122
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+527
+-0.28045
+-0.748406
+0.640185
+-0.229464
+0.446441
+123
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+801
+-0.290203
+-0.539254
+0.745405
+-0.601473
+-0.308646
+124
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+945
+-0.244832
+-0.0257563
+0.899852
+-0.607854
+-0.530618
+125
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+398
+-0.24476
+-0.583074
+0.700069
+-0.571091
+0.918912
+126
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+315
+0.991478
+0.672297
+-0.990683
+-0.557958
+0.255354
+127
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+702
+0.992818
+0.670951
+-0.992866
+-0.552528
+0.229258
+128
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+271
+1.
+0.681934
+-1.
+-0.56775
+0.233866
+129
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+395
+-0.265876
+-0.859268
+0.564965
+-0.20689
+0.204845
+130
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+344
+-0.276267
+-0.791478
+0.590677
+-0.0624636
+0.419602
+131
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+13
+-0.267086
+-0.742033
+0.634772
+-0.580584
+-0.00773063
+132
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+631
+-0.257988
+-0.782361
+0.590313
+-0.0682038
+0.675442
+133
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+393
+-0.228242
+-0.409509
+0.70421
+0.173097
+-0.393373
+134
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+6
+-0.188615
+-0.36138
+0.683063
+0.54232
+0.135378
+135
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+897
+-0.260993
+-0.926203
+0.508673
+-0.098562
+0.309114
+136
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+533
+-0.263844
+-0.866264
+0.564964
+-0.321935
+0.518406
+137
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+317
+-0.227714
+-0.176316
+0.820227
+0.0215088
+-0.226465
+138
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+619
+-0.281147
+-0.643487
+0.695707
+-0.301252
+0.277058
+139
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+819
+-0.263678
+-0.696452
+0.651078
+-0.412551
+0.525043
+140
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+659
+-0.2748
+-0.467936
+0.742729
+-0.337385
+0.135582
+141
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+957
+-0.270043
+-0.599359
+0.675562
+-0.204239
+-0.0318705
+142
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+495
+-0.264124
+-0.556507
+0.668611
+0.00735859
+-0.446771
+143
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+675
+-0.227551
+-0.772041
+0.566055
+0.0501677
+1.
+144
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+18
+-0.233175
+-0.435525
+0.715004
+0.205437
+0.0667506
+145
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+579
+0.0762964
+0.0691923
+0.505939
+-0.570035
+-0.00636837
+146
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+308
+-0.272164
+-0.835695
+0.570097
+-0.354006
+-0.2553
+147
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+493
+-0.280914
+-0.570804
+0.728567
+-0.357374
+0.264818
+148
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+280
+-0.252938
+-0.824528
+0.584965
+-0.261366
+0.686819
+149
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+886
+-0.252303
+-0.932035
+0.507668
+-0.251329
+-0.0373223
+150
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+894
+-0.2506
+-0.815828
+0.572047
+-0.0170016
+0.470514
+151
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+707
+-0.239404
+-0.63729
+0.601169
+-0.0115032
+-1.
+152
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+194
+-0.253675
+-0.509239
+0.732207
+-0.166567
+-0.0621076
+153
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+260
+-0.274841
+-0.798487
+0.593171
+-0.117639
+0.181907
+154
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+657
+-0.229339
+-0.709424
+0.585345
+-0.195499
+0.289628
+155
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+721
+-0.268864
+-0.798947
+0.597162
+-0.115703
+0.151249
+156
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+716
+-0.261463
+-0.711268
+0.610035
+0.101537
+-0.0252365
+157
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+460
+-0.271158
+-0.230733
+0.877125
+-0.840629
+0.201292
+158
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+513
+-0.302114
+-0.588068
+0.748276
+-0.775385
+0.14208
+159
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+17
+-0.144481
+0.429859
+0.982859
+-0.284719
+0.108755
+160
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+809
+-0.283074
+-0.784212
+0.63157
+-0.630697
+0.323013
+161
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+632
+-0.293529
+-0.699123
+0.679946
+-0.585867
+0.190017
+162
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+676
+-0.265063
+-0.590927
+0.68224
+-0.135902
+-0.331681
+163
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+20
+-0.270473
+-0.769889
+0.629041
+-0.53029
+0.250499
+164
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+746
+-0.266177
+-0.730819
+0.647852
+-0.310613
+0.673971
+165
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+668
+-0.277376
+-0.837328
+0.566955
+-0.192061
+-0.407457
+166
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+657
+-0.284907
+-0.856256
+0.557991
+-0.333398
+-0.256445
+167
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+447
+-0.291542
+-0.626883
+0.673828
+-0.462998
+-0.365106
+168
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+504
+-0.180535
+-0.356281
+0.66688
+0.584038
+-0.52112
+169
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+175
+0.116759
+-0.321798
+0.218351
+-0.491812
+-0.626285
+170
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+357
+-0.283934
+-0.608799
+0.722438
+-0.419294
+0.363712
+171
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+694
+-0.292152
+-0.612292
+0.707371
+-0.483296
+-0.321799
+172
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+599
+-0.266457
+-0.451685
+0.745665
+-0.191219
+0.067267
+173
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+176
+-0.274287
+-0.842369
+0.59293
+-0.331886
+0.502494
+174
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+118
+-0.258712
+-0.764561
+0.593657
+-0.229269
+-0.404797
+175
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+107
+-0.28019
+-0.550326
+0.751929
+-0.484506
+0.322606
+176
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+30
+-0.288398
+-0.625545
+0.705212
+-0.448652
+-0.202804
+177
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+225
+-0.293088
+-0.811006
+0.618291
+-0.339336
+0.166744
+178
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+11
+-0.261876
+-0.542715
+0.689958
+0.0340622
+-0.306074
+179
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+273
+-0.115091
+0.33713
+0.921657
+-0.0166358
+0.216665
+180
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+227
+-0.281115
+-0.472574
+0.747027
+-0.425594
+-0.135646
+181
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+36
+-0.262733
+-0.191436
+0.865581
+-0.607834
+0.093464
+182
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+82
+-0.182098
+-0.334048
+0.699491
+0.452293
+0.44274
+183
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+776
+-0.271596
+-0.626179
+0.672069
+-0.0786211
+0.0530715
+184
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+751
+-0.286099
+-0.698563
+0.646752
+-0.361116
+-0.425209
+185
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+452
+-0.27936
+-0.599819
+0.694022
+-0.209882
+-0.0699673
+186
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+528
+-0.26227
+-0.898799
+0.511938
+-0.00568079
+-0.331494
+187
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+445
+-0.253384
+-0.533749
+0.699981
+0.0760887
+0.147196
+188
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+396
+-0.25074
+-0.621164
+0.677443
+0.0657984
+0.574435
+189
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+299
+-0.270089
+-0.589248
+0.710882
+-0.488185
+-0.11645
+190
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+497
+-0.277246
+-0.328837
+0.810828
+-0.408069
+-0.365483
+191
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+685
+-0.242875
+-0.318625
+0.777808
+0.00587235
+-0.0967647
+192
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+708
+-0.235564
+-0.515281
+0.660868
+0.278863
+-0.271815
+193
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+737
+-0.283127
+-0.851597
+0.57262
+-0.224126
+-0.190161
+194
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+333
+-0.287804
+-0.653088
+0.675863
+-0.226855
+0.110793
+195
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+763
+-0.245216
+-0.871611
+0.511084
+0.202568
+0.530846
+196
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+835
+-0.248097
+-0.33228
+0.808242
+-0.276456
+0.754603
+197
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+666
+-0.255028
+-0.585052
+0.664222
+0.140595
+0.172871
+198
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+76
+-0.262576
+-0.182951
+0.869936
+-0.442792
+-0.110153
+199
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+634
+-0.264919
+-0.484046
+0.766352
+-0.617906
+0.159991
+200
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+707
+-0.255557
+-0.334092
+0.796417
+-0.153546
+0.11246
+201
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+262
+-0.280573
+-0.404355
+0.824625
+-0.912593
+0.396614
+202
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+554
+-0.253713
+-0.876634
+0.553386
+-0.24943
+0.369661
+203
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+757
+-0.285529
+-0.787155
+0.625072
+-0.455339
+-0.162302
+204
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+541
+-0.260764
+-0.901904
+0.518522
+-0.203072
+0.149344
+205
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+289
+-0.252616
+-0.815373
+0.563709
+-0.0587099
+-0.0658041
+206
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+861
+-0.2657
+-0.68004
+0.652571
+-0.581531
+0.131404
+207
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+649
+-0.258073
+-0.666933
+0.659336
+-0.00639236
+0.304503
+208
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+458
+-0.289037
+-0.744776
+0.647432
+-0.458939
+0.091855
+209
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+151
+-0.177263
+-0.00777373
+0.850562
+0.0123969
+-0.132434
+210
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+205
+-0.160208
+0.316765
+0.980186
+-0.494877
+0.570662
+211
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+257
+-0.292807
+-0.732721
+0.654349
+-0.459694
+-0.0370291
+212
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+60
+-0.272234
+-0.914763
+0.520675
+-0.290942
+0.28954
+213
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+288
+-0.289989
+-0.819843
+0.618022
+-0.509983
+0.000516292
+214
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+75
+-0.267272
+-0.871471
+0.549202
+-0.115931
+0.288831
+215
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+529
+-0.233675
+-0.0906247
+0.896186
+-0.38128
+0.376292
+216
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+817
+-0.259121
+-0.23719
+0.873795
+-0.707418
+0.710921
+217
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+399
+-0.22747
+-0.387865
+0.714177
+0.253154
+0.0464524
+218
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+758
+-0.29291
+-0.492363
+0.772676
+-0.685609
+0.0988784
+219
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+844
+-0.278483
+-0.518579
+0.737327
+-0.58541
+-0.364091
+220
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+414
+-0.263392
+-0.408842
+0.785139
+-0.370627
+0.536336
+221
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+78
+-0.267852
+-0.532909
+0.725318
+-0.13167
+0.364722
+222
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+807
+-0.2478
+-0.792987
+0.552426
+-0.319779
+-0.814993
+223
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+494
+-0.246961
+-0.565354
+0.671344
+-0.0456704
+-0.518851
+224
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+299
+-0.268782
+-0.215075
+0.87564
+-0.843789
+-0.118573
+225
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+352
+-0.205782
+0.0264216
+0.915811
+-0.564953
+-0.292407
+226
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+55
+-0.249592
+-0.926615
+0.499545
+-0.154765
+0.11718
+227
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+502
+-0.255529
+-0.871703
+0.525513
+-0.0506646
+-0.225134
+228
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+339
+-0.260201
+-0.844861
+0.520178
+0.154129
+-0.498605
+229
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+734
+-0.258206
+-0.88783
+0.527944
+-0.11045
+0.222076
+230
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+532
+-0.271529
+-0.469694
+0.74032
+-0.102446
+-0.110424
+231
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+351
+-0.221072
+-0.481307
+0.692418
+0.255022
+0.377645
+232
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+728
+-0.259433
+-0.881398
+0.506171
+-0.0538689
+-0.507487
+233
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+789
+-0.306027
+-0.57515
+0.74515
+-0.622153
+-0.0165939
+234
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+706
+-0.220375
+-0.0739503
+0.876308
+-0.236641
+0.418626
+235
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+636
+-0.197544
+-0.497036
+0.642886
+0.495708
+0.353406
+236
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+631
+-0.251423
+-0.506732
+0.708926
+0.123702
+0.342102
+237
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+665
+-0.207935
+-0.188324
+0.818342
+-0.0491388
+0.0144792
+238
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+865
+-0.264062
+-0.417195
+0.770635
+-0.529705
+-0.358089
+239
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+885
+-0.128059
+0.263056
+0.870571
+0.075832
+-0.522744
+240
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+605
+0.952541
+0.613229
+-0.955852
+-0.568511
+0.242738
+241
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+632
+-0.275466
+-0.527522
+0.743493
+-0.360998
+-0.085847
+242
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+441
+-0.269844
+-0.700898
+0.618943
+-0.101329
+0.229731
+243
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+217
+-0.285015
+-0.546359
+0.764319
+-0.490448
+0.453849
+244
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+344
+-0.280075
+-0.646868
+0.711252
+-0.589312
+0.370116
+245
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+511
+-0.265932
+-0.88136
+0.535299
+-0.154931
+0.127083
+246
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+307
+-0.261363
+-0.84103
+0.552975
+-0.0353435
+-0.00793608
+247
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+493
+-0.26613
+-0.932152
+0.522929
+-0.284912
+0.306572
+248
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+462
+-0.20047
+-0.5172
+0.638817
+0.462383
+0.258747
+249
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+17
+-0.27235
+-0.884147
+0.547576
+-0.190971
+0.267429
+250
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+44
+-0.251519
+-0.884481
+0.511842
+-0.0819064
+-0.397306
+251
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+380
+-0.257929
+-0.874517
+0.530511
+-0.0736628
+0.0599031
+252
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+278
+-0.275519
+-0.901811
+0.539046
+-0.290983
+0.259794
+253
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+414
+-0.250114
+-0.916525
+0.510841
+-0.0853873
+0.151898
+254
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+602
+-0.264568
+-0.927003
+0.515389
+-0.263404
+-0.267725
+255
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+112
+-0.28141
+-0.767529
+0.610653
+-0.268502
+-0.0821723
+256
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+621
+-0.289852
+-0.679075
+0.667081
+-0.394114
+0.029556
+257
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+480
+-0.285925
+-0.492844
+0.736433
+-0.360604
+0.0601536
+258
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+599
+-0.285975
+-0.550208
+0.727254
+-0.462888
+-0.117407
+259
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+572
+-0.287472
+-0.41834
+0.793864
+-0.520687
+-0.0909962
+260
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+13
+0.876818
+0.523637
+-0.85847
+-0.525545
+0.192285
+261
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+199
+-0.284176
+-0.517505
+0.742657
+-0.356663
+0.277406
+262
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+554
+-0.271054
+-0.752277
+0.600828
+-0.0355746
+-0.262715
+263
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+521
+-0.243341
+-0.947697
+0.481705
+-0.0809347
+-0.0833738
+264
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+139
+-0.248876
+-0.930793
+0.50207
+-0.190982
+-0.21565
+265
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+266
+-0.236085
+-0.95013
+0.492304
+-0.229858
+0.529187
+266
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+421
+-0.284037
+-0.613838
+0.709069
+-0.332533
+0.582359
+267
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+347
+-0.242794
+-0.811444
+0.575246
+0.0527971
+0.718388
+268
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+175
+-0.291163
+-0.62005
+0.712013
+-0.285827
+0.345081
+269
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+544
+-0.268737
+-0.791084
+0.610753
+-0.216508
+0.256637
+270
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+136
+-0.278568
+-0.821675
+0.609811
+-0.252256
+0.366236
+271
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+345
+-0.270394
+-0.802526
+0.596272
+-0.178949
+0.240503
+272
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+513
+-0.22785
+-0.892164
+0.497712
+-0.214722
+0.316733
+273
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+7
+-0.260618
+-0.248174
+0.864416
+-0.551023
+0.601476
+274
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+185
+-0.178073
+-0.220859
+0.747929
+0.417742
+0.0562531
+275
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+439
+-0.279623
+-0.398691
+0.822079
+-0.62058
+0.480718
+276
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+549
+-0.288917
+-0.49314
+0.772136
+-0.553591
+0.147775
+277
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+455
+-0.290885
+-0.587363
+0.724721
+-0.47351
+-0.0241615
+278
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+584
+-0.245971
+-0.0998945
+0.878483
+-0.4253
+-0.22085
+279
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+507
+-0.169164
+-0.0287394
+0.814154
+0.341569
+-0.242255
+280
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+466
+-0.255706
+-0.522786
+0.696335
+-0.0243627
+0.011835
+281
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+267
+-0.103022
+-0.558055
+0.476925
+0.0215914
+0.540874
+282
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+62
+-0.286558
+-0.640009
+0.687979
+-0.378124
+-0.212295
+283
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+430
+-0.230284
+-0.535775
+0.66807
+0.208872
+0.325332
+284
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+340
+-0.266409
+-0.418452
+0.746283
+-0.224754
+-0.246571
+285
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+115
+-0.246172
+-0.398875
+0.743916
+0.0398826
+0.114934
+286
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+370
+-0.205076
+-0.536945
+0.646098
+0.399125
+0.124405
+287
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+511
+-0.279124
+-0.86969
+0.559455
+-0.286932
+-0.0257864
+288
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+168
+-0.261335
+-0.51917
+0.71669
+0.0244729
+0.430533
+289
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+319
+-0.234334
+-0.180897
+0.843037
+-0.127058
+0.0107157
+290
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+399
+-0.190588
+0.0929031
+0.906328
+-0.085762
+-0.0618991
+291
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+224
+-0.253869
+-0.432534
+0.748853
+0.0160595
+0.165075
+292
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+249
+-0.259665
+-0.128463
+0.913778
+-0.760085
+0.250412
+293
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+537
+-0.255802
+-0.400086
+0.770087
+-0.0650296
+0.245963
+294
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+458
+-0.261201
+-0.191809
+0.879679
+-0.470592
+0.141082
+295
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+28
+-0.24652
+-0.667564
+0.640903
+-0.631869
+-0.148835
+296
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+519
+-0.274187
+-0.445608
+0.793115
+-0.529171
+0.525483
+297
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+48
+-0.272263
+-0.723128
+0.639633
+-0.22671
+0.231207
+298
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+77
+-0.280718
+-0.774902
+0.618345
+-0.232372
+0.124919
+299
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+353
+-0.293624
+-0.645521
+0.686747
+-0.514269
+-0.126101
+300
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+321
+-0.182221
+-0.0370265
+0.819254
+0.146409
+-0.423793
+301
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+213
+-0.261957
+-0.394398
+0.791235
+-0.324864
+0.436932
+302
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+469
+-0.264897
+-0.598114
+0.696764
+-0.257197
+0.541451
+303
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+281
+-0.200263
+-0.247174
+0.770722
+0.0222318
+0.239938
+304
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+175
+-0.236043
+-0.293682
+0.782247
+-0.0305287
+-0.160548
+305
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+124
+-0.2248
+-0.344782
+0.75489
+0.0808888
+0.0857779
+306
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+459
+-0.206536
+-0.0544263
+0.866629
+-0.00898976
+0.632392
+307
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+28
+-0.234066
+-0.305809
+0.779647
+-0.2222
+-0.621128
+308
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+100
+-0.288642
+-0.69725
+0.671655
+-0.346514
+0.158092
+309
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+85
+-0.219703
+0.0162241
+0.897762
+-0.158119
+0.0568872
+310
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+236
+-0.253116
+-0.476888
+0.770061
+-0.558695
+0.102493
+311
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+210
+-0.230971
+-0.536405
+0.694332
+-0.390088
+0.202705
+312
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+250
+0.986363
+0.66042
+-0.979461
+-0.536515
+0.236423
+313
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+425
+-0.198978
+-0.150571
+0.806223
+0.165234
+0.0330759
+314
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+42
+-0.24743
+-0.130339
+0.904224
+-0.599556
+0.495303
+315
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+69
+-0.264933
+-0.846848
+0.546632
+-0.0564633
+0.35863
+316
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+86
+-0.254568
+-0.336415
+0.802806
+-0.407397
+0.147827
+317
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+363
+-0.277172
+-0.642313
+0.66162
+-0.285737
+0.0250548
+318
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+257
+-0.26173
+-0.530553
+0.725692
+-0.194807
+0.522444
+319
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+437
+-0.266294
+-0.389145
+0.784269
+-0.249588
+0.458229
+320
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+40
+-0.167856
+0.0873499
+0.862716
+-0.276945
+-0.199875
+321
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+270
+-0.113307
+-0.095239
+0.682732
+0.737963
+-0.426138
+322
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+407
+-0.275884
+-0.660953
+0.670318
+-0.166959
+0.0213303
+323
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+438
+-0.273152
+-0.346949
+0.810474
+-0.431239
+-0.0765893
+324
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+103
+-0.168056
+0.357112
+1.
+-0.56614
+0.252363
+325
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+292
+0.97019
+0.651764
+-0.957416
+-0.572657
+0.233183
+326
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+381
+0.071
+-0.487589
+0.203981
+-0.217267
+-0.559398
+327
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+118
+0.214198
+-0.332812
+0.0921591
+0.21732
+-0.110242
+328
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+234
+-0.272324
+-0.57168
+0.716883
+-0.408356
+-0.0565403
+329
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+329
+-0.254925
+-0.647665
+0.646441
+0.0250639
+0.468663
+330
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+177
+0.0988811
+0.0972821
+0.509057
+0.608691
+0.177301
+331
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+178
+-0.175895
+0.0650677
+0.863713
+0.00742022
+-0.185366
+332
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+1
+-0.222604
+0.0163927
+0.922443
+-0.368557
+0.104138
+333
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+346
+-0.298984
+-0.733844
+0.653714
+-0.4507
+-0.00638937
+334
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+543
+-0.274642
+-0.842298
+0.558636
+-0.077194
+0.203252
+335
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+9
+-0.25221
+-0.894122
+0.511942
+0.0291051
+0.0951947
+336
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+287
+-0.250012
+-0.241497
+0.856534
+-0.44511
+0.821785
+337
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+167
+-0.247521
+-0.551033
+0.691788
+0.0722768
+0.38805
+338
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+351
+-0.259329
+-0.727214
+0.603373
+-0.0881255
+-0.459796
+339
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+356
+-0.120065
+0.407556
+0.947038
+0.0970434
+-0.209101
+340
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+91
+-0.233346
+-0.444073
+0.708812
+0.243477
+-0.0162585
+341
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+141
+-0.282725
+-0.391923
+0.820211
+-0.621992
+0.242802
+342
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+526
+0.97834
+0.653124
+-0.974479
+-0.551495
+0.229584
+343
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+236
+0.761159
+0.326262
+-0.693028
+-0.450169
+0.263176
+344
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+351
+-0.212899
+-0.551365
+0.634957
+0.443162
+0.333254
+345
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+522
+-0.264927
+-0.889043
+0.529298
+-0.140256
+0.026562
+346
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+344
+-0.272681
+-0.832793
+0.587452
+-0.212782
+0.49531
+347
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+137
+-0.278733
+-0.489373
+0.768788
+-0.378965
+0.103603
+348
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+69
+-0.279877
+-0.443765
+0.816053
+-0.567164
+0.516814
+349
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+394
+-0.271043
+-0.826852
+0.582386
+-0.314735
+-0.426861
+350
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+497
+-0.243373
+-0.0936353
+0.924932
+-0.701435
+0.434074
+351
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+242
+-0.289029
+-0.712821
+0.678834
+-0.629994
+0.100589
+352
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+198
+-0.289999
+-0.758054
+0.63685
+-0.331145
+0.357776
+353
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+21
+-0.276875
+-0.43558
+0.77577
+-0.360965
+-0.100019
+354
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+419
+-0.25314
+-0.56494
+0.704758
+-0.160258
+0.0774967
+355
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+263
+-0.263512
+-0.840553
+0.544087
+-0.0671277
+-0.025879
+356
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+431
+-0.260007
+-0.648948
+0.65836
+-0.132109
+0.730031
+357
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+135
+-0.24911
+-0.828352
+0.558547
+-0.1945
+0.709795
+358
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+498
+-0.256926
+-0.359556
+0.778081
+-0.466254
+0.128184
+359
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+230
+-0.216698
+-0.0775688
+0.828468
+-0.211161
+-0.0237195
+360
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+309
+-0.0399968
+0.632815
+0.909834
+-0.171044
+-0.193042
+361
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+168
+-0.0720865
+0.669342
+0.976991
+0.0459255
+0.275821
+362
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+53
+-0.0763262
+0.380583
+0.89859
+0.132698
+0.226121
+363
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+388
+-0.108327
+0.52627
+0.971412
+-0.0693664
+-0.145573
+364
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+354
+-0.164091
+0.209827
+0.912139
+-0.123826
+0.0806
+365
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+116
+-0.172428
+0.14149
+0.897202
+-0.0514768
+-0.242738
+366
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+133
+-0.0747102
+0.410408
+0.892663
+0.314739
+0.170556
+367
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+3
+-0.226874
+-0.538504
+0.677252
+-0.0459697
+0.309387
+368
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+235
+-0.185882
+-0.597402
+0.585535
+0.313301
+-0.454884
+369
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+103
+0.103649
+-0.526432
+0.163764
+-0.509113
+-0.146234
+370
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+327
+0.880938
+0.520742
+-0.853806
+-0.498605
+0.254532
+371
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+158
+-0.270626
+-0.324813
+0.821674
+-0.618423
+-0.187044
+372
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+111
+-0.223594
+0.0029763
+0.918822
+-0.470272
+-0.131466
+373
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+223
+-0.178637
+0.129072
+0.90193
+-0.150506
+0.0367187
+374
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+213
+-0.0129629
+-0.0658479
+0.600237
+0.64845
+0.030503
+375
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+292
+-0.262557
+-0.711163
+0.621728
+-0.0359552
+0.167777
+376
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+22
+-0.0887377
+0.333927
+0.880604
+0.182652
+-0.119962
+377
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+241
+-0.107225
+0.328718
+0.887256
+0.141092
+0.441433
+378
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+162
+-0.207071
+-0.421505
+0.686049
+0.234297
+0.00578614
+379
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+298
+-0.187757
+-0.000201589
+0.865346
+0.00217504
+0.147069
+380
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+9
+-0.214284
+-0.15437
+0.824742
+0.0542791
+0.232621
+381
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+305
+-0.225286
+-0.251363
+0.789161
+0.0115799
+-0.477829
+382
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+308
+-0.274249
+-0.739307
+0.654139
+-0.450102
+0.607852
+383
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+262
+-0.26793
+-0.601347
+0.688557
+-0.0365813
+0.631129
+384
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+42
+-0.290539
+-0.741416
+0.651001
+-0.574371
+0.0327198
+385
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+130
+-0.295822
+-0.724066
+0.654489
+-0.406517
+0.0711498
+386
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+70
+-0.233514
+-0.664401
+0.602822
+0.113889
+-0.559903
+387
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+375
+-0.275032
+-0.509786
+0.759074
+-0.277518
+0.200436
+388
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+202
+-0.290324
+-0.43246
+0.822535
+-0.833129
+0.242443
+389
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+311
+0.99212
+0.671519
+-0.988814
+-0.562287
+0.229806
+390
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+91
+-0.130073
+-0.416238
+0.569569
+-0.390711
+-0.76614
+391
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+85
+-0.192078
+-0.462834
+0.63746
+-0.0620825
+-0.22555
+392
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+111
+-0.226927
+-0.413233
+0.720319
+0.254747
+-0.0127342
+393
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+263
+-0.297355
+-0.650796
+0.70433
+-0.563109
+0.0822281
+394
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+230
+-0.28906
+-0.745605
+0.665752
+-0.570333
+0.201924
+395
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+183
+-0.245424
+-0.083489
+0.902598
+-0.362038
+0.242669
+396
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+198
+-0.28383
+-0.44799
+0.787569
+-0.395055
+0.13815
+397
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+33
+-0.269663
+-0.310617
+0.843284
+-0.489109
+0.338553
+398
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+87
+-0.279481
+-0.779937
+0.609387
+-0.429686
+-0.334438
+399
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+370
+-0.175513
+-0.098603
+0.808072
+0.214273
+0.301686
+400
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+19
+-0.18243
+-0.538741
+0.615083
+-0.335032
+-0.136524
+401
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+108
+-0.124094
+-0.50193
+0.524624
+-0.256962
+-0.186119
+402
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+227
+-0.127414
+-0.527561
+0.536274
+-0.51855
+0.0453746
+403
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+16
+-0.170571
+-0.224692
+0.69797
+-0.0676315
+0.0631354
+404
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+41
+-0.240612
+-0.542846
+0.688278
+-0.153224
+0.580876
+405
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+121
+-0.255829
+-0.791111
+0.593285
+-0.233106
+0.0084921
+406
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+48
+0.933456
+0.577403
+-0.938256
+-0.532608
+0.248962
+407
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+4
+0.944406
+0.598556
+-0.945
+-0.548632
+0.235798
+408
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+198
+-0.2723
+-0.56431
+0.731862
+-0.403129
+0.0083928
+409
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+40
+-0.259026
+-0.634553
+0.647447
+0.160864
+0.383051
+410
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+11
+-0.253422
+-0.932767
+0.490291
+-0.104498
+-0.0700516
+411
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+160
+-0.264835
+-0.911041
+0.523917
+-0.185594
+0.097544
+412
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+80
+-0.254176
+-0.894329
+0.521875
+-0.0515189
+0.0473131
+413
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+19
+-0.258169
+-0.870643
+0.523148
+0.0548199
+0.0093969
+414
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+235
+-0.265256
+-0.864229
+0.540702
+-0.0714382
+0.221661
+415
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+123
+-0.26024
+-0.876294
+0.535947
+-0.0474181
+0.156182
+416
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+74
+-0.174376
+-0.119012
+0.804818
+0.203854
+0.340532
+417
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+101
+-0.278585
+-0.627306
+0.713318
+-0.50969
+0.304408
+418
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+21
+-0.276569
+-0.593494
+0.689028
+-0.282143
+-0.124081
+419
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+12
+-0.226865
+0.0766124
+0.932731
+-0.576351
+-0.0891975
+420
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+211
+-0.178108
+-0.446386
+0.63444
+-0.466671
+-0.38911
+421
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+85
+-0.25582
+-0.569193
+0.686811
+-0.224539
+0.127527
+422
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+51
+-0.214025
+-0.766742
+0.541865
+0.0425588
+-0.338609
+423
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+59
+-0.227064
+-0.105423
+0.857895
+-0.284658
+-0.580489
+424
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+98
+-0.217318
+-0.0528107
+0.872501
+-0.092789
+-0.237873
+425
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+90
+-0.186662
+0.0574607
+0.881591
+-0.0999385
+0.0650512
+426
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+180
+-0.172883
+0.128193
+0.936195
+-0.291404
+0.290194
+427
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+8
+-0.24841
+-0.438017
+0.754973
+0.0300427
+0.307978
+428
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+103
+-0.190754
+-0.0643402
+0.851051
+-0.0941966
+0.441968
+429
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+60
+-0.204027
+-0.0486075
+0.890644
+-0.292337
+0.596082
+430
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+130
+-0.295347
+-0.51258
+0.771828
+-0.62701
+0.0977115
+431
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+4
+-0.275942
+-0.367823
+0.819859
+-0.636299
+0.235416
+432
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+106
+-0.274587
+-0.354922
+0.829633
+-0.75758
+0.317401
+433
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+161
+-0.245659
+-0.0348129
+0.922789
+-0.778889
+0.0604832
+434
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+32
+-0.17494
+0.0792087
+0.903136
+-0.161844
+-0.000254533
+435
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+160
+-0.207381
+0.0603547
+0.927542
+-0.552826
+0.135483
+436
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+97
+-0.243495
+-0.508818
+0.697576
+-0.0924125
+0.0868323
+437
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+244
+-0.193976
+-0.345237
+0.707416
+0.388224
+-0.098731
+438
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+44
+-0.14089
+0.304631
+0.944313
+-0.0879784
+-0.0552669
+439
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+207
+-0.255982
+-0.189706
+0.868893
+-0.628281
+0.0434231
+440
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+89
+0.0119332
+0.388771
+0.768
+0.391579
+-0.192733
+441
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+714
+-0.276854
+-0.770176
+0.617762
+-0.354508
+0.00781859
+442
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+421
+-0.285475
+-0.615032
+0.706958
+-0.441095
+-0.014706
+443
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+88
+-0.270303
+-0.642104
+0.693538
+-0.202233
+0.611312
+444
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+320
+-0.264989
+-0.915004
+0.492642
+-0.0156456
+-0.199604
+445
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+215
+-0.191153
+-0.149766
+0.805269
+-0.180123
+-0.269436
+446
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+731
+-0.251121
+-0.689513
+0.641358
+-0.703672
+-0.366535
+447
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+665
+-0.245344
+-0.904228
+0.507592
+-0.361468
+-0.322644
+448
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+848
+-0.265185
+-0.860585
+0.571833
+-0.492691
+0.0615923
+449
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+796
+-0.273541
+-0.8768
+0.545565
+-0.185973
+0.151896
+450
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+112
+-0.273626
+-0.750571
+0.622247
+-0.383385
+-0.320057
+451
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+667
+-0.265711
+-0.66422
+0.655047
+-0.241751
+0.344611
+452
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+909
+-0.249455
+-0.373839
+0.801238
+-0.356798
+0.566296
+453
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+9
+-0.278766
+-0.6783
+0.684242
+-0.357838
+0.591855
+454
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+624
+-0.298109
+-0.613396
+0.723377
+-0.615641
+0.370233
+455
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+1004
+-0.292102
+-0.665082
+0.691868
+-0.50604
+0.0862165
+456
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+897
+-0.247071
+-0.931921
+0.478711
+-0.34733
+-0.641696
+457
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+621
+-0.280044
+-0.647614
+0.67982
+-0.215948
+0.342337
+458
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+712
+-0.293219
+-0.652545
+0.684063
+-0.427553
+0.0600851
+459
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+48
+-0.271445
+-0.492552
+0.767839
+-0.576572
+0.580232
+460
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+576
+-0.116432
+-0.149164
+0.693535
+0.182364
+0.038159
+461
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+104
+-0.0243619
+0.0281897
+0.664895
+0.487617
+-0.0769033
+462
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+24
+0.0119332
+0.388771
+0.768
+0.391579
+-0.192733
+463
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+132
+-0.0444499
+0.165451
+0.74828
+0.30896
+0.114046
+464
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+10
+-0.2714
+-0.839668
+0.578069
+-0.304279
+0.0147126
+465
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+169
+-0.25858
+-0.88588
+0.539181
+-0.232989
+0.0866432
+466
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+7
+-0.252472
+-0.690638
+0.637221
+-0.501248
+0.260793
+467
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+168
+-0.272083
+-0.656971
+0.683202
+-0.391281
+0.234155
+468
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+5
+-0.122146
+-0.312706
+0.641976
+-0.420853
+0.0331
+469
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+69
+0.49519
+0.239878
+-0.255734
+-0.12264
+-0.0434819
+470
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+33
+-0.0541526
+-0.109235
+0.617625
+-0.250265
+-0.0424708
+471
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+108
+-0.236372
+-0.673828
+0.641687
+-0.458938
+-0.09254
+472
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+49
+-0.275089
+-0.754584
+0.630797
+-0.3413
+0.223699
+473
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+135
+-0.250394
+-0.832028
+0.559907
+-0.218047
+0.0783218
+474
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+60
+-0.252309
+-0.853746
+0.562022
+-0.566852
+0.0339658
+475
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+40
+-0.225899
+-0.786444
+0.560077
+-0.549154
+0.296301
+476
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+89
+-0.258378
+-0.695316
+0.632566
+-0.44032
+-0.0775202
+477
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+70
+-0.268414
+-0.8131
+0.594434
+-0.470852
+-0.0186157
+478
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+9
+-0.25707
+-0.777099
+0.601153
+-0.454428
+0.36058
+479
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+142
+-0.262165
+-0.555612
+0.732838
+-0.430642
+0.788568
+480
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+176
+-0.910914
+0.400601
+0.718545
+-0.300765
+0.0137505
+481
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+826
+-0.961606
+-0.0497306
+0.52777
+0.27549
+0.277249
+482
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+188
+-0.9538
+0.227422
+0.599299
+0.196602
+0.208775
+483
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+176
+-0.952524
+-0.207795
+0.506313
+0.105642
+-0.486537
+484
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+565
+-0.964823
+-0.169845
+0.509144
+0.13471
+0.0112124
+485
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+952
+-0.954905
+-0.162637
+0.618576
+-0.673887
+0.0636562
+486
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+1238
+-0.968088
+-0.139504
+0.441742
+0.55874
+0.36133
+487
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+501
+-0.973691
+-0.553975
+0.44401
+-0.411057
+0.303156
+488
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+380
+-0.970989
+-0.519073
+0.335073
+0.357887
+-0.236672
+489
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+423
+-0.97954
+-0.49243
+0.409836
+-0.0611947
+0.200543
+490
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+90
+-0.973968
+-0.672397
+0.336978
+-0.216271
+0.118081
+491
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+217
+-0.961546
+-0.393746
+0.494949
+-0.231756
+0.139193
+492
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+1353
+-0.967948
+-0.47027
+0.421552
+0.0289835
+0.103148
+493
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+839
+-0.976324
+-0.38261
+0.491566
+-0.350071
+0.48993
+494
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+219
+-0.951181
+-0.175144
+0.456208
+0.32766
+-0.457453
+495
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+1293
+-0.98018
+-0.494352
+0.408369
+-0.302766
+0.264202
+496
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+360
+-0.966856
+-0.464321
+0.456208
+-0.250049
+0.232505
+497
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+1018
+-0.957925
+-0.336344
+0.518202
+-0.321203
+-0.00998883
+498
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+454
+-1.
+-0.686791
+0.282344
+0.0825591
+0.636455
+499
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+234
+-0.970297
+-0.283606
+0.516345
+-0.238409
+0.383197
+500
+NC_018152.1
+Papio anubis isolate 1X1155 chromosome 1  Panu_2.0  whole genome shotgun sequence
+150000
+588
+-0.97045
+-0.667368
+0.284686
+-0.0832279
+-0.100971
+501
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+824
+-0.984598
+-0.695557
+0.29078
+-0.187526
+0.354961
+502
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+1075
+-0.969937
+-0.485404
+0.454294
+-0.435547
+0.187402
+503
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+454
+-0.958117
+-0.119889
+0.611145
+-0.505916
+0.60033
+504
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+632
+-0.970513
+-0.42121
+0.500711
+-0.499119
+0.467768
+505
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+274
+-0.954282
+-0.40805
+0.485011
+-0.338495
+-0.0415353
+506
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+1068
+-0.940506
+-0.0322541
+0.626926
+-0.544459
+-0.461548
+507
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+881
+-0.952384
+-0.234301
+0.527574
+-0.206841
+-0.231695
+508
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+551
+-0.986697
+-0.518908
+0.336685
+0.371437
+0.748696
+509
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+468
+-0.989519
+-0.727798
+0.236998
+-0.0594322
+0.267364
+510
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+960
+-0.974101
+-0.589372
+0.392127
+-0.262858
+-0.0555799
+511
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+830
+-0.96484
+-0.0529767
+0.503163
+0.0590423
+0.0493918
+512
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+714
+-0.980171
+-0.697523
+0.292381
+-0.167522
+0.00640517
+513
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+1062
+-0.953229
+-0.367792
+0.555524
+-0.795345
+-0.0522759
+514
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+46
+-0.951085
+-0.265975
+0.566765
+-0.474785
+0.132388
+515
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+152
+-0.987971
+-0.690499
+0.309545
+-0.328048
+0.377581
+516
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+1159
+-0.980746
+-0.703165
+0.300024
+-0.22998
+-0.0776625
+517
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+1090
+-0.962657
+-0.52075
+0.435242
+-0.492531
+-0.0879839
+518
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+1001
+-0.975502
+-0.570549
+0.414836
+-0.521328
+0.326061
+519
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+470
+-0.985872
+-0.682517
+0.313052
+-0.34754
+0.55482
+520
+NC_018153.1
+Papio anubis isolate 1X1155 chromosome 2  Panu_2.0  whole genome shotgun sequence
+150000
+799
+-0.959533
+-0.387191
+0.517101
+-0.594569
+0.0476835
+521
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+685
+-0.971571
+-0.327081
+0.503561
+-0.216181
+0.326507
+522
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+962
+-0.975492
+-0.532588
+0.432003
+-0.378955
+0.362618
+523
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+864
+-0.968687
+0.0796118
+0.543674
+0.0923353
+0.116479
+524
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+1034
+-0.933527
+0.210695
+0.665305
+-0.205665
+-0.086822
+525
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+559
+-0.967108
+-0.386176
+0.515408
+-0.546571
+0.348357
+526
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+693
+-0.96207
+-0.491551
+0.44109
+-0.374015
+-0.205445
+527
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+937
+-0.978686
+-0.499586
+0.408648
+-0.084125
+0.289497
+528
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+919
+-0.982375
+-0.49311
+0.432301
+-0.137287
+0.754987
+529
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+1148
+-0.955465
+-0.352089
+0.506765
+-0.207557
+-0.0626598
+530
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+433
+-0.96533
+-0.393234
+0.466585
+-0.223858
+-0.173155
+531
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+302
+-0.980957
+-0.739611
+0.268712
+-0.152669
+0.0297392
+532
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+1180
+-0.979816
+-0.619938
+0.360999
+-0.204152
+0.219029
+533
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+1108
+-0.972477
+-0.609126
+0.359697
+-0.172705
+-0.0933276
+534
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+1078
+-0.983714
+-0.698686
+0.308578
+-0.281732
+0.256531
+535
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+118
+-0.974194
+-0.383897
+0.501505
+-0.324672
+0.190847
+536
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+673
+-0.958956
+-0.412034
+0.475653
+-0.46656
+-0.199087
+537
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+813
+-0.97755
+-0.638674
+0.33587
+-0.116662
+0.169976
+538
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+55
+-0.968745
+-0.427558
+0.452941
+-0.258466
+0.14304
+539
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+846
+-0.956475
+-0.122465
+0.540231
+-0.0364596
+0.450124
+540
+NC_018154.1
+Papio anubis isolate 1X1155 chromosome 3  Panu_2.0  whole genome shotgun sequence
+150000
+102
+-0.918825
+0.0688248
+0.656973
+-0.552504
+-0.149396
+541
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+1030
+-0.960221
+-0.317142
+0.545408
+-0.629313
+-0.0710499
+542
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+245
+-0.943168
+-0.0698617
+0.613677
+-0.37456
+-0.0666109
+543
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+45
+-0.962643
+-0.355441
+0.517287
+-0.539345
+-0.0288271
+544
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+606
+-0.955691
+-0.402521
+0.492258
+-0.294026
+0.125802
+545
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+999
+-0.966183
+-0.450103
+0.455452
+-0.183288
+0.378409
+546
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+288
+-0.982633
+-0.493998
+0.382999
+0.183082
+0.586664
+547
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+839
+-0.944236
+-0.201404
+0.617751
+-0.791794
+0.0802473
+548
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+418
+-0.936935
+0.125433
+0.713288
+-0.843859
+0.104226
+549
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+592
+-0.968984
+-0.277249
+0.51374
+-0.0733822
+0.674284
+550
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+28
+-0.987659
+-0.619581
+0.341576
+0.0409889
+0.244271
+551
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+265
+-0.984113
+-0.761324
+0.241391
+-0.108477
+0.19305
+552
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+285
+-0.988462
+-0.740977
+0.259769
+-0.161083
+0.0621534
+553
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+185
+-0.968365
+-0.580594
+0.389421
+-0.296699
+0.0864835
+554
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+111
+-0.972013
+-0.631365
+0.361094
+-0.244797
+0.169538
+555
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+75
+-0.949803
+-0.232261
+0.55964
+-0.350633
+-0.0869604
+556
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+629
+-0.97618
+-0.359563
+0.499547
+-0.238948
+0.371816
+557
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+750
+-0.966013
+-0.365449
+0.501271
+-0.390647
+0.618937
+558
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+354
+-0.964149
+-0.321925
+0.514625
+-0.364832
+-0.0310667
+559
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+1047
+-0.958232
+-0.321126
+0.518714
+-0.497353
+0.266699
+560
+NC_018155.1
+Papio anubis isolate 1X1155 chromosome 4  Panu_2.0  whole genome shotgun sequence
+150000
+10
+-0.965694
+-0.629754
+0.350916
+-0.228497
+-0.106343
+561
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+1125
+-0.960693
+-0.560546
+0.395666
+-0.361601
+-0.349195
+562
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+1094
+-0.951971
+-0.221413
+0.584915
+-0.541619
+0.12356
+563
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+914
+-0.952142
+-0.305791
+0.51389
+-0.230389
+-0.0586309
+564
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+138
+-0.953189
+-0.289652
+0.513864
+-0.212511
+-0.0464319
+565
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+857
+-0.971087
+-0.689546
+0.285523
+-0.183391
+-0.0259487
+566
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+713
+-0.97476
+-0.611081
+0.364467
+-0.328373
+-0.09327
+567
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+628
+-0.947615
+-0.390452
+0.495699
+-0.915717
+-0.357318
+568
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+221
+-0.97622
+-0.732724
+0.292583
+-0.208878
+-0.0174946
+569
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+626
+-0.978077
+-0.679187
+0.280334
+-0.23985
+0.147938
+570
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+1150
+-0.984957
+-0.742785
+0.24088
+-0.182352
+-0.113073
+571
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+340
+-0.98131
+-0.267458
+0.3566
+0.744709
+0.124728
+572
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+559
+-0.997636
+-0.730087
+0.247227
+-0.0847021
+0.382613
+573
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+1001
+-0.945183
+-0.358366
+0.482105
+-0.191222
+-0.124037
+574
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+267
+-0.979868
+-0.616697
+0.394495
+-0.472185
+0.100629
+575
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+99
+-0.96986
+-0.647322
+0.329161
+-0.318306
+-0.205372
+576
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+123
+-0.972787
+-0.635297
+0.346562
+-0.253124
+-0.286791
+577
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+1093
+-0.973269
+-0.586538
+0.353321
+-0.119521
+-0.387476
+578
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+296
+-0.969586
+-0.519042
+0.420616
+-0.314895
+0.120597
+579
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+682
+-0.960251
+-0.341399
+0.472613
+-0.0405676
+0.0800361
+580
+NC_018156.1
+Papio anubis isolate 1X1155 chromosome 5  Panu_2.0  whole genome shotgun sequence
+150000
+214
+-0.941848
+0.0192863
+0.618589
+-0.696424
+0.249972
+581
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+208
+-0.965139
+-0.279625
+0.56099
+-0.692314
+0.517648
+582
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+636
+-0.96531
+-0.59281
+0.385746
+-0.341348
+0.0909089
+583
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+285
+-0.977454
+-0.596684
+0.394237
+-0.403403
+0.0698381
+584
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+936
+-0.982751
+-0.679895
+0.320334
+-0.240029
+0.0567784
+585
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+845
+-0.965259
+-0.0495246
+0.547098
+0.0349896
+0.401914
+586
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+1095
+-0.997891
+-0.639429
+0.294497
+-0.442939
+0.317762
+587
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+516
+-0.973778
+-0.642228
+0.341292
+-0.269834
+-0.304106
+588
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+101
+-0.959001
+-0.493303
+0.472061
+-0.621977
+-0.0281552
+589
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+716
+-0.974784
+-0.681413
+0.30146
+-0.0414707
+0.0734695
+590
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+598
+-0.981816
+-0.698719
+0.296981
+-0.0812328
+0.267173
+591
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+379
+-0.961477
+-0.423182
+0.451233
+-0.0407437
+0.130753
+592
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+363
+-0.984323
+-0.688156
+0.311603
+-0.239042
+0.0500827
+593
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+538
+-0.957467
+-0.393844
+0.451413
+-0.573147
+-0.632633
+594
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+844
+-0.960975
+-0.397402
+0.495543
+-0.460648
+0.0879626
+595
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+36
+-0.992747
+-0.234116
+0.293444
+1.
+0.625783
+596
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+197
+-0.981872
+-0.234105
+0.448643
+0.388047
+0.563007
+597
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+14
+-0.976952
+-0.343665
+0.520827
+-0.361334
+0.854877
+598
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+897
+-0.965085
+-0.415432
+0.50185
+-0.545577
+0.192955
+599
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+727
+-0.969102
+-0.15779
+0.498323
+0.178091
+0.54219
+600
+NC_018157.1
+Papio anubis isolate 1X1155 chromosome 6  Panu_2.0  whole genome shotgun sequence
+150000
+76
+-0.951
+-0.181394
+0.563952
+-0.228671
+0.0712527
+601
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+380
+-0.961575
+-0.524145
+0.396026
+-0.0489446
+-0.150512
+602
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+765
+-0.986038
+-0.655426
+0.321733
+-0.24322
+0.332066
+603
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+291
+-0.967265
+-0.597084
+0.373652
+-0.298084
+-0.307642
+604
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+959
+-0.942896
+0.100628
+0.701572
+-0.708205
+0.163332
+605
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+456
+-0.95125
+-0.0992272
+0.649702
+-0.837916
+0.0987137
+606
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+1020
+-0.96529
+-0.306269
+0.542056
+-0.620208
+-0.0592453
+607
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+771
+-0.967727
+-0.442719
+0.454456
+-0.397206
+-0.481733
+608
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+39
+-0.946249
+-0.0577823
+0.606926
+-0.170417
+0.119035
+609
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+1022
+-0.965652
+-0.577193
+0.397781
+-0.312102
+-0.0837931
+610
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+152
+-0.972379
+-0.593559
+0.34606
+-0.287998
+-0.393045
+611
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+265
+-0.992566
+-0.582555
+0.374114
+-0.441088
+0.437275
+612
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+729
+-0.980082
+-0.449314
+0.477308
+-0.37384
+0.528192
+613
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+721
+-0.969951
+-0.353015
+0.465937
+0.0577222
+0.361753
+614
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+202
+-0.975326
+-0.668238
+0.315816
+-0.178298
+0.567151
+615
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+538
+-0.995437
+-0.634932
+0.288258
+-0.00719627
+0.894635
+616
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+421
+-0.961625
+-0.280028
+0.511308
+-0.0944162
+0.0215888
+617
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+360
+-0.93661
+-0.0796293
+0.644943
+-0.8887
+-0.000388607
+618
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+1029
+-0.916019
+0.217731
+0.703754
+-0.60004
+-0.28066
+619
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+187
+-0.945446
+0.235779
+0.697656
+-0.278384
+0.349567
+620
+NC_018158.1
+Papio anubis isolate 1X1155 chromosome 7  Panu_2.0  whole genome shotgun sequence
+150000
+504
+-0.974307
+-0.647221
+0.289304
+-0.0760303
+-0.563796
+621
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+84
+-0.960195
+-0.254583
+0.5499
+-0.330582
+0.360421
+622
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+460
+-0.969765
+-0.405878
+0.43582
+0.156726
+0.588367
+623
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+143
+-0.95318
+-0.09288
+0.619197
+-0.442603
+0.766607
+624
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+670
+-0.976912
+-0.588792
+0.386687
+-0.341275
+0.178325
+625
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+163
+-0.969519
+-0.382241
+0.499574
+-0.381129
+0.167742
+626
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+851
+-0.976842
+-0.770701
+0.245366
+-0.214055
+0.0864059
+627
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+853
+-0.989876
+-0.738381
+0.287622
+-0.229948
+0.341943
+628
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+842
+-0.966313
+-0.111918
+0.537247
+0.0660827
+0.403849
+629
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+838
+-0.969285
+-0.523187
+0.419547
+-0.170771
+0.312645
+630
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+400
+-0.992331
+-0.770299
+0.227603
+-0.200844
+-0.18417
+631
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+613
+-0.958882
+-0.350915
+0.42253
+0.325618
+-0.194333
+632
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+819
+-0.96795
+-0.53582
+0.408927
+-0.49718
+-0.449565
+633
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+846
+-0.944556
+-0.194371
+0.60241
+-0.643343
+-0.18436
+634
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+485
+-0.948618
+-0.116508
+0.643489
+-0.906157
+0.374701
+635
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+887
+-0.955704
+-0.180716
+0.59686
+-0.506105
+0.313066
+636
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+883
+-0.945505
+-0.210951
+0.600295
+-0.837647
+0.04514
+637
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+709
+-0.939874
+-0.268392
+0.555319
+-0.463923
+-0.426103
+638
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+529
+-0.954802
+-0.290586
+0.564862
+-0.559247
+0.0246988
+639
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+755
+-0.91839
+0.150521
+0.678435
+-0.609598
+-0.462831
+640
+NC_018159.1
+Papio anubis isolate 1X1155 chromosome 8  Panu_2.0  whole genome shotgun sequence
+150000
+161
+-0.942403
+-0.0728093
+0.595543
+-0.34166
+0.0452202
+641
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+487
+-0.971648
+-0.449866
+0.456662
+-0.329895
+-0.154908
+642
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+747
+-0.963259
+-0.257931
+0.513421
+-0.139704
+-0.126639
+643
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+777
+-0.95187
+-0.160167
+0.548805
+-0.0897249
+0.19083
+644
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+166
+-0.940647
+0.138205
+0.705839
+-0.531685
+0.34367
+645
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+806
+-0.972998
+-0.59431
+0.385318
+-0.370025
+-0.0432369
+646
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+578
+-0.925841
+0.189204
+0.72874
+-1.
+0.196074
+647
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+198
+-0.962678
+-0.420118
+0.512992
+-0.582552
+0.447199
+648
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+305
+-0.986551
+-0.72187
+0.271786
+-0.0469206
+-0.027936
+649
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+442
+-0.973206
+-0.473181
+0.475535
+-0.560524
+0.509613
+650
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+680
+-0.974673
+-0.570998
+0.401184
+-0.324522
+0.40294
+651
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+576
+-0.975596
+-0.477504
+0.370357
+0.333421
+0.42668
+652
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+386
+-0.986867
+-0.623351
+0.295239
+-0.504469
+-0.368891
+653
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+571
+-0.945862
+-0.176357
+0.565736
+-0.207747
+-0.245745
+654
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+527
+-0.973522
+-0.495484
+0.439136
+-0.164242
+0.227783
+655
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+533
+-0.970392
+-0.371558
+0.503681
+-0.308267
+0.369055
+656
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+551
+-0.963837
+-0.442675
+0.493157
+-0.517502
+0.0241078
+657
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+246
+-0.946466
+0.198596
+0.692843
+-0.360534
+0.589319
+658
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+51
+-0.957533
+-0.347737
+0.539105
+-0.686928
+-0.0709442
+659
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+574
+-0.923248
+0.156498
+0.672308
+-0.917251
+-0.524901
+660
+NC_018160.1
+Papio anubis isolate 1X1155 chromosome 9  Panu_2.0  whole genome shotgun sequence
+150000
+196
+-0.895118
+0.791278
+0.746383
+-0.0793045
+-0.171339
+661
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+447
+-0.938785
+0.00667809
+0.658766
+-0.672139
+0.19828
+662
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+589
+-0.960449
+-0.459882
+0.437143
+-0.156758
+0.0722495
+663
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+370
+-0.959442
+-0.451881
+0.472401
+-0.467449
+-0.0249356
+664
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+423
+-0.959284
+-0.153933
+0.513199
+0.175937
+0.0717167
+665
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+369
+-0.931847
+0.212751
+0.713014
+-0.665396
+-0.0567713
+666
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+545
+-0.970736
+-0.49239
+0.40558
+0.0795156
+0.0346054
+667
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+337
+-0.960703
+-0.301004
+0.467594
+-0.0680103
+-0.240716
+668
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+567
+-0.969382
+-0.262411
+0.574744
+-0.614586
+0.484818
+669
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+306
+-0.958424
+-0.204204
+0.549492
+-0.286778
+0.348241
+670
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+205
+-0.943124
+-0.1123
+0.611993
+-0.527743
+-0.210231
+671
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+29
+-0.956821
+-0.185203
+0.592794
+-0.688493
+0.192777
+672
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+339
+-0.964812
+-0.2234
+0.544499
+-0.61685
+0.300858
+673
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+76
+-0.935358
+0.244777
+0.718773
+-0.506968
+0.427176
+674
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+551
+-0.923081
+0.195344
+0.72176
+-0.802521
+0.0473277
+675
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+21
+-0.934201
+0.219291
+0.658054
+-0.163776
+-0.140737
+676
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+578
+-0.954105
+-0.23075
+0.526833
+-0.36399
+-0.622221
+677
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+346
+-0.938275
+0.242166
+0.660817
+-0.104518
+0.270482
+678
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+3
+-0.957207
+-0.204156
+0.573191
+-0.459929
+0.243719
+679
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+373
+-0.920346
+0.373906
+0.716888
+-0.579844
+-0.221436
+680
+NC_018161.1
+Papio anubis isolate 1X1155 chromosome 10  Panu_2.0  whole genome shotgun sequence
+150000
+130
+-0.950782
+0.0280155
+0.662053
+-0.666741
+0.648478
+681
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+734
+-0.952703
+-0.249582
+0.575402
+-0.694984
+0.22831
+682
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+838
+-0.971335
+-0.514563
+0.344174
+0.0264243
+-0.174338
+683
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+35
+-0.983274
+-0.419067
+0.45645
+-0.13688
+0.533964
+684
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+127
+-0.974507
+-0.503187
+0.399509
+-0.176585
+0.171248
+685
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+268
+-0.973529
+-0.543208
+0.405533
+-0.35335
+-0.0520417
+686
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+715
+-0.971862
+-0.593767
+0.375399
+-0.401225
+0.0817439
+687
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+627
+-0.931436
+0.301406
+0.676118
+-0.167379
+0.0785574
+688
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+637
+-0.939362
+0.15348
+0.679674
+-0.275303
+0.338676
+689
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+471
+-0.995935
+-0.757181
+0.227486
+-0.19229
+0.38635
+690
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+15
+-0.961486
+-0.368444
+0.500287
+-0.179912
+0.213339
+691
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+540
+-0.980278
+-0.702593
+0.284458
+-0.0904541
+0.262738
+692
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+175
+-0.944069
+-0.112603
+0.634312
+-0.646317
+0.438786
+693
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+447
+-0.966359
+-0.449592
+0.44545
+-0.188195
+-0.234444
+694
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+351
+-0.955666
+-0.302587
+0.510148
+-0.105534
+0.119711
+695
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+503
+-0.978503
+-0.634682
+0.358978
+-0.242235
+0.106449
+696
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+322
+-0.933992
+0.289952
+0.711147
+-0.474382
+0.260467
+697
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+856
+-0.97303
+-0.117816
+0.505521
+0.217849
+0.534969
+698
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+197
+-0.947013
+-0.144837
+0.605494
+-0.56912
+0.321952
+699
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+616
+-0.94068
+0.13088
+0.698227
+-0.765796
+0.196449
+700
+NC_018162.1
+Papio anubis isolate 1X1155 chromosome 11  Panu_2.0  whole genome shotgun sequence
+150000
+71
+-0.986157
+-0.692365
+0.325575
+-0.355711
+0.158084
+701
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+592
+-0.983967
+-0.671464
+0.333669
+-0.340454
+-0.0717141
+702
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+177
+-0.96953
+-0.494217
+0.453553
+-0.417188
+0.493937
+703
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+47
+-0.96709
+-0.66991
+0.323538
+-0.217092
+-0.123386
+704
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+174
+-0.970004
+-0.585649
+0.349147
+0.0933858
+-0.0659544
+705
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+411
+-0.981692
+-0.535943
+0.428201
+-0.476964
+0.138858
+706
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+78
+-0.901217
+0.11023
+0.650497
+-0.316026
+0.127384
+707
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+492
+-0.974211
+-0.461407
+0.46666
+-0.328522
+0.464274
+708
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+251
+-0.980089
+-0.679625
+0.319775
+-0.228041
+-0.146411
+709
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+253
+-0.989163
+-0.725288
+0.261206
+-0.074304
+0.0608471
+710
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+301
+-0.979049
+-0.693767
+0.283286
+-0.0475733
+-0.0703129
+711
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+439
+-0.982961
+-0.739587
+0.255295
+-0.0647536
+-0.12977
+712
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+50
+-0.964604
+-0.369812
+0.520691
+-0.478085
+0.075528
+713
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+247
+-0.986465
+-0.648503
+0.352991
+-0.169626
+0.561305
+714
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+453
+-0.967356
+-0.248665
+0.420595
+0.46766
+0.00773135
+715
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+449
+-0.966756
+-0.480808
+0.450955
+-0.38198
+0.0331288
+716
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+550
+-0.967377
+-0.622345
+0.365113
+-0.39266
+-0.201329
+717
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+373
+-0.950919
+-0.382795
+0.469294
+-0.0945954
+-0.0398618
+718
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+313
+-0.972011
+-0.501151
+0.424437
+-0.205849
+0.446406
+719
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+617
+-0.960008
+-0.0887852
+0.531693
+0.13977
+0.277239
+720
+NC_018163.1
+Papio anubis isolate 1X1155 chromosome 12  Panu_2.0  whole genome shotgun sequence
+150000
+366
+-0.946464
+-0.0888734
+0.592496
+-0.512545
+0.168779
+721
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+394
+-0.949323
+0.00166062
+0.636538
+-0.553252
+0.670984
+722
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+490
+-0.976986
+-0.588975
+0.408303
+-0.391813
+0.462732
+723
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+711
+-0.963591
+-0.564527
+0.330411
+0.191102
+-0.291387
+724
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+539
+-0.96174
+-0.36261
+0.496804
+-0.296257
+-0.140501
+725
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+748
+-0.976884
+-0.45917
+0.43636
+-0.00286741
+0.312238
+726
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+601
+-0.979162
+-0.438779
+0.409588
+0.0449022
+0.672409
+727
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+21
+-0.969683
+-0.333619
+0.459993
+0.102945
+0.212623
+728
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+351
+-0.956059
+-0.465225
+0.429714
+-0.352703
+-0.537941
+729
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+604
+-0.976215
+-0.664624
+0.297905
+-0.109895
+-0.192894
+730
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+470
+-0.956371
+-0.400714
+0.509291
+-0.600476
+-0.217255
+731
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+117
+-0.968562
+-0.532793
+0.427846
+-0.399243
+-0.111456
+732
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+301
+-0.991884
+-0.690824
+0.275882
+-0.107243
+0.292121
+733
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+654
+-0.946438
+-0.26632
+0.484897
+0.130545
+-0.196715
+734
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+441
+-0.942462
+-0.270196
+0.526919
+-0.321729
+-0.278825
+735
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+204
+-0.952502
+-0.205737
+0.557662
+-0.328479
+-0.0575556
+736
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+598
+-0.964904
+-0.416746
+0.497333
+-0.631475
+-0.279062
+737
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+492
+-0.972311
+-0.456502
+0.385971
+0.238206
+-0.118484
+738
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+3
+-0.975452
+-0.588009
+0.389685
+-0.326528
+0.54587
+739
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+723
+-0.975738
+-0.610414
+0.340336
+-0.343353
+-0.271871
+740
+NC_018164.1
+Papio anubis isolate 1X1155 chromosome 13  Panu_2.0  whole genome shotgun sequence
+150000
+236
+-0.941124
+0.0757696
+0.617579
+-0.40055
+-0.0834852
+741
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+591
+-0.945659
+0.325427
+0.671325
+-0.0796145
+0.391046
+742
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+435
+-0.928001
+0.256495
+0.72361
+-0.522684
+-0.0401177
+743
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+20
+-0.961677
+-0.31404
+0.549141
+-0.479749
+0.299669
+744
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+403
+-0.979483
+-0.592215
+0.386425
+-0.48243
+-0.142518
+745
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+47
+-0.951036
+-0.282087
+0.586469
+-0.950592
+-0.0654353
+746
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+366
+-0.941147
+-0.258887
+0.556899
+-0.433337
+-0.283629
+747
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+519
+-0.972813
+-0.36712
+0.462826
+0.0135267
+0.462562
+748
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+476
+-0.981288
+-0.228125
+0.399163
+0.651843
+0.571347
+749
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+359
+-0.941858
+-0.0728549
+0.558425
+-0.0255537
+-0.246927
+750
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+607
+-0.966921
+-0.401515
+0.437858
+0.137416
+0.188228
+751
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+448
+-0.969204
+-0.445672
+0.42206
+0.0941794
+-0.269012
+752
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+572
+-0.978667
+-0.657244
+0.340831
+-0.302485
+0.343764
+753
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+228
+-0.973116
+-0.646177
+0.32185
+-0.147076
+-0.315305
+754
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+298
+-0.978948
+-0.637203
+0.359358
+-0.305557
+0.0128112
+755
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+78
+-0.981386
+-0.728735
+0.284104
+-0.211152
+0.0815584
+756
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+475
+-0.98463
+-0.670391
+0.333404
+-0.372023
+-0.110957
+757
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+629
+-0.973991
+-0.652493
+0.349115
+-0.343747
+-0.155667
+758
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+192
+-0.968763
+-0.494004
+0.430814
+-0.210665
+0.241491
+759
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+342
+-0.97724
+-0.580025
+0.397487
+-0.263328
+0.396151
+760
+NC_018165.1
+Papio anubis isolate 1X1155 chromosome 14  Panu_2.0  whole genome shotgun sequence
+150000
+464
+-0.942795
+-0.0192078
+0.619124
+-0.254468
+0.345594
+761
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+579
+-0.928117
+0.262978
+0.671227
+-0.277341
+0.0336221
+762
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+290
+-0.9306
+0.358183
+0.696845
+-0.219585
+-0.0953056
+763
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+694
+-0.930033
+0.429091
+0.650564
+0.106377
+-0.29497
+764
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+121
+-0.961766
+-0.320265
+0.559132
+-0.649179
+0.25046
+765
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+235
+-0.968097
+-0.401007
+0.512161
+-0.508273
+0.165064
+766
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+122
+-0.986453
+-0.724103
+0.27496
+-0.211627
+-0.136253
+767
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+340
+-0.942769
+-0.0664233
+0.65195
+-0.752428
+-0.0381981
+768
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+648
+-0.965486
+-0.437994
+0.41315
+0.0993079
+-0.336919
+769
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+35
+-0.991676
+-0.685213
+0.311708
+-0.264984
+-0.0289445
+770
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+59
+-0.995522
+-0.711701
+0.26912
+-0.0912452
+0.655909
+771
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+467
+-0.979189
+-0.746419
+0.26015
+-0.0521449
+0.185157
+772
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+57
+-0.983787
+-0.693232
+0.304708
+-0.188755
+0.383461
+773
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+36
+-0.985663
+-0.432022
+0.441365
+-0.0493257
+0.656537
+774
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+457
+-0.977374
+-0.5
+0.466663
+-0.511076
+0.251092
+775
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+330
+-0.975057
+-0.480152
+0.461068
+-0.420839
+0.469321
+776
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+303
+-0.970018
+-0.497094
+0.416643
+-0.0883412
+-0.132851
+777
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+392
+-0.920196
+0.496094
+0.727772
+-0.209067
+0.0856032
+778
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+211
+-0.961533
+-0.414077
+0.44667
+-0.0413811
+-0.198869
+779
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+636
+-0.944309
+-0.116491
+0.50569
+0.243781
+-0.16148
+780
+NC_018166.1
+Papio anubis isolate 1X1155 chromosome 15  Panu_2.0  whole genome shotgun sequence
+150000
+268
+-0.919305
+0.552867
+0.742545
+-0.274738
+0.249921
+781
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+91
+-0.925025
+0.28472
+0.624169
+0.150517
+-0.292698
+782
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+29
+-0.936985
+-0.0889055
+0.600695
+-0.261427
+0.291853
+783
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+465
+-0.952292
+-0.108094
+0.576639
+-0.222899
+0.149282
+784
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+242
+-0.944902
+0.204141
+0.703617
+-0.39149
+0.568089
+785
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+419
+-0.948126
+0.109282
+0.649503
+-0.153277
+0.225793
+786
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+485
+-0.971503
+-0.426883
+0.493769
+-0.655096
+0.158897
+787
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+230
+-0.942856
+-0.0938548
+0.651077
+-0.887846
+0.0342742
+788
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+458
+-0.923815
+0.351665
+0.717623
+-0.394858
+0.116771
+789
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+192
+-0.973893
+-0.669997
+0.336345
+-0.280204
+-0.126862
+790
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+445
+-0.970297
+-0.529078
+0.449028
+-0.510779
+0.275469
+791
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+392
+-0.958801
+-0.294445
+0.360356
+0.734064
+-0.397984
+792
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+28
+-0.959744
+-0.179178
+0.549547
+-0.115887
+0.404941
+793
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+100
+-0.941894
+0.0604839
+0.66043
+-0.457916
+0.0542764
+794
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+157
+-0.944059
+0.228529
+0.655833
+-0.0524627
+0.182393
+795
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+179
+-0.931584
+0.0636178
+0.611758
+-0.256814
+-0.459143
+796
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+460
+-0.922553
+0.436147
+0.71954
+-0.263476
+0.0968962
+797
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+121
+-0.902254
+0.582208
+0.759266
+-0.307069
+-0.0885765
+798
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+180
+-0.929107
+0.205431
+0.665061
+-0.355962
+0.404844
+799
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+472
+-0.928383
+0.488802
+0.686482
+-0.0555066
+0.816887
+800
+NC_018167.1
+Papio anubis isolate 1X1155 chromosome 16  Panu_2.0  whole genome shotgun sequence
+150000
+262
+-0.961214
+-0.236997
+0.495014
+0.138501
+0.127247
+801
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+528
+-0.98063
+-0.674933
+0.319443
+-0.228371
+-0.183282
+802
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+484
+-0.982971
+-0.750727
+0.253857
+-0.148098
+-0.0412302
+803
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+274
+-0.968715
+-0.687066
+0.310597
+-0.104397
+-0.110823
+804
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+355
+-0.989598
+-0.657694
+0.28437
+-0.111114
+-0.397645
+805
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+220
+-0.973254
+-0.672331
+0.304065
+-0.00295024
+-0.00557975
+806
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+348
+-0.989481
+-0.760436
+0.242774
+-0.164639
+0.0696853
+807
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+211
+-0.983441
+-0.656992
+0.306719
+0.0161555
+0.112935
+808
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+388
+-0.959752
+-0.52492
+0.417918
+-0.219215
+-0.0883451
+809
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+467
+-0.990192
+-0.668494
+0.321607
+-0.263449
+0.371521
+810
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+353
+-0.987848
+-0.664349
+0.28548
+-0.351185
+-0.430339
+811
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+469
+-0.980976
+-0.713105
+0.28045
+-0.0253862
+-0.0908512
+812
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+251
+-0.983493
+-0.672436
+0.310398
+-0.14916
+0.450906
+813
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+311
+-0.980314
+-0.620828
+0.3587
+-0.256079
+0.267524
+814
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+478
+-0.959722
+-0.03938
+0.511823
+0.328753
+-0.190594
+815
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+588
+-0.985829
+-0.572496
+0.409439
+-0.25901
+0.403043
+816
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+332
+-0.975728
+-0.51556
+0.440349
+-0.405603
+0.3058
+817
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+299
+-0.972537
+-0.683095
+0.285336
+-0.0617668
+0.131455
+818
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+534
+-0.95029
+-0.360423
+0.519545
+-0.516375
+0.0563794
+819
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+153
+-0.92425
+0.238172
+0.67287
+-0.264434
+0.272685
+820
+NC_018168.1
+Papio anubis isolate 1X1155 chromosome 17  Panu_2.0  whole genome shotgun sequence
+150000
+568
+-0.954741
+-0.21522
+0.549158
+-0.184125
+0.34388
+821
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+100
+-0.95872
+-0.467685
+0.447846
+-0.285448
+-0.176928
+822
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+216
+-0.963762
+-0.395487
+0.504413
+-0.587993
+0.178489
+823
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+426
+-0.959461
+-0.114225
+0.512956
+0.210989
+0.166871
+824
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+38
+-0.960287
+-0.338267
+0.521729
+-0.428017
+0.478484
+825
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+230
+-0.952704
+-0.472469
+0.461903
+-0.456329
+-0.340404
+826
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+51
+-0.961366
+-0.510348
+0.410169
+-0.217051
+0.0567433
+827
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+149
+-0.982073
+-0.664037
+0.330081
+-0.21637
+0.10755
+828
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+118
+-0.968779
+-0.643931
+0.346907
+-0.287272
+-0.00293778
+829
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+359
+-0.979341
+-0.564667
+0.421179
+-0.382387
+0.481715
+830
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+110
+-0.972702
+-0.693852
+0.31104
+-0.200266
+-0.032205
+831
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+30
+-0.978138
+-0.698795
+0.294391
+-0.111962
+-0.116432
+832
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+133
+-0.994579
+-0.681516
+0.32795
+-0.3318
+0.300836
+833
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+298
+-0.97651
+-0.623617
+0.303273
+-0.414806
+-0.632906
+834
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+401
+-0.977883
+-0.674992
+0.279572
+0.246029
+0.255686
+835
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+413
+-0.975078
+-0.622586
+0.341719
+-0.205993
+0.273496
+836
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+226
+-0.971753
+-0.31217
+0.48979
+-0.0391744
+0.425537
+837
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+303
+-0.976526
+-0.640231
+0.329585
+-0.19288
+-0.0525856
+838
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+453
+-0.970814
+-0.544519
+0.394895
+-0.308636
+-0.0564403
+839
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+433
+-0.947543
+-0.0767303
+0.589906
+-0.26453
+0.175717
+840
+NC_018169.1
+Papio anubis isolate 1X1155 chromosome 18  Panu_2.0  whole genome shotgun sequence
+150000
+229
+-0.893382
+1.
+0.721394
+0.141591
+-0.00745935
+841
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+17
+-0.894596
+0.864276
+0.713975
+0.21553
+-0.179486
+842
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+203
+-0.916121
+0.568935
+0.666685
+0.153476
+0.179539
+843
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+275
+-0.914368
+0.618147
+0.68762
+0.14472
+0.0651259
+844
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+64
+-0.977636
+-0.112836
+0.528686
+-0.144348
+0.514186
+845
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+46
+-0.935347
+0.520648
+0.666761
+0.168403
+0.426299
+846
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+278
+-0.962114
+-0.0445603
+0.493815
+0.311493
+0.195671
+847
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+127
+-0.912112
+0.729572
+0.736899
+0.00889956
+0.356874
+848
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+139
+-0.983376
+-0.371026
+0.376479
+0.368421
+0.252477
+849
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+3
+-0.971562
+-0.214119
+0.436841
+0.295856
+-0.0987043
+850
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+318
+-0.984792
+-0.0986921
+-0.0967434
+-0.264918
+-0.153603
+851
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+134
+-0.986076
+-0.109991
+-0.263035
+0.0010174
+-0.51705
+852
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+68
+-0.982146
+-0.400041
+0.379751
+0.163487
+0.365908
+853
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+302
+-0.916143
+0.573341
+0.687481
+0.0151573
+-0.0612351
+854
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+52
+-0.920872
+0.569323
+0.661679
+0.149347
+0.192248
+855
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+123
+-0.90933
+0.649774
+0.743758
+-0.202988
+0.146913
+856
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+292
+-0.960524
+-0.0579766
+0.525894
+0.120374
+0.363413
+857
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+324
+-0.935561
+0.419351
+0.597096
+0.356575
+0.157657
+858
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+9
+-0.965078
+-0.363548
+0.474605
+-0.11333
+0.209519
+859
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+277
+-0.956851
+-0.113603
+0.549872
+-0.289264
+0.242522
+860
+NC_018170.1
+Papio anubis isolate 1X1155 chromosome 19  Panu_2.0  whole genome shotgun sequence
+150000
+111
+-0.957224
+0.00197966
+0.623684
+-0.263654
+0.551589
+861
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+227
+-0.955019
+-0.344836
+0.508627
+-0.438361
+-0.200619
+862
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+448
+-0.963471
+-0.370156
+0.49565
+-0.35023
+0.0300087
+863
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+310
+-0.956851
+-0.208407
+0.580583
+-0.48377
+0.277993
+864
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+285
+-0.94817
+-0.133679
+0.53348
+0.0873841
+0.0527172
+865
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+403
+-0.960006
+-0.497327
+0.457134
+-0.483673
+0.284309
+866
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+409
+-0.969795
+-0.564943
+0.421854
+-0.499549
+0.0888408
+867
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+226
+-0.940613
+0.151988
+0.630289
+-0.276776
+0.133908
+868
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+54
+-0.948457
+0.148807
+0.671785
+-0.28412
+0.345127
+869
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+292
+-0.959951
+-0.0866715
+0.517079
+0.238091
+0.400782
+870
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+462
+-0.980583
+-0.652759
+0.318392
+-0.096644
+0.132091
+871
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+414
+-0.980775
+-0.622364
+0.339875
+-0.128436
+0.126545
+872
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+104
+-0.978811
+-0.648277
+0.345326
+-0.230284
+0.130302
+873
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+33
+-0.960906
+-0.425872
+0.483679
+-0.451364
+-0.1134
+874
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+257
+-0.962751
+-0.369517
+0.521229
+-0.524901
+0.357126
+875
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+122
+-0.945172
+-0.243388
+0.560089
+-0.722684
+-0.610821
+876
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+306
+-0.955001
+-0.0819774
+0.591706
+-0.246271
+0.219982
+877
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+259
+-0.948745
+-0.213356
+0.584541
+-0.612305
+0.246242
+878
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+125
+-0.912238
+0.200843
+0.713048
+-0.601996
+0.1516
+879
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+429
+-0.893923
+0.937456
+0.795287
+-0.341643
+-0.098029
+880
+NC_018171.1
+Papio anubis isolate 1X1155 chromosome 20  Panu_2.0  whole genome shotgun sequence
+150000
+271
+-0.969921
+-0.422995
+0.419461
+-0.248197
+0.000248092
+881
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+863
+-0.965527
+-0.565907
+0.373718
+-0.0228449
+0.140734
+882
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+339
+-0.962675
+-0.541524
+0.426079
+-0.429901
+-0.000393815
+883
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+363
+-0.971028
+-0.489336
+0.424652
+-0.219211
+-0.0253153
+884
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+503
+-0.982477
+-0.453813
+0.401635
+-0.668785
+0.183791
+885
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+936
+-0.978187
+-0.558606
+0.344256
+-0.531313
+0.12182
+886
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+560
+-0.988621
+-0.60268
+0.298356
+-0.487302
+-0.0268309
+887
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+601
+-0.976516
+-0.63875
+0.283462
+-0.488613
+-0.300423
+888
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+171
+-0.989661
+-0.697885
+0.283536
+-0.249573
+0.268013
+889
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+71
+-0.98153
+-0.648355
+0.333933
+-0.264514
+0.199035
+890
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+641
+-0.975841
+-0.644525
+0.30868
+-0.433124
+-0.580333
+891
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+935
+-0.976784
+-0.695846
+0.298055
+-0.31389
+-0.323104
+892
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+625
+-0.979639
+-0.729532
+0.286383
+-0.400996
+-0.0413608
+893
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+563
+-0.977953
+-0.588644
+0.374535
+-0.4497
+-0.00786737
+894
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+720
+-0.973983
+-0.604411
+0.34539
+-0.56543
+-0.323911
+895
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+263
+-0.987993
+-0.697493
+0.277013
+-0.0804199
+0.115577
+896
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+488
+-0.999931
+-0.658754
+0.325292
+-0.365971
+0.40377
+897
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+532
+-0.962754
+-0.542136
+0.415325
+-0.359698
+0.146353
+898
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+391
+-0.982042
+-0.556652
+0.390096
+-0.265358
+0.1933
+899
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+586
+-0.972338
+-0.612267
+0.365936
+-0.33131
+0.290085
+900
+NC_018172.1
+Papio anubis isolate 1X1155 chromosome X  Panu_2.0  whole genome shotgun sequence
+150000
+283

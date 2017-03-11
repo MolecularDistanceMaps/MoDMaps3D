@@ -1,0 +1,10007 @@
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+H.sapiens (480), N.leucogenys (520)
+Composite signature (nuclear + mtDNA); Sampling from H.sapiens and N.leucogenys; Number of genomic DNA sequences is 1000; FCGR with k=9; Approx. Information
+-0.276517
+-0.305278
+-0.901345
+-0.502078
+0.132481
+1
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+249
+-0.156793
+-0.418159
+-0.6933
+0.745207
+0.648099
+2
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+640
+-0.25976
+-0.0472626
+-0.959539
+-0.801719
+-0.0562489
+3
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+856
+-0.283233
+-0.174909
+-0.922334
+-0.274353
+-0.13107
+4
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+188
+-0.259721
+-0.0485592
+-0.966906
+-0.699136
+0.120333
+5
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+243
+-0.241958
+-0.0738397
+-0.898759
+0.137271
+-0.146371
+6
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1310
+-0.314048
+-0.720969
+-0.77575
+-0.659739
+-0.230555
+7
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+916
+-0.311993
+-0.748457
+-0.765009
+-0.24993
+0.268353
+8
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1523
+-0.313342
+-0.565051
+-0.821442
+-0.228539
+0.0222535
+9
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+197
+-0.305414
+-0.797009
+-0.740727
+-0.497362
+0.240925
+10
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+869
+-0.290804
+-0.426006
+-0.856998
+-0.170167
+0.358985
+11
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+936
+-0.319482
+-0.512126
+-0.846379
+-0.571819
+0.214842
+12
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+221
+-0.289074
+-0.524317
+-0.783196
+-0.125826
+-0.399229
+13
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+505
+-0.197763
+-0.225114
+-0.805041
+0.386191
+0.23779
+14
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+458
+-0.322146
+-0.799615
+-0.724708
+-0.295554
+-0.14811
+15
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+84
+-0.22452
+-0.174119
+-0.842491
+-0.27433
+0.0896737
+16
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1464
+-0.308443
+-0.746131
+-0.761915
+-0.534246
+0.363285
+17
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+838
+-0.315409
+-0.685291
+-0.79704
+-0.431093
+0.200962
+18
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+627
+-0.317323
+-0.681139
+-0.796566
+-0.478599
+0.250837
+19
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1336
+-0.265871
+-0.382325
+-0.807906
+0.300694
+-0.02469
+20
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+955
+-0.269626
+-0.378997
+-0.820962
+0.254925
+-0.194642
+21
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1600
+-0.323552
+-0.641583
+-0.801054
+-0.325866
+-0.118608
+22
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1051
+-0.332993
+-0.680545
+-0.79841
+-0.578626
+-0.134215
+23
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+725
+-0.309114
+-0.910839
+-0.680184
+-0.296834
+-0.0844468
+24
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1231
+-0.286174
+-0.794862
+-0.708217
+0.171373
+0.369838
+25
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+771
+-0.318618
+-0.780888
+-0.722048
+-0.0630405
+-0.402694
+26
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+496
+-0.280154
+-0.218728
+-0.904688
+-0.231939
+-0.198403
+27
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+336
+0.942181
+0.291813
+0.925493
+-0.537581
+0.0322514
+28
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+297
+-0.232879
+-0.238201
+-0.869163
+0.0075453
+0.0759743
+29
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1202
+-0.306514
+-0.306082
+-0.896936
+-0.418632
+-0.198255
+30
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+660
+-0.31418
+-0.785634
+-0.725475
+-0.126899
+-0.0780298
+31
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+836
+-0.275236
+-0.112428
+-0.935799
+-0.658581
+-0.486451
+32
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+785
+-0.309868
+-0.772437
+-0.728931
+-0.210142
+-0.42416
+33
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+116
+-0.287127
+-0.269699
+-0.886395
+-0.0798525
+-0.223969
+34
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+684
+-0.310551
+-0.63798
+-0.813117
+-0.608208
+0.201546
+35
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+272
+-0.295063
+-0.212589
+-0.925458
+-0.568904
+0.0158143
+36
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+98
+-0.281015
+-0.355424
+-0.870493
+-0.130006
+0.202728
+37
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+805
+-0.312695
+-0.835398
+-0.722393
+-0.271797
+0.385362
+38
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+661
+-0.303467
+-0.858639
+-0.679032
+-0.102667
+-0.652162
+39
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+612
+-0.144445
+0.361216
+-0.932192
+0.1533
+-0.328219
+40
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+75
+-0.30602
+-0.769499
+-0.743373
+-0.372815
+-0.465696
+41
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+716
+-0.321091
+-0.76368
+-0.760038
+-0.405299
+0.382303
+42
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+623
+-0.307537
+-0.870971
+-0.697284
+-0.396656
+-0.0832156
+43
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+783
+-0.300133
+-0.780378
+-0.73874
+-0.416956
+0.209034
+44
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+563
+-0.31464
+-0.731282
+-0.764761
+-0.240165
+0.250679
+45
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+717
+-0.327295
+-0.719204
+-0.79752
+-0.613692
+0.254741
+46
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+747
+-0.308901
+-0.429907
+-0.885005
+-0.588305
+-0.132155
+47
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+156
+-0.324906
+-0.673823
+-0.803461
+-0.428694
+0.150181
+48
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+47
+-0.301432
+-0.710078
+-0.771664
+-0.462982
+0.52558
+49
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+6
+-0.317245
+-0.531561
+-0.81485
+-0.0265833
+-0.416432
+50
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+739
+-0.286711
+-1.
+-0.622165
+-0.220318
+0.148413
+51
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+366
+0.964348
+0.320479
+0.949074
+-0.51764
+0.0607139
+52
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+815
+-0.282213
+-0.87655
+-0.675661
+-0.458331
+0.62875
+53
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1313
+-0.319799
+-0.63807
+-0.783611
+-0.0319878
+-0.319965
+54
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+166
+-0.290537
+-0.774752
+-0.726668
+-0.0876963
+0.658702
+55
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+192
+-0.330836
+-0.781495
+-0.762819
+-0.520921
+-0.141636
+56
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+147
+-0.303043
+-0.580711
+-0.82413
+-0.645732
+0.602372
+57
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+646
+-0.318038
+-0.788237
+-0.736252
+-0.165687
+-0.0642637
+58
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+452
+-0.305944
+-0.521115
+-0.818874
+-0.0482097
+-0.0927271
+59
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+419
+-0.226097
+-0.0150981
+-0.902979
+0.0944605
+0.0854573
+60
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+460
+-0.325897
+-0.768708
+-0.746706
+-0.198925
+-0.1579
+61
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1237
+-0.323327
+-0.783953
+-0.753167
+-0.441244
+0.230137
+62
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1066
+-0.312598
+-0.344815
+-0.89036
+-0.468272
+-0.624594
+63
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+143
+-0.308489
+-0.832612
+-0.705979
+-0.213973
+-0.064712
+64
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1174
+-0.296357
+-0.957502
+-0.663272
+-0.392915
+0.278298
+65
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+897
+-0.333838
+-0.614264
+-0.828939
+-0.635206
+-0.0373733
+66
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+611
+-0.315124
+-0.840456
+-0.701384
+-0.180243
+-0.358781
+67
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+847
+-0.302219
+-0.709181
+-0.759136
+-0.41678
+0.317703
+68
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1090
+-0.295658
+-0.812151
+-0.719644
+-0.279684
+0.555585
+69
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+498
+-0.325276
+-0.75515
+-0.729119
+-0.178357
+-0.545798
+70
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+234
+-0.292426
+-0.956891
+-0.643093
+-0.137443
+0.149262
+71
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+910
+-0.299726
+-0.962198
+-0.645946
+-0.310781
+-0.208925
+72
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1112
+-0.303147
+-0.825692
+-0.718301
+-0.201676
+0.285971
+73
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+166
+-0.305186
+-0.865952
+-0.708684
+-0.517507
+0.290336
+74
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+793
+-0.305733
+-0.886066
+-0.67972
+-0.0548489
+-0.0911518
+75
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+438
+-0.303741
+-0.904227
+-0.671275
+-0.132354
+-0.545939
+76
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1115
+-0.298208
+-0.875105
+-0.686425
+-0.196997
+0.216448
+77
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+873
+-0.309879
+-0.807421
+-0.724127
+-0.178902
+-0.0134905
+78
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1239
+-0.303105
+-0.48739
+-0.826373
+-0.160193
+-0.0514457
+79
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+156
+-0.269501
+-0.388515
+-0.847548
+-0.506664
+0.549502
+80
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+754
+-0.306437
+-0.824107
+-0.70957
+-0.178094
+-0.123354
+81
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1008
+-0.297058
+-0.801946
+-0.705229
+0.0314552
+-0.0144098
+82
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+84
+-0.224342
+-0.387683
+-0.786263
+0.346957
+0.40676
+83
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+431
+-0.317184
+-0.867302
+-0.708075
+-0.16001
+-0.0140898
+84
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+296
+-0.224709
+-0.345544
+-0.810732
+0.274192
+0.168372
+85
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+630
+-0.303873
+-0.877248
+-0.693812
+-0.120614
+0.306809
+86
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+288
+-0.312707
+-0.528326
+-0.837211
+-0.223444
+0.13583
+87
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+373
+-0.311901
+-0.489938
+-0.842523
+-0.22875
+-0.163057
+88
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+988
+-0.292728
+-0.911261
+-0.664338
+-0.0158369
+0.404943
+89
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+709
+-0.294231
+-0.814163
+-0.688141
+0.0780273
+0.118792
+90
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+163
+-0.299034
+-0.91018
+-0.661733
+-0.275579
+-0.314272
+91
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+433
+-0.297062
+-0.939011
+-0.658884
+-0.272412
+0.252556
+92
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+554
+-0.303388
+-0.470313
+-0.854645
+-0.33986
+-0.0160285
+93
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+795
+-0.32506
+-0.739385
+-0.779761
+-0.42305
+0.140427
+94
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1084
+-0.315955
+-0.81321
+-0.741751
+-0.319922
+0.178053
+95
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1080
+-0.31613
+-0.63604
+-0.816315
+-0.395289
+0.0905809
+96
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+957
+-0.319198
+-0.816031
+-0.727585
+-0.521957
+0.239057
+97
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+665
+-0.283749
+-0.425015
+-0.867557
+-0.439965
+0.434555
+98
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+496
+-0.315193
+-0.840438
+-0.708201
+-0.213378
+0.0745095
+99
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+857
+-0.303343
+-0.865611
+-0.693878
+-0.305514
+-0.0139656
+100
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+858
+-0.240759
+-0.224672
+-0.836478
+0.411055
+-0.359201
+101
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+884
+-0.306592
+-0.365711
+-0.901855
+-0.482742
+0.127006
+102
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+274
+-0.322549
+-0.823047
+-0.733551
+-0.291573
+-0.0148585
+103
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1058
+-0.313376
+-0.844575
+-0.719761
+-0.370219
+0.172352
+104
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+838
+-0.323261
+-0.82127
+-0.726147
+-0.328419
+-0.233456
+105
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+641
+-0.292981
+-0.704486
+-0.763729
+-0.310769
+0.552364
+106
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+670
+-0.304998
+-0.746442
+-0.722911
+0.0737337
+-0.380502
+107
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+320
+-0.305657
+-0.794344
+-0.738262
+-0.253111
+0.447042
+108
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+335
+-0.303535
+-0.842012
+-0.70069
+-0.344962
+-0.176601
+109
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+616
+-0.317859
+-0.83329
+-0.719018
+-0.269333
+-0.396615
+110
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+979
+-0.326487
+-0.720402
+-0.764887
+-0.279908
+-0.607591
+111
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+503
+-0.300476
+-0.787646
+-0.739963
+-0.521297
+0.0676909
+112
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+790
+-0.300444
+-0.602016
+-0.777207
+0.0953464
+-0.205384
+113
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+480
+-0.299912
+-0.922906
+-0.66046
+-0.151026
+-0.354306
+114
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+909
+-0.312714
+-0.815566
+-0.738265
+-0.423376
+0.300751
+115
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+231
+-0.298692
+-0.786417
+-0.74194
+-0.539774
+0.358488
+116
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+527
+-0.281931
+-0.545771
+-0.796806
+-0.181158
+0.557464
+117
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+532
+-0.311599
+-0.774173
+-0.729787
+-0.0628685
+0.0199395
+118
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+799
+-0.29547
+-0.32098
+-0.900115
+-0.559542
+0.364835
+119
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1127
+-0.275588
+-0.259631
+-0.84398
+-0.126328
+-0.532702
+120
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+539
+-0.11617
+0.443288
+-0.926521
+-0.0275841
+0.510488
+121
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+864
+-0.0970921
+0.674548
+-0.946586
+-0.294103
+-0.648759
+122
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+527
+-0.312658
+-0.691085
+-0.786469
+-0.26938
+0.322122
+123
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+801
+-0.317736
+-0.443545
+-0.860659
+-0.439019
+-0.523142
+124
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+945
+-0.239491
+0.114761
+-0.948441
+-0.26464
+-0.733206
+125
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+398
+-0.270393
+-0.498504
+-0.827077
+-0.8269
+0.690045
+126
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+315
+0.992106
+0.366088
+0.989075
+-0.534244
+0.0199571
+127
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+702
+0.99192
+0.365319
+0.99189
+-0.52326
+0.000841386
+128
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+271
+1.
+0.374747
+1.
+-0.540668
+-0.00499683
+129
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+395
+-0.316143
+-0.81975
+-0.720332
+-0.269318
+0.156641
+130
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+344
+-0.314266
+-0.748636
+-0.74106
+-0.118148
+0.373108
+131
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+13
+-0.303359
+-0.682439
+-0.78031
+-0.601492
+-0.203552
+132
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+631
+-0.292125
+-0.744201
+-0.741127
+-0.246482
+0.715852
+133
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+393
+-0.25288
+-0.340519
+-0.794468
+0.394352
+-0.301539
+134
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+6
+-0.199752
+-0.302106
+-0.775306
+0.571816
+0.33012
+135
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+897
+-0.306169
+-0.909175
+-0.678561
+-0.181912
+0.27893
+136
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+533
+-0.306512
+-0.827965
+-0.727306
+-0.479385
+0.405853
+137
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+317
+-0.233831
+-0.0735891
+-0.882721
+0.206767
+-0.20619
+138
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+619
+-0.311785
+-0.567798
+-0.825148
+-0.279379
+0.141754
+139
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+819
+-0.296934
+-0.630203
+-0.79108
+-0.567184
+0.376317
+140
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+659
+-0.292837
+-0.381791
+-0.849489
+-0.250822
+0.00770318
+141
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+957
+-0.299278
+-0.531164
+-0.798194
+-0.107848
+-0.103039
+142
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+495
+-0.290847
+-0.495474
+-0.78314
+0.25413
+-0.424509
+143
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+675
+-0.261103
+-0.738727
+-0.717764
+-0.261928
+1.
+144
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+18
+-0.252605
+-0.36683
+-0.812689
+0.283564
+0.141673
+145
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+579
+0.0738912
+0.104291
+-0.549352
+-0.562351
+-0.173909
+146
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+308
+-0.311736
+-0.797511
+-0.728188
+-0.271785
+-0.399599
+147
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+493
+-0.304117
+-0.484527
+-0.850625
+-0.345326
+0.0817395
+148
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+280
+-0.291779
+-0.782118
+-0.74253
+-0.491752
+0.603786
+149
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+886
+-0.306222
+-0.912538
+-0.673192
+-0.27101
+-0.153843
+150
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+894
+-0.290957
+-0.781317
+-0.725141
+-0.122618
+0.429878
+151
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+707
+-0.270111
+-0.598949
+-0.727872
+0.308941
+-1.
+152
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+194
+-0.277628
+-0.429858
+-0.840943
+-0.0611529
+-0.166771
+153
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+260
+-0.309839
+-0.755703
+-0.746926
+-0.129215
+0.13077
+154
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+657
+-0.265751
+-0.663144
+-0.725866
+-0.262384
+0.228308
+155
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+721
+-0.307475
+-0.755844
+-0.747599
+-0.128863
+0.0959684
+156
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+716
+-0.294359
+-0.66612
+-0.748808
+0.158933
+0.0388579
+157
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+460
+-0.275976
+-0.0924124
+-0.954817
+-0.700118
+-0.135079
+158
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+513
+-0.327401
+-0.488112
+-0.8735
+-0.707193
+-0.126364
+159
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+17
+-0.112942
+0.590589
+-0.971488
+-0.155406
+0.0690115
+160
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+809
+-0.323078
+-0.722464
+-0.782457
+-0.747605
+0.0700599
+161
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+632
+-0.326122
+-0.626496
+-0.818879
+-0.609742
+-0.0296038
+162
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+676
+-0.290554
+-0.524524
+-0.805336
+0.0165613
+-0.399999
+163
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+20
+-0.311154
+-0.708816
+-0.776574
+-0.594874
+0.04809
+164
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+746
+-0.297425
+-0.672463
+-0.792871
+-0.494596
+0.537306
+165
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+668
+-0.315339
+-0.806919
+-0.723689
+-0.0459081
+-0.49226
+166
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+657
+-0.326558
+-0.82035
+-0.718244
+-0.220394
+-0.361868
+167
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+447
+-0.311715
+-0.561719
+-0.807688
+-0.293918
+-0.515659
+168
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+504
+-0.194892
+-0.302883
+-0.754566
+0.812227
+-0.251956
+169
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+175
+0.0846397
+-0.369076
+-0.312024
+-0.406509
+-0.803552
+170
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+357
+-0.314594
+-0.523125
+-0.846245
+-0.415601
+0.171179
+171
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+694
+-0.322279
+-0.530384
+-0.832276
+-0.307749
+-0.500735
+172
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+599
+-0.286514
+-0.364748
+-0.848674
+-0.170596
+0.0270268
+173
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+176
+-0.318043
+-0.792073
+-0.750825
+-0.464265
+0.365058
+174
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+118
+-0.300933
+-0.718873
+-0.737199
+-0.11074
+-0.475914
+175
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+107
+-0.30654
+-0.456568
+-0.868629
+-0.480338
+0.106928
+176
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+30
+-0.317563
+-0.547174
+-0.832532
+-0.312241
+-0.392013
+177
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+225
+-0.331007
+-0.756605
+-0.772797
+-0.329827
+0.0330212
+178
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+11
+-0.287488
+-0.474957
+-0.80308
+0.2035
+-0.281295
+179
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+273
+-0.0888393
+0.474716
+-0.922472
+0.0761987
+0.199455
+180
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+227
+-0.294293
+-0.382327
+-0.859314
+-0.276116
+-0.314104
+181
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+36
+-0.263132
+-0.0671508
+-0.937481
+-0.477982
+-0.152633
+182
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+82
+-0.191216
+-0.269905
+-0.78841
+0.388345
+0.603314
+183
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+776
+-0.297295
+-0.561973
+-0.800686
+-0.00652965
+0.0242889
+184
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+751
+-0.320108
+-0.640116
+-0.782753
+-0.161062
+-0.546639
+185
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+452
+-0.309145
+-0.527218
+-0.815071
+-0.103488
+-0.124222
+186
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+528
+-0.310188
+-0.879852
+-0.674011
+0.119176
+-0.312742
+187
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+445
+-0.27513
+-0.463579
+-0.814524
+0.128118
+0.158894
+188
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+396
+-0.282219
+-0.55497
+-0.801375
+-0.0052217
+0.560765
+189
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+299
+-0.299076
+-0.506679
+-0.833499
+-0.421348
+-0.304689
+190
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+497
+-0.288363
+-0.218495
+-0.898231
+-0.155907
+-0.488819
+191
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+685
+-0.253571
+-0.226854
+-0.86274
+0.145828
+-0.0957883
+192
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+708
+-0.258948
+-0.463609
+-0.769321
+0.444293
+-0.147744
+193
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+737
+-0.327019
+-0.811943
+-0.7302
+-0.144409
+-0.267985
+194
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+333
+-0.315837
+-0.583935
+-0.80843
+-0.146338
+0.0121893
+195
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+763
+-0.285176
+-0.858743
+-0.673853
+0.0735797
+0.579263
+196
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+835
+-0.256959
+-0.22546
+-0.898966
+-0.361432
+0.585471
+197
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+666
+-0.274089
+-0.528741
+-0.78943
+0.165056
+0.22227
+198
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+76
+-0.268777
+-0.0537946
+-0.935943
+-0.233692
+-0.266092
+199
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+634
+-0.291207
+-0.387387
+-0.871974
+-0.650786
+-0.0879619
+200
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+707
+-0.264895
+-0.231986
+-0.885697
+-0.0561787
+0.0484192
+201
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+262
+-0.297023
+-0.279686
+-0.926457
+-0.960209
+0.0409668
+202
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+554
+-0.296876
+-0.84909
+-0.714951
+-0.392005
+0.298246
+203
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+757
+-0.326329
+-0.733321
+-0.772892
+-0.366858
+-0.363687
+204
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+541
+-0.307883
+-0.875186
+-0.684182
+-0.253893
+0.10577
+205
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+289
+-0.295238
+-0.783786
+-0.714212
+-0.0313731
+-0.0865997
+206
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+861
+-0.302124
+-0.610277
+-0.787882
+-0.598298
+-0.0480223
+207
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+649
+-0.293192
+-0.605305
+-0.789293
+-0.0840219
+0.303758
+208
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+458
+-0.331065
+-0.677129
+-0.788468
+-0.435243
+-0.0571526
+209
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+151
+-0.175848
+0.107997
+-0.890904
+0.210394
+-0.0895984
+210
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+205
+-0.134096
+0.475965
+-0.985459
+-0.500815
+0.362966
+211
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+257
+-0.326288
+-0.66676
+-0.799109
+-0.387555
+-0.200869
+212
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+60
+-0.318927
+-0.887437
+-0.68927
+-0.393973
+0.201458
+213
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+288
+-0.331782
+-0.763637
+-0.772644
+-0.521699
+-0.201537
+214
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+75
+-0.307528
+-0.840328
+-0.712635
+-0.171886
+0.252416
+215
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+529
+-0.234766
+0.046436
+-0.951046
+-0.321925
+0.2001
+216
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+817
+-0.268129
+-0.100298
+-0.950504
+-0.741454
+0.39383
+217
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+399
+-0.238748
+-0.319195
+-0.809951
+0.349469
+0.145315
+218
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+758
+-0.316419
+-0.387226
+-0.882886
+-0.584099
+-0.171945
+219
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+844
+-0.300277
+-0.428389
+-0.851795
+-0.372755
+-0.564269
+220
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+414
+-0.274107
+-0.309323
+-0.887994
+-0.454535
+0.386405
+221
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+78
+-0.291663
+-0.44936
+-0.84004
+-0.148188
+0.28293
+222
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+807
+-0.29347
+-0.759891
+-0.699155
+-0.0664748
+-0.929767
+223
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+494
+-0.27092
+-0.502961
+-0.790518
+0.159972
+-0.524158
+224
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+299
+-0.276803
+-0.0758532
+-0.949031
+-0.640026
+-0.432226
+225
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+352
+-0.204124
+0.173673
+-0.953572
+-0.306634
+-0.494196
+226
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+55
+-0.295168
+-0.908993
+-0.669732
+-0.207996
+0.0742912
+227
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+502
+-0.301044
+-0.84971
+-0.684793
+0.0277751
+-0.235519
+228
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+339
+-0.301106
+-0.829041
+-0.675844
+0.338033
+-0.430464
+229
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+734
+-0.304084
+-0.861099
+-0.691304
+-0.171319
+0.209326
+230
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+532
+-0.290463
+-0.386418
+-0.845909
+0.0597056
+-0.146737
+231
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+351
+-0.243567
+-0.415908
+-0.797352
+0.232883
+0.457585
+232
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+728
+-0.303609
+-0.860953
+-0.669177
+0.118285
+-0.494882
+233
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+789
+-0.331381
+-0.476194
+-0.868306
+-0.481333
+-0.274326
+234
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+706
+-0.219525
+0.0547271
+-0.929527
+-0.225438
+0.310327
+235
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+636
+-0.220222
+-0.447643
+-0.75062
+0.463876
+0.518547
+236
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+631
+-0.269012
+-0.436056
+-0.82121
+0.131041
+0.359132
+237
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+665
+-0.213792
+-0.0822642
+-0.885022
+0.0718521
+0.00224363
+238
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+865
+-0.286973
+-0.320668
+-0.866312
+-0.343281
+-0.56924
+239
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+885
+-0.110823
+0.382465
+-0.876147
+0.38308
+-0.414129
+240
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+605
+0.951645
+0.316595
+0.945509
+-0.56328
+0.0113921
+241
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+632
+-0.299955
+-0.442336
+-0.856263
+-0.273244
+-0.228003
+242
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+441
+-0.305716
+-0.648848
+-0.755678
+-0.131887
+0.208201
+243
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+217
+-0.311108
+-0.448014
+-0.880409
+-0.52634
+0.234435
+244
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+344
+-0.309044
+-0.561127
+-0.844416
+-0.655264
+0.119282
+245
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+511
+-0.306298
+-0.855039
+-0.700716
+-0.181519
+0.0750667
+246
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+307
+-0.302574
+-0.812087
+-0.709134
+-0.0037226
+0.00426689
+247
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+493
+-0.312341
+-0.908732
+-0.693978
+-0.40138
+0.225876
+248
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+462
+-0.226945
+-0.469516
+-0.747462
+0.45397
+0.409904
+249
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+17
+-0.316991
+-0.851389
+-0.710631
+-0.228888
+0.185369
+250
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+44
+-0.300145
+-0.86839
+-0.67089
+0.0171172
+-0.448498
+251
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+380
+-0.302574
+-0.85116
+-0.69041
+-0.070516
+0.0450489
+252
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+278
+-0.317064
+-0.871249
+-0.708158
+-0.355704
+0.143546
+253
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+414
+-0.293568
+-0.898257
+-0.680026
+-0.125476
+0.125028
+254
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+602
+-0.311079
+-0.909092
+-0.683564
+-0.196285
+-0.380656
+255
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+112
+-0.320789
+-0.717597
+-0.755982
+-0.182205
+-0.173013
+256
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+621
+-0.32119
+-0.614995
+-0.801797
+-0.337003
+-0.117743
+257
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+480
+-0.305382
+-0.406725
+-0.846777
+-0.236629
+-0.0733343
+258
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+599
+-0.313253
+-0.462616
+-0.84266
+-0.299471
+-0.270653
+259
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+572
+-0.303139
+-0.313992
+-0.89414
+-0.384045
+-0.276914
+260
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+13
+0.876004
+0.245357
+0.836477
+-0.534228
+-0.0103202
+261
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+199
+-0.305768
+-0.43221
+-0.85555
+-0.370525
+0.163389
+262
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+554
+-0.30756
+-0.708917
+-0.743942
+0.0995586
+-0.268725
+263
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+521
+-0.294859
+-0.939129
+-0.650267
+-0.0733307
+-0.0874882
+264
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+139
+-0.300172
+-0.912687
+-0.668442
+-0.143575
+-0.267172
+265
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+266
+-0.290887
+-0.931293
+-0.662202
+-0.446975
+0.459023
+266
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+421
+-0.30699
+-0.53386
+-0.840003
+-0.41138
+0.417677
+267
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+347
+-0.284095
+-0.776491
+-0.726658
+-0.135542
+0.681913
+268
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+175
+-0.319704
+-0.541003
+-0.838539
+-0.287769
+0.207243
+269
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+544
+-0.309753
+-0.744642
+-0.758157
+-0.236235
+0.156631
+270
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+136
+-0.31186
+-0.77387
+-0.768622
+-0.302376
+0.264167
+271
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+345
+-0.307607
+-0.759137
+-0.748876
+-0.192306
+0.175088
+272
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+513
+-0.273699
+-0.874959
+-0.664016
+-0.399693
+0.255785
+273
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+7
+-0.268553
+-0.116559
+-0.943446
+-0.618658
+0.380209
+274
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+185
+-0.185834
+-0.145068
+-0.817187
+0.490816
+0.22729
+275
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+439
+-0.293813
+-0.277935
+-0.922559
+-0.646971
+0.226293
+276
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+549
+-0.308897
+-0.392348
+-0.883052
+-0.474961
+-0.0601715
+277
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+455
+-0.315894
+-0.502637
+-0.84796
+-0.341471
+-0.209517
+278
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+584
+-0.244422
+0.0207457
+-0.933264
+-0.200891
+-0.307171
+279
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+507
+-0.162135
+0.0670914
+-0.859887
+0.528493
+-0.082053
+280
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+466
+-0.276285
+-0.458062
+-0.809219
+0.0352216
+0.00973676
+281
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+267
+-0.124731
+-0.545936
+-0.604462
+-0.122033
+0.540977
+282
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+62
+-0.315297
+-0.56566
+-0.818928
+-0.249639
+-0.351149
+283
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+430
+-0.251893
+-0.480565
+-0.782531
+0.19057
+0.408708
+284
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+340
+-0.282403
+-0.334054
+-0.845251
+-0.0585293
+-0.27452
+285
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+115
+-0.261317
+-0.311316
+-0.841235
+0.115752
+0.121931
+286
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+370
+-0.233181
+-0.485816
+-0.756985
+0.420482
+0.268928
+287
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+511
+-0.318841
+-0.83235
+-0.723935
+-0.241391
+-0.124518
+288
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+168
+-0.282945
+-0.443311
+-0.829362
+0.00149381
+0.407108
+289
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+319
+-0.242491
+-0.0662475
+-0.906456
+0.0107912
+-0.0246806
+290
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+399
+-0.179783
+0.223604
+-0.93609
+0.0740435
+-0.0753646
+291
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+224
+-0.270835
+-0.349701
+-0.848806
+0.0649002
+0.164704
+292
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+249
+-0.256532
+0.0186625
+-0.979612
+-0.672336
+-0.0372656
+293
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+537
+-0.264238
+-0.308507
+-0.87119
+-0.0122755
+0.219154
+294
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+458
+-0.26215
+-0.0602391
+-0.951461
+-0.359892
+-0.0576482
+295
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+28
+-0.286932
+-0.603088
+-0.77159
+-0.633284
+-0.396811
+296
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+519
+-0.288622
+-0.340965
+-0.899798
+-0.572883
+0.290872
+297
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+48
+-0.307444
+-0.66239
+-0.780594
+-0.225406
+0.135089
+298
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+77
+-0.315803
+-0.719777
+-0.768398
+-0.222878
+0.0717591
+299
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+353
+-0.324362
+-0.5686
+-0.817748
+-0.380911
+-0.314371
+300
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+321
+-0.178703
+0.0654422
+-0.865073
+0.401319
+-0.327544
+301
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+213
+-0.276844
+-0.291555
+-0.888343
+-0.327021
+0.285556
+302
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+469
+-0.290358
+-0.523913
+-0.821691
+-0.315006
+0.433573
+303
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+281
+-0.213028
+-0.151939
+-0.8446
+0.0106298
+0.270699
+304
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+175
+-0.246021
+-0.197747
+-0.863706
+0.142517
+-0.169996
+305
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+124
+-0.234924
+-0.260829
+-0.844675
+0.160517
+0.101475
+306
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+459
+-0.199681
+0.0623457
+-0.918583
+-0.088419
+0.640383
+307
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+28
+-0.251549
+-0.212095
+-0.857748
+0.0574882
+-0.707739
+308
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+100
+-0.321426
+-0.627607
+-0.809067
+-0.300544
+0.0276756
+309
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+85
+-0.207821
+0.145454
+-0.941826
+-0.0405235
+0.0204381
+310
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+236
+-0.278822
+-0.380983
+-0.874637
+-0.59241
+-0.122614
+311
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+210
+-0.255855
+-0.460378
+-0.811729
+-0.465856
+0.0690143
+312
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+250
+0.989004
+0.356346
+0.974789
+-0.519067
+0.00984694
+313
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+425
+-0.196726
+-0.0530405
+-0.870632
+0.279682
+0.107428
+314
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+42
+-0.245718
+0.0104511
+-0.968209
+-0.585565
+0.240239
+315
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+69
+-0.302531
+-0.816656
+-0.708035
+-0.124261
+0.332248
+316
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+86
+-0.265838
+-0.227066
+-0.893698
+-0.348442
+-0.0282773
+317
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+363
+-0.304406
+-0.580521
+-0.792913
+-0.263274
+-0.0449881
+318
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+257
+-0.287167
+-0.448456
+-0.839031
+-0.286007
+0.429684
+319
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+437
+-0.276261
+-0.291091
+-0.883468
+-0.255969
+0.327148
+320
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+40
+-0.157295
+0.211539
+-0.895585
+-0.0534674
+-0.258183
+321
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+270
+-0.114997
+-0.0389361
+-0.735494
+0.94532
+-0.101659
+322
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+407
+-0.303336
+-0.596848
+-0.804224
+-0.102891
+-0.0493885
+323
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+438
+-0.286975
+-0.237309
+-0.899409
+-0.264506
+-0.240333
+324
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+103
+-0.140412
+0.526209
+-1.
+-0.456603
+0.0537105
+325
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+292
+0.972165
+0.353818
+0.952129
+-0.559346
+-0.00732526
+326
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+381
+0.0348432
+-0.543264
+-0.322045
+-0.204593
+-0.611268
+327
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+118
+0.178464
+-0.412265
+-0.187504
+0.193709
+0.0457446
+328
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+234
+-0.295492
+-0.490567
+-0.839901
+-0.377185
+-0.222379
+329
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+329
+-0.280891
+-0.593478
+-0.778963
+-0.0484042
+0.454287
+330
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+177
+0.0990375
+0.115926
+-0.540825
+0.589323
+0.426698
+331
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+178
+-0.164837
+0.184118
+-0.898715
+0.21017
+-0.140509
+332
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+1
+-0.218314
+0.163598
+-0.963651
+-0.239416
+-0.0407292
+333
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+346
+-0.330973
+-0.670588
+-0.79833
+-0.367936
+-0.192828
+334
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+543
+-0.306712
+-0.810354
+-0.722718
+-0.117325
+0.183963
+335
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+9
+-0.293337
+-0.876694
+-0.678554
+0.00748206
+0.122907
+336
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+287
+-0.253663
+-0.119081
+-0.935987
+-0.541767
+0.604797
+337
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+167
+-0.277397
+-0.481564
+-0.804308
+0.0632359
+0.394698
+338
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+351
+-0.300375
+-0.679929
+-0.740016
+0.094338
+-0.477913
+339
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+356
+-0.0911407
+0.547487
+-0.934768
+0.331692
+-0.118742
+340
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+91
+-0.252805
+-0.376356
+-0.808785
+0.33067
+0.0657258
+341
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+141
+-0.296769
+-0.273936
+-0.919036
+-0.573271
+-0.00578879
+342
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+526
+0.979749
+0.350466
+0.969293
+-0.538682
+0.0017731
+343
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+236
+0.750735
+0.0795658
+0.652824
+-0.554551
+0.12375
+344
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+351
+-0.234278
+-0.506837
+-0.752417
+0.399829
+0.487062
+345
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+522
+-0.308344
+-0.864186
+-0.693736
+-0.141054
+-0.0344331
+346
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+344
+-0.312491
+-0.789335
+-0.744963
+-0.363197
+0.432798
+347
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+137
+-0.300121
+-0.391016
+-0.877576
+-0.29461
+-0.0495166
+348
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+69
+-0.298773
+-0.329537
+-0.919553
+-0.615062
+0.268016
+349
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+394
+-0.314154
+-0.788476
+-0.73488
+-0.177381
+-0.550589
+350
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+497
+-0.243662
+0.0570036
+-0.982266
+-0.653728
+0.140325
+351
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+242
+-0.324774
+-0.637873
+-0.819211
+-0.656546
+-0.154636
+352
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+198
+-0.32313
+-0.6991
+-0.785379
+-0.348375
+0.216593
+353
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+21
+-0.29722
+-0.338474
+-0.87624
+-0.260326
+-0.256878
+354
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+419
+-0.285974
+-0.494057
+-0.817586
+-0.139148
+-0.039006
+355
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+263
+-0.306314
+-0.813509
+-0.699438
+-0.0240745
+-0.0400849
+356
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+431
+-0.287575
+-0.587093
+-0.791745
+-0.277774
+0.638249
+357
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+135
+-0.290359
+-0.793831
+-0.715135
+-0.399143
+0.613081
+358
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+498
+-0.26961
+-0.260717
+-0.871228
+-0.393207
+-0.0303623
+359
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+230
+-0.213909
+0.0326249
+-0.883268
+-0.0697626
+-0.0604419
+360
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+309
+0.000620961
+0.767524
+-0.872654
+0.0395128
+-0.175187
+361
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+168
+-0.0268984
+0.821728
+-0.934567
+0.128888
+0.340359
+362
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+53
+-0.0551837
+0.511979
+-0.888664
+0.211624
+0.314369
+363
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+388
+-0.0750575
+0.676832
+-0.943974
+0.14328
+-0.107518
+364
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+354
+-0.145586
+0.34367
+-0.928257
+-0.0426187
+0.0899515
+365
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+116
+-0.159793
+0.271391
+-0.919794
+0.185359
+-0.226162
+366
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+133
+-0.0558196
+0.53754
+-0.875485
+0.395867
+0.308966
+367
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+3
+-0.256201
+-0.467534
+-0.790799
+-0.128937
+0.319992
+368
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+235
+-0.218604
+-0.567006
+-0.704185
+0.429375
+-0.323085
+369
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+103
+0.0621093
+-0.586615
+-0.292691
+-0.676016
+-0.262613
+370
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+327
+0.877241
+0.241272
+0.8356
+-0.50379
+0.0491507
+371
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+158
+-0.284519
+-0.207223
+-0.908496
+-0.418239
+-0.414163
+372
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+111
+-0.217819
+0.146422
+-0.961494
+-0.25422
+-0.2843
+373
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+223
+-0.164651
+0.261903
+-0.928773
+-0.0138051
+-0.00974972
+374
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+213
+-0.016688
+-0.0277977
+-0.651615
+0.688432
+0.286679
+375
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+292
+-0.292262
+-0.663482
+-0.763223
+-0.0686909
+0.166023
+376
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+22
+-0.0663364
+0.455961
+-0.877952
+0.359801
+-0.00921495
+377
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+241
+-0.0837542
+0.454413
+-0.887637
+0.14984
+0.486378
+378
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+162
+-0.225381
+-0.357554
+-0.78447
+0.275893
+0.134739
+379
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+298
+-0.184775
+0.118381
+-0.90574
+0.0928652
+0.135079
+380
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+9
+-0.213875
+-0.0471856
+-0.89007
+0.099708
+0.264621
+381
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+305
+-0.234323
+-0.153608
+-0.863515
+0.289525
+-0.443196
+382
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+308
+-0.311866
+-0.673759
+-0.797781
+-0.63029
+0.422287
+383
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+262
+-0.293339
+-0.530635
+-0.813942
+-0.133386
+0.585024
+384
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+42
+-0.332242
+-0.676044
+-0.791636
+-0.595465
+-0.179144
+385
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+130
+-0.328216
+-0.656191
+-0.798771
+-0.349082
+-0.0903862
+386
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+70
+-0.271064
+-0.62414
+-0.72968
+0.303883
+-0.515163
+387
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+375
+-0.300266
+-0.415579
+-0.868378
+-0.232998
+0.0745174
+388
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+202
+-0.30984
+-0.311823
+-0.924816
+-0.768217
+-0.102408
+389
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+311
+0.99338
+0.365731
+0.986433
+-0.54336
+-0.00655654
+390
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+91
+-0.152708
+-0.380136
+-0.671311
+-0.219457
+-0.866645
+391
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+85
+-0.213739
+-0.411004
+-0.742974
+0.0110518
+-0.203441
+392
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+111
+-0.245496
+-0.341781
+-0.814787
+0.356884
+0.087958
+393
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+263
+-0.324779
+-0.571714
+-0.837301
+-0.492631
+-0.152652
+394
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+230
+-0.328118
+-0.675253
+-0.808723
+-0.612873
+-0.0297223
+395
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+183
+-0.241483
+0.0514247
+-0.958762
+-0.272757
+0.0880358
+396
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+198
+-0.305019
+-0.343733
+-0.889317
+-0.299424
+-0.027551
+397
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+33
+-0.281634
+-0.188326
+-0.928592
+-0.436549
+0.128011
+398
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+87
+-0.323565
+-0.729179
+-0.754192
+-0.325625
+-0.493689
+399
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+370
+-0.173018
+-0.00187078
+-0.863731
+0.260687
+0.364695
+400
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+19
+-0.210569
+-0.484774
+-0.732529
+-0.348006
+-0.211896
+401
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+108
+-0.151672
+-0.468795
+-0.640412
+-0.220312
+-0.244721
+402
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+227
+-0.158622
+-0.491268
+-0.654799
+-0.608331
+-0.150349
+403
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+16
+-0.17587
+-0.157769
+-0.774863
+-0.1204
+0.116317
+404
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+41
+-0.263633
+-0.471674
+-0.807134
+-0.333737
+0.536363
+405
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+121
+-0.299984
+-0.743267
+-0.741291
+-0.284
+-0.0673982
+406
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+48
+0.931652
+0.28204
+0.923813
+-0.536478
+0.0316056
+407
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+4
+0.943421
+0.302124
+0.933409
+-0.53803
+0.002693
+408
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+198
+-0.298741
+-0.480063
+-0.849925
+-0.352098
+-0.140999
+409
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+40
+-0.283228
+-0.582975
+-0.777937
+0.110127
+0.435767
+410
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+11
+-0.300339
+-0.923044
+-0.659687
+-0.11715
+-0.12474
+411
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+160
+-0.309995
+-0.890007
+-0.690725
+-0.215096
+0.0306731
+412
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+80
+-0.294339
+-0.876649
+-0.687888
+-0.0590491
+0.0481427
+413
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+19
+-0.300392
+-0.851527
+-0.683895
+0.0807579
+0.0454762
+414
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+235
+-0.300098
+-0.840901
+-0.705694
+-0.117867
+0.205553
+415
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+123
+-0.306234
+-0.850258
+-0.695929
+-0.0762545
+0.144286
+416
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+74
+-0.175555
+-0.0198022
+-0.862787
+0.220222
+0.407782
+417
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+101
+-0.31234
+-0.541862
+-0.839005
+-0.520067
+0.098195
+418
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+21
+-0.306529
+-0.519694
+-0.810279
+-0.142219
+-0.215483
+419
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+12
+-0.223575
+0.228256
+-0.963262
+-0.376462
+-0.270821
+420
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+211
+-0.194429
+-0.393824
+-0.743953
+-0.442544
+-0.508892
+421
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+85
+-0.279182
+-0.498934
+-0.809173
+-0.281943
+0.0775386
+422
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+51
+-0.256064
+-0.746631
+-0.68458
+0.0929726
+-0.313986
+423
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+59
+-0.231155
+0.0175174
+-0.91192
+0.0318065
+-0.653662
+424
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+98
+-0.210901
+0.0689233
+-0.923383
+0.116358
+-0.22698
+425
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+90
+-0.178257
+0.181764
+-0.916484
+0.000737767
+0.0445452
+426
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+180
+-0.162154
+0.277198
+-0.962036
+-0.209525
+0.161213
+427
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+8
+-0.265168
+-0.354765
+-0.855973
+0.0106225
+0.292324
+428
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+103
+-0.183817
+0.0519627
+-0.906456
+-0.0872882
+0.372046
+429
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+60
+-0.198405
+0.08278
+-0.942083
+-0.292839
+0.437743
+430
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+130
+-0.31951
+-0.409712
+-0.88423
+-0.521934
+-0.142593
+431
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+4
+-0.290029
+-0.24876
+-0.914725
+-0.556585
+-0.0270539
+432
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+106
+-0.29485
+-0.22716
+-0.919869
+-0.697732
+0.00278038
+433
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+161
+-0.238873
+0.110992
+-0.973102
+-0.559743
+-0.21776
+434
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+32
+-0.170182
+0.212353
+-0.931714
+-0.0337362
+-0.0706104
+435
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+160
+-0.19904
+0.2076
+-0.963651
+-0.412706
+-0.0879465
+436
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+97
+-0.262741
+-0.438757
+-0.810556
+-0.0267435
+0.0935047
+437
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+244
+-0.206841
+-0.279578
+-0.794882
+0.507395
+0.0683495
+438
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+44
+-0.121778
+0.450589
+-0.944619
+0.0928573
+-0.0601964
+439
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+207
+-0.263298
+-0.0568634
+-0.937468
+-0.491487
+-0.188068
+440
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+89
+0.0265502
+0.483411
+-0.754719
+0.51172
+0.0557717
+441
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+714
+-0.316278
+-0.715196
+-0.764399
+-0.321654
+-0.138149
+442
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+421
+-0.313806
+-0.531571
+-0.834268
+-0.347092
+-0.182548
+443
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+88
+-0.296973
+-0.572233
+-0.824758
+-0.307234
+0.50459
+444
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+320
+-0.312134
+-0.901224
+-0.658939
+0.0706513
+-0.189095
+445
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+215
+-0.199846
+-0.0456093
+-0.86474
+-0.0190664
+-0.311882
+446
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+731
+-0.293765
+-0.619989
+-0.775663
+-0.639105
+-0.61609
+447
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+665
+-0.29294
+-0.881225
+-0.674401
+-0.321287
+-0.465091
+448
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+848
+-0.30953
+-0.820261
+-0.73221
+-0.562925
+-0.118429
+449
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+796
+-0.314438
+-0.847384
+-0.709771
+-0.211831
+0.0870775
+450
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+112
+-0.318113
+-0.693663
+-0.762506
+-0.288792
+-0.450672
+451
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+667
+-0.293871
+-0.601272
+-0.790787
+-0.302401
+0.266021
+452
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+909
+-0.269438
+-0.264972
+-0.892077
+-0.427848
+0.43433
+453
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+9
+-0.311557
+-0.604466
+-0.820113
+-0.512339
+0.442869
+454
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+624
+-0.323767
+-0.52245
+-0.85383
+-0.654205
+0.120784
+455
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+1004
+-0.32639
+-0.585735
+-0.825149
+-0.531329
+-0.120872
+456
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+897
+-0.297673
+-0.917047
+-0.648434
+-0.187168
+-0.748386
+457
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+621
+-0.305676
+-0.580287
+-0.813037
+-0.250906
+0.240634
+458
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+712
+-0.315863
+-0.57846
+-0.821993
+-0.369025
+-0.125457
+459
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+48
+-0.297608
+-0.38639
+-0.877481
+-0.665008
+0.374249
+460
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+576
+-0.121497
+-0.0809005
+-0.757248
+0.236038
+0.12956
+461
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+104
+-0.0284453
+0.08776
+-0.699498
+0.565608
+0.143955
+462
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+24
+0.0265502
+0.483411
+-0.754719
+0.51172
+0.0557717
+463
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+132
+-0.0363898
+0.248335
+-0.767051
+0.356314
+0.244213
+464
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+10
+-0.309475
+-0.798641
+-0.737867
+-0.26829
+-0.0830465
+465
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+169
+-0.301916
+-0.858387
+-0.703407
+-0.27121
+0.00529046
+466
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+7
+-0.283423
+-0.629533
+-0.778101
+-0.593223
+0.108701
+467
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+168
+-0.306294
+-0.585176
+-0.813255
+-0.438293
+0.112174
+468
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+5
+-0.137296
+-0.248959
+-0.730831
+-0.349726
+-0.117493
+469
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+69
+0.497868
+0.088934
+0.211424
+-0.109586
+-0.0486555
+470
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+33
+-0.0580094
+-0.0499047
+-0.681753
+-0.176344
+-0.106026
+471
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+108
+-0.277662
+-0.616041
+-0.770492
+-0.490566
+-0.262232
+472
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+49
+-0.311977
+-0.69645
+-0.776869
+-0.414672
+0.112806
+473
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+135
+-0.290116
+-0.799022
+-0.71732
+-0.296389
+0.00664568
+474
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+60
+-0.296164
+-0.814887
+-0.722413
+-0.655651
+-0.167302
+475
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+40
+-0.265268
+-0.74651
+-0.713597
+-0.715752
+0.11892
+476
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+89
+-0.295491
+-0.639753
+-0.767575
+-0.411198
+-0.233107
+477
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+70
+-0.311751
+-0.765925
+-0.746897
+-0.472872
+-0.202096
+478
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+9
+-0.295461
+-0.729438
+-0.751148
+-0.593987
+0.203519
+479
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+142
+-0.284671
+-0.467251
+-0.854585
+-0.635243
+0.602941
+480
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+176
+-0.955214
+-0.501251
+-0.511359
+-0.32107
+-0.370383
+481
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+413
+-0.971093
+-0.546054
+-0.538414
+-0.384159
+0.00790249
+482
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+559
+-0.96688
+-0.579361
+-0.514615
+-0.258244
+-0.45981
+483
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+313
+-0.941667
+-0.267821
+-0.609346
+-0.0159733
+-0.117854
+484
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+571
+-0.933729
+-0.0230442
+-0.691508
+-0.585148
+0.12939
+485
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+766
+-0.963422
+-0.312935
+-0.624698
+-0.435159
+0.0571682
+486
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+495
+-0.955422
+-0.416687
+-0.564876
+-0.125235
+-0.548485
+487
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+334
+-0.967067
+-0.341906
+-0.53125
+0.24631
+0.547626
+488
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+214
+-0.960691
+-0.411181
+-0.58635
+-0.406556
+-0.42286
+489
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+251
+-0.935741
+-0.149613
+-0.64221
+-0.370903
+-0.719138
+490
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+95
+-0.909995
+0.124845
+-0.680277
+-0.375015
+0.0791426
+491
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+418
+-0.895877
+0.194825
+-0.695091
+0.0912708
+-0.354686
+492
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+402
+-0.964748
+-0.494447
+-0.539089
+-0.197723
+-0.551474
+493
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+710
+-0.973458
+-0.420302
+-0.556547
+-0.486426
+0.700671
+494
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+292
+-0.955196
+-0.216191
+-0.621501
+-0.227271
+0.400893
+495
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+39
+-0.971118
+-0.454601
+-0.580073
+-0.453559
+0.261179
+496
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+735
+-0.985818
+-0.590517
+-0.506646
+-0.277772
+0.482224
+497
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+567
+-0.962887
+-0.445745
+-0.53428
+-0.16159
+-0.632106
+498
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+674
+-0.979047
+-0.633719
+-0.446576
+0.072774
+-0.100036
+499
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+535
+-0.965004
+-0.577677
+-0.495217
+-0.190513
+-0.530381
+500
+NC_019816.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 1a  Nleu_3.0  whole genome shotgun sequence
+150000
+480
+-0.899834
+0.0892736
+-0.713992
+-0.362159
+-0.343287
+501
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+808
+-0.970875
+-0.40828
+-0.610854
+-0.580413
+-0.276215
+502
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+95
+-0.931746
+-0.0533746
+-0.706509
+-0.657129
+0.138631
+503
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+289
+-0.959829
+-0.466615
+-0.527608
+0.020506
+-0.116312
+504
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+936
+-0.98086
+-0.589099
+-0.471265
+0.121919
+-0.13818
+505
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+762
+-0.874083
+0.435164
+-0.726356
+-0.220673
+-0.151005
+506
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+773
+-0.889472
+0.194363
+-0.746766
+-0.498727
+-0.336562
+507
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+782
+-0.927367
+0.0429094
+-0.646239
+-0.0397079
+0.40258
+508
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+659
+-0.99552
+-0.689846
+-0.447296
+-0.145344
+0.252232
+509
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+871
+-0.973851
+-0.553397
+-0.51262
+-0.23534
+-0.256083
+510
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+964
+-0.981562
+-0.566634
+-0.496521
+-0.0510445
+0.290865
+511
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+192
+-0.978996
+-0.58077
+-0.475635
+0.0986978
+-0.471846
+512
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+680
+-0.976385
+-0.536953
+-0.505206
+-0.232822
+0.779136
+513
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+85
+-0.972164
+-0.54854
+-0.513353
+-0.187526
+0.314473
+514
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+954
+-0.946221
+-0.42068
+-0.52055
+0.103941
+-0.631924
+515
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+72
+-0.951161
+-0.31237
+-0.569621
+0.143385
+-0.0757678
+516
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+464
+-0.981591
+-0.605782
+-0.494019
+-0.335369
+-0.34039
+517
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+44
+-0.970748
+-0.597398
+-0.496567
+-0.181527
+0.0946895
+518
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+876
+-0.936908
+-0.0951508
+-0.686046
+-0.545653
+-0.105183
+519
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+733
+-0.934368
+-0.218443
+-0.597979
+0.136566
+-0.459615
+520
+NC_019817.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 2  Nleu_3.0  whole genome shotgun sequence
+150000
+69
+-0.913877
+0.148025
+-0.721373
+-0.502684
+-0.140036
+521
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+884
+-0.970767
+-0.549029
+-0.452951
+0.448182
+-0.177623
+522
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+655
+-0.975208
+-0.585635
+-0.50085
+-0.199426
+-0.512027
+523
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+632
+-0.977805
+-0.641164
+-0.47522
+-0.07871
+-0.221172
+524
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+590
+-0.999592
+-0.771071
+-0.3887
+-0.225027
+0.119524
+525
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+396
+-0.988051
+-0.692145
+-0.42295
+-0.366694
+0.381179
+526
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+766
+-0.960844
+-0.240805
+-0.567005
+0.116759
+0.292283
+527
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+635
+-0.995247
+-0.711572
+-0.42669
+-0.225987
+0.262061
+528
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+714
+-0.944888
+-0.141007
+-0.54563
+0.306046
+0.280176
+529
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+531
+-0.959047
+-0.363818
+-0.524891
+0.360165
+0.017275
+530
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+919
+-0.972001
+-0.53001
+-0.538735
+-0.205213
+-0.211839
+531
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+422
+-0.957403
+-0.474911
+-0.552695
+-0.260509
+-0.280302
+532
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+464
+-0.989531
+-0.649325
+-0.442232
+-0.192172
+-0.337674
+533
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+962
+-0.964152
+-0.406498
+-0.565303
+-0.111501
+-0.0474165
+534
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+419
+-0.988303
+-0.575924
+-0.489199
+-0.131957
+-0.219419
+535
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+378
+-0.961221
+-0.316803
+-0.518156
+0.25099
+0.637763
+536
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+53
+-0.911974
+0.157184
+-0.711734
+-0.264363
+0.24872
+537
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+262
+-0.957705
+-0.336503
+-0.559507
+-0.120248
+0.317704
+538
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+978
+-0.964765
+-0.42931
+-0.567559
+-0.368889
+-0.540159
+539
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+952
+-0.920265
+-0.0709094
+-0.661645
+-0.261547
+0.246696
+540
+NC_019818.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 3  Nleu_3.0  whole genome shotgun sequence
+150000
+897
+-0.981128
+-0.577663
+-0.487527
+-0.139047
+0.272339
+541
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+118
+-0.976153
+-0.586196
+-0.487706
+-0.0324192
+-0.0928252
+542
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+356
+-0.987985
+-0.684455
+-0.440026
+-0.229659
+0.261065
+543
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+811
+-0.961507
+-0.359588
+-0.624828
+-0.554691
+0.162777
+544
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+799
+-0.975773
+-0.60109
+-0.497402
+-0.119572
+-0.216178
+545
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+46
+-0.943361
+-0.234512
+-0.632783
+-0.412322
+-0.481848
+546
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+505
+-0.964572
+-0.455355
+-0.557564
+-0.226511
+0.0618022
+547
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+77
+-0.970872
+-0.50049
+-0.53509
+-0.225034
+0.244434
+548
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+756
+-0.950761
+-0.311795
+-0.611055
+-0.483191
+-0.0102312
+549
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+638
+-0.946395
+-0.207767
+-0.574067
+0.136549
+0.41759
+550
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+357
+-0.929375
+-0.0895912
+-0.646839
+-0.165585
+0.154839
+551
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+280
+-0.974004
+-0.420154
+-0.534628
+-0.238042
+0.444696
+552
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+174
+-0.973162
+-0.434636
+-0.575686
+-0.519515
+0.277318
+553
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+58
+-0.85311
+0.68265
+-0.790002
+-0.80121
+-0.13795
+554
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+433
+-0.938007
+-0.122219
+-0.678989
+-0.383481
+0.0967876
+555
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+306
+-0.956804
+-0.219726
+-0.613055
+-0.351982
+0.874425
+556
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+948
+-0.975151
+-0.534914
+-0.525534
+-0.113067
+-0.377576
+557
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+389
+-0.970329
+-0.569636
+-0.506995
+-0.143497
+-0.13454
+558
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+837
+-0.942911
+-0.252361
+-0.591049
+-0.0772779
+0.389249
+559
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+604
+-0.874383
+0.275913
+-0.708075
+-0.437245
+-0.230004
+560
+NC_019819.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 4  Nleu_3.0  whole genome shotgun sequence
+150000
+688
+-0.966223
+-0.390274
+-0.571213
+-0.155222
+0.126584
+561
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+590
+-0.969347
+-0.505861
+-0.533923
+-0.125613
+-0.401337
+562
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+789
+-0.900508
+0.21254
+-0.716615
+-0.351109
+-0.0845785
+563
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+648
+-0.947183
+-0.161505
+-0.67178
+-0.697965
+0.540895
+564
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+369
+-0.970597
+-0.361445
+-0.603609
+-0.652448
+-0.190601
+565
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+160
+-0.939341
+-0.302143
+-0.590155
+-0.0116103
+-0.329927
+566
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+698
+-0.954028
+-0.249234
+-0.665491
+-0.808868
+0.206494
+567
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+642
+-0.923542
+-0.0556727
+-0.651638
+-0.022277
+-0.278731
+568
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+601
+-0.932046
+-0.0429148
+-0.640198
+-0.0282981
+0.263271
+569
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+55
+-0.919206
+0.126395
+-0.719706
+-0.44254
+0.413745
+570
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+891
+-0.96728
+-0.515547
+-0.512002
+0.109703
+-0.450382
+571
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+362
+-0.977399
+-0.662753
+-0.432738
+0.148854
+0.0373113
+572
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+647
+-1.
+-0.71254
+-0.426186
+-0.204188
+0.0288568
+573
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+353
+-0.974354
+-0.575041
+-0.538432
+-0.42047
+-0.0306036
+574
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+184
+-0.971848
+-0.480002
+-0.509835
+-0.105184
+0.774617
+575
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+234
+-0.982945
+-0.513707
+-0.536124
+-0.427257
+0.552582
+576
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+113
+-0.977988
+-0.583531
+-0.485818
+-0.0955419
+0.240319
+577
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+325
+-0.992402
+-0.672595
+-0.420377
+-0.280012
+0.179134
+578
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+45
+-0.956909
+-0.335377
+-0.600647
+-0.49862
+-0.456989
+579
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+721
+-0.878184
+0.39436
+-0.690772
+-0.16553
+0.236883
+580
+NC_019820.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 5  Nleu_3.0  whole genome shotgun sequence
+150000
+152
+-0.952608
+-0.32466
+-0.598851
+-0.398106
+-0.110051
+581
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+381
+-0.931599
+-0.112885
+-0.677608
+-0.559883
+-0.318344
+582
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+199
+-0.991801
+-0.690928
+-0.425544
+-0.0422817
+0.156814
+583
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+533
+-0.942931
+-0.195735
+-0.620903
+-0.345686
+0.590074
+584
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+639
+-0.941344
+-0.265693
+-0.632776
+-0.527189
+-0.158697
+585
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+167
+-0.973019
+-0.4154
+-0.545708
+-0.57622
+0.519996
+586
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+383
+-0.969998
+-0.461448
+-0.58017
+-0.413749
+0.118569
+587
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+28
+-0.954875
+-0.344023
+-0.607044
+-0.432721
+-0.595196
+588
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+579
+-0.904366
+0.22207
+-0.667892
+0.00814113
+0.343733
+589
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+36
+-0.882857
+0.496841
+-0.711031
+-0.0928278
+0.15322
+590
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+524
+-0.896927
+0.18113
+-0.725456
+-0.294117
+-0.248923
+591
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+570
+-0.974118
+-0.499136
+-0.512193
+0.087485
+0.178109
+592
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+700
+-0.973513
+-0.411467
+-0.524974
+0.194994
+0.636384
+593
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+621
+-0.948034
+-0.257709
+-0.605124
+-0.0270781
+-0.119924
+594
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+278
+-0.941403
+-0.142241
+-0.663931
+-0.337834
+0.371458
+595
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+228
+-0.939463
+-0.0860713
+-0.678738
+-0.306869
+0.25636
+596
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+474
+-0.945116
+-0.219495
+-0.632404
+-0.188628
+-0.419885
+597
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+542
+-0.923939
+-0.0660229
+-0.710462
+-0.603361
+-0.325592
+598
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+679
+-0.921785
+0.0896785
+-0.624506
+0.285979
+-0.170837
+599
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+540
+-0.926493
+0.0346692
+-0.674829
+-0.33527
+0.420795
+600
+NC_019821.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 6  Nleu_3.0  whole genome shotgun sequence
+150000
+667
+-0.83005
+0.865631
+-0.773396
+-0.534905
+0.0260449
+601
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+517
+-0.882138
+0.398378
+-0.732264
+-0.305644
+0.0122522
+602
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+660
+-0.954463
+-0.349771
+-0.617613
+-0.356402
+-0.222224
+603
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+652
+-0.996856
+-0.699014
+-0.417025
+-0.0846479
+-0.0237848
+604
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+610
+-0.987946
+-0.655754
+-0.427181
+0.13203
+-0.223965
+605
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+391
+-0.905407
+0.211088
+-0.723369
+-0.266153
+0.0973126
+606
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+46
+-0.932262
+-0.0751668
+-0.637742
+-0.0711473
+0.199759
+607
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+572
+-0.952036
+-0.152173
+-0.583526
+0.113021
+0.536047
+608
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+606
+-0.984799
+-0.530707
+-0.503344
+-0.506334
+0.281472
+609
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+515
+-0.96781
+-0.352467
+-0.580178
+-0.294261
+0.253773
+610
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+485
+-0.988493
+-0.552282
+-0.474622
+-0.0115426
+0.798852
+611
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+480
+-0.978314
+-0.595163
+-0.467833
+-0.0317794
+-0.203865
+612
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+100
+-0.979707
+-0.658786
+-0.430766
+-0.112258
+-0.0693566
+613
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+146
+-0.987022
+-0.680251
+-0.434957
+-0.150579
+-0.0833937
+614
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+88
+-0.968668
+-0.409685
+-0.565354
+-0.384158
+0.0599388
+615
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+137
+-0.979227
+-0.499402
+-0.54094
+-0.394379
+0.298964
+616
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+550
+-0.994212
+-0.665712
+-0.436151
+-0.123084
+0.411145
+617
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+689
+-0.966657
+-0.547414
+-0.510985
+-0.100463
+0.0619148
+618
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+713
+-0.946393
+-0.272717
+-0.605051
+-0.267621
+-0.386214
+619
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+314
+-0.940994
+-0.258224
+-0.602776
+-0.36215
+-0.619933
+620
+NC_019822.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 7b  Nleu_3.0  whole genome shotgun sequence
+150000
+568
+-0.872396
+0.465317
+-0.72748
+-0.218929
+0.380128
+621
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+229
+-0.909892
+0.145634
+-0.7269
+-0.29229
+-0.0695973
+622
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+296
+-0.960334
+-0.376747
+-0.498582
+0.43983
+-0.178184
+623
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+115
+-0.964935
+-0.453602
+-0.576776
+-0.517656
+0.0525551
+624
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+93
+-0.921311
+-0.0162255
+-0.649422
+-0.0866086
+0.0658968
+625
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+556
+-0.936066
+-0.199881
+-0.666042
+-0.482313
+-0.321224
+626
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+80
+-0.91604
+0.0696772
+-0.685478
+-0.0669234
+0.211617
+627
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+19
+-0.970813
+-0.452778
+-0.565882
+-0.49997
+-0.052544
+628
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+252
+-0.930807
+-0.162631
+-0.576689
+0.322961
+-0.156904
+629
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+170
+-0.97044
+-0.479238
+-0.525631
+-0.0127061
+0.482761
+630
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+582
+-0.973878
+-0.448478
+-0.583125
+-0.450565
+0.18752
+631
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+608
+-0.970119
+-0.484738
+-0.554895
+-0.264403
+0.318797
+632
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+261
+-0.939827
+-0.14617
+-0.63336
+-0.209243
+-0.153721
+633
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+174
+-0.927077
+-0.0794083
+-0.678713
+-0.46829
+-0.334249
+634
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+319
+-0.992784
+-0.671467
+-0.432782
+-0.0797212
+-0.369277
+635
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+198
+-0.965497
+-0.418711
+-0.590689
+-0.423002
+0.407158
+636
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+714
+-0.877833
+0.350841
+-0.761855
+-0.381468
+-0.354496
+637
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+543
+-0.974422
+-0.557125
+-0.515413
+-0.277893
+-0.340871
+638
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+696
+-0.898736
+0.126674
+-0.636959
+0.208492
+-0.381323
+639
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+242
+-0.84128
+0.706778
+-0.766604
+-0.592734
+-0.422262
+640
+NC_019823.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 8  Nleu_3.0  whole genome shotgun sequence
+150000
+133
+-0.962155
+-0.452637
+-0.574039
+-0.306043
+-0.177181
+641
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+639
+-0.918152
+0.0192606
+-0.715023
+-0.475221
+0.0322145
+642
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+544
+-0.986878
+-0.66932
+-0.467303
+-0.291557
+0.0999434
+643
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+492
+-0.957584
+-0.399343
+-0.576043
+-0.154616
+-0.552176
+644
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+488
+-0.98366
+-0.568899
+-0.499277
+-0.184848
+-0.012041
+645
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+539
+-0.930344
+-0.126343
+-0.576939
+0.220331
+0.00724253
+646
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+341
+-0.980395
+-0.582282
+-0.513459
+-0.409166
+0.0337256
+647
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+566
+-0.963077
+-0.373537
+-0.604308
+-0.564263
+0.596119
+648
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+423
+-0.967511
+-0.571258
+-0.503056
+-0.0518268
+-0.229299
+649
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+397
+-0.96183
+-0.402174
+-0.511276
+-0.098152
+-0.999257
+650
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+456
+-0.959258
+-0.3734
+-0.517838
+0.296971
+0.17151
+651
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+317
+-0.992917
+-0.704117
+-0.426979
+-0.0629174
+0.451281
+652
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+664
+-0.997229
+-0.729168
+-0.409513
+0.0444387
+0.186367
+653
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+642
+-0.985778
+-0.660126
+-0.466499
+-0.205471
+0.00028273
+654
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+724
+-0.976694
+-0.613412
+-0.460145
+0.100069
+-0.46396
+655
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+160
+-0.982031
+-0.646246
+-0.485325
+-0.281715
+-0.195283
+656
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+252
+-0.955785
+-0.337239
+-0.586482
+-0.218698
+0.291345
+657
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+35
+-0.944787
+-0.237509
+-0.607162
+-0.194323
+-0.103985
+658
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+201
+-0.925923
+-0.0337906
+-0.665256
+-0.189135
+-0.024197
+659
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+60
+-0.928032
+-0.111551
+-0.649143
+-0.302761
+-0.0329413
+660
+NC_019824.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 9  Nleu_3.0  whole genome shotgun sequence
+150000
+409
+-0.965837
+-0.488154
+-0.526395
+-0.155195
+-0.0209377
+661
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+403
+-0.995793
+-0.691095
+-0.446019
+-0.279702
+0.370923
+662
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+552
+-0.965918
+-0.569413
+-0.50461
+-0.157521
+-0.614065
+663
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+358
+-0.981062
+-0.631433
+-0.46545
+-0.0172814
+-0.437305
+664
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+331
+-0.993756
+-0.678784
+-0.440465
+-0.244517
+0.215123
+665
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+563
+-0.908077
+0.105377
+-0.679161
+-0.147672
+0.311348
+666
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+550
+-0.953466
+-0.197864
+-0.65178
+-0.682408
+0.30355
+667
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+642
+-0.945599
+-0.254645
+-0.469632
+0.49533
+-0.346752
+668
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+427
+-0.881441
+0.39945
+-0.702053
+-0.131612
+0.181379
+669
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+172
+-0.91925
+0.0864795
+-0.544422
+0.0302821
+-0.0970946
+670
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+269
+-0.827602
+0.832697
+-0.720036
+0.0182658
+0.0583114
+671
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+199
+-0.842528
+0.74597
+-0.700604
+0.0648269
+0.111806
+672
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+160
+-0.885067
+0.327407
+-0.74649
+-0.50989
+-0.240946
+673
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+288
+-0.897837
+0.255013
+-0.680257
+0.0264388
+0.154932
+674
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+54
+-0.908637
+0.170299
+-0.673883
+-0.0843381
+0.295477
+675
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+611
+-0.900639
+0.224442
+-0.685254
+0.030893
+-0.195253
+676
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+531
+-0.929531
+-0.0944002
+-0.696337
+-0.683658
+-0.0127778
+677
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+536
+-0.953214
+-0.269231
+-0.640625
+-0.637432
+0.266334
+678
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+555
+-0.953133
+-0.275908
+-0.635834
+-0.508777
+0.337102
+679
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+116
+-0.847633
+0.723417
+-0.707953
+0.0188064
+0.514051
+680
+NC_019825.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 10  Nleu_3.0  whole genome shotgun sequence
+150000
+397
+-0.976492
+-0.463856
+-0.53999
+-0.638566
+0.338457
+681
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+456
+-0.97867
+-0.518502
+-0.498775
+-0.06475
+0.194585
+682
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+756
+-0.969374
+-0.551729
+-0.516167
+-0.178517
+-0.507751
+683
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+302
+-0.990865
+-0.65879
+-0.448688
+-0.269867
+-0.514077
+684
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+660
+-0.945353
+-0.249675
+-0.570481
+0.178691
+0.0103062
+685
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+354
+-0.955128
+-0.47354
+-0.53623
+-0.124469
+0.0168267
+686
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+288
+-0.981925
+-0.537563
+-0.502465
+-0.231483
+0.711771
+687
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+43
+-0.984677
+-0.535773
+-0.514637
+-0.223038
+0.717111
+688
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+409
+-0.993447
+-0.603942
+-0.513303
+-0.454864
+0.288315
+689
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+154
+-0.988029
+-0.720577
+-0.44261
+-0.196026
+0.188052
+690
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+152
+-0.974515
+-0.603252
+-0.476475
+-0.110899
+-0.607609
+691
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+133
+-0.946459
+-0.19887
+-0.618634
+-0.324081
+-0.551276
+692
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+344
+-0.954052
+-0.2837
+-0.546511
+0.145304
+-0.14526
+693
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+753
+-0.968488
+-0.496823
+-0.542683
+-0.519337
+0.185486
+694
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+200
+-0.937532
+0.0160489
+-0.571732
+0.364623
+0.725739
+695
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+87
+-0.971024
+-0.425037
+-0.54933
+-0.354187
+-0.522399
+696
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+192
+-0.992564
+-0.658652
+-0.459182
+-0.13598
+-0.254609
+697
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+168
+-0.971632
+-0.432102
+-0.565107
+-0.100566
+0.227856
+698
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+116
+-0.884293
+0.3021
+-0.733786
+-0.322966
+-0.215258
+699
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+198
+-0.914275
+0.143011
+-0.724741
+-0.532013
+0.255456
+700
+NC_019826.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 11  Nleu_3.0  whole genome shotgun sequence
+150000
+249
+-0.949105
+-0.297227
+-0.614997
+-0.256059
+-0.346386
+701
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+215
+-0.915503
+0.0650365
+-0.725357
+-0.856378
+-0.37132
+702
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+536
+-0.970077
+-0.467187
+-0.562775
+-0.359485
+0.201495
+703
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+370
+-0.934288
+-0.240532
+-0.594698
+0.183941
+-0.396334
+704
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+587
+-0.898664
+0.199054
+-0.730821
+-0.536144
+-0.376201
+705
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+104
+-0.839614
+0.709693
+-0.761916
+-0.359737
+0.111983
+706
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+563
+-0.91947
+0.0745598
+-0.592372
+0.291457
+0.632677
+707
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+421
+-0.951108
+-0.310905
+-0.605918
+-0.148685
+-0.169481
+708
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+180
+-0.931615
+-0.203346
+-0.656319
+-0.355806
+-0.307839
+709
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+427
+-0.964879
+-0.28459
+-0.0477295
+-0.623961
+-0.0811817
+710
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+65
+-0.958989
+-0.277291
+-0.624994
+-0.415602
+0.337805
+711
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+303
+-0.975091
+-0.590167
+-0.482157
+-0.103094
+-0.0152726
+712
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+394
+-0.917639
+0.0935905
+-0.688032
+-0.124211
+0.360082
+713
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+334
+-0.96094
+-0.320447
+-0.632638
+-0.460854
+0.253948
+714
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+571
+-0.980853
+-0.540502
+-0.527486
+-0.422198
+-0.260418
+715
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+629
+-0.990314
+-0.669029
+-0.451274
+-0.21312
+0.465353
+716
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+652
+-0.95457
+-0.320072
+-0.606179
+-0.203878
+0.219856
+717
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+332
+-0.962319
+-0.552534
+-0.529125
+-0.188178
+-0.366332
+718
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+340
+-0.981269
+-0.581398
+-0.504864
+-0.241918
+0.422205
+719
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+296
+-0.981831
+-0.658445
+-0.433443
+0.00440796
+0.246586
+720
+NC_019827.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 12  Nleu_3.0  whole genome shotgun sequence
+150000
+278
+-0.919227
+0.0281102
+-0.659104
+-0.0379349
+0.32041
+721
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+575
+-0.927234
+-0.0153974
+-0.526016
+0.592887
+0.0690782
+722
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+404
+-0.956199
+-0.182377
+-0.684643
+-0.812967
+0.29421
+723
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+204
+-0.90242
+0.207188
+-0.680063
+0.120179
+0.0608251
+724
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+310
+-0.898381
+0.27879
+-0.731494
+-0.315504
+0.0147726
+725
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+476
+-0.955539
+-0.202443
+-0.668029
+-0.616814
+0.267425
+726
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+459
+-0.901829
+0.278136
+-0.756812
+-0.885607
+0.451705
+727
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+67
+-0.936857
+-0.0975551
+-0.659773
+-0.615801
+-0.38848
+728
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+644
+-0.991661
+-0.59043
+-0.485599
+-0.082095
+0.296368
+729
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+564
+-0.987808
+-0.622004
+-0.472931
+-0.179668
+0.651966
+730
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+33
+-0.989371
+-0.655069
+-0.451279
+0.0772371
+-0.23756
+731
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+664
+-0.989535
+-0.677647
+-0.442261
+-0.010015
+0.012411
+732
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+151
+-0.925242
+0.0357865
+-0.726798
+-0.698994
+-0.00610182
+733
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+261
+-0.946643
+-0.375223
+-0.573398
+-0.142981
+-0.308028
+734
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+194
+-0.915699
+-0.0561577
+-0.635307
+0.00785742
+-0.221188
+735
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+680
+-0.910695
+0.223192
+-0.650707
+0.0776637
+0.132639
+736
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+556
+-0.936926
+-0.202235
+-0.471323
+0.88013
+-0.310594
+737
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+671
+-0.909114
+0.105883
+-0.694516
+-0.303792
+0.237204
+738
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+254
+-0.941056
+-0.266361
+-0.594425
+-0.00547977
+-0.304144
+739
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+519
+-0.889675
+0.200268
+-0.689795
+-0.470509
+-0.541507
+740
+NC_019828.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 13  Nleu_3.0  whole genome shotgun sequence
+150000
+236
+-0.961735
+-0.291843
+-0.430612
+0.822204
+0.716102
+741
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+60
+-0.978068
+-0.417413
+-0.499404
+0.158129
+0.61943
+742
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+443
+-0.932452
+-0.124084
+-0.690526
+-0.790773
+0.0922707
+743
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+83
+-0.971651
+-0.572881
+-0.495901
+-0.0496285
+-0.485862
+744
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+153
+-0.982167
+-0.646945
+-0.482436
+-0.127121
+-0.194531
+745
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+203
+-0.968077
+-0.338995
+-0.612415
+-0.648169
+0.612726
+746
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+245
+-0.988012
+-0.653107
+-0.458082
+-0.0188781
+0.28302
+747
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+359
+-0.978547
+-0.520502
+-0.519727
+-0.154583
+0.277314
+748
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+308
+-0.960777
+-0.389264
+-0.602806
+-0.421095
+0.105231
+749
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+455
+-0.930461
+-0.0477701
+-0.504777
+0.764819
+0.295839
+750
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+467
+-0.893481
+0.263978
+-0.733439
+-0.342162
+0.056374
+751
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+451
+-0.923459
+0.036698
+-0.715316
+-0.625285
+0.201143
+752
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+130
+-0.855008
+0.718457
+-0.720759
+-0.0769482
+0.0621441
+753
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+323
+-0.929942
+-0.0101974
+-0.675881
+-0.501562
+0.220627
+754
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+218
+-0.971255
+-0.501821
+-0.53586
+-0.206221
+0.220918
+755
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+197
+-0.926032
+-0.113688
+-0.62276
+0.0701054
+-0.39817
+756
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+114
+-0.971111
+-0.412951
+-0.525293
+0.160753
+-0.0752147
+757
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+329
+-0.951628
+-0.157631
+-0.581764
+-0.777063
+-0.11841
+758
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+303
+-0.946116
+-0.103506
+-0.670192
+-0.590465
+-0.247219
+759
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+264
+-0.930364
+-0.108742
+-0.634519
+-0.0902557
+0.294497
+760
+NC_019829.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 14  Nleu_3.0  whole genome shotgun sequence
+150000
+59
+-0.950262
+-0.235435
+-0.634108
+-0.688873
+0.284917
+761
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+418
+-0.963365
+-0.44954
+-0.542687
+-0.276788
+-0.406016
+762
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+357
+-0.945944
+-0.186861
+-0.601717
+-0.0662575
+0.499909
+763
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+10
+-0.918001
+0.101301
+-0.706879
+-0.445189
+0.23232
+764
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+468
+-0.954627
+-0.202035
+-0.647131
+-0.384844
+0.283545
+765
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+568
+-0.966567
+-0.367464
+-0.581137
+-0.670622
+-0.109936
+766
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+288
+-0.957561
+-0.403926
+-0.586523
+-0.167555
+-0.294832
+767
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+529
+-0.987039
+-0.684117
+-0.460415
+-0.235786
+-0.241001
+768
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+519
+-0.977774
+-0.616552
+-0.490582
+-0.274844
+0.304707
+769
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+676
+-0.979772
+-0.492119
+-0.573819
+-0.453215
+0.018554
+770
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+277
+-0.956402
+-0.3174
+-0.576259
+0.0136369
+-0.201732
+771
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+137
+-0.981477
+-0.574542
+-0.501008
+-0.29574
+-0.199395
+772
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+506
+-0.933398
+-0.182713
+-0.671773
+-0.532447
+-0.597048
+773
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+47
+-0.950053
+-0.276919
+-0.610696
+-0.336061
+0.0352342
+774
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+459
+-0.912662
+0.0551493
+-0.731188
+-0.712024
+0.0754772
+775
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+498
+-0.96699
+-0.368195
+-0.468965
+-0.457349
+-0.234464
+776
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+59
+-0.978946
+-0.453507
+-0.567235
+-0.328715
+0.191229
+777
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+109
+-0.981538
+-0.617413
+-0.477033
+-0.124161
+0.115543
+778
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+378
+-0.989276
+-0.599699
+-0.475347
+-0.392394
+0.326763
+779
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+264
+-0.882123
+0.346764
+-0.739604
+-0.463272
+-0.198214
+780
+NC_019830.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 15  Nleu_3.0  whole genome shotgun sequence
+150000
+349
+-0.982835
+-0.556893
+-0.482864
+-0.559216
+0.413422
+781
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+416
+-0.976462
+-0.613491
+-0.492174
+-0.328566
+0.242652
+782
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+283
+-0.949289
+-0.346143
+-0.487356
+0.550494
+-0.0340205
+783
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+317
+-0.978872
+-0.535032
+-0.500022
+-0.278801
+-0.0682281
+784
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+341
+-0.997625
+-0.730453
+-0.409231
+-0.208929
+0.311239
+785
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+185
+-0.947636
+-0.197022
+-0.64486
+-0.458059
+0.239091
+786
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+425
+-0.988494
+-0.543036
+-0.506511
+-0.458724
+0.176871
+787
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+617
+-0.982769
+-0.52325
+-0.53084
+-0.34146
+-0.156566
+788
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+312
+-0.984371
+-0.621668
+-0.470713
+-0.266165
+0.0566251
+789
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+296
+-0.981693
+-0.606361
+-0.495595
+-0.260928
+-0.244286
+790
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+179
+-0.950685
+-0.38015
+-0.577491
+-0.279148
+-0.166668
+791
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+197
+-0.962464
+-0.386876
+-0.535159
+0.235593
+0.336401
+792
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+150
+-0.949559
+-0.347321
+-0.612471
+-0.454458
+-0.678602
+793
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+468
+-0.984247
+-0.621647
+-0.470222
+-0.141796
+-0.388296
+794
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+227
+-0.987384
+-0.631376
+-0.462876
+-0.0685882
+-0.122232
+795
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+418
+-0.988952
+-0.735442
+-0.418383
+-0.062606
+-0.0202636
+796
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+440
+-0.959773
+-0.594079
+-0.470536
+0.100981
+-0.260371
+797
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+550
+-0.962999
+-0.445067
+-0.476756
+0.417276
+-0.457828
+798
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+315
+-0.949959
+-0.205557
+-0.66314
+-0.49757
+-0.195454
+799
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+107
+-0.852838
+0.628356
+-0.767767
+-0.564754
+-0.159411
+800
+NC_019831.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 16  Nleu_3.0  whole genome shotgun sequence
+150000
+353
+-0.985624
+-0.498353
+-0.516206
+-0.0398272
+0.359375
+801
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+82
+-0.899149
+0.221431
+-0.75538
+-0.782139
+-0.211301
+802
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+379
+-0.979672
+-0.560004
+-0.506732
+-0.06457
+0.0137368
+803
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+366
+-0.989638
+-0.632583
+-0.470506
+0.015781
+0.0242092
+804
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+466
+-0.939211
+-0.333831
+-0.574728
+0.0801294
+-0.310011
+805
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+179
+-0.965639
+-0.434568
+-0.559858
+-0.223836
+-0.305498
+806
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+566
+-0.871744
+0.461904
+-0.714192
+0.039677
+0.0772127
+807
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+342
+-0.879732
+0.546279
+-0.668811
+0.137151
+0.392556
+808
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+11
+-0.960972
+-0.335433
+-0.554102
+-0.256145
+0.264905
+809
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+314
+-0.9517
+-0.268568
+-0.567274
+0.0703516
+-0.162277
+810
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+80
+-0.963001
+-0.431278
+-0.579297
+-0.376941
+-0.309652
+811
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+585
+-0.937628
+-0.182843
+-0.617837
+-0.102761
+0.0575489
+812
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+186
+-0.956068
+-0.279547
+-0.618506
+-0.438699
+-0.00165124
+813
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+439
+-0.966198
+-0.444809
+-0.56127
+-0.379419
+-0.244506
+814
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+26
+-0.966556
+-0.479545
+-0.561282
+-0.328888
+-0.342222
+815
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+411
+-0.956128
+-0.389396
+-0.534402
+0.213259
+-0.253331
+816
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+378
+-0.953854
+-0.223248
+-0.649745
+-0.65749
+0.493491
+817
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+237
+-0.972089
+-0.40618
+-0.60062
+-0.802242
+0.5169
+818
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+165
+-0.872729
+0.466111
+-0.58921
+0.374572
+0.223915
+819
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+310
+-0.838399
+0.831512
+-0.685623
+0.201176
+0.245273
+820
+NC_019832.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 17  Nleu_3.0  whole genome shotgun sequence
+150000
+465
+-0.956607
+-0.465999
+-0.524652
+-0.0187736
+-0.39691
+821
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+342
+-0.997305
+-0.693303
+-0.448329
+-0.407955
+0.0514129
+822
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+335
+-0.912461
+0.0674517
+-0.740099
+-0.702166
+-0.286057
+823
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+268
+-0.935427
+-0.0489082
+-0.708552
+-0.713694
+0.142651
+824
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+135
+-0.911336
+0.0671538
+-0.723261
+-0.566547
+-0.217763
+825
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+481
+-0.915812
+0.128033
+-0.652174
+0.00612694
+-0.34019
+826
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+486
+-0.923351
+0.104114
+-0.751651
+-0.831384
+-0.0112107
+827
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+541
+-0.933943
+-0.108135
+-0.649401
+-0.107061
+-0.488359
+828
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+137
+-0.964442
+-0.407449
+-0.575086
+-0.388787
+-0.2859
+829
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+235
+-0.920971
+-0.124695
+-0.625332
+-0.105597
+-0.520029
+830
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+534
+-0.953689
+-0.298416
+-0.492877
+0.53065
+0.333038
+831
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+293
+-0.923734
+-0.0926073
+-0.601004
+0.115816
+-0.2903
+832
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+225
+-0.95461
+-0.32649
+-0.576101
+-0.110834
+0.141141
+833
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+142
+-0.965803
+-0.283231
+-0.60255
+-0.447622
+0.362576
+834
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+295
+-0.975926
+-0.643115
+-0.432856
+0.251494
+-0.288693
+835
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+526
+-0.973369
+-0.456932
+-0.536928
+-0.278246
+0.372319
+836
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+186
+-0.97529
+-0.525936
+-0.523721
+-0.608787
+-0.153581
+837
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+496
+-0.948015
+-0.331971
+-0.635418
+-0.631278
+-0.306591
+838
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+10
+-0.97279
+-0.53536
+-0.500999
+0.0729081
+0.267565
+839
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+45
+-0.919381
+-0.00943059
+-0.685581
+-0.374846
+0.0675444
+840
+NC_019833.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 18  Nleu_3.0  whole genome shotgun sequence
+150000
+463
+-0.955557
+-0.385822
+-0.594353
+-0.445499
+-0.157207
+841
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+264
+-0.951551
+-0.251729
+-0.588862
+-0.389677
+-0.0425033
+842
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+286
+-0.885105
+0.266284
+-0.728084
+-0.369233
+-0.294177
+843
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+48
+-0.974032
+-0.430698
+-0.567781
+-0.266969
+-0.0313234
+844
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+78
+-0.955694
+-0.389665
+-0.583729
+-0.293338
+-0.461533
+845
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+40
+-0.943949
+-0.239616
+-0.655074
+-0.458639
+-0.324509
+846
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+95
+-0.95289
+-0.227141
+-0.654209
+-0.672946
+0.502788
+847
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+150
+-0.890025
+0.329808
+-0.770779
+-0.688051
+0.097761
+848
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+461
+-0.8978
+0.291257
+-0.743061
+-0.336414
+0.0336344
+849
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+113
+-0.948292
+-0.348422
+-0.511269
+0.0969209
+-0.175391
+850
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+436
+-0.950959
+-0.285509
+-0.606408
+-0.138847
+0.0178896
+851
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+53
+-0.89641
+0.360538
+-0.723848
+-0.249858
+0.216272
+852
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+454
+-0.925194
+0.0536788
+-0.707753
+-0.583995
+0.231746
+853
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+303
+-0.985454
+-0.663067
+-0.457719
+-0.151706
+0.0446664
+854
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+180
+-0.935906
+-0.231669
+-0.641711
+-0.449521
+-0.0961847
+855
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+400
+-0.930058
+-0.161987
+-0.638552
+-0.0996044
+-0.543233
+856
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+294
+-0.960731
+-0.465462
+-0.47265
+0.297867
+-0.522964
+857
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+319
+-0.932514
+-0.041193
+-0.682752
+-0.352088
+-0.272834
+858
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+377
+-0.871289
+0.392029
+-0.717745
+-0.115848
+0.155148
+859
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+93
+-0.931644
+0.0160812
+-0.666071
+-0.539989
+-0.191046
+860
+NC_019834.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 19  Nleu_3.0  whole genome shotgun sequence
+150000
+213
+-0.979528
+-0.564654
+-0.505492
+-0.181386
+0.368459
+861
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+124
+-0.965076
+-0.468913
+-0.542959
+-0.280312
+0.15706
+862
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+319
+-0.941023
+-0.214101
+-0.654034
+-0.41042
+0.0469922
+863
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+155
+-0.980401
+-0.672482
+-0.444534
+-0.114478
+-0.119575
+864
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+143
+-0.951264
+-0.237126
+-0.640505
+-0.458361
+0.246229
+865
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+276
+-0.882156
+0.35649
+-0.777081
+-0.654808
+-0.0490506
+866
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+32
+-0.98341
+-0.589915
+-0.487083
+-0.29186
+0.287592
+867
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+295
+-0.939315
+-0.133641
+-0.667724
+-0.412622
+-0.206502
+868
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+436
+-0.971576
+-0.52719
+-0.528717
+-0.330277
+-0.219281
+869
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+341
+-0.956739
+-0.238963
+-0.449779
+0.829814
+0.732543
+870
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+397
+-0.942891
+-0.220255
+-0.453489
+1.
+0.208757
+871
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+170
+-0.953994
+-0.23906
+-0.503745
+0.5858
+0.314648
+872
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+200
+-0.988806
+-0.626197
+-0.48665
+-0.23657
+0.147031
+873
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+333
+-0.984377
+-0.621206
+-0.469565
+-0.0592594
+0.0879335
+874
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+442
+-0.980731
+-0.600028
+-0.457833
+0.0470923
+-0.0374307
+875
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+504
+-0.964157
+-0.500199
+-0.549714
+-0.241276
+-0.109705
+876
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+51
+-0.95779
+-0.312055
+-0.604575
+-0.289044
+0.320681
+877
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+297
+-0.933532
+-0.101442
+-0.668893
+-0.416584
+0.374893
+878
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+471
+-0.948313
+-0.341297
+-0.613368
+-0.439737
+-0.124111
+879
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+294
+-0.879566
+0.298274
+-0.7319
+-0.327559
+-0.491562
+880
+NC_019835.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 20  Nleu_3.0  whole genome shotgun sequence
+150000
+229
+-0.980596
+-0.606742
+-0.417039
+-0.283021
+-0.328058
+881
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+207
+-0.979897
+-0.534872
+-0.52084
+-0.270521
+0.340884
+882
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+226
+-0.973256
+-0.46178
+-0.553662
+-0.49192
+0.618702
+883
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+388
+-0.988882
+-0.637994
+-0.455875
+-0.231371
+0.039107
+884
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+435
+-0.968568
+-0.573839
+-0.500934
+-0.279357
+0.320879
+885
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+306
+-0.973679
+-0.625969
+-0.486625
+-0.233149
+0.00200875
+886
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+3
+-0.987368
+-0.688119
+-0.426154
+-0.0776118
+0.239569
+887
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+533
+-0.979015
+-0.588328
+-0.477382
+-0.0048372
+0.163271
+888
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+266
+-0.997019
+-0.712519
+-0.419268
+-0.14112
+0.177806
+889
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+420
+-0.992882
+-0.745497
+-0.379321
+0.0711483
+0.193906
+890
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+208
+-0.982493
+-0.557741
+-0.444629
+0.107716
+-0.442215
+891
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+373
+-0.940443
+-0.150179
+-0.627204
+-0.378982
+0.112396
+892
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+35
+-0.951101
+-0.208211
+-0.633557
+-0.584977
+0.310608
+893
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+162
+-0.967441
+-0.46843
+-0.570692
+-0.259699
+0.109373
+894
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+92
+-0.943124
+-0.330214
+-0.601706
+-0.338492
+-0.411886
+895
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+202
+-0.969998
+-0.602855
+-0.487701
+-0.0356482
+-0.168882
+896
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+409
+-0.971124
+-0.57363
+-0.505812
+-0.143479
+-0.228295
+897
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+451
+-0.94684
+-0.219213
+-0.639038
+-0.369874
+0.246098
+898
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+215
+-0.95516
+-0.318892
+-0.594833
+-0.321475
+0.443028
+899
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+288
+-0.808444
+1.
+-0.692826
+-0.333424
+-0.32826
+900
+NC_019836.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 21  Nleu_3.0  whole genome shotgun sequence
+150000
+221
+-0.888945
+0.273911
+-0.731477
+-0.545256
+-0.421546
+901
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+453
+-0.963762
+-0.357278
+-0.552407
+0.0491768
+0.135129
+902
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+65
+-0.922088
+0.00562398
+-0.712505
+-0.457264
+-0.0591326
+903
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+61
+-0.974914
+-0.397932
+-0.527552
+-0.392754
+0.728373
+904
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+818
+-0.977537
+-0.64051
+-0.428448
+0.233115
+-0.0907003
+905
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+517
+-0.97724
+-0.581185
+-0.514813
+-0.404225
+0.181257
+906
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+500
+-0.95636
+-0.345029
+-0.581499
+-0.0684734
+-0.475745
+907
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+360
+-0.988546
+-0.635855
+-0.459209
+-0.297075
+0.107221
+908
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+441
+-0.961249
+-0.392512
+-0.580871
+-0.565774
+-0.413836
+909
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+475
+-0.983625
+-0.602308
+-0.486708
+-0.467145
+0.263603
+910
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+588
+-0.978037
+-0.644327
+-0.473249
+-0.102998
+-0.303505
+911
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+336
+-0.987439
+-0.677068
+-0.43618
+-0.0689848
+-0.244294
+912
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+734
+-0.960084
+-0.455959
+-0.538456
+-0.000251134
+0.0155221
+913
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+242
+-0.971199
+-0.522433
+-0.492495
+0.223923
+-0.0419449
+914
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+499
+-0.982807
+-0.647377
+-0.459165
+-0.224215
+-0.266571
+915
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+774
+-0.994557
+-0.733868
+-0.409802
+-0.232589
+0.0378699
+916
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+323
+-0.98419
+-0.517977
+-0.415773
+0.626163
+0.687308
+917
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+213
+-0.986965
+-0.563959
+-0.516074
+-0.202331
+0.118367
+918
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+30
+-0.889226
+0.351037
+-0.670731
+0.220794
+0.0142216
+919
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+212
+-0.91491
+0.0863296
+-0.709274
+-0.725529
+0.384032
+920
+NC_019837.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 22a  Nleu_3.0  whole genome shotgun sequence
+150000
+530
+-0.98241
+-0.538616
+-0.530406
+-0.42352
+-0.00191216
+921
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+150
+-0.983378
+-0.706006
+-0.438098
+-0.0343465
+-0.42021
+922
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+159
+-0.956407
+-0.403297
+-0.586096
+-0.418335
+0.106227
+923
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+132
+-0.96857
+-0.413184
+-0.558203
+-0.134833
+0.526003
+924
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+61
+-0.979342
+-0.472086
+-0.543147
+-0.181745
+-0.121293
+925
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+156
+-0.990272
+-0.630309
+-0.462096
+-0.12102
+0.546442
+926
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+14
+-0.983237
+-0.584439
+-0.493255
+-0.337663
+0.46254
+927
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+37
+-0.955701
+-0.459132
+-0.566638
+-0.318149
+-0.243828
+928
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+164
+-0.991711
+-0.701654
+-0.431885
+-0.197881
+0.066357
+929
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+71
+-0.978906
+-0.645369
+-0.448904
+0.0010047
+-0.44575
+930
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+106
+-0.98484
+-0.524546
+-0.505559
+-0.0542878
+0.607069
+931
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+48
+-0.983914
+-0.576
+-0.509337
+-0.254732
+0.198615
+932
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+119
+-0.956971
+-0.458183
+-0.558401
+-0.34517
+-0.457963
+933
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+122
+-0.970034
+-0.412247
+-0.514529
+0.248609
+-0.0172224
+934
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+124
+-0.964865
+-0.390703
+-0.608869
+-0.531505
+0.333305
+935
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+108
+-0.969726
+-0.446494
+-0.536058
+-0.1077
+0.111434
+936
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+73
+-0.968254
+-0.407149
+-0.551064
+-0.337113
+-0.0815494
+937
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+66
+-0.962791
+-0.400364
+-0.534293
+-0.0836577
+0.28218
+938
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+127
+-0.929476
+0.0491137
+-0.481672
+0.703703
+0.401646
+939
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+40
+-0.870064
+0.421085
+-0.774831
+-1.
+-0.117603
+940
+NC_019838.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 23  Nleu_3.0  whole genome shotgun sequence
+150000
+191
+-0.863389
+0.515517
+-0.710428
+-0.186946
+-0.220086
+941
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+167
+-0.827264
+0.9304
+-0.752991
+-0.422495
+0.2936
+942
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+166
+-0.844982
+0.751125
+-0.775665
+-0.589403
+0.0885462
+943
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+164
+-0.927749
+0.110383
+-0.732345
+-0.797248
+0.212825
+944
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+104
+-0.89705
+0.26147
+-0.757161
+-0.814036
+-0.273241
+945
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+129
+-0.922739
+0.0322886
+-0.704075
+-0.639907
+-0.442901
+946
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+9
+-0.92764
+0.0475365
+-0.653061
+-0.0946151
+0.683268
+947
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+20
+-0.951975
+-0.240818
+-0.618138
+-0.169752
+0.503842
+948
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+2
+-0.882813
+0.501179
+-0.749164
+-0.415893
+0.213378
+949
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+96
+-0.869758
+0.627822
+-0.67649
+0.134742
+0.279184
+950
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+11
+-0.895456
+0.224001
+-0.756295
+-0.774974
+0.0440788
+951
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+83
+-0.884268
+0.356017
+-0.745154
+-0.458426
+-0.215596
+952
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+125
+-0.896378
+0.301281
+-0.706093
+-0.117446
+-0.153239
+953
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+163
+-0.924533
+0.0357912
+-0.654885
+-0.222846
+0.274847
+954
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+88
+-0.948004
+-0.281891
+-0.569449
+0.234585
+0.17672
+955
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+114
+-0.888574
+0.290415
+-0.707394
+-0.0581485
+-0.00481809
+956
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+28
+-0.964201
+-0.346021
+-0.464952
+0.512573
+0.748264
+957
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+27
+-0.908364
+0.129047
+-0.633911
+0.225061
+0.276291
+958
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+69
+-0.901753
+0.265827
+-0.76016
+-0.914543
+0.250351
+959
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+146
+-0.901665
+0.277682
+-0.762568
+-0.806289
+0.0892572
+960
+NC_019839.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 24  Nleu_3.0  whole genome shotgun sequence
+150000
+70
+-0.988828
+-0.651714
+-0.44191
+-0.024959
+0.153193
+961
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+17
+-0.989665
+-0.637616
+-0.449724
+-0.113768
+0.600233
+962
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+65
+-0.982797
+-0.636811
+-0.449295
+-0.137546
+-0.129137
+963
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+82
+-0.955583
+-0.409792
+-0.514022
+-0.0998228
+-0.94419
+964
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+97
+-0.987298
+-0.717043
+-0.40195
+0.0422649
+-0.142176
+965
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+71
+-0.979744
+-0.614548
+-0.4766
+0.00831836
+0.152444
+966
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+36
+-0.982506
+-0.628905
+-0.457808
+-0.0407377
+0.114848
+967
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+45
+-0.989582
+-0.635409
+-0.451769
+0.00228683
+0.0727925
+968
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+70
+-0.9819
+-0.590139
+-0.471483
+-0.0666845
+-0.487812
+969
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+188
+-0.966566
+-0.557285
+-0.50853
+-0.292488
+-0.341454
+970
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+116
+-0.964229
+-0.494166
+-0.531019
+-0.10684
+-0.577705
+971
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+168
+-0.943312
+-0.315241
+-0.56119
+0.203356
+-0.192951
+972
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+19
+-0.976869
+-0.552768
+-0.486935
+-0.3987
+0.412396
+973
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+109
+-0.964121
+-0.32479
+-0.599389
+-0.325744
+0.0268495
+974
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+198
+-0.923839
+-0.139162
+-0.611181
+0.130053
+-0.3807
+975
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+51
+-0.897292
+0.128816
+-0.699888
+-0.134641
+-0.34857
+976
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+197
+-0.948689
+-0.285322
+-0.612589
+-0.227013
+-0.135224
+977
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+72
+-0.819372
+0.916442
+-0.757174
+-0.42072
+0.209859
+978
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+76
+-0.947806
+-0.0746254
+-0.659171
+-0.518981
+0.49303
+979
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+23
+-0.854307
+0.650101
+-0.761615
+-0.674523
+0.133836
+980
+NC_019840.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome 25  Nleu_3.0  whole genome shotgun sequence
+150000
+16
+-0.946883
+-0.370218
+-0.576808
+-0.133696
+-0.259632
+981
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+43
+-0.948903
+-0.347035
+-0.59728
+-0.236358
+-0.172626
+982
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+707
+-0.949831
+-0.322872
+-0.6004
+-0.743342
+-0.298338
+983
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+327
+-0.963246
+-0.453616
+-0.557385
+-0.274206
+-0.323356
+984
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+67
+-0.96953
+-0.437915
+-0.566333
+-0.364269
+-0.268225
+985
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+232
+-0.94312
+-0.356647
+-0.473402
+0.62277
+-0.186601
+986
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+285
+-0.924426
+0.0298497
+-0.696094
+-0.320165
+-0.203129
+987
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+317
+-0.953143
+-0.363704
+-0.591897
+-0.220334
+0.039838
+988
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+312
+-0.9783
+-0.568237
+-0.512712
+-0.395769
+0.351284
+989
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+758
+-0.98334
+-0.637325
+-0.461546
+-0.115614
+0.0578777
+990
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+799
+-0.967048
+-0.574634
+-0.477668
+-0.0708641
+-0.656236
+991
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+612
+-0.973471
+-0.598734
+-0.519095
+-0.269249
+0.08421
+992
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+604
+-0.97413
+-0.580379
+-0.478625
+-0.15083
+-0.520599
+993
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+702
+-0.961319
+-0.473002
+-0.560874
+-0.3811
+-0.0611087
+994
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+595
+-0.987759
+-0.63125
+-0.46999
+-0.457936
+0.390214
+995
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+680
+-0.990296
+-0.678394
+-0.465235
+-0.314974
+-0.120586
+996
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+858
+-0.90766
+0.145636
+-0.730749
+-0.535732
+-0.186163
+997
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+283
+-0.938666
+-0.214841
+-0.635266
+-0.509558
+-0.0664732
+998
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+723
+-0.97567
+-0.498972
+-0.543822
+-0.459711
+0.306823
+999
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+387
+-0.963238
+-0.388241
+-0.583056
+-0.447782
+0.402748
+1000
+NC_019841.1
+Nomascus leucogenys isolate Asia; international studbook 0098 chromosome X  Nleu_3.0  whole genome shotgun sequence
+150000
+691

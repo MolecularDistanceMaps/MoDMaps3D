@@ -1,0 +1,387 @@
+33,5
+green,cyan
+5
+Index,Acc,Name,Length,Taxa
+green,cyan
+L4 (33),L6 (5)
+Set of mtDNA sequences
+-0.0215328
+-0.823342
+0.781609
+0.480786
+-0.217508
+1
+JQ044811
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BF334"                     /db_xref="taxon:9606"                     /haplogroup="L4b"                     /pop_variant="Bisa"                     /note="Mande"     D-loop
+-0.0452991
+-0.878968
+0.907588
+0.611779
+-0.0809194
+2
+JQ044834
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BF363"                     /db_xref="taxon:9606"                     /haplogroup="L4b"                     /pop_variant="Kassena"                     /note="Gur"     D-loop
+0.0342805
+-0.961259
+0.883825
+0.590016
+-0.223081
+3
+JQ044848
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BF379"                     /db_xref="taxon:9606"                     /haplogroup="L4b"                     /pop_variant="Kassena"                     /note="Gur"     D-loop
+0.0122781
+-1.
+1.
+0.361224
+-0.396246
+4
+JQ045081
+mitochondrion Homo sapiens (human)
+16564
+FEATURES             Location/Qualifiers     source          1..16564                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BF166"                     /db_xref="taxon:9606"                     /haplogroup="L4b"                     /pop_variant="Samoya"                     /note="Gur"     D-loop
+0.89928
+0.264806
+-0.0231187
+1.
+-0.576476
+5
+KC622179
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="NAM218"                     /isolation_source="Haiom"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"     D-loop
+0.876353
+0.274704
+0.0292216
+0.927518
+-0.762364
+6
+KC622215
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BOT6_031"                     /isolation_source="Naro"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"     D-loop
+0.876353
+0.274704
+0.0292216
+0.927518
+-0.762364
+7
+KC622218
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BOT6_152"                     /isolation_source="HandaKhoe(Shua)"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"     D-loop
+0.877925
+0.252642
+0.0150394
+0.985429
+-0.613561
+8
+KC622226
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BOT6_194"                     /isolation_source="Ju/'hoan_North"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"     D-loop
+0.876353
+0.274704
+0.0292216
+0.927518
+-0.762364
+9
+KC622258
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BOT6_071"                     /isolation_source="Ju/'hoan_South"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"     D-loop
+0.876353
+0.274704
+0.0292216
+0.927518
+-0.762364
+10
+KC622259
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BOT6_113"                     /isolation_source="Ju/'hoan_South"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"     D-loop
+0.834493
+0.252428
+0.0310995
+0.264601
+0.352716
+11
+KJ185407
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="ZAM646"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a"                     /pop_variant="Bemba"                     /country="Zambia"     tRNA            578..648                     /product="tRNA-Phe"     rRNA            649..1602                     /product="12S ribosomal RNA"     tRNA            1603..1671                     /product="tRNA-Val"     rRNA            1672..3229                     /product="16S ribosomal RNA"     tRNA            3230..3304                     /product="tRNA-Leu"                     /note="codons recognized: UUR"     gene            3307..4262                     /gene="ND1"     CDS             3307..4262                     /gene="ND1"                     /note="TAA stop codon is completed by the addition of 3' A                     residues to the mRNA"                     /codon_start=1                     /transl_except=(pos:4261..4262 aa:TERM)                     /transl_table=2                     /product="NADH dehydrogenase subunit 1"                     /protein_id="AID07700.1"                     /db_xref="GI:656330133"                     /translation="MPMANLLLLIVPILIAMAFLMLTERKILGYMQLRKGPNVVGPYG                     LLQPFADAMKLFTKEPLKPATSTITLYITAPTLALTIALLLWTPLPMPNPLVNLNLGL                     LFILATSSLAVYSILWSGWASNSNYALIGALRAVAQTISYEVTLAIILLSTLLMSGSF                     NLSTLITTQEHLWLLLPSWPLAMMWFISTLAETNRTPFDLAEGESELVSGFNIEYAAG                     PFALFFMAEYTNIIMMNTLTTTIFLGTTYDALSPELYTTYFVTKTLLLTSLFLWIRTA                     YPRFRYDQLMHLLWKNFLPLTLALLMWYVSMPITISSIPPQT"     tRNA            4263..4331                     /product="tRNA-Ile"     tRNA            complement(4329..4400)                     /product="tRNA-Gln"     tRNA            4402..4469                     /product="tRNA-Met"     gene            4470..5511                     /gene="ND2"     CDS             4470..5511                     /gene="ND2"                     /note="TAA stop codon is completed by the addition of 3' A                     residues to the mRNA"                     /codon_start=1                     /transl_except=(pos:5511 aa:TERM)                     /transl_table=2                     /product="NADH dehydrogenase subunit 2"                     /protein_id="AID07701.1"                     /db_xref="GI:656330134"                     /translation="MNPLAQPVIYSTIFAGTLITALSSHWFFTWVGLEMNMLAFIPVL                     TKKMNPRSTEAAIKYFLTQATASMILLMAILFNNMLSGQWTMTNTTNQYSSLMIMMAM                     AMKLGMAPFHFWVPEVTQGTPLTSGLLLLTWQKLAPISIMYQISPSLNVSLLLTLSIL                     SIMAGSWGGLNQTQLRKILAYSSITHMGWMMAVLPYNPNMTILNLTIYIILTTTAFLL                     LNLNSSTTTLLLSRTWNKLTWLTPLIPSTLLSLGGLPPLTGFLPKWAIIEEFTKNNSL                     IIPTIMATITLLNLYFYLRLIYSTSITLLPMSNNVKMKWQFEHTKPTPFLPTLIALTT                     LLLPISPFMLMIL"     tRNA            5512..5579                     /product="tRNA-Trp"     tRNA            complement(5587..5655)                     /product="tRNA-Ala"     tRNA            complement(5657..5729)                     /product="tRNA-Asn"     tRNA            complement(5761..5826)                     /product="tRNA-Cys"     tRNA            complement(5826..5891)                     /product="tRNA-Tyr"     gene            5904..7445                     /gene="COX1"     CDS             5904..7445                     /gene="COX1"                     /codon_start=1                     /transl_table=2                     /product="cytochrome c oxidase subunit I"                     /protein_id="AID07702.1"                     /db_xref="GI:656330135"                     /translation="MFADRWLFSTNHKDIGTLYLLFGAWAGVLGTALSLLIRAELGQP                     GNLLGNDHIYNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSF                     WLLPPSLLLLLASAMVEAGAGTGWTVYPPLAGNYSHPGASVDLTIFSLHLAGVSSILG                     AINFITTIINMKPPAMTQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVTYYSGKKEPFGYMGMVWA                     MMSIGFLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGSNMKW                     SAAVLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMGG                     FIHWFPLFSGYTLDQTYAKIHFTIMFIGVNLTFFPQHFLGLSGMPRRYSDYPDAYTTW                     NILSSVGSFISLTAVMLMIFMIWEAFASKRKVLMVEEPSMNLEWLYGCPPPYHTFEEP                     VYMKS"     tRNA            complement(7445..7516)                     /product="tRNA-Ser"                     /note="codons recognized: UCN"     tRNA            7518..7585                     /product="tRNA-Asp"     gene            7586..8269                     /gene="COX2"     CDS             7586..8269                     /gene="COX2"                     /codon_start=1                     /transl_table=2                     /product="cytochrome c oxidase subunit II"                     /protein_id="AID07703.1"                     /db_xref="GI:656330136"                     /translation="MAHAAQVGLQDATSPIMEELITFHDHALMIIFLICFLVLYALFL                     TLTTKLTNTNISDAQEMETVWTILPAIILVLIALPSLRILYMTDEVNDPSLTIKSIGH                     QWYWTYEYTDYGGLIFNSYMLPPLFLEPGDLRLLDVDNRVVLPIEAPIRMMITSQDVL                     HSWAVPTLGLKTDAIPGRLNQTTFTATRPGVYYGQCSEICGANHSFMPIVLELIPLKI                     FEMGPVFTL"     tRNA            8295..8364                     /product="tRNA-Lys"     gene            8366..8572                     /gene="ATP8"     CDS             8366..8572                     /gene="ATP8"                     /codon_start=1                     /transl_table=2                     /product="ATP synthase F0 subunit 8"                     /protein_id="AID07704.1"                     /db_xref="GI:656330137"                     /translation="MPQLNTTVWPTMITPMLLTLFLITQLKMLNTNYHLPPSPKPMKM                     KNYNKPWEPKWTKICSLHSLPPQS"     gene            8527..9207                     /gene="ATP6"     CDS             8527..9207                     /gene="ATP6"                     /codon_start=1                     /transl_table=2                     /product="ATP synthase F0 subunit 6"                     /protein_id="AID07705.1"                     /db_xref="GI:656330138"                     /translation="MNENLFASFIAPTILGLPAAVLIILFPPLLIPTSKYLINNRLIT                     TQQWLIKLTSKQMMAMHNTKGRTWSLMLVSLIIFIATTNLLGLLPHSFTPTTQLSMNL                     AMAIPLWAGAVIMGFRSKIKNALAHFLPQGTPTPLIPMLVIIETISLLIQPMALAVRL                     TANITAGHLLMHLIGSATLAMSTINLPSTLIIFTILILLTILEIAVALIQAYVFTLLV                     SLYLHDNT"     gene            9207..9990                     /gene="COX3"     CDS             9207..9990                     /gene="COX3"                     /note="TAA stop codon is completed by the addition of 3' A                     residues to the mRNA"                     /codon_start=1                     /transl_except=(pos:9990 aa:TERM)                     /transl_table=2                     /product="cytochrome c oxidase subunit III"                     /protein_id="AID07706.1"                     /db_xref="GI:656330139"                     /translation="MTHQSHAYHMVKPSPWPLTGALSALLMTSGLAMWFHFHSMTLLM                     LGLLTNTLTMYQWWRDVTRESTYQGHHTPPVQKGLRYGMILFITSEVFFFAGFFWAFY                     HSSLAPTPQLGGHWPPTGITPLNPLEVPLLNTSVLLASGVSITWAHHSLMENNRNQMI                     QALLITILLGLYFTLLQASEYFESPFTISDGIYGSTFFVATGFHGLHVIIGSTFLTVC                     FIRQLMFHFTSKHHFGFEAAAWYWHFVDVVWLFLYVSIYWWGS"     tRNA            9991..10058                     /product="tRNA-Gly"     gene            10059..10404                     /gene="ND3"     CDS             10059..10404                     /gene="ND3"                     /note="TAA stop codon is completed by the addition of 3' A                     residues to the mRNA"                     /codon_start=1                     /transl_except=(pos:10404 aa:TERM)                     /transl_table=2                     /product="NADH dehydrogenase subunit 3"                     /protein_id="AID07707.1"                     /db_xref="GI:656330140"                     /translation="MNFALILMINTLLALLLMIITFWLPQLNGYMEKSTPYECGFDPM                     SPARVPFSMKFFLVAITFLLFDLEIALLLPLPWALQTTNLPLMVMSSLLLIIILALSL                     AYEWLQKGLDWAE"     tRNA            10405..10469                     /product="tRNA-Arg"     gene            10470..10766                     /gene="ND4L"     CDS             10470..10766                     /gene="ND4L"                     /codon_start=1                     /transl_table=2                     /product="NADH dehydrogenase subunit 4L"                     /protein_id="AID07708.1"                     /db_xref="GI:656330141"                     /translation="MPLIYMNIMLAFTISLLGMLVYRSHLMSSLLCLEGMMLSLFIMA                     TLMTLNTHSLLANIVPIAMLVFAACEAAVGLALLVSISNTYGLDYVHNLNLLQC"     gene            10760..12137                     /gene="ND4"     CDS             10760..12137                     /gene="ND4"                     /note="TAA stop codon is completed by the addition of 3' A                     residues to the mRNA"                     /codon_start=1                     /transl_except=(pos:12137 aa:TERM)                     /transl_table=2                     /product="NADH dehydrogenase subunit 4"                     /protein_id="AID07709.1"                     /db_xref="GI:656330142"                     /translation="MLKLIVPTIMLLPLTWLSKKHMIWINTTTHSLIISIIPLLFFNQ                     INNNLFSCSPTFSSDPLTTPLLMLTTWLLPLTIMASQRHLSSEPLSRKKLYLSMLISL                     QISLIMTFTATELIMFYIFFETTLIPTLAIITRWGNQPERLNAGTYFLFYTLVGSLPL                     LIALIYTHNTLGSLNILLLTLTAQELSNSWANNLMWLAYTMAFMVKMPLYGLHLWLPK                     AHVEAPIAGSMVLAAVLLKLGGYGMMRLTLILNPLTKHMAYPFLVLSLWGMIMTSSIC                     LRQTDLKSLIAYSSISHMALVVTAILIQTPWSFTGAVILMIAHGLTSSLLFCLANSNY                     ERTHSRIMILSQGLQTLLPLMAFWWLLASLANLALPPTINLLGELSVLVTTFSWSNIT                     LLLTGLNMLVTALYSLYMFTTTQWGSLTHHINNMKPSFTRENTLMFMHLSPILLLSLN                     PDIITGFSS"     tRNA            12138..12206                     /product="tRNA-His"     tRNA            12207..12265                     /product="tRNA-Ser"                     /note="codons recognized: AGY"     tRNA            12266..12336                     /product="tRNA-Leu"                     /note="codons recognized: CUN"     gene            12337..14148                     /gene="ND5"     CDS             12337..14148                     /gene="ND5"                     /codon_start=1                     /transl_table=2                     /product="NADH dehydrogenase subunit 5"                     /protein_id="AID07710.1"                     /db_xref="GI:656330143"                     /translation="MTMHTTMTTLTLTSLIPPILTTLVNPNKKNSYPHYVKSIVASTF                     IISLFPTTMFMCLDQEVIISNWHWATTQTTQLSLSFKLDYFSMMFIPVALFVTWSIME                     FSLWYMNSDPNINQFFKYLLIFLITMLILVTANNLFQLFIGWEGVGIMSFLLISWWYA                     RADANTAAIQAILYNRIGDIGFILALAWFILHSNSWDPQQMALLNANPSLTPLLGLLL                     AAAGKSAQLGLHPWLPSAMEGPTPVSALLHSSTMVVAGIFLLIRFHPLAENSPLIQTL                     TLCLGAITTLFAAVCALTQNDIKKIVAFSTSSQLGLMMVTIGINQPHLAFLHICTHAF                     FKAMLFMCSGSIIHNLNNEQDIRKMGGLLKTMPLTSTSLTIGSLALAGMPFLTGFYSK                     DHIIETANMSYTNAWALSITLIATSLTSAYSTRMILLTLTGQPRFPTLTNINENNPTL                     LNPIKRLAAGSLFAGFLITNNISPASPFQTTIPLYLKLTALAVTFLGLLAALDLNYLT                     NKLKMKSPLCTFYFSNMLGFYPSITHRTIPYLGLLTSQNLPLLLLDLTWLEKLLPKTI                     SQHQISTSIITSTQKGMIKLYFLSFFFPLILTLLLIT"     gene            complement(14149..14673)                     /gene="ND6"     CDS             complement(14149..14673)                     /gene="ND6"                     /codon_start=1                     /transl_table=2                     /product="NADH dehydrogenase subunit 6"                     /protein_id="AID07711.1"                     /db_xref="GI:656330144"                     /translation="MMYALFLLSVGLVMGFVGFSSKPSPIYGGLVLIASGVVGCVIIL                     NFGGGYMGLMVFLIYLGGMMVVFGYTTAMAIEEYPEAWGSGVEVLVSVLVGLAMEVGL                     VLWVKEYDGVVVVVNFNSVGSWMIYEGEGSGLIREDPIGAGALYDYGRWLVVVTGWTL                     FVGVYIVIEIARGN"     tRNA            complement(14674..14742)                     /product="tRNA-Glu"     gene            14747..15887                     /gene="CYTB"     CDS             14747..15887                     /gene="CYTB"                     /note="TAA stop codon is completed by the addition of 3' A                     residues to the mRNA"                     /codon_start=1                     /transl_except=(pos:15887 aa:TERM)                     /transl_table=2                     /product="cytochrome b"                     /protein_id="AID07712.1"                     /db_xref="GI:656330145"                     /translation="MTPMRKINPLMKLINHSFIDLPTPSNISAWWNFGSLLGACLILQ                     ITTGLFLAMHYSPDASTAFSSIAHITRDVNYGWIIRYLHANGASMFFICLFLHIGRGL                     YYGSFLYSETWNIGIILLLATMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTDL                     VQWIWGGYSVDSPTLTRFFTFHFILPFIIAALAALHLLFLHETGSNNPLGITSHSDKI                     TFHPYYTIKDALGLLLFLLSLMTLTLFSPDLLGDPDNYTLANPLNTPPHIKPEWYFLF                     AYTILRSVPNKLGGVLALLLSILILAMIPILHMSKQQSMMFRPLSQSLYWLLAADLLI                     LTWIGGQPVSYPFTIIGQVASVLYFTTILILMPTISLIENKMLKWA"     tRNA            15888..15953                     /product="tRNA-Thr"     tRNA            complement(15956..16023)                     /product="tRNA-Pro"     D-loop
+0.706461
+0.225102
+0.000793777
+0.118713
+0.18175
+12
+KM986608
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y453"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a1"                     /country="Yemen"     D-loop
+0.849015
+0.173476
+0.143633
+-1.
+-0.34041
+13
+KP317053
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Budu093"                     /db_xref="taxon:9606"                     /haplogroup="L4b2b"                     /country="Niger"     D-loop
+-0.122931
+-0.614849
+-0.881381
+0.47656
+-0.257861
+14
+KP317054
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="DL147"                     /db_xref="taxon:9606"                     /haplogroup="L4a1a"                     /country="United Arab Emirates"     D-loop
+1.
+0.278964
+0.0110659
+0.844712
+0.0296185
+15
+KP317055
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="DL148"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"                     /country="United Arab Emirates"     D-loop
+0.787238
+0.238322
+0.0317333
+0.87545
+-0.477516
+16
+KP317056
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="ETH06"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"                     /country="Ethiopia"     D-loop
+-0.148154
+-0.696266
+-0.993246
+0.488284
+-0.237941
+18
+KP317058
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="ETH38"                     /db_xref="taxon:9606"                     /haplogroup="L4a1a"                     /country="Ethiopia"     D-loop
+-0.100761
+-0.561298
+-0.866815
+0.273746
+-0.278526
+19
+KP317059
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="ETH41"                     /db_xref="taxon:9606"                     /haplogroup="L4a1a"                     /country="Ethiopia"     D-loop
+-0.217477
+-0.626454
+-1.
+0.490298
+-0.179388
+21
+KP317061
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="ETH73"                     /db_xref="taxon:9606"                     /haplogroup="L4a1a"                     /country="Ethiopia"     D-loop
+-0.0145797
+-0.920618
+0.878337
+0.619635
+-0.181229
+22
+KP317062
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GUR20"                     /db_xref="taxon:9606"                     /haplogroup="L4b1"                     /country="Burkina Faso"     D-loop
+0.684072
+0.166212
+0.0646976
+-0.639262
+-0.80994
+23
+KP317063
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Kane101"                     /db_xref="taxon:9606"                     /haplogroup="L4b2b"                     /country="Chad"     D-loop
+0.684072
+0.166212
+0.0646976
+-0.639262
+-0.80994
+24
+KP317064
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KANE53"                     /db_xref="taxon:9606"                     /haplogroup="L4b2b"                     /country="Chad"     D-loop
+0.779553
+0.220413
+0.0819432
+-0.632381
+-1.
+25
+KP317065
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Kanu040"                     /db_xref="taxon:9606"                     /haplogroup="L4b2b"                     /country="Nigeria"     D-loop
+0.771315
+0.243884
+0.000872098
+0.794439
+0.102428
+26
+KP317066
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="NUB087"                     /isolation_source="Nubia"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2a"     D-loop
+0.977446
+0.292213
+0.00160589
+0.813898
+0.0450309
+28
+KP317068
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="ORO36"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2b"                     /country="Kenya"     D-loop
+0.991795
+0.338292
+-0.0176576
+0.533609
+-0.0902946
+29
+KP317069
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RSK_01"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2a"                     /country="Sudan"     D-loop
+0.94835
+0.240219
+0.0371259
+0.701495
+0.459892
+30
+KP317070
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RSK_05"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"                     /country="Sudan"     D-loop
+0.916012
+0.264395
+0.0120639
+0.976964
+-0.440572
+32
+KP317072
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Som21"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a2"                     /country="Somalia"     D-loop
+-0.0553984
+-0.44999
+-0.464357
+0.438422
+-0.175399
+33
+KP317073
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Som37"                     /db_xref="taxon:9606"                     /haplogroup="L4a2"                     /country="Somalia"     D-loop
+0.63498
+0.199358
+0.00586279
+0.168485
+-0.0209997
+34
+KP317074
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Som46"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a1"                     /country="Somalia"     D-loop
+0.865009
+0.199046
+0.0599527
+0.0493816
+0.847795
+35
+KP317075
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Som5"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a"                     /country="Somalia"     D-loop
+-0.150399
+-0.59433
+-0.881763
+0.481357
+-0.254444
+36
+KP317076
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Som54"                     /db_xref="taxon:9606"                     /haplogroup="L4a1a"                     /country="Somalia"     D-loop
+0.89052
+0.210903
+0.0580092
+0.0206163
+1.
+38
+KP317078
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Tur_02"                     /db_xref="taxon:9606"                     /haplogroup="L4b2a"                     /country="Kenya"     D-loop
+-0.932296
+1.
+0.198047
+0.499995
+-0.297121
+17
+KP317057
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="ETH25"                     /db_xref="taxon:9606"                     /haplogroup="L6a"                     /country="Ethiopia"     D-loop
+-0.936319
+0.931837
+0.179282
+0.581957
+0.165665
+20
+KP317060
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="ETH59"                     /db_xref="taxon:9606"                     /haplogroup="L6b"                     /country="Ethiopia"     D-loop
+-1.
+0.984403
+0.197112
+0.396923
+-0.0632338
+27
+KP317067
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="ORO25"                     /db_xref="taxon:9606"                     /haplogroup="L6b"                     /country="Kenya"     D-loop
+-0.868647
+0.928268
+0.230369
+0.373678
+-0.683237
+31
+KP317071
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Som128"                     /db_xref="taxon:9606"                     /haplogroup="L6a"                     /country="Somalia"     D-loop
+-0.894311
+0.908686
+0.170653
+0.495795
+-0.185598
+37
+KP317077
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Som87"                     /db_xref="taxon:9606"                     /haplogroup="L6a"                     /country="Somalia"     D-loop

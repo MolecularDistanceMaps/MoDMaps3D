@@ -1,0 +1,2917 @@
+7,6,11,13,15,20,8,4,8,9,10,9,10,19,5,5,6,5,9,6,9,11,12,9,13,19,13,20
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+P.falciparum (149), P.vivax (142)
+Sampling from P.falciparum and P.vivax; Number of genomic DNA sequences is 291; FCGR with k=9; Approx. Information
+0.857118
+0.765661
+0.409466
+-0.118151
+0.925467
+1
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+1
+0.933804
+-0.669976
+-0.00439752
+-0.844124
+0.49452
+2
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+7
+0.877155
+-0.797742
+0.0333663
+-0.555338
+0.670955
+3
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+5
+0.909922
+-0.848262
+0.0827428
+-0.550735
+0.656491
+4
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+4
+0.893635
+-0.82054
+0.0529628
+-0.347708
+0.70923
+5
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+3
+0.911353
+-0.890234
+0.0296425
+-0.200353
+0.774837
+6
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+2
+0.881666
+-0.727697
+0.255255
+0.584305
+-0.357425
+7
+NC_000521.3
+Plasmodium falciparum 3D7 chromosome 3
+150000
+6
+0.879355
+0.750706
+0.387678
+-0.346523
+0.721693
+8
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+6
+0.891192
+-0.670307
+-0.0174938
+-0.831139
+0.515934
+9
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+3
+0.895987
+-0.72936
+0.0528232
+-0.646645
+0.502961
+10
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+4
+0.909876
+-0.89636
+0.0750013
+-0.342769
+0.740519
+11
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+5
+0.911866
+-0.914499
+0.107067
+-0.2402
+0.707194
+12
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+1
+0.975271
+-0.852114
+0.284758
+0.584767
+0.338531
+13
+NC_000910.2
+Plasmodium falciparum 3D7 chromosome 2  complete sequence
+150000
+2
+0.884463
+0.687825
+0.375467
+-0.282292
+1.
+14
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+6
+0.918422
+-0.645679
+0.039843
+-0.89012
+0.398085
+15
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+9
+0.91175
+-0.753371
+0.0285617
+-0.62648
+0.62722
+16
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+3
+0.978942
+-0.767335
+0.0707238
+-0.461896
+0.66533
+17
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+11
+0.942004
+-0.726532
+0.0459612
+-0.640235
+0.446004
+18
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+1
+0.932661
+-0.794069
+0.104722
+-0.652965
+0.547005
+19
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+10
+0.935591
+-0.724599
+0.030738
+-0.656079
+0.434771
+20
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+2
+0.905908
+-0.810126
+0.117645
+-0.600827
+0.482639
+21
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+7
+0.870494
+-0.863513
+0.0492879
+-0.454756
+0.674571
+22
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+8
+0.925242
+-0.896108
+0.149701
+-0.0510719
+0.869214
+23
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+5
+0.871687
+-0.727993
+0.439926
+1.
+-0.262274
+24
+NC_004314.2
+Plasmodium falciparum 3D7 chromosome 10  complete sequence
+150000
+4
+0.805004
+0.933623
+0.4146
+-0.253248
+0.601593
+25
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+8
+0.916442
+-0.701406
+0.0227473
+-0.79406
+0.592537
+26
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+3
+0.917141
+-0.718547
+0.0905002
+-0.648173
+0.574561
+27
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+13
+0.952071
+-0.820592
+0.0632027
+-0.414689
+0.822831
+28
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+9
+0.893256
+-0.714079
+0.0171852
+-0.647001
+0.561335
+29
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+7
+0.995662
+-0.821371
+0.120929
+-0.431406
+0.64129
+30
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+2
+0.919882
+-0.821294
+0.0946522
+-0.427638
+0.653715
+31
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+11
+0.925299
+-0.877321
+0.0848388
+-0.400419
+0.637734
+32
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+12
+0.957662
+-0.862768
+0.0807043
+-0.375138
+0.787239
+33
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+4
+0.984932
+-0.870445
+0.102436
+-0.297482
+0.803286
+34
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+1
+1.
+-0.777962
+0.0888649
+-0.548865
+0.452896
+35
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+10
+0.932377
+-0.905752
+0.101422
+-0.400029
+0.539838
+36
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+6
+0.928967
+-0.99441
+0.130515
+0.375312
+0.823383
+37
+NC_004315.2
+Plasmodium falciparum 3D7 chromosome 11  complete sequence
+150000
+5
+0.793151
+0.507904
+0.122459
+-0.465401
+0.814398
+38
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+3
+0.911831
+-0.640145
+0.00987229
+-0.87774
+0.477311
+39
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+4
+0.978862
+-0.741868
+0.036116
+-0.711783
+0.519814
+40
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+11
+0.930181
+-0.755691
+-0.0000790989
+-0.575473
+0.522693
+41
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+8
+0.933081
+-0.850917
+0.061027
+-0.500477
+0.679762
+42
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+2
+0.85027
+-0.593921
+-0.0533726
+-0.471654
+-0.0496769
+43
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+9
+0.982856
+-0.768031
+0.0701551
+-0.528058
+0.639474
+44
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+12
+0.912083
+-0.856793
+0.0453087
+-0.473765
+0.593756
+45
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+10
+0.944122
+-0.817835
+0.135455
+-0.511608
+0.632972
+46
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+1
+0.884884
+-0.873716
+-0.000713486
+-0.309099
+0.792661
+47
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+13
+0.94625
+-0.883882
+0.104182
+-0.333376
+0.739352
+48
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+15
+0.783642
+-0.473219
+0.144885
+0.0287898
+0.919253
+49
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+6
+0.929216
+-0.827426
+0.0978642
+-0.37242
+0.684392
+50
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+5
+0.877147
+-0.948184
+0.125826
+-0.187319
+0.815527
+51
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+7
+0.914471
+-0.658546
+0.184793
+0.468925
+-0.179398
+52
+NC_004316.3
+Plasmodium falciparum 3D7 chromosome 12  complete sequence
+150000
+14
+0.915324
+-0.213501
+0.148726
+-0.691435
+0.482149
+53
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+14
+0.959769
+-0.748086
+0.0715823
+-0.509412
+0.639121
+54
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+4
+0.981434
+-0.701532
+0.050133
+-0.698334
+0.54864
+55
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+19
+0.945564
+-0.732846
+0.118891
+-0.661885
+0.574909
+56
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+16
+0.976464
+-0.762536
+0.0511449
+-0.522484
+0.54627
+57
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+8
+0.963274
+-0.749285
+0.0846677
+-0.686522
+0.506803
+58
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+5
+0.934237
+-0.810267
+0.0960254
+-0.541072
+0.652214
+59
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+1
+0.958054
+-0.810537
+0.0340729
+-0.417439
+0.688324
+60
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+11
+0.939801
+-0.76181
+0.0671188
+-0.623941
+0.483475
+61
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+17
+0.974252
+-0.816769
+0.0838669
+-0.359247
+0.690606
+62
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+21
+0.988675
+-0.889209
+0.0874473
+-0.318273
+0.793095
+63
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+9
+0.947275
+-0.788387
+0.0836506
+-0.432455
+0.664455
+64
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+7
+0.958529
+-0.765806
+0.0733473
+-0.605889
+0.388183
+65
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+18
+0.970639
+-0.82736
+0.0787841
+-0.24093
+0.736767
+66
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+3
+0.984888
+-0.826774
+0.0609318
+-0.27988
+0.771328
+67
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+6
+0.986846
+-0.800585
+0.0931134
+-0.424669
+0.682711
+68
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+2
+0.963787
+-0.846166
+0.0392142
+-0.222809
+0.772504
+69
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+13
+0.985161
+-0.812615
+0.0995382
+-0.313247
+0.597027
+70
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+20
+0.921405
+-0.920286
+0.114593
+-0.156378
+0.770497
+71
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+12
+0.951311
+-0.950643
+0.086778
+-0.137163
+0.70723
+72
+NC_004317.2
+Plasmodium falciparum 3D7 chromosome 14  complete sequence
+150000
+15
+0.773056
+0.914147
+0.475647
+-0.133025
+0.531738
+73
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+8
+0.908741
+-0.669364
+0.0681296
+-0.680246
+0.520242
+74
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+5
+0.873584
+-0.762878
+-0.0603559
+-0.577419
+0.543624
+75
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+6
+0.794897
+-0.566591
+0.150495
+-0.660568
+-0.956076
+76
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+2
+0.85294
+-0.633183
+0.0151626
+-0.593291
+-0.265798
+77
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+3
+0.927217
+-0.926202
+0.123856
+-0.407797
+0.879757
+78
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+7
+0.803841
+-0.67155
+0.153049
+-0.197327
+-0.68565
+79
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+1
+0.773071
+-0.658734
+0.130798
+0.57556
+0.0215778
+80
+NC_004318.1
+Plasmodium falciparum 3D7 chromosome 4
+150000
+4
+0.828247
+1.
+0.393742
+-0.283018
+0.690797
+81
+NC_004325.1
+Plasmodium falciparum strain 3D7  chromosome 1
+150000
+4
+0.90193
+-0.75053
+0.0300715
+-0.647239
+0.760138
+82
+NC_004325.1
+Plasmodium falciparum strain 3D7  chromosome 1
+150000
+1
+0.899045
+-0.819012
+0.0889153
+-0.495208
+0.69064
+83
+NC_004325.1
+Plasmodium falciparum strain 3D7  chromosome 1
+150000
+2
+0.877538
+-0.909944
+0.192958
+0.706298
+0.840059
+84
+NC_004325.1
+Plasmodium falciparum strain 3D7  chromosome 1
+150000
+3
+0.853021
+0.529899
+0.291404
+-0.429968
+0.946706
+85
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+7
+0.905153
+-0.708965
+0.037061
+-0.760386
+0.658214
+86
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+3
+0.907737
+-0.752573
+0.0389841
+-0.553522
+0.723722
+87
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+4
+0.975378
+-0.860305
+0.105602
+-0.420556
+0.780045
+88
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+6
+0.89525
+-0.850387
+0.0787677
+-0.491003
+0.638547
+89
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+2
+0.934319
+-0.842319
+0.0320899
+-0.377613
+0.52829
+90
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+1
+0.954563
+-0.896298
+0.0584865
+-0.169432
+0.930051
+91
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+8
+0.916676
+-0.864835
+0.12716
+-0.239004
+0.600392
+92
+NC_004326.1
+Plasmodium falciparum 3D7 chromosome 5
+150000
+5
+0.866796
+-0.0197407
+0.14266
+-0.456155
+0.286662
+93
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+1
+0.890995
+-0.663712
+-0.0129503
+-0.834867
+0.490822
+94
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+7
+0.91286
+-0.852319
+0.0789398
+-0.374418
+0.878967
+95
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+5
+0.929394
+-0.764296
+0.0352664
+-0.606976
+0.454099
+96
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+6
+0.882573
+-0.752099
+0.054169
+-0.438512
+0.27926
+97
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+3
+0.972163
+-0.820665
+0.0901955
+-0.485897
+0.614642
+98
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+2
+0.922283
+-0.844966
+0.0969841
+-0.342876
+0.642094
+99
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+9
+0.902988
+-0.775936
+-0.0641199
+-0.388482
+0.556769
+100
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+4
+0.947566
+-0.820622
+0.25991
+0.623659
+0.222668
+101
+NC_004327.2
+Plasmodium falciparum 3D7 chromosome 6
+150000
+8
+0.855551
+0.935265
+0.457498
+-0.104468
+0.724673
+102
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+10
+0.952687
+-0.632278
+0.0648986
+-1.
+0.520066
+103
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+1
+0.952086
+-0.749063
+0.0703325
+-0.746578
+0.599209
+104
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+6
+0.854565
+-0.551085
+0.0418979
+-0.547106
+-0.568981
+105
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+8
+0.775061
+-0.470814
+0.0630954
+-0.435832
+-1.
+106
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+7
+0.907863
+-0.806773
+-0.0203865
+-0.556189
+0.545098
+107
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+5
+0.885555
+-0.915214
+0.106643
+-0.290205
+0.79339
+108
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+4
+0.890007
+-0.901062
+0.0505298
+-0.0417344
+0.758763
+109
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+2
+0.924523
+-0.98096
+0.101441
+-0.088467
+0.838015
+110
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+3
+0.856364
+-0.542611
+0.209742
+0.692075
+-0.219536
+111
+NC_004328.2
+Plasmodium falciparum 3D7 chromosome 7
+150000
+9
+0.730023
+0.507764
+0.152847
+-0.385471
+0.871553
+112
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+8
+0.894137
+-0.806726
+0.0543496
+-0.62049
+0.691146
+113
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+5
+0.820261
+-0.554954
+0.090569
+-0.378054
+0.733883
+114
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+9
+0.946253
+-0.654858
+0.0976401
+-0.391775
+0.706839
+115
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+6
+0.950529
+-0.782363
+0.0746029
+-0.44814
+0.547777
+116
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+1
+0.911214
+-0.770604
+0.0651262
+-0.51238
+0.558642
+117
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+3
+0.936257
+-0.876988
+0.124798
+-0.332341
+0.695281
+118
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+2
+0.955788
+-0.848194
+0.0828788
+-0.317709
+0.561032
+119
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+7
+0.89493
+-1.
+0.134704
+0.254554
+0.988876
+120
+NC_004329.2
+Plasmodium falciparum 3D7 chromosome 8
+150000
+4
+0.856265
+0.830354
+0.340788
+-0.0894751
+0.830595
+121
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+6
+0.93444
+-0.64687
+-0.0259878
+-0.803828
+0.427968
+122
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+5
+0.965715
+-0.744289
+0.105368
+-0.657775
+0.597409
+123
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+9
+0.957956
+-0.835291
+0.0491065
+-0.467415
+0.738796
+124
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+7
+0.929243
+-0.752984
+0.0543394
+-0.591413
+0.592662
+125
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+8
+0.954759
+-0.811756
+0.0790559
+-0.45925
+0.718819
+126
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+2
+0.906875
+-0.842801
+0.0586047
+-0.466013
+0.787944
+127
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+3
+0.931408
+-0.794229
+0.0312542
+-0.490371
+0.64378
+128
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+1
+0.928753
+-0.820783
+0.0873438
+-0.358447
+0.657124
+129
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+4
+0.916913
+-0.721785
+0.252723
+0.312145
+0.105156
+130
+NC_004330.1
+Plasmodium falciparum 3D7 chromosome 9
+150000
+10
+0.80206
+0.809473
+0.260151
+-0.232003
+0.68491
+131
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+17
+0.954023
+-0.613778
+-0.000480405
+-0.96387
+0.489091
+132
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+2
+0.9661
+-0.714711
+0.0392317
+-0.792266
+0.551375
+133
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+11
+0.978244
+-0.743571
+0.0267234
+-0.555
+0.592991
+134
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+13
+0.981492
+-0.810649
+0.100613
+-0.467076
+0.810458
+135
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+9
+0.983477
+-0.811327
+0.0670097
+-0.493188
+0.690242
+136
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+8
+0.917364
+-0.837779
+0.0923743
+-0.47764
+0.751056
+137
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+15
+0.984925
+-0.884022
+0.125947
+-0.379145
+0.778546
+138
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+7
+0.861001
+-0.817104
+0.00171974
+-0.48938
+0.575791
+139
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+18
+0.979079
+-0.821041
+0.101259
+-0.423581
+0.568768
+140
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+12
+0.904571
+-0.797733
+0.0756834
+-0.616864
+0.489548
+141
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+5
+0.94738
+-0.79968
+0.0589798
+-0.384969
+0.521372
+142
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+16
+0.955703
+-0.82589
+0.07838
+-0.282117
+0.670401
+143
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+3
+0.961369
+-0.855699
+0.106317
+-0.36249
+0.761609
+144
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+14
+0.987558
+-0.783337
+0.0815651
+-0.395949
+0.594899
+145
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+1
+0.964473
+-0.866251
+0.0918927
+-0.183225
+0.784669
+146
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+10
+0.923773
+-0.893047
+0.0391249
+-0.0641346
+0.849697
+147
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+19
+0.93974
+-0.928222
+0.0913141
+-0.263995
+0.769751
+148
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+4
+0.91417
+-0.877412
+0.105187
+0.657948
+0.654183
+149
+NC_004331.2
+Plasmodium falciparum 3D7 chromosome 13
+150000
+6
+-0.462813
+-0.548721
+-0.472712
+-0.453325
+0.565749
+150
+NC_009906.1
+Plasmodium vivax SaI-1 chromosome 1  whole genome shotgun sequence
+150000
+1
+-0.731718
+-0.644225
+-0.0224105
+-0.463227
+0.547198
+151
+NC_009906.1
+Plasmodium vivax SaI-1 chromosome 1  whole genome shotgun sequence
+150000
+4
+-0.902533
+-0.723934
+0.580943
+-0.477499
+0.495054
+152
+NC_009906.1
+Plasmodium vivax SaI-1 chromosome 1  whole genome shotgun sequence
+150000
+5
+-0.806345
+-0.714657
+0.502997
+-0.259752
+0.794428
+153
+NC_009906.1
+Plasmodium vivax SaI-1 chromosome 1  whole genome shotgun sequence
+150000
+3
+-0.976592
+-0.790827
+0.94539
+-0.391711
+0.333696
+154
+NC_009906.1
+Plasmodium vivax SaI-1 chromosome 1  whole genome shotgun sequence
+150000
+2
+-0.160474
+-0.430063
+-0.73284
+-0.451252
+0.530535
+155
+NC_009907.1
+Plasmodium vivax SaI-1 chromosome 2  whole genome shotgun sequence
+150000
+3
+-0.815545
+-0.691232
+0.52537
+-0.563476
+0.458414
+156
+NC_009907.1
+Plasmodium vivax SaI-1 chromosome 2  whole genome shotgun sequence
+150000
+2
+-0.91198
+-0.700745
+0.575678
+-0.571156
+0.349716
+157
+NC_009907.1
+Plasmodium vivax SaI-1 chromosome 2  whole genome shotgun sequence
+150000
+4
+-0.765941
+-0.716004
+0.230167
+-0.306457
+0.469828
+158
+NC_009907.1
+Plasmodium vivax SaI-1 chromosome 2  whole genome shotgun sequence
+150000
+1
+-0.350582
+-0.678447
+-0.495698
+0.139469
+0.797921
+159
+NC_009907.1
+Plasmodium vivax SaI-1 chromosome 2  whole genome shotgun sequence
+150000
+5
+-0.648007
+-0.550298
+-0.20927
+-0.686833
+0.469536
+160
+NC_009908.2
+Plasmodium vivax SaI-1 chromosome 3  whole genome shotgun sequence
+150000
+3
+-0.761296
+-0.619015
+0.0558708
+-0.566658
+0.446624
+161
+NC_009908.2
+Plasmodium vivax SaI-1 chromosome 3  whole genome shotgun sequence
+150000
+6
+-0.915289
+-0.73724
+0.672428
+-0.486484
+0.41501
+162
+NC_009908.2
+Plasmodium vivax SaI-1 chromosome 3  whole genome shotgun sequence
+150000
+4
+-0.716303
+-0.69566
+0.337053
+-0.367956
+0.370267
+163
+NC_009908.2
+Plasmodium vivax SaI-1 chromosome 3  whole genome shotgun sequence
+150000
+2
+-1.
+-0.776009
+1.
+-0.473535
+0.602456
+164
+NC_009908.2
+Plasmodium vivax SaI-1 chromosome 3  whole genome shotgun sequence
+150000
+1
+-0.179909
+-0.692026
+-0.569501
+0.339409
+0.761026
+165
+NC_009908.2
+Plasmodium vivax SaI-1 chromosome 3  whole genome shotgun sequence
+150000
+5
+-0.157599
+-0.466999
+-0.542922
+-0.557017
+0.396944
+166
+NC_009909.1
+Plasmodium vivax SaI-1 chromosome 4  whole genome shotgun sequence
+150000
+4
+-0.870724
+-0.639652
+0.374609
+-0.688732
+0.439373
+167
+NC_009909.1
+Plasmodium vivax SaI-1 chromosome 4  whole genome shotgun sequence
+150000
+2
+-0.755082
+-0.663617
+0.290506
+-0.474301
+0.50894
+168
+NC_009909.1
+Plasmodium vivax SaI-1 chromosome 4  whole genome shotgun sequence
+150000
+1
+-0.855781
+-0.721154
+0.549284
+-0.424527
+0.709587
+169
+NC_009909.1
+Plasmodium vivax SaI-1 chromosome 4  whole genome shotgun sequence
+150000
+5
+-0.829884
+-0.781504
+0.397017
+-0.162873
+0.773945
+170
+NC_009909.1
+Plasmodium vivax SaI-1 chromosome 4  whole genome shotgun sequence
+150000
+3
+-0.0187002
+-0.405696
+-0.925823
+-0.442143
+0.568118
+171
+NC_009910.1
+Plasmodium vivax SaI-1 chromosome 5  whole genome shotgun sequence
+150000
+9
+-0.766561
+-0.641862
+0.13267
+-0.592632
+0.681073
+172
+NC_009910.1
+Plasmodium vivax SaI-1 chromosome 5  whole genome shotgun sequence
+150000
+4
+-0.812546
+-0.65677
+0.22151
+-0.494574
+0.406474
+173
+NC_009910.1
+Plasmodium vivax SaI-1 chromosome 5  whole genome shotgun sequence
+150000
+5
+-0.790153
+-0.64945
+0.168693
+-0.466956
+0.614824
+174
+NC_009910.1
+Plasmodium vivax SaI-1 chromosome 5  whole genome shotgun sequence
+150000
+7
+-0.799848
+-0.722176
+0.406098
+-0.409881
+0.527379
+175
+NC_009910.1
+Plasmodium vivax SaI-1 chromosome 5  whole genome shotgun sequence
+150000
+8
+-0.432849
+-0.607398
+-0.4307
+-0.221816
+0.507536
+176
+NC_009910.1
+Plasmodium vivax SaI-1 chromosome 5  whole genome shotgun sequence
+150000
+1
+-0.750646
+-0.70715
+0.141059
+-0.382767
+0.658921
+177
+NC_009910.1
+Plasmodium vivax SaI-1 chromosome 5  whole genome shotgun sequence
+150000
+3
+-0.839281
+-0.717239
+0.384561
+-0.271245
+0.631872
+178
+NC_009910.1
+Plasmodium vivax SaI-1 chromosome 5  whole genome shotgun sequence
+150000
+6
+-0.263227
+-0.705512
+-0.376018
+0.153098
+0.556298
+179
+NC_009910.1
+Plasmodium vivax SaI-1 chromosome 5  whole genome shotgun sequence
+150000
+2
+-0.575252
+-0.526171
+-0.105488
+-0.711803
+0.469525
+180
+NC_009911.1
+Plasmodium vivax SaI-1 chromosome 6  whole genome shotgun sequence
+150000
+6
+-0.974792
+-0.680657
+0.878195
+-0.738335
+0.308875
+181
+NC_009911.1
+Plasmodium vivax SaI-1 chromosome 6  whole genome shotgun sequence
+150000
+5
+0.104652
+-0.439841
+-0.905002
+-0.457732
+0.384753
+182
+NC_009911.1
+Plasmodium vivax SaI-1 chromosome 6  whole genome shotgun sequence
+150000
+4
+-0.673665
+-0.556971
+-0.190428
+-0.595818
+0.489133
+183
+NC_009911.1
+Plasmodium vivax SaI-1 chromosome 6  whole genome shotgun sequence
+150000
+1
+-0.807907
+-0.658703
+0.118177
+-0.496487
+0.619816
+184
+NC_009911.1
+Plasmodium vivax SaI-1 chromosome 6  whole genome shotgun sequence
+150000
+3
+-0.909738
+-0.76124
+0.604409
+-0.329323
+0.727254
+185
+NC_009911.1
+Plasmodium vivax SaI-1 chromosome 6  whole genome shotgun sequence
+150000
+2
+-0.358032
+-0.453225
+-0.774964
+-0.546556
+0.315629
+186
+NC_009912.1
+Plasmodium vivax SaI-1 chromosome 7  whole genome shotgun sequence
+150000
+8
+-0.590475
+-0.54961
+-0.381587
+-0.543102
+0.383946
+187
+NC_009912.1
+Plasmodium vivax SaI-1 chromosome 7  whole genome shotgun sequence
+150000
+1
+-0.705478
+-0.653641
+-0.0256821
+-0.396662
+0.752483
+188
+NC_009912.1
+Plasmodium vivax SaI-1 chromosome 7  whole genome shotgun sequence
+150000
+3
+-0.802389
+-0.697948
+0.161674
+-0.406597
+0.58956
+189
+NC_009912.1
+Plasmodium vivax SaI-1 chromosome 7  whole genome shotgun sequence
+150000
+7
+-0.763827
+-0.661226
+0.113482
+-0.38037
+0.648003
+190
+NC_009912.1
+Plasmodium vivax SaI-1 chromosome 7  whole genome shotgun sequence
+150000
+2
+-0.849221
+-0.729925
+0.390309
+-0.336726
+0.656551
+191
+NC_009912.1
+Plasmodium vivax SaI-1 chromosome 7  whole genome shotgun sequence
+150000
+9
+-0.896663
+-0.730427
+0.448188
+-0.417205
+0.536279
+192
+NC_009912.1
+Plasmodium vivax SaI-1 chromosome 7  whole genome shotgun sequence
+150000
+5
+-0.729593
+-0.686345
+0.220075
+-0.308339
+0.73073
+193
+NC_009912.1
+Plasmodium vivax SaI-1 chromosome 7  whole genome shotgun sequence
+150000
+6
+-0.881998
+-0.739108
+0.65687
+-0.314681
+0.523954
+194
+NC_009912.1
+Plasmodium vivax SaI-1 chromosome 7  whole genome shotgun sequence
+150000
+4
+0.0235309
+-0.38875
+-0.999514
+-0.513154
+0.396139
+195
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+1
+-0.674536
+-0.536544
+-0.197476
+-0.660053
+0.419353
+196
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+6
+-0.550158
+-0.578876
+-0.470375
+-0.273672
+0.713562
+197
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+9
+-0.541454
+-0.600727
+-0.481422
+-0.343994
+0.545443
+198
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+5
+-0.65165
+-0.664625
+-0.186695
+-0.211545
+0.548337
+199
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+8
+-0.790541
+-0.763503
+0.255304
+-0.177597
+0.575991
+200
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+11
+-0.876705
+-0.746014
+0.480303
+-0.376929
+0.467636
+201
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+10
+-0.728553
+-0.662964
+0.191865
+-0.398448
+0.562829
+202
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+7
+-0.921992
+-0.692952
+0.70799
+-0.588579
+0.317069
+203
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+3
+-0.927533
+-0.76886
+0.656119
+-0.413845
+0.73213
+204
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+2
+-0.665459
+-0.732908
+-0.0167347
+0.0365441
+0.673015
+205
+NC_009913.1
+Plasmodium vivax SaI-1 chromosome 8  whole genome shotgun sequence
+150000
+4
+-0.53508
+-0.505728
+-0.445202
+-0.521556
+0.619399
+206
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+6
+-0.782774
+-0.576666
+0.122221
+-0.655978
+0.450565
+207
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+12
+-0.684545
+-0.638646
+-0.131445
+-0.348317
+0.792163
+208
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+11
+-0.854969
+-0.726748
+0.313857
+-0.412503
+0.560518
+209
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+4
+-0.770034
+-0.679517
+0.342952
+-0.515989
+0.448167
+210
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+5
+-0.72938
+-0.687344
+0.190758
+-0.451793
+0.818145
+211
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+3
+-0.87528
+-0.696131
+0.381029
+-0.405248
+0.591956
+212
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+2
+-0.822404
+-0.720509
+0.292235
+-0.423731
+0.63124
+213
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+10
+-0.647169
+-0.676412
+-0.189852
+-0.174582
+0.745136
+214
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+1
+-0.611224
+-0.661086
+-0.27006
+-0.163229
+0.746378
+215
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+9
+-0.636329
+-0.705928
+-0.200067
+-0.157123
+0.518337
+216
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+8
+-0.704038
+-0.730246
+0.0132787
+-0.0754531
+0.452181
+217
+NC_009914.1
+Plasmodium vivax SaI-1 chromosome 9  whole genome shotgun sequence
+150000
+7
+-0.352385
+-0.498638
+-0.784016
+-0.393965
+0.746217
+218
+NC_009915.1
+Plasmodium vivax SaI-1 chromosome 10  whole genome shotgun sequence
+150000
+8
+-0.574754
+-0.562805
+-0.456846
+-0.399764
+0.543807
+219
+NC_009915.1
+Plasmodium vivax SaI-1 chromosome 10  whole genome shotgun sequence
+150000
+3
+-0.567233
+-0.589523
+-0.399162
+-0.401827
+0.247551
+220
+NC_009915.1
+Plasmodium vivax SaI-1 chromosome 10  whole genome shotgun sequence
+150000
+5
+-0.773354
+-0.67247
+0.0833834
+-0.334339
+0.803283
+221
+NC_009915.1
+Plasmodium vivax SaI-1 chromosome 10  whole genome shotgun sequence
+150000
+7
+-0.893552
+-0.765798
+0.555577
+-0.36692
+0.606279
+222
+NC_009915.1
+Plasmodium vivax SaI-1 chromosome 10  whole genome shotgun sequence
+150000
+1
+-0.752934
+-0.706893
+0.299526
+-0.451604
+0.325377
+223
+NC_009915.1
+Plasmodium vivax SaI-1 chromosome 10  whole genome shotgun sequence
+150000
+6
+-0.960563
+-0.744614
+0.808535
+-0.447848
+0.497239
+224
+NC_009915.1
+Plasmodium vivax SaI-1 chromosome 10  whole genome shotgun sequence
+150000
+2
+-0.853355
+-0.747393
+0.408426
+-0.289044
+0.624753
+225
+NC_009915.1
+Plasmodium vivax SaI-1 chromosome 10  whole genome shotgun sequence
+150000
+4
+-0.254826
+-0.622412
+-0.537692
+-0.0141828
+0.154062
+226
+NC_009915.1
+Plasmodium vivax SaI-1 chromosome 10  whole genome shotgun sequence
+150000
+9
+-0.307666
+-0.479399
+-0.610793
+-0.734031
+0.40835
+227
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+10
+-0.65082
+-0.588333
+-0.241006
+-0.612031
+0.45787
+228
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+5
+-0.620206
+-0.550356
+-0.3634
+-0.560329
+0.213763
+229
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+6
+-0.620371
+-0.590741
+-0.314225
+-0.477285
+0.503645
+230
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+9
+-0.639714
+-0.596602
+-0.30019
+-0.391807
+0.510693
+231
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+3
+-0.477796
+-0.577898
+-0.494844
+-0.291133
+0.576621
+232
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+13
+-0.58764
+-0.609505
+-0.276608
+-0.288335
+0.558273
+233
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+12
+-0.724535
+-0.703092
+0.00932002
+-0.17546
+0.709106
+234
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+2
+-0.847951
+-0.738227
+0.373707
+-0.344966
+0.634078
+235
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+4
+-0.900901
+-0.749924
+0.620194
+-0.455133
+0.659997
+236
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+7
+-0.747267
+-0.712109
+0.295851
+-0.262845
+0.646949
+237
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+1
+-0.904863
+-0.737036
+0.581905
+-0.455564
+0.480079
+238
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+8
+-0.825487
+-0.789121
+0.367608
+-0.124298
+0.687877
+239
+NC_009916.1
+Plasmodium vivax SaI-1 chromosome 11  whole genome shotgun sequence
+150000
+11
+-0.422235
+-0.473839
+-0.501532
+-0.660624
+0.335443
+240
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+17
+-0.694756
+-0.601742
+-0.0939172
+-0.544571
+0.764466
+241
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+8
+-0.628252
+-0.604718
+-0.245406
+-0.461229
+0.681085
+242
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+2
+-0.676961
+-0.650114
+-0.191587
+-0.216153
+0.806814
+243
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+14
+-0.7199
+-0.685627
+-0.0176936
+-0.302948
+0.61014
+244
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+15
+-0.846875
+-0.7427
+0.419981
+-0.418188
+0.675258
+245
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+19
+-0.7106
+-0.663894
+0.119779
+-0.410233
+0.536325
+246
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+13
+-0.986316
+-0.740637
+0.899272
+-0.625491
+0.56865
+247
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+11
+-0.801263
+-0.647495
+0.195057
+-0.569721
+0.412135
+248
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+7
+-0.665511
+-0.644787
+-0.139786
+-0.355469
+0.603733
+249
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+9
+-0.658304
+-0.645215
+-0.0990512
+-0.364496
+0.514354
+250
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+16
+-0.443129
+-0.650813
+-0.591038
+-0.0975703
+0.749816
+251
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+10
+-0.689594
+-0.68392
+-0.108135
+-0.327153
+0.563502
+252
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+1
+-0.528858
+-0.633752
+-0.399687
+-0.15513
+0.525341
+253
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+3
+-0.546198
+-0.632074
+-0.422297
+-0.207313
+0.482129
+254
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+5
+-0.647399
+-0.683713
+-0.173075
+-0.0623605
+0.897044
+255
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+6
+-0.614194
+-0.682537
+-0.271017
+-0.161029
+0.650876
+256
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+12
+-0.480863
+-0.673695
+-0.488592
+-0.0841012
+0.586205
+257
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+18
+-0.572311
+-0.721065
+-0.223985
+-0.00518345
+0.550223
+258
+NC_009917.1
+Plasmodium vivax SaI-1 chromosome 12  whole genome shotgun sequence
+150000
+4
+-0.536653
+-0.539796
+-0.468555
+-0.54993
+0.586767
+259
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+2
+-0.696149
+-0.584148
+-0.197836
+-0.48913
+0.406636
+260
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+3
+-0.627666
+-0.626374
+-0.25706
+-0.376464
+0.701931
+261
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+6
+-0.772539
+-0.693285
+0.131819
+-0.323528
+0.686595
+262
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+11
+-0.76231
+-0.74863
+0.187052
+-0.209604
+0.985102
+263
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+1
+-0.927221
+-0.75935
+0.721953
+-0.49312
+0.559888
+264
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+13
+-0.680206
+-0.684792
+0.189633
+-0.405616
+0.389378
+265
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+8
+-0.919291
+-0.713615
+0.610914
+-0.583241
+0.510511
+266
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+5
+-0.655247
+-0.651464
+-0.141345
+-0.326141
+0.675397
+267
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+12
+-0.655746
+-0.664599
+-0.225427
+-0.20627
+0.815704
+268
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+7
+-0.559339
+-0.660555
+-0.348447
+-0.120552
+0.736398
+269
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+10
+-0.543767
+-0.681961
+-0.319441
+-0.0693753
+0.805898
+270
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+4
+-0.68754
+-0.724926
+0.0301029
+-0.125154
+0.572981
+271
+NC_009918.1
+Plasmodium vivax SaI-1 chromosome 13  whole genome shotgun sequence
+150000
+9
+0.271584
+-0.430032
+-1.
+-0.381282
+0.507381
+272
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+8
+-0.416689
+-0.457458
+-0.744897
+-0.696885
+0.262179
+273
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+11
+-0.491907
+-0.528097
+-0.593663
+-0.510439
+0.459944
+274
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+9
+-0.538285
+-0.57692
+-0.464931
+-0.430137
+0.661963
+275
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+5
+-0.664663
+-0.608686
+-0.165738
+-0.467026
+0.71602
+276
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+16
+-0.587351
+-0.629882
+-0.326771
+-0.304493
+0.744296
+277
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+18
+-0.468799
+-0.581679
+-0.605298
+-0.352253
+0.45363
+278
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+15
+-0.540847
+-0.620085
+-0.474953
+-0.235759
+0.71611
+279
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+10
+-0.432799
+-0.583916
+-0.634171
+-0.227133
+0.529762
+280
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+20
+-0.454729
+-0.588074
+-0.62844
+-0.296718
+0.570358
+281
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+2
+-0.425035
+-0.619864
+-0.579966
+-0.198763
+0.773526
+282
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+19
+-0.59146
+-0.625615
+-0.306859
+-0.196855
+0.634267
+283
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+6
+-0.862732
+-0.726932
+0.486333
+-0.437721
+0.441901
+284
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+12
+-0.94383
+-0.763505
+0.832311
+-0.561135
+0.474261
+285
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+7
+-0.76255
+-0.70432
+0.287903
+-0.352054
+0.595414
+286
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+13
+-0.889011
+-0.736227
+0.567989
+-0.544256
+0.648151
+287
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+17
+-0.719416
+-0.691328
+-0.0275434
+-0.292444
+0.799347
+288
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+14
+-0.735072
+-0.703825
+0.0449438
+-0.206524
+0.697694
+289
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+4
+-0.823569
+-0.771089
+0.261958
+-0.15393
+0.68915
+290
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+1
+-0.282831
+-0.677261
+-0.470122
+0.0231859
+0.611514
+291
+NC_009919.1
+Plasmodium vivax SaI-1 chromosome 14  whole genome shotgun sequenc
+150000
+3

@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>MoDMaps3D - Three Dimensional Molecular Distance Maps</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+	<script>
+
+	$(document).ready(function(){
+		
+		$("#buildmap").click(function(){
+			console.log("start");
+
+			var mapTimeStamp = new Date().getTime();
+			if(typeof(Storage) !== "undefined") {
+				localStorage.setItem("mapfile"+mapTimeStamp, $("#inputmap").val().trim());
+			} else {
+				console.log("ERROR! NO LOCAL STORAGE AVAILABLE!?");
+				alert("ERROR! NO LOCAL STORAGE AVAILABLE!?");
+			}
+			console.log('../load.html?mapid=local'+mapTimeStamp+'&distmatrix=false');	
+			window.location = '../load.html?mapid=local'+mapTimeStamp+'&distmatrix=false';
+
+		});
+
+	});
+
+	</script>
+
+	<style>
+	body {
+		margin-bottom: 60px;
+	}
+	</style>
+</head>
+<body>
+
+	<div class = "page-header">
+		<h1 class="text-center">MoDMaps3D</h1>
+	</div>
+
+	<div class="container">
+		<p>
+			Input (paste) you map contents below, and click "View Map!" button.
+		</p>
+
+		<p>
+			<textarea id="inputmap" autofocus  rows="10" cols="40"></textarea>
+		</p>
+
+		<p>
+			<input type="submit" id="buildmap" value="View Map!"/>
+		</p>
+	</div>
+
+</body>
+</html>

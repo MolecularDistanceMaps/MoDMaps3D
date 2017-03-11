@@ -1,0 +1,2957 @@
+2,3,79,53,7,72,7,6,2,11,49,4
+blue,red,green,orange,magenta,yellow,brown,lime,gray,pink,cyan,seagreen
+5
+Index,Acc,Name,Length,Taxa
+blue,red,green,orange,magenta,yellow,brown,lime,gray,pink,cyan,seagreen
+a (2),a2 (3),d (79),f1 (53),f2 (7),g (72),h (7),j (6),k (2),n (11),o (49),p (4)
+a, a2, d, f1, f2, g, h, j, k, n, o, p. Number of sequences is 295
+-0.678970023298316
+0.05237105166884031
+-0.35330036247040564
+0.6105517817207508
+0.29664269651221353
+0
+KX389608
+>KX389608.1 HIV-1 isolate 10NG040248 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8722
+NotAvailable
+-0.6763603702624419
+0.05975548844454465
+-0.38734001943179536
+0.5979618497492067
+0.2700011704360327
+1
+KX389622
+>KX389622.1 HIV-1 isolate 09NG010499 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8721
+NotAvailable
+-0.6949359434874443
+-0.023731855637315603
+-0.44171625086356436
+0.6203738829756914
+0.2730609493706461
+2
+AF286237
+>AF286237.1 HIV-1 isolate 94CY017.41 from Cyprus, complete genome
+9060
+NotAvailable
+-0.6894306566464528
+0.027906316224759975
+-0.39279123674170857
+0.6060218480470647
+0.2783196557336142
+3
+AF286238
+>AF286238.1 HIV-1 isolate 97CDKTB48 from Republic of the Congo, complete genome
+8972
+NotAvailable
+-0.6778380263413754
+-0.024640415007436724
+-0.4314521572890623
+0.6045990710722191
+0.23193856713123823
+4
+GU201516
+>GU201516.1 HIV-1 isolate 01CM.1445MV from Cameroon gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; nonfunctional rev protein (rev) gene, complete sequence; and vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8832
+NotAvailable
+-0.9805928567636912
+-0.8118229824742237
+-0.852308644688408
+0.7347900797597647
+0.14661658049455556
+5
+A07108
+>A07108.1 Human immunodeficiency virus type 1 (LAV.ELI) proviral DNA
+9176
+NotAvailable
+-0.9805928567636912
+-0.8118229824742235
+-0.8523086446884071
+0.7347900797597687
+0.14661658049455442
+6
+A14116
+>A14116.1 LAV ELI virus DNA from patent WO8707906
+9176
+NotAvailable
+-0.964318178381756
+-0.7834497780880578
+-0.824644245109321
+0.7420921009652571
+0.09437454378041883
+7
+A34828
+>A34828.1 HIV-1 NDK complete sequence
+9143
+NotAvailable
+-0.8949056807662078
+-0.7548145882602696
+-0.7542731703985591
+0.7055564513581868
+0.10147364654527315
+8
+AB485648
+>AB485648.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-09D25
+9633
+NotAvailable
+-0.9037467166017572
+-0.7599769381257288
+-0.7585057917010802
+0.7086729957380766
+0.10017252895831777
+9
+AB485649
+>AB485649.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-09D61
+9616
+NotAvailable
+-0.9574871136157075
+-0.9499444906098558
+-0.9385993167682104
+0.7714126196056005
+-0.19282662026254796
+10
+AB485650
+>AB485650.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-10D02
+9688
+NotAvailable
+-0.9606677639774838
+-0.9490510834520833
+-0.9395240341664814
+0.7752080598757822
+-0.1962209714229758
+11
+AB485651
+>AB485651.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-10D81
+9683
+NotAvailable
+-0.9564255255842542
+-0.9494393896135069
+-0.9279395423478672
+0.7747645609790644
+-0.19026908164597858
+12
+AF457090
+>AF457090.1 HIV-1 isolate 01KE_NKU3006 from Kenya, partial genome
+8848
+NotAvailable
+-0.9640469336685372
+-0.9335799220132689
+-0.9432666662637276
+0.7776656087388887
+-0.23225206915258306
+13
+AF484477
+>AF484477.1 HIV-1 isolate 99UGA07412 from Uganda, partial genome
+8794
+NotAvailable
+-0.9856537820695404
+-0.9515844214116087
+-0.9748521282641923
+0.7975378806249557
+-0.23550494945856937
+14
+AF484480
+>AF484480.1 HIV-1 isolate 99UGB21875 from Uganda, partial genome
+8801
+NotAvailable
+-0.972909255884959
+-0.9757659978509269
+-0.9702105528798592
+0.7799663173858408
+-0.2124237853087243
+15
+AF484481
+>AF484481.1 HIV-1 isolate 99UGB25647 from Uganda, partial genome
+8806
+NotAvailable
+-0.9746382348678586
+-0.9535951223419747
+-0.9398186195153735
+0.7749558968625864
+-0.23281724807601406
+16
+AF484483
+>AF484483.1 HIV-1 isolate 99UGB32394 from Uganda, partial genome
+8750
+NotAvailable
+-0.9445407388209102
+-0.9223904479471267
+-0.877566003633794
+0.7595872792294406
+-0.21439122854932435
+17
+AF484485
+>AF484485.1 HIV-1 isolate 99UGD23550 from Uganda, partial genome
+8825
+NotAvailable
+-0.9450164039712999
+-0.8923650792734638
+-0.94226954847268
+0.7738963707297533
+-0.23444101539274206
+18
+AF484486
+>AF484486.1 HIV-1 isolate 99UGD26830 from Uganda, partial genome
+8831
+NotAvailable
+-0.9428242981880925
+-0.9318439021904641
+-0.9067441475178455
+0.7687332074338616
+-0.2000883768912051
+19
+AF484487
+>AF484487.1 HIV-1 isolate 99UGE08364 from Uganda, partial genome
+8780
+NotAvailable
+-0.9796670680569709
+-0.9368872412677
+-0.93806423970099
+0.7931692731488901
+-0.22844257330361697
+20
+AF484489
+>AF484489.1 HIV-1 isolate 99UGE23438 from Uganda, partial genome
+8811
+NotAvailable
+-0.9324578253298107
+-0.9292593850418337
+-0.9191450987368802
+0.7672214206361927
+-0.16934447811582157
+21
+AF484490
+>AF484490.1 HIV-1 isolate 99UGF05734 from Uganda, partial genome
+8840
+NotAvailable
+-1
+-0.9904071410141739
+-0.9444946024855936
+0.8058880867458484
+-0.2583371579865461
+22
+AF484494
+>AF484494.1 HIV-1 isolate 99UGG10555 from Uganda, partial genome
+8770
+NotAvailable
+-0.929428409357254
+-0.8602388692424915
+-0.933383426250806
+0.7880967921958862
+-0.16303644669536893
+23
+AF484495
+>AF484495.1 HIV-1 isolate 99UGG35093 from Uganda, partial genome
+8807
+NotAvailable
+-0.9869004055742306
+-1
+-0.9625470226227149
+0.795575864255315
+-0.2607337666311498
+24
+AF484497
+>AF484497.1 HIV-1 isolate 99UGJ27597 from Uganda, partial genome
+8805
+NotAvailable
+-0.9299044977208135
+-0.8798207337465266
+-0.8975060802290302
+0.7439468478352195
+-0.1803640841090296
+25
+AF484498
+>AF484498.1 HIV-1 isolate 99UGK09259 from Uganda, partial genome
+8827
+NotAvailable
+-0.9322111937489242
+-0.9246575232979354
+-0.9426322011938645
+0.781017643341257
+-0.23459063384050013
+26
+AF484499
+>AF484499.1 HIV-1 isolate 99UGK09958 from Uganda, partial genome
+8782
+NotAvailable
+-0.9382510075636029
+-0.8797820305392572
+-0.9033333311968572
+0.7491750509916276
+-0.19862514907414466
+27
+AF484502
+>AF484502.1 HIV-1 isolate 98UG57128 from Uganda, partial genome
+8811
+NotAvailable
+-0.951501799371907
+-0.8635544043197414
+-0.8860650443245616
+0.7520730662502267
+-0.10498447468385
+28
+AF484504
+>AF484504.1 HIV-1 isolate 98UG57130 from Uganda, partial genome
+8827
+NotAvailable
+-0.9348776996934314
+-0.8803654299944509
+-0.8702157423609208
+0.7632042851994019
+-0.19248147893759804
+29
+AF484505
+>AF484505.1 HIV-1 isolate 98UG57131 from Uganda, partial genome
+8827
+NotAvailable
+-0.9645383121535025
+-0.9283881337037168
+-0.9253115732435779
+0.7875229471291901
+-0.20264622065252214
+30
+AF484506
+>AF484506.1 HIV-1 isolate 98UG57132 from Uganda, partial genome
+8839
+NotAvailable
+-0.9513396823095425
+-0.9020582434499559
+-0.9146140427841618
+0.7802361454586848
+-0.22404583552151364
+31
+AF484511
+>AF484511.1 HIV-1 isolate 98UG57140 from Uganda, partial genome
+8788
+NotAvailable
+-0.9875303661372412
+-0.9278066307535271
+-0.9774831730906145
+0.8006853183091514
+-0.21346388395420493
+32
+AF484513
+>AF484513.1 HIV-1 isolate 98UG57146 from Uganda, partial genome
+8768
+NotAvailable
+-0.9173625585463251
+-0.8561825236696113
+-0.8374613228454739
+0.7310610004458588
+0.002108861136573496
+33
+AF484514
+>AF484514.1 HIV-1 isolate 98UG57143 from Uganda, partial genome
+8786
+NotAvailable
+-0.9726645028514912
+-0.9899856917211688
+-0.959036840042905
+0.7977178895090978
+-0.2592124629109461
+34
+AF484515
+>AF484515.1 HIV-1 isolate 99UGE13613 from Uganda, partial genome
+8774
+NotAvailable
+-0.9961864334230249
+-0.9994838416671101
+-1
+0.818322922548309
+-0.2593793695691996
+35
+AF484516
+>AF484516.1 HIV-1 isolate 99UGJ32228 from Uganda, partial genome
+8802
+NotAvailable
+-0.9223389123168592
+-0.8912614467225161
+-0.9095899422654438
+0.7675164035418858
+-0.17669556085088955
+36
+AF484518
+>AF484518.1 HIV-1 isolate 99UGA03349 from Uganda, partial genome
+8793
+NotAvailable
+-0.9097829030742016
+-0.8419133287480164
+-0.8940269775988386
+0.7401010609501449
+-0.18822707073884531
+37
+AF484519
+>AF484519.1 HIV-1 isolate 99UGF03726 from Uganda, partial genome
+8812
+NotAvailable
+-0.9404805438480518
+-0.8631210070900788
+-0.8551465053267603
+0.7324065556564169
+-0.07686198724539081
+38
+AJ320484
+>AJ320484.1 Human immunodeficiency virus type 1 complete proviral genome, strain 92UG001
+9745
+NotAvailable
+-0.9041201942381973
+-0.7692270396984864
+-0.8087323720956189
+0.6853589257598776
+0.18540473552242195
+39
+AJ488926
+>AJ488926.1 Human immunodeficiency virus type 1 partial proviral genome, patient 99TCD.MN011
+8829
+NotAvailable
+-0.8508584270230422
+-0.7059576774965124
+-0.7814521897043266
+0.6704963778434095
+0.20103731456457227
+40
+AJ488927
+>AJ488927.1 Human immunodeficiency virus type 1 partial proviral genome, patient 99TCD.MN012
+8850
+NotAvailable
+-0.9041201942381973
+-0.7692270396984863
+-0.8087323720956189
+0.6853589257598776
+0.18540473552242195
+41
+AJ519488
+>AJ519488.1 Human immunodeficiency virus type 1 proviral gag gene, gag-pol gene, vif gene, vpr gene, tat pseudogene, rev gene, vpu gene, env gene and nef gene, isolate 99TCD.MN011
+8829
+NotAvailable
+-0.8512789020162427
+-0.7058194728415059
+-0.7815928093740058
+0.6710632515795392
+0.20121872449599887
+42
+AJ519489
+>AJ519489.1 Human immunodeficiency virus type 1 proviral gag gene, gag-pol gene, vif gene, vpr gene, tat pseudogene, rev gene, vpu gene, env pseudogene and nef gene, isolate 99TCD.MN012
+8850
+NotAvailable
+-0.9095779225036067
+-0.7793180112974069
+-0.8549789849191193
+0.7294767262374576
+-0.12708800570906065
+43
+AY253311
+>AY253311.1 HIV-1 isolate 01TZA280 from Tanzania truncated gag protein (gag) gene, partial cds; nonfunctional pol protein (pol) gene, partial sequence; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8775
+NotAvailable
+-0.9223777593314585
+-0.8955240195477727
+-0.931319416892793
+0.7687602104265683
+-0.27455691132836285
+44
+AY304496
+>AY304496.1 HIV-1 isolate 99UGA08483 from Uganda, partial genome
+8821
+NotAvailable
+-0.9152693192825123
+-0.8075946018200176
+-0.8120809282944316
+0.749616904972318
+-0.1965513455041293
+45
+AY322189
+>AY322189.1 HIV-1 isolate ML415-2-1997 from Kenya, complete genome
+9087
+NotAvailable
+-0.8682249525633708
+-0.6904270230809887
+-0.7354630448133895
+0.6910240436075661
+0.15363499901151076
+46
+AY371155
+>AY371155.1 HIV-1 isolate 01CM.0009BBY from Cameroon gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8421
+NotAvailable
+-0.9136042571678163
+-0.7489718142307146
+-0.8069827591824339
+0.6873920489561606
+0.20450089009811584
+47
+AY371156
+>AY371156.1 HIV-1 isolate 01CM.0175BA from Cameroon gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8355
+NotAvailable
+-0.8743509492837279
+-0.6526033480489266
+-0.7424073430512447
+0.6839604936730542
+0.13929388967304426
+48
+AY371157
+>AY371157.1 HIV-1 isolate 01CM.4412HAL from Cameroon gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8379
+NotAvailable
+-0.98180796331607
+-0.9529205485180648
+-0.9593717392954495
+0.7807731426403012
+-0.24278721530270986
+49
+AY713418
+>AY713418.1 HIV-1 isolate 93UG_065 from Uganda gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8804
+NotAvailable
+-0.9010917807157149
+-0.7475922131157702
+-0.820046344746951
+0.7160799050915617
+0.1368134349132944
+50
+AY773338
+>AY773338.1 HIV-1 isolate D.ZA.84.R2 from South Africa, complete genome
+8700
+NotAvailable
+-0.7204217851968131
+-0.6328915755248994
+-0.7294653681498421
+0.6715965796934608
+0.1216650631821092
+51
+AY773339
+>AY773339.1 HIV-1 isolate D.ZA.85.R214 from South Africa, complete genome
+8640
+NotAvailable
+-0.7297329203932281
+-0.6553769818301917
+-0.7637053869100437
+0.6672593756826738
+0.17468935128173851
+52
+AY773340
+>AY773340.1 HIV-1 isolate D.ZA.85.R286 from South Africa, complete genome
+8670
+NotAvailable
+-0.7992935464573836
+-0.6762013298056472
+-0.7766343069214893
+0.6853760952157899
+0.15211305500723224
+53
+AY773341
+>AY773341.1 HIV-1 isolate D.ZA.86.R482 from South Africa, complete genome
+8640
+NotAvailable
+-0.9579331609108658
+-0.8804877398381504
+-0.9380087879013481
+0.7742624695902228
+-0.16364749753220784
+54
+AY795903
+>AY795903.1 HIV-1 isolate 01YE386 from Yemen gag protein (gag) gene, partial cds; and pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8765
+NotAvailable
+-0.8450174039291135
+-0.7007914956777791
+-0.7666368004254256
+0.6631129511347136
+0.20633981687867095
+55
+AY795907
+>AY795907.1 HIV-1 isolate 02YE516 from Yemen gag protein (gag) gene, partial cds; and pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8797
+NotAvailable
+-0.8347227558630672
+-0.619831917361586
+-0.7246744937801994
+0.6736888979824497
+0.03724519469316765
+56
+DQ054367
+>DQ054367.2 HIV-1 isolate 04KBH8 from South Korea, complete genome
+9490
+NotAvailable
+-0.9430599956155742
+-0.7305897250759201
+-0.8328584288357703
+0.7274248831204453
+0.14051032748578698
+57
+EF633445
+>EF633445.1 HIV-1 isolate R1 from South Africa, complete genome
+8916
+NotAvailable
+-0.8004190712461455
+-0.6389840466843422
+-0.7063782303742722
+0.6356827006702831
+0.2057867638062087
+58
+FJ388945
+>FJ388945.1 HIV-1 isolate CY163 from Cyprus gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8143
+NotAvailable
+-0.8877453580476863
+-0.7850426585431618
+-0.8788181284343806
+0.7473559975463281
+-0.16427827789414576
+59
+JQ403079
+>JQ403079.1 HIV-1 isolate HIV/US/BID-V3121/2007 from USA, partial genome
+8906
+NotAvailable
+-0.8278003522146549
+-0.6448834733998743
+-0.7909435643435405
+0.6542542409669359
+0.20628979196450983
+60
+JX140670
+>JX140670.1 HIV-1 isolate DEMD10CM009 from Cameroon gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; and rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8965
+NotAvailable
+-0.9356868877885418
+-0.9514464706547899
+-0.9226041916790287
+0.7615183556693004
+-0.24491090232752308
+61
+JX236668
+>JX236668.1 HIV-1 isolate p190049 from Uganda nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9674
+NotAvailable
+-0.9730964590804946
+-0.9515205159356438
+-0.9535597547962206
+0.7756117338479137
+-0.2099295718045716
+62
+JX236670
+>JX236670.1 HIV-1 isolate p191647 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; and rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9653
+NotAvailable
+-0.8785780937894039
+-0.7741742700599281
+-0.8028910175082993
+0.7311912239604088
+-0.14652750980771373
+63
+JX236672
+>JX236672.1 HIV-1 isolate p191859 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; and rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9763
+NotAvailable
+-0.8782720380406976
+-0.711394186861489
+-0.7713211256060589
+0.699042611044175
+0.004953414614786417
+64
+JX236673
+>JX236673.1 HIV-1 isolate p191882 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9792
+NotAvailable
+-0.9164265168973493
+-0.856412437415444
+-0.8675002591159221
+0.7557369326622746
+-0.1878140165668284
+65
+JX236679
+>JX236679.1 HIV-1 isolate pSC191727 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; and rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9715
+NotAvailable
+-0.980592856763691
+-0.8118229824742235
+-0.8523086446884085
+0.7347900797597688
+0.14661658049455556
+66
+K03454
+>K03454.1 Human immunodeficiency virus type 1, isolate ELI, complete genome
+9176
+NotAvailable
+-0.9765099602176074
+-0.9589751648619429
+-0.9644235943350637
+0.7804574813864968
+-0.21387892051690632
+67
+KC596071
+>KC596071.1 HIV-1 isolate DEMD07UG002 from Uganda gag protein (gag) gene, complete cds; nonfunctional pol protein (pol) gene, partial sequence; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; rev protein (rev) gene, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds
+8887
+NotAvailable
+-0.8858626110947758
+-0.7832068361308929
+-0.8115546934273595
+0.7379957349452573
+-0.15651978875539255
+68
+KC596072
+>KC596072.1 HIV-1 isolate DEMD08UG001 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; and rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8982
+NotAvailable
+-0.8666138903814322
+-0.8181759171904454
+-0.8139414726339274
+0.7062222956255031
+-0.16794043802179454
+69
+KF716476
+>KF716476.1 HIV-1 isolate DEMD11KE003 from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds
+8934
+NotAvailable
+-0.8693345558738833
+-0.8254182196954033
+-0.8629526053755732
+0.7539405741519586
+-0.1900031808352066
+70
+KF716479
+>KF716479.1 HIV-1 isolate DEMD10UG004 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8904
+NotAvailable
+-0.8831962100658307
+-0.7471107061894983
+-0.8174190304298103
+0.7313835900141793
+-0.11056983258984901
+71
+KF716480
+>KF716480.1 HIV-1 isolate DEMD11UG003 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8950
+NotAvailable
+-0.9388604368516896
+-0.9607357196800639
+-0.9364097729055226
+0.7644465468440044
+-0.25440826452824605
+72
+KF716501
+>KF716501.1 HIV-1 isolate DEMD05UG001 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8915
+NotAvailable
+-0.9213714177160512
+-0.8636337153940359
+-0.8774542286881263
+0.7604831456434491
+-0.1930445116634113
+73
+KF716502
+>KF716502.1 HIV-1 isolate DEMD07UG001 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds
+8945
+NotAvailable
+-0.877893269622701
+-0.718107573422457
+-0.7837030433832205
+0.6989763252172498
+0.0035174888345280916
+74
+KF716503
+>KF716503.1 HIV-1 isolate DEMD07UG007 from Uganda gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8991
+NotAvailable
+-0.8129779280247915
+-0.6057310136911586
+-0.6977262743733403
+0.6922145213112494
+0.08171403975022397
+75
+KJ787683
+>KJ787683.1 HIV-1 isolate 10BR_RJ108 from Brazil, partial genome
+8584
+NotAvailable
+-0.8089754209317496
+-0.6112214855393704
+-0.68616291206725
+0.6773848769274479
+0.1352907528716131
+76
+KJ787684
+>KJ787684.1 HIV-1 isolate 10BR_RJ095 from Brazil, partial genome
+8864
+NotAvailable
+-0.8198722912808141
+-0.6509902906458687
+-0.7750250656718899
+0.6531467457598622
+0.19429007854994418
+77
+KP109501
+>KP109501.1 HIV-1 isolate DEMD10CM018 from Cameroon gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8944
+NotAvailable
+-0.8638765851650437
+-0.642332762061971
+-0.7254134408384421
+0.6663929708606985
+0.21651398446028486
+78
+KU168271
+>KU168271.1 HIV-1 isolate LA17MuBo from Democratic Republic of the Congo, complete genome
+9839
+NotAvailable
+-0.8260294814418009
+-0.5892521275892117
+-0.6951201530453078
+0.657185257829062
+0.1771031369861334
+79
+KU168272
+>KU168272.1 HIV-1 isolate LA18ZiAn from Democratic Republic of the Congo, complete genome
+9833
+NotAvailable
+-0.980048090974737
+-0.7981269772680548
+-0.8708602490127636
+0.7550324260317611
+0.08576541718321407
+80
+M22639
+>M22639.1 Human immunodeficiency virus type 1, isolate Z2 (originally CDC isolate Z34), single LTR clone, complete genome
+9081
+NotAvailable
+-0.9643181783817562
+-0.7834497780880578
+-0.8246442451093217
+0.7420921009652562
+0.09437454378041756
+81
+M27323
+>M27323.1 Human immunodeficiency virus type 1 (HIV-1) proviral complete genome
+9143
+NotAvailable
+-0.9375663240388571
+-0.7917186723620203
+-0.8044728522831189
+0.7156473596445148
+0.10206738224625701
+82
+U88822
+>U88822.1 HIV-1 isolate 84zr085 from Zaire complete genome
+8975
+NotAvailable
+-0.989289291308713
+-0.9362606103255652
+-0.9358803108991728
+0.7847219919438313
+-0.17990612778092477
+83
+U88824
+>U88824.1 HIV-1 isolate 94UG114 from Uganda complete genome
+8952
+NotAvailable
+-0.9472079072124016
+-0.36272980557297096
+0.5734532529672571
+0.7184251428096053
+0.8393634303076811
+84
+AB485656
+>AB485656.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-13F52
+9602
+NotAvailable
+-0.9644286524182737
+-0.37518713807654586
+0.571813069682732
+0.7229666183974869
+0.8253414417266665
+85
+AB485657
+>AB485657.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-13F58
+9602
+NotAvailable
+-0.8940190381681161
+-0.30281786220648904
+0.3497149926955872
+0.6810975015154147
+0.9999999999999999
+86
+AB485658
+>AB485658.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-14F45
+9747
+NotAvailable
+-0.8940190381681161
+-0.30281786220648904
+0.3497149926955872
+0.6810975015154147
+0.9999999999999999
+87
+AB485659
+>AB485659.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-14F47
+9747
+NotAvailable
+-0.9254405106288782
+-0.3655467174226424
+0.5003863780434218
+0.7074768043126425
+0.7737021816436845
+88
+AF005494
+>AF005494.1 HIV-1 isolate 93br020 from Brazil complete genome
+8968
+NotAvailable
+-0.9051971122473486
+-0.3580718314880743
+0.42101928431038826
+0.6958985605067626
+0.892789688932213
+89
+AF075703
+>AF075703.1 HIV-1 isolate FIN9363 subtype F1 from Finland, complete genome
+8925
+NotAvailable
+-0.901907104548
+-0.3675197926710171
+0.3752356867326712
+0.6884727665763385
+0.8762865461936609
+90
+AF077336
+>AF077336.1 HIV-1 isolate VI850 from Democratic Republic of the Congo, complete genome
+8903
+NotAvailable
+-0.8611946147660063
+-0.30192682892290085
+0.30395585380167933
+0.6530023275493974
+0.8392562987990253
+91
+AJ249238
+>AJ249238.1 Human immunodeficiency virus type 1 proviral mRNA for partial ENV protein, partial GAG protein, partial NEF protein and partial POL protein isolate 96FR-MP411
+8614
+NotAvailable
+-0.9736706105231302
+-0.39181801648739184
+0.5740465161630762
+0.734469623600914
+0.8273586346761765
+92
+AY173957
+>AY173957.1 HIV-1 isolate BZ126 from Brazil, complete genome
+9030
+NotAvailable
+-0.9567123778656935
+-0.3714216569861851
+0.5775283595883623
+0.7230805811297228
+0.8510100664489574
+93
+AY173958
+>AY173958.1 HIV-1 isolate BZ163 from Brazil, complete genome
+8991
+NotAvailable
+-0.8836827622330038
+-0.33848303599795637
+0.3717788437773709
+0.6758377463215788
+0.7689745883028912
+94
+DQ189088
+>DQ189088.1 HIV-1 clone ARE933 from Argentina gag protein (gag), pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), truncated rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8338
+NotAvailable
+-0.823670506990022
+-0.30940622798427436
+0.22762657757131777
+0.6527955753964425
+0.8830563269906729
+95
+DQ979023
+>DQ979023.1 HIV-1 isolate P1146 from Spain, complete genome
+8877
+NotAvailable
+-0.8509849974517006
+-0.30064944494307777
+0.2491421310037061
+0.6484133177064086
+0.8439825772819965
+96
+DQ979024
+>DQ979024.1 HIV-1 isolate X1670 from Spain, complete genome
+8951
+NotAvailable
+-0.854957130624341
+-0.30456714277975233
+0.27444264018144593
+0.6385291263031395
+0.9286109073961347
+97
+DQ979025
+>DQ979025.1 HIV-1 isolate X1093-2 from Spain, complete genome
+9002
+NotAvailable
+-0.8260041851708105
+-0.2811820977566792
+0.25327385983632666
+0.6635394586968497
+0.8134267673987229
+98
+EU446022
+>EU446022.1 HIV-1 isolate MVP-30846, complete genome
+8920
+NotAvailable
+-0.8640510352100691
+-0.24067768105771528
+0.24970111575342505
+0.66575236083558
+0.8808400922687952
+99
+FJ670516
+>FJ670516.2 HIV-1 strain ES X845-4 from Spain, complete genome
+8953
+NotAvailable
+-0.9355682069671906
+-0.36128367723393834
+0.49240744722029023
+0.69781564240664
+0.7343834819148207
+100
+FJ771006
+>FJ771006.1 HIV-1 isolate 02BR082 from Brazil, complete genome
+9462
+NotAvailable
+-0.8483187659503383
+-0.3355702798764127
+0.44484425778890707
+0.6844102127938979
+0.7327648241665553
+101
+FJ771007
+>FJ771007.1 HIV-1 isolate 02BR170 from Brazil, complete genome
+8942
+NotAvailable
+-0.8598931808593379
+-0.33254507636912933
+0.34100040666459513
+0.6581183206539669
+0.7792878007703455
+102
+FJ771008
+>FJ771008.1 HIV-1 isolate 06BR564 from Brazil, complete genome
+9292
+NotAvailable
+-0.8807438680649705
+-0.37735395690341667
+0.46146207852828564
+0.6719797679111561
+0.6039620644686712
+103
+FJ771009
+>FJ771009.1 HIV-1 isolate 06BR579 from Brazil, complete genome
+9109
+NotAvailable
+-0.8295963245671337
+-0.3272069104048295
+0.3893545129466588
+0.6768236127697699
+0.655094929069948
+104
+FJ771010
+>FJ771010.1 HIV-1 isolate 07BR844 from Brazil, complete genome
+9356
+NotAvailable
+-0.8417394865493113
+-0.24123764570492734
+0.21269633224834308
+0.6399996381629188
+0.8500275478851818
+105
+FJ900266
+>FJ900266.1 HIV-1 isolate AO.06.ANG32 from Angola gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; tat protein (tat) and rev protein (rev) genes, partial cds; vpu protein (vpu) and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8257
+NotAvailable
+-0.8479057546808149
+-0.28167644926206414
+0.20928247103185538
+0.6460093332055579
+0.9288237267289566
+106
+FJ900267
+>FJ900267.1 HIV-1 isolate AO.06.ANG40 from Angola gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; tat protein (tat) and rev protein (rev) genes, partial cds; vpu protein (vpu) and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8257
+NotAvailable
+-0.854309113657083
+-0.23140253317063803
+0.15899939681428166
+0.6498194103487654
+0.870612672846796
+107
+FJ900268
+>FJ900268.1 HIV-1 isolate AO.06.ANG58 from Angola gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; tat protein (tat) and rev protein (rev) genes, partial cds; vpu protein (vpu) gene, complete cds; nonfunctional envelope glycoprotein (env) gene, complete sequence; and nef protein (nef) gene, partial cds
+8240
+NotAvailable
+-0.8163672001334054
+-0.28939389222057876
+0.10831065114246594
+0.6403437073756597
+0.6090358764457726
+108
+GQ290462
+>GQ290462.1 HIV-1 isolate D88_845 from Russia, complete genome
+9049
+NotAvailable
+-0.844938065224434
+-0.30522379682875056
+0.22534599415454695
+0.6568517393253287
+0.7420553883485511
+109
+JF683771
+>JF683771.1 HIV-1 isolate CY222 from Cyprus, partial genome
+8096
+NotAvailable
+-0.9993743769223862
+-0.4978739236505604
+0.9697607500881825
+0.8147537903953332
+-0.9852435030034188
+110
+JX140671
+>JX140671.1 HIV-1 isolate DEMF110ES001 from Spain nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; nonfunctional vif protein (vif) gene, complete sequence; vpr protein (vpr) gene, complete cds; nonfunctional tat protein (tat) gene, complete sequence; rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence
+8928
+NotAvailable
+-0.9925922175067275
+-0.487342689211951
+0.992972483734388
+0.810360120346353
+-0.9908091983694947
+111
+KC113009
+>KC113009.1 HIV-1 isolate X2874_2 from Spain nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence
+8915
+NotAvailable
+-0.8152528391100552
+-0.3351525326129758
+0.33514780976091435
+0.6486951205184945
+0.6457994940886171
+112
+KJ849782
+>KJ849782.1 HIV-1 isolate 10BR_PE107 from Brazil gag protein (gag), pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8874
+NotAvailable
+-0.810275907910689
+-0.29102248627858435
+0.2992828039958623
+0.644436700247647
+0.6550298007088895
+113
+KJ849791
+>KJ849791.1 HIV-1 isolate 10BR_RJ015 from Brazil gag protein (gag), pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8494
+NotAvailable
+-0.983111803585084
+-0.500985948203659
+1
+0.8085160567399429
+-0.9877275268472524
+114
+KJ883137
+>KJ883137.1 HIV-1 isolate P2563_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8910
+NotAvailable
+-0.9284796203884198
+-0.4712637940124673
+0.7945473799768769
+0.7534019413233192
+-0.4597154532532224
+115
+KJ883138
+>KJ883138.1 HIV-1 isolate VA0053_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8935
+NotAvailable
+-0.9759771214984495
+-0.5032588305882624
+0.9873881442359967
+0.807682572555466
+-0.9843585055654623
+116
+KJ883139
+>KJ883139.1 HIV-1 isolate X2871_2s_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8913
+NotAvailable
+-0.9839723388883429
+-0.5030098609156766
+0.9723134769037548
+0.8172659554455338
+-0.9605700959402256
+117
+KJ883140
+>KJ883140.1 HIV-1 isolate X2873_2i_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8693
+NotAvailable
+-0.9738110136929498
+-0.4965844974224417
+0.9868883714405077
+0.8018266370123799
+-0.9908226754528425
+118
+KJ883141
+>KJ883141.1 HIV-1 isolate X2898_2i_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8902
+NotAvailable
+-0.9782928630589077
+-0.4875710334771947
+0.9853260012959676
+0.7984723995320857
+-0.9543897381471602
+119
+KJ883142
+>KJ883142.1 HIV-1 isolate X2922_3s_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8918
+NotAvailable
+-0.968413889034508
+-0.48891197608840836
+0.9586534552722776
+0.8102895957595029
+-0.9015955243854387
+120
+KJ883143
+>KJ883143.1 HIV-1 isolate X3016_2s_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8920
+NotAvailable
+-0.9828744550445537
+-0.4960141906603323
+0.9797647639476434
+0.8057427041480895
+-0.9873757459263847
+121
+KJ883144
+>KJ883144.1 HIV-1 isolate X3069_2s_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8889
+NotAvailable
+-0.9819848583108906
+-0.4804959114270317
+0.9819214825522408
+0.8023679835419507
+-0.9979027514778818
+122
+KJ883145
+>KJ883145.1 HIV-1 isolate X3070_2s_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8935
+NotAvailable
+-0.9845444500132019
+-0.5026844180029401
+0.9741540287294999
+0.8094465871244929
+-1
+123
+KJ883146
+>KJ883146.1 HIV-1 isolate X3079_2i_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8842
+NotAvailable
+-0.9765518588794448
+-0.49580794786761995
+0.9768326230414044
+0.8022462349806823
+-0.9425909546717254
+124
+KJ883147
+>KJ883147.1 HIV-1 isolate X3085_2s_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), and vpu protein (vpu) genes, complete cds; nonfunctional env protein (env) gene, complete sequence; and nef protein (nef) gene, complete cds
+8928
+NotAvailable
+-0.9841385923183958
+-0.497471000876623
+0.9382167024974568
+0.7941058165254476
+-0.866182554587401
+125
+KJ883148
+>KJ883148.1 HIV-1 isolate X3097_2s_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8923
+NotAvailable
+-0.9646718410884416
+-0.4706993628185973
+0.9798651112769899
+0.8026569144960267
+-0.9903544280618938
+126
+KJ883149
+>KJ883149.1 HIV-1 isolate X3125_2s_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8862
+NotAvailable
+-0.9645935402895293
+-0.4983035624091822
+0.9383789868203084
+0.794452667533237
+-0.9492328269269683
+127
+KJ883150
+>KJ883150.1 HIV-1 isolate X3308_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8726
+NotAvailable
+-0.9681182888498399
+-0.4952633582564954
+0.9536572501078076
+0.8014737352874992
+-0.951234815123562
+128
+KJ883151
+>KJ883151.1 HIV-1 isolate X3361_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8923
+NotAvailable
+-0.9711832976212545
+-0.4857417039867573
+0.9763954295224877
+0.7977844681306154
+-0.9510049219834178
+129
+KJ883152
+>KJ883152.1 HIV-1 isolate X3364_nfl from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8920
+NotAvailable
+-0.9530346922489068
+-0.4816582465631687
+0.9294696746979371
+0.7936868838217233
+-0.9421119852516754
+130
+KT276257
+>KT276257.1 HIV-1 isolate ARP1197 from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8843
+NotAvailable
+-0.9513048686087512
+-0.4986817309161601
+0.9332230531316793
+0.7895856176009235
+-0.9197213616861372
+131
+KT276260
+>KT276260.1 HIV-1 isolate ARP1200 from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8944
+NotAvailable
+-0.8401277423830458
+-0.35341332233854705
+0.3422426240166205
+0.6465908034969382
+0.6171858088643737
+132
+KT427774
+>KT427774.1 UNVERIFIED: HIV-1 isolate 10BR_RJ055 from Brazil genomic sequence
+8999
+NotAvailable
+-0.8145149993862623
+-0.33014800029642594
+0.3603077082807563
+0.640786060095266
+0.618169409325266
+133
+KT427814
+>KT427814.1 UNVERIFIED: HIV-1 isolate 10BR_SP029 from Brazil genomic sequence
+8601
+NotAvailable
+-0.8474874994002146
+-0.2992364900794799
+0.26536400878852395
+0.6716053314881791
+0.9403398845237999
+134
+KU168274
+>KU168274.1 HIV-1 isolate LA20DuCl from Romania, complete genome
+9734
+NotAvailable
+-0.8876746391512409
+-0.33090336889490113
+0.346026246389428
+0.6891539793531984
+0.8629779146159536
+135
+KU168275
+>KU168275.1 HIV-1 isolate LA21LeAn, complete genome
+9745
+NotAvailable
+-0.9344058479916242
+-0.3383379343179515
+0.37952780483374093
+0.6978494571490433
+0.9094743378433353
+136
+KU168276
+>KU168276.1 HIV-1 isolate LA22LeRe from France, complete genome
+9584
+NotAvailable
+-0.8268931189339481
+-0.22588852565076112
+-0.05292148993368982
+0.6695600058847863
+0.6436233974573655
+137
+AF377956
+>AF377956.1 HIV-1 isolate CM53657 from Cameroon gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds
+8782
+NotAvailable
+-0.8126288212593185
+-0.23494694134879476
+-0.060817540679968654
+0.6768232070500577
+0.6058863335757627
+138
+AJ249236
+>AJ249236.1 Human immunodeficiency virus type 1 proviral mRNA for partial GAG protein, partial POL protein, partial ENV protein and partial NEF protein isolate 95CM-MP255
+8555
+NotAvailable
+-0.8201851648528571
+-0.2145688139678237
+-0.04887192181740628
+0.6490750199374631
+0.6213694872112046
+139
+AJ249237
+>AJ249237.1 Human immunodeficiency virus type 1 proviral mRNA for partial ENV protein, partial GAG protein, partial NEF protein and partial POL protein isolate 95CM-MP257
+8589
+NotAvailable
+-0.8404887685342215
+-0.2505693731335715
+-0.0590243528232687
+0.6683903137546737
+0.6347010260426202
+140
+AY371158
+>AY371158.1 HIV-1 isolate 02CM.0016BBY from Cameroon gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8349
+NotAvailable
+-0.7414605422860726
+-0.2477135319122457
+-0.11688606767956324
+0.6300990052057012
+0.6114996416435129
+141
+JX140672
+>JX140672.1 HIV-1 isolate DEMF210CM001 from Cameroon nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence
+8907
+NotAvailable
+-0.799755436588955
+-0.1949088245581066
+-0.1002670714692592
+0.6566770101589727
+0.5879314871139633
+142
+JX140673
+>JX140673.1 HIV-1 isolate DEMF210CM007 from Cameroon nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence
+8936
+NotAvailable
+-0.7477119697261974
+-0.24635922800994808
+-0.08767624319326525
+0.6380062000244429
+0.6284855580325333
+143
+KX228809
+>KX228809.1 HIV-1 isolate Read2_HIV_F2 from Cameroon, partial genome
+8697
+NotAvailable
+-0.7851939656576866
+0.7834887959812006
+-0.4854643581680726
+0.7613081693727708
+0.010129880949817625
+144
+AB231893
+>AB231893.1 Human immunodeficiency virus 1 proviral DNA, complete genome, isolate: GHNJ175
+9724
+NotAvailable
+-0.7962706553560063
+0.8108112830164729
+-0.48701206004715886
+0.7719250549663307
+0.002126115901314216
+145
+AB287003
+>AB287003.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p03GH175G19
+9707
+NotAvailable
+-0.7935035796607216
+0.8061249727849691
+-0.49083488053724994
+0.7690563223077955
+-0.0020886224670483553
+146
+AB287004
+>AB287004.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p03GH175G29
+9725
+NotAvailable
+-0.8325439903691764
+0.9449072902376635
+-0.5547777281640877
+0.835522368525883
+-0.011029212822305507
+147
+AB485662
+>AB485662.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-16G41
+9707
+NotAvailable
+-0.8340106360635199
+0.9391160097228727
+-0.5537359237330319
+0.8370444369899374
+-0.02011192869253537
+148
+AB485663
+>AB485663.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-16G46
+9707
+NotAvailable
+-0.8180383598745201
+0.8976034699904147
+-0.5427621348488062
+0.8159518883920056
+0.009754606299782063
+149
+AF061640
+>AF061640.1 HIV-1 isolate HH8793 clone 1.1 from Finland, complete genome
+9048
+NotAvailable
+-0.8213915954334821
+0.9287599329122108
+-0.5494307635607094
+0.823951902056483
+-0.005438215622284253
+150
+AF061641
+>AF061641.1 HIV-1 isolate HH8793 clone 12.1 from Finland, complete genome
+9047
+NotAvailable
+-0.8455731409424313
+0.8820564514123738
+-0.5745370215883822
+0.7839730550377345
+-0.06253983350769798
+151
+AF061642
+>AF061642.1 HIV-1 isolate SE6165 from Sweden, complete genome
+9074
+NotAvailable
+-0.7948376005421831
+0.7667345697846439
+-0.5275035639622696
+0.7650378781960332
+-0.05299949869016753
+152
+AF084936
+>AF084936.1 HIV-1 subtype G from Democratic Republic of the Congo, complete genome
+9707
+NotAvailable
+-0.8150356500461071
+0.9878805394444983
+-0.5689401440099111
+0.8187058012500757
+-0.14191793801733033
+153
+AF423760
+>AF423760.1 HIV-1 isolate X558 from Spain, complete genome
+8950
+NotAvailable
+-0.8046723702307517
+0.9488813938359222
+-0.5541731867579904
+0.8102805608739391
+-0.14452047720332775
+154
+AF450098
+>AF450098.1 HIV-1 isolate X138 from Spain, complete genome
+8978
+NotAvailable
+-0.7912015723411981
+0.7694356709586763
+-0.5285947545439537
+0.7713518589386421
+-0.01359212262207761
+155
+AY371121
+>AY371121.1 HIV-1 isolate 01CM.4049HAN from Cameroon gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8367
+NotAvailable
+-0.8288225000113831
+0.8276001346128563
+-0.5338199957202033
+0.7879311251474663
+-0.04130735180049561
+156
+AY586547
+>AY586547.2 HIV-1 isolate Cu74 from Cuba, complete genome
+9098
+NotAvailable
+-0.8492055519120162
+0.8994714601408889
+-0.5912389733833856
+0.8306521483276771
+-0.041715054421881045
+157
+AY586548
+>AY586548.2 HIV-1 isolate Cu85 from Cuba, complete genome
+9093
+NotAvailable
+-0.8583639143893607
+0.93898884081525
+-0.5409812388423084
+0.8269563897906472
+-0.03588885275772807
+158
+AY586549
+>AY586549.2 HIV-1 isolate Cu87 from Cuba, complete genome
+9185
+NotAvailable
+-0.8228235574235137
+1
+-0.5779429378435773
+0.8249853095847982
+-0.10803692596892986
+159
+AY612637
+>AY612637.1 HIV-1 isolate PT2695 from Portugal, complete genome
+9655
+NotAvailable
+-0.8020280741335634
+0.8341987831599177
+-0.5395918182184436
+0.7948454572620002
+-0.030041299313214705
+160
+AY772535
+>AY772535.1 HIV-1 isolate 96CMABB55 from Cameroon, complete genome
+9071
+NotAvailable
+-0.7907040101413079
+0.8207059722897485
+-0.6132230524222895
+0.8077983749138988
+-0.15708498933437556
+161
+DQ168573
+>DQ168573.1 HIV-1 isolate 01NGPL0567 from Nigeria gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8800
+NotAvailable
+-0.8046213387870547
+0.8871389275266502
+-0.5959497306162264
+0.7930687969891114
+-0.21570283693891365
+162
+DQ168575
+>DQ168575.1 HIV-1 isolate 01NGPL0674 from Nigeria gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8884
+NotAvailable
+-0.7925623191091072
+0.7900860324148524
+-0.578975054622718
+0.7772757299946459
+-0.1805087619437358
+163
+DQ168576
+>DQ168576.1 HIV-1 isolate 01NGPL0669 from Nigeria gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8837
+NotAvailable
+-0.816464636990187
+0.8896901000741312
+-0.6254607461878475
+0.8104141470448193
+-0.20841583446009534
+164
+DQ168579
+>DQ168579.1 HIV-1 isolate 01NGPL0760 from Nigeria gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8906
+NotAvailable
+-0.7954152169221402
+0.8883592395480934
+-0.5604012597314063
+0.7785648955655873
+-0.2621881298476512
+165
+EU786670
+>EU786670.1 HIV-1 isolate ES P962 (G) from Spain, complete genome
+9041
+NotAvailable
+-0.7838052108590082
+0.8969539803497872
+-0.5573430117056166
+0.7718246396077864
+-0.17750633917124517
+166
+FJ389363
+>FJ389363.1 HIV-1 isolate 178-15 from Cameroon, partial genome
+9096
+NotAvailable
+-0.8009159539485098
+0.818834805906058
+-0.5354821551942743
+0.768505077818401
+-0.023872943650637087
+167
+FJ389364
+>FJ389364.1 HIV-1 isolate 314-40 from Cameroon, partial genome
+9004
+NotAvailable
+-0.7477586070877235
+0.7811576210893332
+-0.560877457375891
+0.7695021612265377
+-0.1047267285819549
+168
+FJ389365
+>FJ389365.1 HIV-1 isolate 515-28 from Cameroon, partial genome
+9110
+NotAvailable
+-0.7796851097546449
+0.8114386637746416
+-0.487905477158139
+0.7645649234490939
+-0.020823346211995705
+169
+FJ389366
+>FJ389366.1 HIV-1 isolate 944-5 from Cameroon, partial genome
+9059
+NotAvailable
+-0.8033255280807717
+0.8573096898278069
+-0.54750993806534
+0.7988973154429166
+-0.03402792827802758
+170
+FJ389367
+>FJ389367.1 HIV-1 isolate A1786 from Cameroon, partial genome
+9106
+NotAvailable
+-0.7501736267470644
+0.7921346705720997
+-0.549114478242184
+0.7653294636224068
+-0.06447963510119724
+171
+FJ670520
+>FJ670520.1 HIV-1 strain ES X1628-2 from Spain, complete genome
+9018
+NotAvailable
+-0.7787410060740309
+0.901854153278029
+-0.5480777813055172
+0.8017000446649499
+-0.12470990887447696
+172
+FJ670530
+>FJ670530.1 HIV-1 strain ES P1981-2 from Spain, complete genome
+8982
+NotAvailable
+-0.7700459691443196
+0.8779360443934812
+-0.5694881024880108
+0.7738805872439668
+-0.07245340468325194
+173
+FR846408
+>FR846408.1 Human immunodeficiency virus 1 proviral complete genome, strain PT3037
+9649
+NotAvailable
+-0.7409924137346605
+0.7914760995764137
+-0.5530564330613186
+0.766395839293867
+-0.022530941521402694
+174
+FR846409
+>FR846409.1 Human immunodeficiency virus 1 proviral complete genome, strain 3306
+9566
+NotAvailable
+-0.7975985254762727
+0.9683873576171791
+-0.5639452547055259
+0.815038296027285
+-0.07568040104057126
+175
+FR846410
+>FR846410.1 Human immunodeficiency virus 1 proviral complete genome, strain 988
+9448
+NotAvailable
+-0.7662598131103837
+0.858894943631612
+-0.5506309870062502
+0.7808180682423356
+-0.08972186110112355
+176
+GU362882
+>GU362882.1 HIV-1 isolate X2634-2 from Spain, partial genome
+9007
+NotAvailable
+-0.7411640760518486
+0.6577566519503358
+-0.4968282802736896
+0.7535815519762219
+-0.010819087447768262
+177
+HM067749
+>HM067749.1 HIV-1 isolate sh52 from China, partial genome
+9065
+NotAvailable
+-0.793738975331851
+0.8313930409203175
+-0.5980393985933982
+0.7836370727177303
+-0.16403273898024442
+178
+JN106043
+>JN106043.1 HIV-1 isolate GX-2084.08 from China, partial genome
+8895
+NotAvailable
+-0.7767520551477115
+0.8173751091798179
+-0.5589550381486615
+0.7763355856965747
+-0.1543082525640545
+179
+JN248582
+>JN248582.1 HIV-1 isolate 08NG.SC13 from Nigeria nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8842
+NotAvailable
+-0.6968742452717862
+0.5898041622938405
+-0.5079647883990984
+0.7156300374597057
+-0.00008498052798528818
+180
+JN248584
+>JN248584.1 HIV-1 isolate 09NG.SC21 from Nigeria nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), and vpu protein (vpu) genes, complete cds; nonfunctional env protein (env) gene, complete sequence; and nef protein (nef) gene, complete cds
+8875
+NotAvailable
+-0.7954964818293442
+0.8799427129210642
+-0.5993821777504886
+0.7839777262277182
+-0.20496991024154884
+181
+JN248586
+>JN248586.1 HIV-1 isolate 09NG.SC26 from Nigeria nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence
+8876
+NotAvailable
+-0.7752932105844271
+0.8479334356558963
+-0.6063137809235811
+0.7731754054714458
+-0.15543789787918263
+182
+JN248591
+>JN248591.1 HIV-1 isolate 09NG.SC31 from Nigeria nonfunctional gag protein (gag) and nonfunctional pol protein (pol) genes, partial sequence; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence
+8837
+NotAvailable
+-0.7485732358964339
+0.7834423116318235
+-0.5599620620913088
+0.7429463952699622
+-0.13055297674045283
+183
+JN248593
+>JN248593.1 HIV-1 isolate 09NG.SC62 from Nigeria nonfunctional gag protein (gag) gene, partial sequence; pol protein (pol) gene, partial cds; nonfunctional vif protein (vif) gene, complete sequence; vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence
+8812
+NotAvailable
+-0.7979519502914786
+0.8867650956574785
+-0.5762853130955301
+0.7766634955445342
+-0.2564666595382328
+184
+JX140674
+>JX140674.1 HIV-1 isolate DEMG05ES001 from Spain nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nonfunctional nef protein (nef) gene, complete sequence
+9051
+NotAvailable
+-0.7695470120778278
+0.8698678370485134
+-0.5809183030733002
+0.7912716354135509
+-0.08504249691978172
+185
+JX140675
+>JX140675.1 HIV-1 isolate DEMG09ES002 from Spain nonfunctional gag protein (gag) gene, complete sequence; nonfunctional pol protein (pol) gene, partial sequence; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9034
+NotAvailable
+-0.7722502765567101
+0.6540516447602417
+-0.516091082587841
+0.7652532964449152
+-0.011194610918773142
+186
+JX140676
+>JX140676.1 HIV-1 isolate DEMG10CM008 from Cameroon nonfunctional gag protein (gag) gene, complete sequence; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8979
+NotAvailable
+-0.7417177866248024
+0.7265117823246067
+-0.5383401522185705
+0.7466008013654707
+-0.04080266729821839
+187
+KF716477
+>KF716477.1 HIV-1 isolate DEMG09KE001 from Kenya gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9001
+NotAvailable
+-0.7671071973650945
+0.6635874214559778
+-0.5551261340551756
+0.7488676928414725
+-0.009806964078886177
+188
+KJ948662
+>KJ948662.1 HIV-1 isolate TV546 from South Africa gag protein (gag) and pol protein (pol) genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds
+8003
+NotAvailable
+-0.7199177041252017
+0.6783333496370747
+-0.5037583405464134
+0.711261549955449
+-0.08473634109991654
+189
+KP109502
+>KP109502.1 HIV-1 isolate DEURF10CM020 gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9005
+NotAvailable
+-0.8000463922490427
+0.7996881227521475
+-0.566965099795706
+0.7741759937136625
+-0.01707970318305032
+190
+KP718915
+>KP718915.1 HIV-1 isolate 740-14 from Cameroon, complete genome
+8898
+NotAvailable
+-0.7751411415364987
+0.7929638019379461
+-0.566610477770209
+0.764063847939762
+-0.14809183706581838
+191
+KP718923
+>KP718923.1 HIV-1 isolate 920-49 from Cameroon, complete genome
+8855
+NotAvailable
+-0.7461380502304505
+0.6819083872124604
+-0.4953323746895899
+0.7407902141649338
+-0.0006981205881312746
+192
+KP718925
+>KP718925.1 HIV-1 isolate 789-10 from Cameroon, complete genome
+9034
+NotAvailable
+-0.7861208183638051
+0.8315796831785035
+-0.5703142726731625
+0.7736729942798765
+-0.2008551461217902
+193
+KR017776
+>KR017776.1 HIV-1 isolate BS48 from Cameroon gag protein (gag) gene, complete cds; nonfunctional pol protein (pol) gene, partial sequence; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8616
+NotAvailable
+-0.7530423231430359
+0.7168379491568585
+-0.5540079003851126
+0.7607078439811966
+-0.040064081013214806
+194
+KT022379
+>KT022379.1 HIV-1 from Kenya isolate 06KE275457V6, partial genome
+8764
+NotAvailable
+-0.7435729694687211
+0.7231751832603763
+-0.5130731653502733
+0.7232024969968317
+-0.08729776229278695
+195
+KT276261
+>KT276261.1 HIV-1 isolate ARP1201 from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9104
+NotAvailable
+-0.8198947391459404
+0.7993613604910635
+-0.5408282175228787
+0.7752831553701187
+-0.045244648269874385
+196
+KU168277
+>KU168277.1 HIV-1 isolate LA23LiEd from Democratic Republic of the Congo, complete genome
+9711
+NotAvailable
+-0.7394081424861498
+0.7804165416272848
+-0.5287858477756693
+0.7456820041969714
+0.0110181864460237
+197
+KU168278
+>KU168278.1 HIV-1 isolate LA24HoCe, complete genome
+9687
+NotAvailable
+-0.8054394802518581
+0.9120424646091942
+-0.5681977338345267
+0.792856851426652
+-0.09802890121127421
+198
+KU168300
+>KU168300.1 HIV-1 isolate LA57LmNe from Guinea-Bissau, complete genome
+9767
+NotAvailable
+-0.7986363785865555
+0.7548493039054108
+-0.5378210606439945
+0.7589301491954932
+-0.028182509576931625
+199
+KU168302
+>KU168302.1 HIV-1 isolate CM44-10 from Cameroon, complete genome
+9706
+NotAvailable
+-0.7621934140807783
+0.8509639726161194
+-0.5447008521347977
+0.7919226012181911
+-0.14888946222126523
+200
+KU685592
+>KU685592.1 HIV-1 isolate EUR-0033 from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8894
+NotAvailable
+-0.7766666995041857
+0.8734841357999236
+-0.565543819465667
+0.7937403547121635
+-0.0870047275149539
+201
+KX228801
+>KX228801.1 HIV-1 isolate Read1_HIV_G from Spain, partial genome
+8957
+NotAvailable
+-0.8041847035506153
+0.8953713953945961
+-0.5691334381708297
+0.784365176069012
+-0.2589825893412632
+202
+KX228812
+>KX228812.1 HIV-1 isolate Read32_HIV_G from Spain, partial genome
+8991
+NotAvailable
+-0.7674224913213702
+0.7606863303915289
+-0.6019733613014794
+0.7673686778634408
+-0.16012711373575902
+203
+KX389618
+>KX389618.1 HIV-1 isolate 10NG020303 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8718
+NotAvailable
+-0.7634674837514134
+0.7519742690676262
+-0.5265541906853165
+0.7395440062520903
+-0.044806092282792066
+204
+KX389619
+>KX389619.1 HIV-1 isolate 10NG020134 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8706
+NotAvailable
+-0.7435488261884341
+0.7825698586532183
+-0.5413279367233261
+0.7384348542573775
+-0.15313327565508156
+205
+KX389620
+>KX389620.1 HIV-1 isolate 10NG020133 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8711
+NotAvailable
+-0.7596818739414342
+0.7840746669266107
+-0.5505420271276894
+0.7494581494589423
+-0.17301483616763022
+206
+KX389625
+>KX389625.1 HIV-1 isolate 09NG010315 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8661
+NotAvailable
+-0.7566585120776214
+0.8254249728344016
+-0.5361598056092783
+0.7727404512983981
+-0.14889982666787596
+207
+KX389626
+>KX389626.1 HIV-1 isolate 09NG010261 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8684
+NotAvailable
+-0.7757451514706911
+0.8147234923392511
+-0.5394401735486634
+0.7630359436733058
+-0.15857284922671197
+208
+KX389631
+>KX389631.1 HIV-1 isolate 09NG010157 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8761
+NotAvailable
+-0.7410114389596085
+0.737716925484214
+-0.5511326311869472
+0.7569560361107869
+-0.14529510450102343
+209
+KX389636
+>KX389636.1 HIV-1 isolate 09NG010079 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), and vpu protein (vpu) genes, complete cds; envelope glycoprotein-like (env) gene, complete sequence; and nef protein (nef) gene, complete cds
+8676
+NotAvailable
+-0.7789010709218019
+0.8513190916431457
+-0.6013337436424531
+0.7808431473140294
+-0.17090477908585797
+210
+KX389641
+>KX389641.1 HIV-1 isolate 11NG050158 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8866
+NotAvailable
+-0.7540819403044824
+0.6965250059170472
+-0.5121156494673984
+0.7550955114940097
+0.013164271722669658
+211
+KX389642
+>KX389642.1 HIV-1 isolate 11NG050272 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8857
+NotAvailable
+-0.7568617859567137
+0.7578738520526472
+-0.5520061143243986
+0.752102331211326
+-0.1153035695740336
+212
+KX389645
+>KX389645.1 HIV-1 isolate 11NG050489 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8927
+NotAvailable
+-0.7705123059052388
+0.7684195473883115
+-0.5823306336847329
+0.7334921766303971
+-0.11798265111461582
+213
+KX389646
+>KX389646.1 HIV-1 isolate 12NG060248 from Nigeria gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8844
+NotAvailable
+-0.7528883626207427
+0.7445574907796222
+-0.5697214604497084
+0.7331082643288428
+-0.09013849471836755
+214
+KX389648
+>KX389648.1 HIV-1 isolate 12NG060409 from Nigeria gag protein (gag) gene, complete cds; pol protein-like (pol) gene, partial sequence; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8884
+NotAvailable
+-0.8149889813900462
+0.8814803402991715
+-0.5488980319653336
+0.7809052593067864
+-0.04279033871919587
+215
+U88826
+>U88826.1 HIV-1 isolate 92NG083 from Nigeria complete genome
+8987
+NotAvailable
+-0.7172061634916305
+-0.08453944337171582
+-0.31476343022974357
+0.5617059708006682
+0.5609153786702629
+216
+AF005496
+>AF005496.1 HIV-1 isolate 90CR056 from Central African Republic, complete genome
+8953
+NotAvailable
+-0.7036446667347929
+-0.07543309662254805
+-0.32338106057901206
+0.5461594678076749
+0.43975111361491453
+217
+AF190127
+>AF190127.1 HIV-1 isolate VI991 from Belgium Gag polyprotein (gag), Pol polyprotein (pol), Vif (vif), Vpr (vpr), truncated Tat (tat), Rev (rev), truncated Vpu (vpu), envelope glycoprotein precursor (env), and Nef (nef) genes, complete cds
+9056
+NotAvailable
+-0.707843540791644
+-0.1129157571624998
+-0.3284827037729502
+0.5647207545305974
+0.473672041798193
+218
+AF190128
+>AF190128.1 HIV-1 isolate VI997 from Belgium Gag polyprotein (gag), truncated Pol polyprotein (pol), Vif (vif), truncated Vpr (vpr), Tat (tat), Rev (rev), Vpu (vpu), envelope glycoprotein precursor (env), and Nef (nef) genes, complete cds
+8955
+NotAvailable
+-0.6905710424358446
+-0.09286350561624274
+-0.3382658240628599
+0.5543956551223033
+0.44431084541377297
+219
+FJ711703
+>FJ711703.1 HIV-1 isolate 00GBAC4001 from United Kingdom, complete genome
+9081
+NotAvailable
+-0.6967510829278509
+-0.0767441780348976
+-0.3468738077219456
+0.562569615266714
+0.4176660568843792
+220
+KU168273
+>KU168273.1 HIV-1 isolate LA19KoSa from Democratic Republic of the Congo, complete genome
+9760
+NotAvailable
+-0.6957926204540962
+-0.10176253341076685
+-0.3288880194681909
+0.5502183964397186
+0.47328232655910435
+221
+KU168279
+>KU168279.1 HIV-1 isolate LA25LeMi from Central African Republic, complete genome
+9443
+NotAvailable
+-0.7060948828982745
+-0.014040739966128582
+-0.326710296455585
+0.583202303570362
+0.448183789899904
+222
+KU310618
+>KU310618.1 HIV-1 isolate 93AOHDC251 from Angola gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), env protein (env), and nef protein (nef) genes, complete cds
+8888
+NotAvailable
+-0.7146535281912739
+-0.03727011950842589
+-0.4153224313008022
+0.6045140089291553
+0.4667039156649411
+223
+AF082394
+>AF082394.1 HIV-1 subtype J strain SE9280 from Sweden gag protein (gag), pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8943
+NotAvailable
+-0.7175684684130957
+-0.03224007692915215
+-0.4258742017290354
+0.6091534938186919
+0.4930573769655214
+224
+AF082395
+>AF082395.1 HIV-1 subtype J strain SE9173 from Sweden gag protein (gag), pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8953
+NotAvailable
+-0.6288488946414534
+-0.030927385095767385
+-0.4254955636666239
+0.5546309530072892
+0.3833077952040141
+225
+GU237072
+>GU237072.1 HIV-1 isolate 04CMU11421 from Cameroon, complete genome
+9077
+NotAvailable
+-0.6933955076083914
+-0.05942890959224619
+-0.4335563229216883
+0.5859931466606468
+0.4377724067896464
+226
+KU168280
+>KU168280.1 HIV-1 isolate LA26DiAn from Democratic Republic of the Congo, complete genome
+9692
+NotAvailable
+-0.7519225148694829
+-0.020273687491667122
+-0.4201551821505977
+0.6259871304112894
+0.3761997129079809
+227
+KU310619
+>KU310619.1 HIV-1 isolate 93AOHDC250 from Angola gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), env protein (env), and nef protein (nef) genes, complete cds
+8845
+NotAvailable
+-0.7449688264333704
+-0.029134837096626454
+-0.4084082871254331
+0.6002972425497957
+0.40331305978703574
+228
+KU310620
+>KU310620.1 HIV-1 isolate 93AOHDC253 from Angola gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), env protein (env), and nef protein (nef) genes, complete cds
+8790
+NotAvailable
+-0.7747485351804821
+-0.16775020894301218
+-0.28275391575328757
+0.6567894981079574
+0.4600428854386636
+229
+AJ249235
+>AJ249235.1 Human immunodeficiency virus type 1 proviral mRNA for partial ENV protein, partial GAG protein, partial NEF protein and partial POL protein isolate 97ZR-EQTB11
+8600
+NotAvailable
+-0.7888014448325593
+-0.17327249119424068
+-0.27053557397178774
+0.6523690948756292
+0.4775835448192208
+230
+AJ249239
+>AJ249239.1 Human immunodeficiency virus type 1 proviral mRNA for partial ENV protein, partial GAG protein, partial NEF protein and partial POL protein isolate 96CM-MP535
+8604
+NotAvailable
+-0.08729271268520909
+-0.08736997697627423
+-0.3950814926211726
+-1
+-0.31590681240438406
+231
+AJ006022
+>AJ006022.1 Human immunodeficiency virus type 1 complete proviral genome
+9182
+NotAvailable
+-0.08540416748370648
+-0.05973641274877853
+-0.4018473533061271
+-0.8704692471700433
+-0.2857345795837243
+232
+AJ271370
+>AJ271370.1 Human immunodeficiency virus type 1 complete proviral genome, strain CM_YBF106
+9045
+NotAvailable
+-0.07058687959250941
+-0.07543051587208649
+-0.37493727297704177
+-0.8107307295072986
+-0.2942805381467812
+233
+AY532635
+>AY532635.1 HIV-1 isolate 02CM-DJO0131 from Cameroon, complete genome
+8938
+NotAvailable
+-0.07686208925593051
+-0.08155811253715824
+-0.40401202954872795
+-0.8246618173213193
+-0.273744472770314
+234
+DQ017382
+>DQ017382.1 HIV-1 isolate 04CM-1015-04 from Cameroon, complete genome
+8926
+NotAvailable
+-0.076172343356335
+-0.07863809280122214
+-0.3971588355652616
+-0.813242236484669
+-0.27976968731619567
+235
+DQ017383
+>DQ017383.1 HIV-1 isolate 04CM-1131-03 from Cameroon, complete genome
+8975
+NotAvailable
+-0.08729271268520909
+-0.08736997697627423
+-0.3950814926211728
+-0.9999999999999997
+-0.3159068124043839
+236
+FB675251
+>FB675251.1 Sequence 1 from Patent WO1998026075
+9183
+NotAvailable
+-0.07247325844872439
+-0.07553097294854715
+-0.38018873912681234
+-0.7757956710222377
+-0.25041007042496255
+237
+GQ324958
+>GQ324958.1 HIV-1 isolate 06CM-U14842 from Cameroon gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8637
+NotAvailable
+-0.0822356702910257
+-0.08336209488425608
+-0.38415093242211734
+-0.8015780114981409
+-0.27704416552756755
+238
+GQ324959
+>GQ324959.1 HIV-1 isolate 02CM-SJGddd from Cameroon gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8615
+NotAvailable
+-0.05640004560781641
+-0.0819258308826479
+-0.36095513651987987
+-0.8194108674020757
+-0.26748774707111284
+239
+GQ324962
+>GQ324962.1 HIV-1 isolate 06CM-U14296 from Cameroon gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8545
+NotAvailable
+-0.08729271268520909
+-0.08736997697627423
+-0.3950814926211728
+-0.9999999999999997
+-0.3159068124043839
+240
+HV199807
+>HV199807.1 JP 2000515768-A/1: NON-M NON-O HIV-1 strain, fragment and utilization thereof
+9183
+NotAvailable
+-0.10076846227811741
+-0.0829887014352497
+-0.3962678612872149
+-0.761662966299682
+-0.2616525884289331
+241
+JN572926
+>JN572926.1 HIV-1 isolate N1.FR.2011 from France gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; nonfunctional rev protein (rev) gene, complete sequence; and vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8892
+NotAvailable
+0.6625653530194552
+-0.23838505105417865
+-0.34059470123449864
+0.7249305739170872
+0.04003828512600996
+242
+AB485666
+>AB485666.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-18O04
+9811
+NotAvailable
+0.6687115247661332
+-0.23763030278047456
+-0.33988501759817874
+0.724850341284403
+0.040101620712135216
+243
+AB485667
+>AB485667.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-18O24
+9813
+NotAvailable
+1
+-0.2901337821355167
+-0.34520041019244924
+1.0000000000000002
+0.010318472886829251
+244
+AB485668
+>AB485668.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-19O02
+9881
+NotAvailable
+0.9967438752943832
+-0.29740088711694995
+-0.34598019550284886
+0.9963513771595253
+0.008331211783098362
+245
+AB485669
+>AB485669.1 Human immunodeficiency virus 1 proviral DNA, complete genome, clone: pPRD320-19O33
+9881
+NotAvailable
+0.689713929429869
+-0.24197298933907338
+-0.3257375043169832
+0.7693516154052329
+0.03302918762198674
+246
+AF407418
+>AF407418.1 HIV-1 isolate VAU group O from France, complete genome
+9330
+NotAvailable
+0.9440671394242859
+-0.3034311424183211
+-0.31888068164521527
+0.9406350224539447
+-0.018977109577483435
+247
+AJ302646
+>AJ302646.1 Human immunodeficiency virus type 1 complete genome, strain 99SE-MP1299
+9859
+NotAvailable
+0.9160034110537484
+-0.2998741818688039
+-0.32618446440744947
+0.9250727232763266
+-0.007947522910502132
+248
+AJ302647
+>AJ302647.1 Human immunodeficiency virus type 1 complete genome, strain 99SE-MP1300
+9829
+NotAvailable
+0.7714930286712098
+-0.2549671857845944
+-0.34691673323446615
+0.8357922784186275
+0.013730892041434946
+249
+AY169802
+>AY169802.1 HIV-1 isolate 98CMA104 from Cameroon, complete genome
+9243
+NotAvailable
+0.792664237854702
+-0.2690545582103417
+-0.3324198346838308
+0.848520964214997
+0.013169884921157891
+250
+AY169803
+>AY169803.1 HIV-1 isolate 96CMA102 from Cameroon, complete genome
+9226
+NotAvailable
+0.6067365685256507
+-0.23203810034760933
+-0.329783467509792
+0.7049589753413531
+0.040359168776437686
+251
+AY169804
+>AY169804.1 HIV-1 isolate 98CMABB212 from Cameroon, complete genome
+9177
+NotAvailable
+0.9842534700469568
+-0.2943150458566457
+-0.3383281426255924
+0.9827293209520253
+-0.004593491951120107
+252
+AY169805
+>AY169805.1 HIV-1 isolate 97US08692A from USA, complete genome
+9147
+NotAvailable
+0.6125042718402147
+-0.24735498673525308
+-0.3249699542795989
+0.7267777213279888
+0.019091011235642965
+253
+AY169806
+>AY169806.1 HIV-1 isolate 96CMABB009 from Cameroon, complete genome
+9158
+NotAvailable
+0.9622496115860317
+-0.31056848956562066
+-0.33563905078967393
+0.9751522049425031
+0.005946120384450056
+254
+AY169807
+>AY169807.1 HIV-1 isolate 98CMABB141 from Cameroon, complete genome
+9182
+NotAvailable
+0.8522147198768742
+-0.3052334940222293
+-0.33723548647167834
+0.894789984692073
+-0.007142266673063566
+255
+AY169808
+>AY169808.1 HIV-1 isolate 98CMU5337 from Cameroon, complete genome
+9171
+NotAvailable
+0.83544055674428
+-0.26385848562912256
+-0.3427017368808586
+0.866142239536268
+0.0006231496944834743
+256
+AY169809
+>AY169809.1 HIV-1 isolate 97CMABB497 from Cameroon, complete genome
+9199
+NotAvailable
+0.6954827863549167
+-0.24223675245480117
+-0.3503415450020323
+0.7510968048107781
+0.008038722894419733
+257
+AY169810
+>AY169810.1 HIV-1 isolate 96CMABB637 from Cameroon, complete genome
+9225
+NotAvailable
+0.8235382974824014
+-0.2830879503404956
+-0.33249100676074056
+0.8743990130042929
+-0.00043906318571845695
+258
+AY169811
+>AY169811.1 HIV-1 isolate 98CMABB197 from Cameroon, complete genome
+9072
+NotAvailable
+0.8877241125348057
+-0.29302782220667095
+-0.3449035723492248
+0.8995692502198138
+-0.015091221523937397
+259
+AY169812
+>AY169812.1 HIV-1 isolate 98CMU2901 from Cameroon, complete genome
+9110
+NotAvailable
+0.6747250116841568
+-0.2358394348410192
+-0.3450692699028672
+0.744337568680665
+0.010057143106833272
+260
+AY169813
+>AY169813.1 HIV-1 isolate 97CMABB447 from Cameroon, complete genome
+9161
+NotAvailable
+0.8791176946960891
+-0.29966367243573483
+-0.33529995555545095
+0.8998334735229844
+0.0002447617633215125
+261
+AY169815
+>AY169815.1 HIV-1 isolate 99CMU4122 from Cameroon, complete genome
+9186
+NotAvailable
+0.8575322371509475
+-0.2671881716922739
+-0.3177101978640158
+0.9045749702946175
+-0.00034825639508320565
+262
+AY169816
+>AY169816.1 HIV-1 isolate 98CMA105 from Cameroon, complete genome
+9195
+NotAvailable
+0.9276743195627329
+-0.30153305709600253
+-0.3314187881809246
+0.9179287142907514
+0.0030095253271613534
+263
+AY618998
+>AY618998.1 HIV-1 clone pCMO2.3 from Cameroon, complete genome
+9868
+NotAvailable
+0.91910196902993
+-0.29339595252548506
+-0.3282637413229248
+0.9135349109716056
+0.012642944046904745
+264
+AY623602
+>AY623602.1 HIV-1 clone pCMO2.5 from Cameroon, complete genome
+9860
+NotAvailable
+0.8194146205991164
+-0.27542400281974905
+-0.3306137288855614
+0.8447235404794071
+0.005919405214722669
+265
+JN571034
+>JN571034.1 UNVERIFIED: HIV-1 isolate LTNP from USA, complete genome
+9103
+NotAvailable
+0.8303847880465763
+-0.2817320971862504
+-0.33609065626188184
+0.8706208733782633
+0.014373491044344577
+266
+JX245014
+>JX245014.1 Human immunodeficiency virus isolate 10Gab1190, complete genome
+9157
+NotAvailable
+0.7607037800797775
+-0.27698407864554025
+-0.33223115894001015
+0.8361798395022882
+-0.006050511967322611
+267
+JX245015
+>JX245015.1 Human immunodeficiency virus isolate 11Gab6352, complete genome
+9250
+NotAvailable
+0.8224880947262206
+-0.2733231082208359
+-0.3308641470793103
+0.8760157083678265
+-0.011949842119064347
+268
+KF859742
+>KF859742.1 HIV-1 isolate DEOXXDE004 from Germany gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9076
+NotAvailable
+0.9064093169834825
+-0.30899468738823416
+-0.3204684648996607
+0.9094312242578112
+0.021333629521705224
+269
+KF859743
+>KF859743.1 HIV-1 isolate DEOXXES001 from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9075
+NotAvailable
+0.9674713346792836
+-0.29328114313914194
+-0.3456904114233433
+0.9844626818922266
+0.00759154152064967
+270
+KF859744
+>KF859744.1 HIV-1 isolate DEOXXUS001 from USA gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; nonfunctional rev protein (rev) gene, complete sequence; and vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9057
+NotAvailable
+0.9315171063053477
+-0.2981209606409605
+-0.3212161615058235
+0.9310001503138446
+0.0028242163287818998
+271
+KU168281
+>KU168281.1 HIV-1 isolate LA29YBF26 from Cameroon, complete genome
+9852
+NotAvailable
+0.6282915444751059
+-0.22282601500031263
+-0.3525712854094072
+0.7123321797971947
+0.06432090699044554
+272
+KU168282
+>KU168282.1 HIV-1 isolate LA30RBF125 from Cameroon, complete genome
+9838
+NotAvailable
+0.8787958289992956
+-0.27850432085714416
+-0.3307911229166889
+0.8956556130463671
+-0.013094580061417437
+273
+KU168283
+>KU168283.1 HIV-1 isolate LA31BCF108 from Cameroon, complete genome
+9721
+NotAvailable
+0.6692049989044431
+-0.2310616179913981
+-0.3323003785251655
+0.7558941704760542
+0.049544970588113385
+274
+KU168284
+>KU168284.1 HIV-1 isolate LA32RBF140 from Cameroon, complete genome
+9823
+NotAvailable
+0.6514238915858651
+-0.22984611475491964
+-0.3483581108368936
+0.7543298591512521
+0.036783920734511
+275
+KU168285
+>KU168285.1 HIV-1 isolate LA33YBF37 from Cameroon, complete genome
+9813
+NotAvailable
+0.9083099199413779
+-0.2832289031702267
+-0.32276194065662994
+0.9154257272378168
+-0.005552487550274571
+276
+KU168286
+>KU168286.1 HIV-1 isolate LA34RBF20 from France, complete genome
+9852
+NotAvailable
+0.9557439757902904
+-0.3058906923593097
+-0.34491940883820665
+0.974679903790259
+0.023190853166843755
+277
+KU168288
+>KU168288.1 HIV-1 isolate LA45BCF02 from Cameroon, complete genome
+9855
+NotAvailable
+0.9279780226357004
+-0.3018184760397525
+-0.35175083072985514
+0.9259634830135159
+0.015557760133369444
+278
+KU168289
+>KU168289.1 HIV-1 isolate LA46BCF03 from Cameroon, complete genome
+9849
+NotAvailable
+0.9252489050584082
+-0.27882191844911036
+-0.3212274599015653
+0.912835344891717
+-0.021660341326939572
+279
+KU168290
+>KU168290.1 HIV-1 isolate LA47BCF09 from Cameroon, complete genome
+9861
+NotAvailable
+0.9941597748586397
+-0.30982996615473585
+-0.34009319643802394
+0.9785616840322628
+-0.00734295641969851
+280
+KU168291
+>KU168291.1 HIV-1 isolate LA48BCF13 from Cameroon, complete genome
+9860
+NotAvailable
+0.7896354848447947
+-0.2657022911583682
+-0.3364529845851167
+0.838162493621403
+0.022482780392583016
+281
+KU168292
+>KU168292.1 HIV-1 isolate LA49RBF189 from Cameroon, complete genome
+9916
+NotAvailable
+0.646434693997211
+-0.23532857948201882
+-0.3473320407306614
+0.7318395391302631
+-0.005442011390725283
+282
+KU168293
+>KU168293.1 HIV-1 isolate LA50YBF16 from Cameroon, complete genome
+9811
+NotAvailable
+0.6901656435646798
+-0.23422600923168724
+-0.3500891069245434
+0.7624699758947148
+0.04121594920846653
+283
+KU168294
+>KU168294.1 HIV-1 isolate LA51YBF35 from Cameroon, complete genome
+9824
+NotAvailable
+0.8274940767083228
+-0.25320098780647654
+-0.3314914074319294
+0.8695514058105278
+0.024038312213093466
+284
+KU168295
+>KU168295.1 HIV-1 isolate LA52YBF39 from Cameroon, complete genome
+9831
+NotAvailable
+0.9693084353474607
+-0.300241361850878
+-0.33991682112545174
+0.9655208872630505
+0.0157354618212254
+285
+KU168296
+>KU168296.1 HIV-1 isolate LA53BCF109 from Cameroon, complete genome
+9890
+NotAvailable
+0.9446327007681424
+-0.3021010083647446
+-0.3392182926996687
+0.9620639255902482
+0.005767822647498532
+286
+KU168297
+>KU168297.1 HIV-1 isolate LA54BCF120 from Cameroon, complete genome
+9861
+NotAvailable
+0.6144449397950767
+-0.22679989855705895
+-0.32104511148313053
+0.7578503143980958
+0.04917727887840819
+287
+KU168298
+>KU168298.1 HIV-1 isolate LA55RBF206 from France, complete genome
+9846
+NotAvailable
+0.9358639083796206
+-0.3144743971607624
+-0.3173527913662291
+0.9175115022445288
+0.013501220274359495
+288
+KX228804
+>KX228804.1 HIV-1 isolate Read25_HIV_GroupO from Spain, partial genome
+9077
+NotAvailable
+0.7003163647407472
+-0.23569196142217597
+-0.3388645992445362
+0.7350659792842347
+0.04903938291832694
+289
+L20571
+>L20571.1 Human immunodeficiency virus type 1, complete genome
+9793
+NotAvailable
+0.9577466473923978
+-0.2898121506157429
+-0.32216890155648
+0.9445393144519493
+0.0013248097917437558
+290
+L20587
+>L20587.1 Human immunodeficiency virus type 1, complete genome
+9754
+NotAvailable
+0.04942229447577155
+-0.1333811344444299
+-0.36204812858029173
+0.3209325450566583
+0.09662217958092792
+291
+GQ328744
+>GQ328744.1 HIV-1 isolate RBF168 from France, partial genome
+8654
+NotAvailable
+0.04359998349546133
+-0.1304214476981018
+-0.36239158265010335
+0.31994296843975556
+0.11316318066387253
+292
+GU111555
+>GU111555.1 HIV-1 isolate RBF168 from France, complete genome
+9869
+NotAvailable
+0.06446815000231693
+-0.1393222918690798
+-0.3725140818510087
+0.33330613358907807
+0.10930808486704237
+293
+HQ179987
+>HQ179987.1 HIV-1 isolate U14788 from Cameroon gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; and vif protein (vif), vpr protein (vpr), truncated tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+9238
+NotAvailable
+0.06446815000231693
+-0.1393222918690798
+-0.37251408185100865
+0.33330613358907807
+0.10930808486704237
+294
+JA446000
+>JA446000.1 Sequence 1 from Patent WO2011103185
+9238
+NotAvailable

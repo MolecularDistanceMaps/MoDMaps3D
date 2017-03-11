@@ -1,0 +1,1177 @@
+34,23,8,10,6,18,2,10,4,2
+blue,red,orange,pink,gray,green,brown,yellow,purple,cyan
+5
+Index,Acc,Name,Length,Taxa
+blue,red,orange,pink,gray,green,brown,yellow,purple,cyan
+Phaeophyceae (34),Haemosporida (23),Ciliophora (8),Amoebozoa (10),Piroplasmida (6),Oomycetes (18),Raphidophyceae (2),Bacillariophyta (10),Blastocystis (4),Cryptophyta (2)
+Protists#mtDNA, complete genome#117 sequences#Approx.Inf.Dist.(k=9)#33,108
+-0.586695
+-0.181368
+-0.495371
+0.128114
+-0.598107
+11
+NC_003055.1
+mitochondrion Pylaiella littoralis
+58507
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Ectocarpales  Acinetosporaceae  Pylaiella}
+-0.786942
+0.331114
+-0.151618
+0.0826214
+-0.563844
+12
+NC_004024.1
+mitochondrion Laminaria digitata
+38007
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Laminaria}
+-0.604175
+-0.141288
+-0.501199
+-0.120952
+-0.576296
+19
+NC_007683.1
+mitochondrion Fucus vesiculosus
+36392
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Fucales  Fucaceae  Fucus}
+-0.614712
+-0.0648751
+-0.45835
+-0.018237
+-0.547235
+20
+NC_007684.1
+mitochondrion Desmarestia viridis
+39049
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Desmarestiales  Desmarestiaceae  Desmarestia}
+-0.503316
+-0.214179
+-0.464399
+0.0310888
+-0.444694
+21
+NC_007685.1
+mitochondrion Dictyota dichotoma
+31617
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Dictyotales  Dictyotaceae  Dictyota}
+-0.936001
+0.796983
+0.240522
+0.375747
+-0.485398
+48
+NC_013473.1
+mitochondrion Saccharina angustata
+37605
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.902685
+0.695707
+0.151809
+0.315647
+-0.487406
+49
+NC_013475.1
+mitochondrion Saccharina coriacea
+37500
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.998804
+0.998908
+0.408001
+0.488892
+-0.45174
+50
+NC_013476.1
+mitochondrion Saccharina japonica
+37657
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.999655
+0.998409
+0.406976
+0.490916
+-0.451582
+51
+NC_013477.1
+mitochondrion Saccharina religiosa
+37657
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.999274
+0.999034
+0.408619
+0.491517
+-0.451511
+52
+NC_013478.1
+mitochondrion Saccharina ochotensis
+37656
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.999664
+1.
+0.408326
+0.490925
+-0.450771
+53
+NC_013482.1
+mitochondrion Saccharina diabolica
+37657
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-1.
+0.998134
+0.40828
+0.489694
+-0.450727
+54
+NC_013484.1
+mitochondrion Saccharina longipedalis
+37657
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.998423
+0.99954
+0.407203
+0.492147
+-0.450673
+66
+NC_015669.1
+mitochondrion Saccharina japonica x latissima
+37638
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.833434
+0.4715
+-0.043808
+0.154479
+-0.538852
+72
+NC_021639.1
+mitochondrion Laminaria hyperborea
+37976
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Laminaria}
+-0.999062
+0.998065
+0.407133
+0.490319
+-0.45105
+73
+NC_021640.1
+mitochondrion Saccharina longissima
+37628
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.747343
+0.158031
+-0.189809
+0.086094
+-0.60852
+76
+NC_023354.1
+mitochondrion Undaria pinnatifida
+37402
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Alariaceae  Undaria}
+-0.779853
+0.333705
+-0.129361
+0.135419
+-0.540881
+77
+NC_023506.1
+mitochondrion Costaria costata
+37461
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Costariaceae  Costaria}
+-0.593728
+-0.130656
+-0.876942
+-0.810126
+-0.534453
+78
+NC_024613.1
+mitochondrion Sargassum horneri
+34606
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Fucales  Sargassaceae  Sargassum}
+-0.595014
+-0.136693
+-0.988194
+-0.97565
+-0.518542
+79
+NC_024614.1
+mitochondrion Sargassum muticum
+34720
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Fucales  Sargassaceae  Sargassum}
+-0.578994
+-0.135687
+-0.942875
+-0.889013
+-0.511214
+80
+NC_024655.1
+mitochondrion Sargassum fusiforme
+34696
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Fucales  Sargassaceae  Sargassum}
+-0.596147
+-0.156076
+-0.966453
+-0.970797
+-0.526968
+81
+NC_024861.1
+mitochondrion Sargassum hemiphyllum
+34686
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Fucales  Sargassaceae  Sargassum}
+-0.63894
+-0.107713
+-0.421099
+-0.00963474
+-0.630464
+82
+NC_025227.1
+mitochondrion Petalonia fascia
+38053
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Ectocarpales  Scytosiphonaceae  Petalonia}
+-0.642156
+-0.100997
+-0.410179
+-0.0140735
+-0.618279
+83
+NC_025240.1
+mitochondrion Scytosiphon lomentaria
+36918
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Ectocarpales  Scytosiphonaceae  Scytosiphon}
+-0.661086
+-0.107522
+-0.368478
+-0.0234165
+-0.658875
+84
+NC_025302.1
+mitochondrion Colpomenia peregrina
+36025
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Ectocarpales  Scytosiphonaceae  Colpomenia}
+-0.950967
+0.845124
+0.279975
+0.402087
+-0.466482
+85
+NC_026108.1
+mitochondrion Saccharina latissima
+37659
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.595805
+-0.142345
+-1.
+-1.
+-0.526599
+87
+NC_026700.1
+mitochondrion Sargassum thunbergii
+34748
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Fucales  Sargassaceae  Sargassum}
+-0.594928
+-0.136717
+-0.851268
+-0.727229
+-0.539674
+89
+NC_027413.1
+mitochondrion Turbinaria ornata
+34981
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Fucales  Sargassaceae  Turbinaria}
+-0.601094
+-0.137022
+-0.945132
+-0.934008
+-0.536835
+90
+NC_027508.1
+mitochondrion Sargassum vachellianum
+34877
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Fucales  Sargassaceae  Sargassum}
+-0.999334
+0.999005
+0.407618
+0.490305
+-0.451772
+96
+NC_028192.1
+mitochondrion Saccharina sp. ye-B
+37657
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.999113
+0.998475
+0.408016
+0.488213
+-0.451826
+97
+NC_028211.1
+mitochondrion Saccharina sp. ye-C12
+37654
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.857463
+0.569184
+0.0527325
+0.25586
+-0.519865
+102
+NC_029206.1
+mitochondrion Saccharina sculpera
+37627
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Laminariales  Laminariaceae  Saccharina}
+-0.660181
+-0.0833092
+-0.414451
+-0.0514291
+-0.631198
+104
+NC_030223.1
+mitochondrion Ectocarpus siliculosus
+37189
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Ectocarpales  Ectocarpaceae  Ectocarpus}
+-0.634497
+-0.109162
+-0.381119
+-0.00572354
+-0.640562
+109
+NC_032046.1
+mitochondrion Pleurocladia lacustris
+37814
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Ectocarpales  Chordariaceae  Pleurocladia}
+-0.590932
+-0.14185
+-0.754669
+-0.58721
+-0.524153
+113
+NC_032287.1
+mitochondrion Coccophora langsdorfii
+35660
+{Eukaryota  Stramenopiles  PX clade  Phaeophyceae  Fucales  Sargassaceae  Coccophora}
+0.835332
+0.0298013
+0.0399348
+0.176187
+-0.635322
+5
+NC_002235.1
+mitochondrion Plasmodium reichenowi
+5966
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Laverania)}
+0.861734
+0.0376165
+0.0444899
+0.174229
+-0.651949
+6
+NC_002375.1
+mitochondrion Plasmodium falciparum (malaria parasite P.
+5967
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Laverania)}
+0.957528
+0.0704742
+0.137878
+0.0547007
+-0.946914
+15
+NC_007232.1
+mitochondrion Plasmodium knowlesi
+5957
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Plasmodium)}
+0.999856
+0.0847459
+0.162856
+0.0286048
+-1.
+16
+NC_007233.1
+mitochondrion Plasmodium simium
+5990
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium}
+1.
+0.083995
+0.163497
+0.0288474
+-0.999404
+17
+NC_007243.1
+mitochondrion Plasmodium vivax Sal-1
+5990
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Plasmodium)}
+0.886266
+0.0385732
+0.0678575
+0.163991
+-0.557844
+23
+NC_008279.1
+mitochondrion Plasmodium juxtanucleare
+6014
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Novyella)}
+0.928286
+0.0695224
+0.0734195
+0.153983
+-0.567452
+24
+NC_008288.1
+mitochondrion Plasmodium gallinaceum
+6003
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Haemamoeba)}
+0.617873
+-0.0581044
+-0.0919617
+0.312892
+-0.188741
+28
+NC_009336.1
+mitochondrion Leucocytozoon sabrazesi
+5935
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Leucocytozoidae  Leucocytozoon}
+0.848594
+0.0256915
+0.0570178
+0.200311
+-0.51575
+32
+NC_009960.2
+mitochondrion Plasmodium mexicanum
+5991
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Paraplasmodium)}
+0.925523
+0.0589901
+0.073662
+0.153604
+-0.558985
+33
+NC_009961.2
+mitochondrion Plasmodium floridense
+6002
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium}
+0.966232
+0.075772
+0.141777
+0.0422895
+-0.954661
+40
+NC_012369.1
+mitochondrion Plasmodium fragile
+5977
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Plasmodium)}
+-0.0621041
+-0.342292
+-0.361748
+0.67894
+0.343392
+41
+NC_012423.1
+mitochondrion Haemoproteus sp. jb1.JA27
+5970
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Haemoproteidae  Haemoproteus  unclassified Haemoproteus}
+0.834167
+0.0203797
+0.00849389
+0.213688
+-0.410322
+42
+NC_012425.1
+mitochondrion Haemoproteus sp. jb2.SEW5141
+5970
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Haemoproteidae  Haemoproteus  unclassified Haemoproteus}
+0.92827
+0.0607873
+0.0805693
+0.161669
+-0.574577
+43
+NC_012426.1
+mitochondrion Plasmodium relictum
+5996
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Haemamoeba)}
+0.79102
+0
+0.00779593
+0.230724
+-0.396031
+44
+NC_012447.1
+mitochondrion Parahaemoproteus vireonis
+5893
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Haemoproteidae  Parahaemoproteus}
+0.565714
+-0.0880268
+-0.0804009
+0.346733
+-0.220959
+45
+NC_012448.1
+mitochondrion Haemoproteus columbae
+5988
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Haemoproteidae  Haemoproteus}
+0.646265
+-0.046092
+-0.0832496
+0.329185
+-0.160506
+46
+NC_012450.1
+mitochondrion Leucocytozoon majoris
+6684
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Leucocytozoidae  Leucocytozoon}
+0.640448
+-0.0450311
+-0.0795199
+0.349483
+-0.141222
+47
+NC_012451.1
+mitochondrion Leucocytozoon fringillinarum
+5992
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Leucocytozoidae  Leucocytozoon}
+0.842391
+0.0290858
+0.0578194
+0.15241
+-0.677252
+60
+NC_015303.1
+mitochondrion Plasmodium berghei
+5957
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Vinckeia)}
+0.773261
+-0.00764683
+0.00706941
+0.231457
+-0.384929
+61
+NC_015304.1
+mitochondrion Leucocytozoon caulleryi
+5959
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Leucocytozoidae  Leucocytozoon}
+0.860699
+0.037529
+0.042947
+0.174359
+-0.651324
+70
+NC_017931.1
+mitochondrion Plasmodium falciparum HB3
+5967
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Laverania)}
+0.981984
+0.0770427
+0.158293
+0.0324647
+-0.998279
+101
+NC_028626.1
+mitochondrion Plasmodium vivax (malaria parasite P. vivax)
+5882
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Plasmodium)}
+0.82171
+0.020098
+0.055056
+0.171446
+-0.65378
+117
+NW_015971901.1
+mitochondrion Plasmodium chabaudi chabaudi
+5949
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodiidae  Plasmodium  Plasmodium (Vinckeia)}
+-0.485836
+-0.692186
+-0.146761
+0.967753
+-0.903947
+1
+NC_000862.1
+mitochondrion Tetrahymena pyriformis
+47296
+{Eukaryota  Alveolata  Ciliophora  Intramacronucleata  Oligohymenophorea  Hymenostomatida  Tetrahymenina  Tetrahymenidae  Tetrahymena}
+-0.349312
+-0.356953
+-0.475536
+0.606085
+-0.245686
+3
+NC_001324.1
+mitochondrion Paramecium aurelia
+40469
+{Eukaryota  Alveolata  Ciliophora  Intramacronucleata  Oligohymenophorea  Peniculida  Parameciidae  Paramecium}
+-0.502533
+-0.712499
+-0.126617
+1.
+-0.912232
+10
+NC_003029.1
+mitochondrion Tetrahymena thermophila
+47577
+{Eukaryota  Alveolata  Ciliophora  Intramacronucleata  Oligohymenophorea  Hymenostomatida  Tetrahymenina  Tetrahymenidae  Tetrahymena}
+-0.499705
+-0.722747
+-0.109908
+0.974374
+-0.917358
+25
+NC_008337.1
+mitochondrion Tetrahymena malaccensis
+47691
+{Eukaryota  Alveolata  Ciliophora  Intramacronucleata  Oligohymenophorea  Hymenostomatida  Tetrahymenina  Tetrahymenidae  Tetrahymena}
+-0.475108
+-0.712966
+-0.100914
+0.911455
+-0.853887
+26
+NC_008338.1
+mitochondrion Tetrahymena paravorax
+47496
+{Eukaryota  Alveolata  Ciliophora  Intramacronucleata  Oligohymenophorea  Hymenostomatida  Tetrahymenina  Tetrahymenidae  Tetrahymena}
+-0.468289
+-0.720462
+-0.109555
+0.988938
+-0.910417
+27
+NC_008339.1
+mitochondrion Tetrahymena pigmentosa
+46990
+{Eukaryota  Alveolata  Ciliophora  Intramacronucleata  Oligohymenophorea  Hymenostomatida  Tetrahymenina  Tetrahymenidae  Tetrahymena}
+-0.436001
+-0.632459
+-0.211437
+0.817908
+-0.574985
+58
+NC_014262.1
+mitochondrion Paramecium caudatum
+43660
+{Eukaryota  Alveolata  Ciliophora  Intramacronucleata  Oligohymenophorea  Peniculida  Parameciidae  Paramecium}
+-0.449881
+-0.708566
+-0.0756596
+0.886223
+-0.778717
+67
+NC_015981.1
+mitochondrion Ichthyophthirius multifiliis
+51686
+{Eukaryota  Alveolata  Ciliophora  Intramacronucleata  Oligohymenophorea  Hymenostomatida  Ophryoglenina  Ichthyophthirius}
+-0.490032
+-0.590215
+-0.23855
+0.68646
+-0.692709
+2
+NC_000895.1
+mitochondrion Dictyostelium discoideum
+55564
+{Eukaryota  Amoebozoa  Mycetozoa  Dictyosteliida  Dictyostelium}
+-0.497214
+-0.502041
+-0.278284
+0.452167
+-0.610594
+4
+NC_001637.1
+mitochondrion Acanthamoeba castellanii
+41591
+{Eukaryota  Amoebozoa  Discosea  Longamoebia  Centramoebida  Acanthamoebidae  Acanthamoeba}
+-0.531379
+-0.60418
+-0.233153
+0.658598
+-0.738966
+8
+NC_002508.1
+mitochondrion Physarum polycephalum
+62862
+{Eukaryota  Amoebozoa  Mycetozoa  Myxogastria  Myxogastromycetidae  Physariida  Physaraceae  Physarum}
+-0.511998
+-0.638369
+-0.138395
+0.59812
+-0.724514
+14
+NC_006862.1
+mitochondrion Polysphondylium pallidum
+47653
+{Eukaryota  Amoebozoa  Mycetozoa  Dictyosteliida  Polysphondylium}
+-0.507025
+-0.606801
+-0.238636
+0.659439
+-0.720808
+22
+NC_007787.2
+mitochondrion Dictyostelium citrinum
+57820
+{Eukaryota  Amoebozoa  Mycetozoa  Dictyosteliida  Dictyostelium}
+-0.532241
+-0.577574
+-0.218818
+0.586175
+-0.721872
+35
+NC_010653.1
+mitochondrion Dictyostelium fasciculatum
+54563
+{Eukaryota  Amoebozoa  Mycetozoa  Dictyosteliida  Dictyostelium}
+-0.222692
+-0.501955
+-0.215572
+0.708658
+-0.108838
+37
+NC_011028.1
+mitochondrion Physarum polycephalum
+14503
+{Eukaryota  Amoebozoa  Mycetozoa  Myxogastria  Myxogastromycetidae  Physariida  Physaraceae  Physarum}
+-0.529166
+-0.430486
+-0.353223
+0.394806
+-0.627282
+57
+NC_013986.1
+mitochondrion Vermamoeba vermiformis
+51645
+{Eukaryota  Amoebozoa  Tubulinea  Euamoebida  Tubulinida  Hartmannellidae  Vermamoeba}
+-0.46308
+-0.34689
+-0.427868
+0.316683
+-0.449356
+91
+NC_027736.1
+mitochondrion Balamuthia mandrillaris
+42217
+{Eukaryota  Amoebozoa  Discosea  Longamoebia  Centramoebida  Balamuthiidae  Balamuthia}
+-0.513226
+-0.600965
+-0.134772
+0.516668
+-0.704877
+106
+NC_031417.1
+mitochondrion Paramoeba pemaquidensis
+48522
+{Eukaryota  Amoebozoa  Discosea  Flabellinia  Dactylopodida  Paramoebidae  Paramoeba}
+-0.0671422
+-0.354671
+-0.421113
+0.806769
+0.734171
+31
+NC_009902.1
+mitochondrion Babesia bovis T2Bo
+6005
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Piroplasmida  Babesiidae  Babesia}
+-0.0555274
+-0.340283
+-0.445838
+0.865928
+0.971054
+36
+NC_011005.1
+mitochondrion Theileria parva
+5895
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Piroplasmida  Theileriidae  Theileria}
+-0.0896115
+-0.312036
+-0.462716
+0.761856
+0.458844
+99
+NC_028463.1
+mitochondrion Babesia microti strain RI
+10547
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Piroplasmida  Babesiidae  Babesia}
+-0.0943782
+-0.31432
+-0.47892
+0.77306
+0.457135
+105
+NC_031328.1
+mitochondrion Babesia microti
+11109
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Piroplasmida  Babesiidae  Babesia}
+-0.0592997
+-0.3527
+-0.461877
+0.895424
+1.
+114
+NT_167255.1
+mitochondrion Theileria annulata strain Ankara
+5905
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Piroplasmida  Theileriidae  Theileria}
+-0.143294
+-0.366899
+-0.347964
+0.639443
+0.196964
+115
+NW_004675959.1
+mitochondrion Theileria equi
+9001
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Piroplasmida  Theileriidae  Theileria}
+-0.580956
+-0.996259
+0.996315
+-0.760325
+0.0672306
+7
+NC_002387.1
+mitochondrion Phytophthora infestans (potato late blight agent)
+37957
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Phytophthora}
+-0.574872
+-0.823271
+0.296101
+0.286025
+-0.908505
+13
+NC_005984.1
+mitochondrion Saprolegnia ferax
+46930
+{Eukaryota  Stramenopiles  Oomycetes  Saprolegniales  Saprolegniaceae  Saprolegnia}
+-0.565073
+-0.908037
+0.637293
+-0.168366
+-0.388363
+29
+NC_009384.1
+mitochondrion Phytophthora ramorum (Sudden oak death agent)
+39314
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Phytophthora}
+-0.569758
+-0.905148
+0.60169
+-0.1279
+-0.417965
+30
+NC_009385.1
+mitochondrion Phytophthora sojae
+42977
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Phytophthora}
+-0.602962
+-0.85955
+0.397932
+0.170165
+-0.757154
+59
+NC_014280.1
+mitochondrion Pythium ultimum
+59689
+{Eukaryota  Stramenopiles  Oomycetes  Pythiales  Pythiaceae  Pythium}
+-0.580578
+-1.
+0.997693
+-0.75832
+0.0607981
+62
+NC_015606.1
+mitochondrion Phytophthora mirabilis
+37779
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Phytophthora}
+-0.576716
+-0.99685
+0.985348
+-0.730283
+0.0530755
+63
+NC_015616.1
+mitochondrion Phytophthora phaseoli
+37914
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Phytophthora}
+-0.580359
+-0.997203
+1.
+-0.744503
+0.0568927
+64
+NC_015619.1
+mitochondrion Phytophthora andina
+37874
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Phytophthora}
+-0.580611
+-0.997159
+0.994803
+-0.749355
+0.0572436
+65
+NC_015622.1
+mitochondrion Phytophthora ipomoeae
+37872
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Phytophthora}
+-0.525466
+-0.816656
+0.227618
+0.448691
+-0.800574
+74
+NC_022178.1
+mitochondrion Achlya hypogyna
+46840
+{Eukaryota  Stramenopiles  Oomycetes  Saprolegniales  Saprolegniaceae  Achlya}
+-0.557311
+-0.79096
+0.239708
+0.30914
+-0.845026
+75
+NC_022179.1
+mitochondrion Thraustotheca clavata
+47382
+{Eukaryota  Stramenopiles  Oomycetes  Saprolegniales  Saprolegniaceae  Thraustotheca}
+-0.53389
+-0.86088
+0.462004
+0.0400605
+-0.487239
+92
+NC_027859.1
+mitochondrion Pseudoperonospora cubensis
+38553
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Peronosporaceae  Pseudoperonospora}
+-0.579352
+-0.832575
+0.295919
+0.290039
+-0.761594
+94
+NC_027966.1
+mitochondrion Pythium insidiosum
+54989
+{Eukaryota  Stramenopiles  Oomycetes  Pythiales  Pythiaceae  Pythium}
+-0.562702
+-0.849329
+0.492605
+-0.0561245
+-0.451197
+98
+NC_028331.1
+mitochondrion Peronospora tabacina
+43225
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Peronosporaceae  Peronospora}
+-0.561923
+-0.893241
+0.583272
+-0.0957415
+-0.405325
+103
+NC_029397.1
+mitochondrion Phytophthora polonica
+40467
+{Eukaryota  Stramenopiles  Oomycetes  Peronosporales  Phytophthora}
+-0.579688
+-0.815388
+0.308646
+0.289004
+-0.888731
+110
+NC_032051.1
+mitochondrion Aphanomyces astaci
+49489
+{Eukaryota  Stramenopiles  Oomycetes  Saprolegniales  Saprolegniaceae  Aphanomyces}
+-0.571156
+-0.83093
+0.332687
+0.274259
+-0.870855
+111
+NC_032052.1
+mitochondrion Aphanomyces invadans
+49061
+{Eukaryota  Stramenopiles  Oomycetes  Saprolegniales  Saprolegniaceae  Aphanomyces}
+-0.493101
+-0.770792
+0.194827
+0.428836
+-0.851089
+116
+NW_012157837.1
+mitochondrion Saprolegnia parasitica CBS 223.65
+38376
+{Eukaryota  Stramenopiles  Oomycetes  Saprolegniales  Saprolegniaceae  Saprolegnia}
+-0.539914
+-0.543868
+-0.220691
+0.381696
+-0.649241
+56
+NC_013837.1
+mitochondrion Chattonella marina
+44772
+{Eukaryota  Stramenopiles  Raphidophyceae  Chattonellales  Chattonellaceae  Chattonella}
+-0.47636
+-0.421069
+-0.357859
+0.314328
+-0.480044
+68
+NC_016738.1
+mitochondrion Heterosigma akashiwo
+38690
+{Eukaryota  Stramenopiles  Raphidophyceae  Chattonellales  Chattonellaceae  Heterosigma}
+-0.506521
+-0.557898
+-0.271593
+0.562254
+-0.639074
+18
+NC_007405.1
+mitochondrion Thalassiosira pseudonana
+43827
+{Eukaryota  Stramenopiles  Bacillariophyta  Coscinodiscophyceae  Thalassiosirophycidae  Thalassiosirales  Thalassiosiraceae  Thalassiosira}
+-0.467065
+-0.547176
+-0.320127
+0.675854
+-0.623485
+55
+NC_013710.1
+mitochondrion Ulnaria acus
+46657
+{Eukaryota  Stramenopiles  Bacillariophyta  Fragilariophyceae  Fragilariophycidae  Fragilariales  Fragilariaceae  Ulnaria}
+-0.503913
+-0.461819
+-0.370689
+0.47726
+-0.567043
+69
+NC_016739.1
+mitochondrion Phaeodactylum tricornutum
+77356
+{Eukaryota  Stramenopiles  Bacillariophyta  Bacillariophyceae  Bacillariophycidae  Naviculales  Phaeodactylaceae  Phaeodactylum}
+-0.488176
+-0.517887
+-0.23682
+0.473899
+-0.589982
+86
+NC_026126.1
+mitochondrion Berkeleya fennica
+35509
+{Eukaryota  Stramenopiles  Bacillariophyta  Bacillariophyceae  Bacillariophycidae  Naviculales  Berkeleyaceae  Berkeleya}
+-0.516398
+-0.53096
+-0.280248
+0.523205
+-0.664265
+88
+NC_027265.1
+mitochondrion Pseudo-nitzschia multiseries
+46283
+{Eukaryota  Stramenopiles  Bacillariophyta  Bacillariophyceae  Bacillariophycidae  Bacillariales  Bacillariaceae  Pseudo-nitzschia}
+-0.439673
+-0.617818
+-0.222536
+0.706058
+-0.607492
+95
+NC_027978.1
+mitochondrion Fistulifera solaris
+39476
+{Eukaryota  Stramenopiles  Bacillariophyta  Bacillariophyceae  Bacillariophycidae  Naviculales  Naviculaceae  Fistulifera}
+-0.504437
+-0.556754
+-0.27536
+0.60028
+-0.605374
+100
+NC_028615.1
+mitochondrion Skeletonema marinoi
+38515
+{Eukaryota  Stramenopiles  Bacillariophyta  Coscinodiscophyceae  Thalassiosirophycidae  Thalassiosirales  Skeletonemataceae  Skeletonema  Skeletonema marinoi-dohrnii complex}
+-0.486956
+-0.543568
+-0.307583
+0.647294
+-0.664485
+107
+NC_031848.1
+mitochondrion Navicula ramosissima
+48652
+{Eukaryota  Stramenopiles  Bacillariophyta  Bacillariophyceae  Bacillariophycidae  Naviculales  Naviculaceae  Navicula}
+-0.434904
+-0.643541
+-0.184232
+0.727368
+-0.584748
+108
+NC_032029.1
+mitochondrion Asterionella formosa
+61877
+{Eukaryota  Stramenopiles  Bacillariophyta  Fragilariophyceae  Fragilariophycidae  Fragilariales  Fragilariaceae  Asterionella}
+-0.514642
+-0.548714
+-0.210671
+0.452708
+-0.636884
+112
+NC_032171.1
+mitochondrion Didymosphenia geminata (rock snot)
+37765
+{Eukaryota  Stramenopiles  Bacillariophyta  Bacillariophyceae  Bacillariophycidae  Cymbellales  Gomphonemataceae  Didymosphenia}
+-0.425751
+-0.639772
+-0.0914644
+0.652287
+-0.504115
+38
+NC_011212.1
+mitochondrion Blastocystis sp. DMP/02-328
+27719
+{Eukaryota  Stramenopiles  Blastocystis}
+-0.424014
+-0.660527
+-0.0611881
+0.67489
+-0.526507
+39
+NC_011213.1
+mitochondrion Blastocystis sp. ATCC 50177/Nand II
+28382
+{Eukaryota  Stramenopiles  Blastocystis}
+-0.441288
+-0.643191
+-0.0958536
+0.659666
+-0.533214
+71
+NC_018042.1
+mitochondrion Blastocystis sp. subtype 3
+28269
+{Eukaryota  Stramenopiles  Blastocystis}
+-0.365509
+-0.666785
+-0.0972381
+0.73313
+-0.483892
+93
+NC_027962.1
+mitochondrion Blastocystis sp. subtype 4
+27717
+{Eukaryota  Stramenopiles  Blastocystis}
+-0.502484
+-0.534635
+-0.29066
+0.544696
+-0.633432
+9
+NC_002572.1
+mitochondrion Rhodomonas salina
+48063
+{Eukaryota  Cryptophyta  Pyrenomonadales  Pyrenomonadaceae  Rhodomonas}
+-0.513642
+-0.499223
+-0.274319
+0.472238
+-0.629464
+34
+NC_010637.1
+mitochondrion Hemiselmis andersenii
+60553
+{Eukaryota  Cryptophyta  Cryptomonadales  Hemiselmidaceae  Hemiselmis}

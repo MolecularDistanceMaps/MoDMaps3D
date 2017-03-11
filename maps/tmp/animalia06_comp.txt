@@ -1,0 +1,9577 @@
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,17
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+H.sapiens (480), C.jacchus (477)
+Composite signature (nuclear + mtDNA); Sampling from H.sapiens and C.jacchus; Number of genomic DNA sequences is 957; FCGR with k=9; Approx. Information
+-0.227753
+0.381963
+0.879505
+0.45286
+0.0308202
+1
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+249
+-0.116568
+0.447835
+0.673155
+-0.769879
+0.721235
+2
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+640
+-0.215944
+0.156242
+0.942499
+0.750375
+-0.278797
+3
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+856
+-0.240255
+0.263224
+0.903651
+0.253398
+-0.320661
+4
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+188
+-0.224977
+0.1534
+0.946031
+0.684932
+-0.0975004
+5
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+243
+-0.200572
+0.162106
+0.88768
+-0.178928
+-0.2772
+6
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1310
+-0.239696
+0.75793
+0.752737
+0.51129
+-0.296179
+7
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+916
+-0.259546
+0.777618
+0.727031
+0.199014
+0.14227
+8
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1523
+-0.261037
+0.612635
+0.792857
+0.151313
+-0.135133
+9
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+197
+-0.241704
+0.8211
+0.708007
+0.40484
+0.119703
+10
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+869
+-0.242064
+0.492154
+0.829876
+0.146181
+0.262684
+11
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+936
+-0.25467
+0.572309
+0.825602
+0.472793
+0.0290086
+12
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+221
+-0.228263
+0.577392
+0.760625
+0.0136334
+-0.55601
+13
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+505
+-0.159386
+0.286337
+0.788691
+-0.417127
+0.220557
+14
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+458
+-0.249755
+0.826649
+0.69664
+0.190994
+-0.284494
+15
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+84
+-0.176754
+0.256028
+0.828206
+0.258617
+-0.0469819
+16
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1464
+-0.247947
+0.78046
+0.727761
+0.494931
+0.272851
+17
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+838
+-0.257296
+0.728581
+0.762944
+0.381304
+0.0635738
+18
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+627
+-0.256784
+0.720462
+0.766196
+0.385851
+0.10754
+19
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1336
+-0.221618
+0.437991
+0.785174
+-0.345172
+-0.12879
+20
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+955
+-0.221517
+0.438114
+0.80029
+-0.300599
+-0.276085
+21
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1600
+-0.269272
+0.687219
+0.766814
+0.23699
+-0.270163
+22
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1051
+-0.273903
+0.728696
+0.763415
+0.475282
+-0.321509
+23
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+725
+-0.240831
+0.923958
+0.644931
+0.224662
+-0.160271
+24
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1231
+-0.22908
+0.814171
+0.673309
+-0.215786
+0.332916
+25
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+771
+-0.26259
+0.807062
+0.684509
+-0.0227417
+-0.468706
+26
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+496
+-0.232431
+0.305459
+0.88596
+0.143007
+-0.361736
+27
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+336
+0.943651
+-0.330579
+-0.928849
+0.423439
+-0.113343
+28
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+297
+-0.192623
+0.31096
+0.848741
+-0.0559446
+-0.0154038
+29
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1202
+-0.251389
+0.389471
+0.877849
+0.364031
+-0.405917
+30
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+660
+-0.25218
+0.815577
+0.690191
+0.0438075
+-0.187359
+31
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+836
+-0.2197
+0.209681
+0.927463
+0.594051
+-0.62076
+32
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+785
+-0.241889
+0.796936
+0.701709
+0.0934828
+-0.440742
+33
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+116
+-0.239143
+0.346512
+0.868356
+0.0345155
+-0.39794
+34
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+684
+-0.246723
+0.684324
+0.785885
+0.530336
+0.0411674
+35
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+272
+-0.242753
+0.306186
+0.908228
+0.54587
+-0.177938
+36
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+98
+-0.235759
+0.422771
+0.846408
+0.106983
+0.0885691
+37
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+805
+-0.252298
+0.858693
+0.684949
+0.213012
+0.252331
+38
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+661
+-0.233044
+0.873303
+0.649338
+-0.0356139
+-0.684855
+39
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+612
+-0.117974
+-0.24283
+0.934445
+-0.128133
+-0.495608
+40
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+75
+-0.242878
+0.798079
+0.711122
+0.246041
+-0.528412
+41
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+716
+-0.257463
+0.796853
+0.72686
+0.319932
+0.232849
+42
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+623
+-0.231083
+0.888305
+0.670258
+0.267216
+-0.203851
+43
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+783
+-0.228606
+0.803272
+0.714149
+0.329472
+0.20136
+44
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+563
+-0.263611
+0.764923
+0.725336
+0.197424
+0.114285
+45
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+717
+-0.271548
+0.759925
+0.759584
+0.554909
+0.107477
+46
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+747
+-0.255665
+0.499512
+0.859281
+0.527504
+-0.234122
+47
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+156
+-0.266018
+0.716965
+0.771162
+0.310333
+-0.0210186
+48
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+47
+-0.242348
+0.750921
+0.736813
+0.418531
+0.432682
+49
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+6
+-0.260112
+0.588977
+0.788245
+-0.0714335
+-0.572989
+50
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+739
+-0.221153
+1.
+0.582056
+0.151625
+0.0492529
+51
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+366
+0.961873
+-0.361778
+-0.952852
+0.408077
+-0.0954432
+52
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+815
+-0.210417
+0.889053
+0.646098
+0.39008
+0.553219
+53
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1313
+-0.263933
+0.680972
+0.75233
+-0.070055
+-0.423001
+54
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+166
+-0.243679
+0.795418
+0.685283
+0.0912595
+0.579323
+55
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+192
+-0.257426
+0.8153
+0.735267
+0.387167
+-0.28479
+56
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+147
+-0.241299
+0.631558
+0.798537
+0.60559
+0.447225
+57
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+646
+-0.260448
+0.818323
+0.697782
+0.0679434
+-0.193078
+58
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+452
+-0.25457
+0.574642
+0.790712
+-0.0190392
+-0.230143
+59
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+419
+-0.186349
+0.106908
+0.894072
+-0.0705204
+-0.0178845
+60
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+460
+-0.257042
+0.802338
+0.717182
+0.0954836
+-0.271257
+61
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1237
+-0.26204
+0.819543
+0.715363
+0.363361
+0.0759646
+62
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1066
+-0.25961
+0.419437
+0.869732
+0.365642
+-0.746883
+63
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+143
+-0.248557
+0.854536
+0.667837
+0.136955
+-0.196544
+64
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1174
+-0.227315
+0.965327
+0.626151
+0.296789
+0.151502
+65
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+897
+-0.267775
+0.672528
+0.801124
+0.545468
+-0.233263
+66
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+611
+-0.24162
+0.860742
+0.673898
+0.0843817
+-0.371007
+67
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+847
+-0.233179
+0.743429
+0.734552
+0.321546
+0.171967
+68
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1090
+-0.230095
+0.832112
+0.688864
+0.209068
+0.472058
+69
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+498
+-0.26036
+0.792817
+0.696015
+0.0650715
+-0.729961
+70
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+234
+-0.222486
+0.964003
+0.607181
+0.0505251
+0.0810209
+71
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+910
+-0.228019
+0.965727
+0.612325
+0.201896
+-0.26754
+72
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1112
+-0.243977
+0.847776
+0.680329
+0.148841
+0.202
+73
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+166
+-0.23776
+0.885216
+0.674525
+0.430291
+0.145254
+74
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+793
+-0.241228
+0.901888
+0.643269
+-0.0352221
+-0.215771
+75
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+438
+-0.23698
+0.915502
+0.636515
+0.00456964
+-0.580039
+76
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1115
+-0.240307
+0.889825
+0.646146
+0.144158
+0.151879
+77
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+873
+-0.249272
+0.831197
+0.688246
+0.0964197
+-0.114997
+78
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1239
+-0.251843
+0.544522
+0.798873
+0.111281
+-0.198614
+79
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+156
+-0.212345
+0.449687
+0.830734
+0.467969
+0.396474
+80
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+754
+-0.242221
+0.846264
+0.675676
+0.0982902
+-0.210859
+81
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1008
+-0.232744
+0.825388
+0.673551
+-0.105094
+-0.10562
+82
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+84
+-0.183858
+0.437734
+0.762043
+-0.367102
+0.384483
+83
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+431
+-0.261937
+0.88824
+0.66463
+0.077559
+-0.142062
+84
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+296
+-0.1835
+0.404011
+0.787262
+-0.329608
+0.116245
+85
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+630
+-0.241097
+0.891055
+0.658045
+0.0306989
+0.202546
+86
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+288
+-0.25951
+0.58552
+0.808063
+0.183854
+-0.00290455
+87
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+373
+-0.254124
+0.554617
+0.817288
+0.152615
+-0.342288
+88
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+988
+-0.225874
+0.923432
+0.628632
+-0.0293113
+0.316072
+89
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+709
+-0.226905
+0.834415
+0.658335
+-0.139371
+0.113558
+90
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+163
+-0.22063
+0.918252
+0.635937
+0.1692
+-0.339759
+91
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+433
+-0.228471
+0.947274
+0.623567
+0.184108
+0.134562
+92
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+554
+-0.248489
+0.532357
+0.829574
+0.286204
+-0.0861651
+93
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+795
+-0.26305
+0.782439
+0.743664
+0.348045
+0.0063425
+94
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1084
+-0.256132
+0.842918
+0.703049
+0.262388
+0.0508157
+95
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1080
+-0.266099
+0.681957
+0.779211
+0.320831
+-0.0235343
+96
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+957
+-0.248247
+0.843828
+0.69699
+0.4265
+0.0875798
+97
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+665
+-0.232604
+0.488586
+0.842582
+0.379185
+0.296872
+98
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+496
+-0.25605
+0.863192
+0.669149
+0.151433
+-0.0373599
+99
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+857
+-0.228426
+0.879146
+0.667732
+0.186038
+-0.0676505
+100
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+858
+-0.198555
+0.302135
+0.817574
+-0.451512
+-0.416137
+101
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+884
+-0.254602
+0.441333
+0.87886
+0.434885
+-0.0441763
+102
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+274
+-0.2569
+0.851824
+0.698521
+0.196032
+-0.127846
+103
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1058
+-0.248711
+0.865459
+0.685129
+0.272739
+0.0234939
+104
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+838
+-0.247279
+0.844566
+0.70131
+0.208436
+-0.276627
+105
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+641
+-0.227186
+0.73824
+0.737687
+0.255517
+0.470555
+106
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+670
+-0.241932
+0.773486
+0.693484
+-0.188824
+-0.46693
+107
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+320
+-0.248687
+0.818456
+0.701117
+0.202936
+0.354869
+108
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+335
+-0.23339
+0.861724
+0.670238
+0.228509
+-0.288968
+109
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+616
+-0.252605
+0.856385
+0.68504
+0.165065
+-0.442867
+110
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+979
+-0.261563
+0.760081
+0.733913
+0.144713
+-0.679849
+111
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+503
+-0.22965
+0.818007
+0.711003
+0.451704
+0.00258961
+112
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+790
+-0.24757
+0.642198
+0.747382
+-0.18864
+-0.314575
+113
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+480
+-0.223914
+0.934458
+0.630456
+0.0369277
+-0.37823
+114
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+909
+-0.246418
+0.840815
+0.705407
+0.351603
+0.221084
+115
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+231
+-0.241181
+0.810185
+0.705654
+0.455356
+0.194548
+116
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+527
+-0.221041
+0.59198
+0.775942
+0.16272
+0.497557
+117
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+532
+-0.249794
+0.802396
+0.696581
+0.000862629
+-0.0695021
+118
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+799
+-0.245232
+0.399882
+0.877791
+0.568383
+0.213223
+119
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1127
+-0.224301
+0.335331
+0.828375
+0.0700983
+-0.722453
+120
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+539
+-0.083613
+-0.319248
+0.937201
+0.17243
+0.425172
+121
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+864
+-0.0721052
+-0.522138
+0.958796
+0.340724
+-0.913726
+122
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+527
+-0.257146
+0.730526
+0.751693
+0.236233
+0.203281
+123
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+801
+-0.253537
+0.515607
+0.840822
+0.336434
+-0.6521
+124
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+945
+-0.206975
+-0.00441165
+0.937455
+0.197439
+-0.965889
+125
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+398
+-0.217063
+0.552618
+0.800191
+0.819325
+0.559012
+126
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+315
+0.99113
+-0.405416
+-0.989913
+0.424423
+-0.147877
+127
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+702
+0.992377
+-0.403814
+-0.99203
+0.412413
+-0.171769
+128
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+271
+1.
+-0.413445
+-1.
+0.424883
+-0.173961
+129
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+395
+-0.24944
+0.84436
+0.688436
+0.145592
+-0.00377149
+130
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+344
+-0.25338
+0.782407
+0.707269
+0.0835435
+0.263836
+131
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+13
+-0.237706
+0.71909
+0.753995
+0.484954
+-0.301398
+132
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+631
+-0.233097
+0.771477
+0.708706
+0.238756
+0.553966
+133
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+393
+-0.198138
+0.399675
+0.781618
+-0.458967
+-0.378932
+134
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+6
+-0.153279
+0.357983
+0.760407
+-0.588834
+0.315365
+135
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+897
+-0.24654
+0.920578
+0.638108
+0.114984
+0.160443
+136
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+533
+-0.236262
+0.854193
+0.69579
+0.405445
+0.265912
+137
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+317
+-0.189197
+0.157767
+0.875443
+-0.252822
+-0.332881
+138
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+619
+-0.260124
+0.620779
+0.792518
+0.227533
+-0.025372
+139
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+819
+-0.23249
+0.673255
+0.766039
+0.493769
+0.217836
+140
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+659
+-0.245695
+0.445983
+0.825138
+0.24209
+-0.143367
+141
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+957
+-0.247633
+0.581149
+0.770134
+0.0660774
+-0.24179
+142
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+495
+-0.23473
+0.546021
+0.761942
+-0.349186
+-0.56227
+143
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+675
+-0.200006
+0.760913
+0.688786
+0.272391
+0.961634
+144
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+18
+-0.208828
+0.421236
+0.791305
+-0.309868
+0.0729015
+145
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+579
+0.114019
+-0.0324911
+0.549291
+0.539925
+-0.296183
+146
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+308
+-0.244497
+0.82109
+0.698435
+0.172195
+-0.40588
+147
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+493
+-0.251302
+0.547582
+0.822109
+0.285242
+-0.00907697
+148
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+280
+-0.226914
+0.809089
+0.710537
+0.425961
+0.472929
+149
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+886
+-0.229891
+0.922439
+0.645229
+0.17634
+-0.158447
+150
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+894
+-0.230835
+0.807284
+0.690133
+0.076877
+0.340636
+151
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+707
+-0.21073
+0.633027
+0.706094
+-0.467324
+-1.
+152
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+194
+-0.224143
+0.484994
+0.821434
+-0.00018046
+-0.167273
+153
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+260
+-0.25531
+0.784743
+0.709336
+0.0668032
+0.0337219
+154
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+657
+-0.206102
+0.698644
+0.696704
+0.207553
+0.122716
+155
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+721
+-0.243867
+0.7878
+0.715737
+0.0529785
+-0.00900492
+156
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+716
+-0.237564
+0.701118
+0.71905
+-0.222386
+-0.0555639
+157
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+460
+-0.235781
+0.194471
+0.934874
+0.665904
+-0.375164
+158
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+513
+-0.276105
+0.557573
+0.841619
+0.616768
+-0.360863
+159
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+17
+-0.0880372
+-0.449608
+0.982356
+0.265043
+-0.0711174
+160
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+809
+-0.251657
+0.762839
+0.755633
+0.637292
+-0.0289874
+161
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+632
+-0.265932
+0.673314
+0.789772
+0.499533
+-0.227345
+162
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+676
+-0.231463
+0.574609
+0.783656
+-0.110405
+-0.421125
+163
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+20
+-0.24661
+0.746894
+0.746997
+0.531559
+-0.0180289
+164
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+746
+-0.240493
+0.710748
+0.760806
+0.467811
+0.450267
+165
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+668
+-0.251709
+0.829152
+0.691574
+-0.0823497
+-0.532684
+166
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+657
+-0.269057
+0.846508
+0.678722
+0.116787
+-0.506564
+167
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+447
+-0.258702
+0.612624
+0.777318
+0.20646
+-0.626957
+168
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+504
+-0.156131
+0.354224
+0.735873
+-0.909288
+-0.320216
+169
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+175
+0.143651
+0.383011
+0.308135
+0.278659
+-0.735387
+170
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+357
+-0.264561
+0.584159
+0.813295
+0.364642
+0.0208884
+171
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+694
+-0.257495
+0.590692
+0.810179
+0.19757
+-0.662867
+172
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+599
+-0.231704
+0.428809
+0.832204
+0.0798939
+-0.122939
+173
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+176
+-0.250757
+0.82358
+0.718247
+0.400402
+0.240133
+174
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+118
+-0.229652
+0.753489
+0.713148
+-0.0272644
+-0.549694
+175
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+107
+-0.256525
+0.521749
+0.83944
+0.420003
+-0.0239157
+176
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+30
+-0.260023
+0.602457
+0.805377
+0.194694
+-0.489605
+177
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+225
+-0.27084
+0.794233
+0.736328
+0.252627
+-0.128167
+178
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+11
+-0.236585
+0.525996
+0.779455
+-0.296465
+-0.388783
+179
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+273
+-0.0686043
+-0.350598
+0.925775
+-0.0697507
+0.121139
+180
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+227
+-0.241837
+0.454606
+0.835676
+0.197812
+-0.485176
+181
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+36
+-0.226437
+0.162732
+0.920132
+0.460811
+-0.327317
+182
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+82
+-0.146856
+0.325838
+0.774815
+-0.377435
+0.602353
+183
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+776
+-0.245945
+0.607349
+0.771403
+-0.0494932
+-0.0880529
+184
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+751
+-0.262028
+0.683552
+0.75261
+0.0357696
+-0.684709
+185
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+452
+-0.253176
+0.579733
+0.789826
+0.00326438
+-0.291767
+186
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+528
+-0.24311
+0.895895
+0.640004
+-0.234774
+-0.409305
+187
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+445
+-0.230923
+0.516254
+0.786147
+-0.182295
+0.0639401
+188
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+396
+-0.230268
+0.603488
+0.772125
+0.00407565
+0.493811
+189
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+299
+-0.235888
+0.564149
+0.812827
+0.340478
+-0.373806
+190
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+497
+-0.244074
+0.307949
+0.87668
+0.04618
+-0.69336
+191
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+685
+-0.210226
+0.303566
+0.844469
+-0.220285
+-0.23997
+192
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+708
+-0.206191
+0.511185
+0.749128
+-0.520531
+-0.252189
+193
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+737
+-0.25815
+0.841308
+0.698628
+0.029313
+-0.367674
+194
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+333
+-0.263998
+0.634976
+0.775872
+0.0855736
+-0.142309
+195
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+763
+-0.224824
+0.870115
+0.638313
+-0.0871775
+0.547425
+196
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+835
+-0.215609
+0.306943
+0.876779
+0.385171
+0.484042
+197
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+666
+-0.228685
+0.571016
+0.760239
+-0.210756
+0.161892
+198
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+76
+-0.223594
+0.154382
+0.924504
+0.191872
+-0.471048
+199
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+634
+-0.23135
+0.452019
+0.856496
+0.561319
+-0.178903
+200
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+707
+-0.2243
+0.309819
+0.864764
+0.0235523
+-0.0883015
+201
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+262
+-0.245788
+0.367613
+0.903941
+0.877247
+-0.185963
+202
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+554
+-0.23006
+0.861536
+0.684844
+0.307405
+0.198881
+203
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+757
+-0.264073
+0.770133
+0.740058
+0.258547
+-0.438734
+204
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+541
+-0.24148
+0.893119
+0.649043
+0.176391
+-0.0417889
+205
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+289
+-0.226851
+0.808302
+0.68647
+-0.0323334
+-0.139477
+206
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+861
+-0.24064
+0.659731
+0.759854
+0.48895
+-0.245015
+207
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+649
+-0.231537
+0.646244
+0.766258
+-0.00322406
+0.204838
+208
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+458
+-0.260099
+0.72344
+0.76332
+0.358757
+-0.208563
+209
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+151
+-0.13919
+-0.00981657
+0.886967
+-0.233098
+-0.210875
+210
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+205
+-0.10807
+-0.341488
+0.989463
+0.590844
+0.21654
+211
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+257
+-0.265728
+0.712782
+0.767402
+0.291448
+-0.349123
+212
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+60
+-0.251199
+0.905537
+0.654189
+0.289682
+0.0534311
+213
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+288
+-0.26331
+0.798057
+0.742983
+0.372618
+-0.292727
+214
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+75
+-0.249297
+0.863868
+0.672732
+0.13238
+0.148367
+215
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+529
+-0.201467
+0.0588571
+0.937066
+0.314064
+0.0537841
+216
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+817
+-0.225304
+0.203601
+0.931273
+0.76303
+0.228037
+217
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+399
+-0.193424
+0.379447
+0.791189
+-0.385023
+0.0617773
+218
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+758
+-0.272051
+0.464062
+0.85138
+0.534224
+-0.371053
+219
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+844
+-0.247456
+0.495199
+0.826491
+0.268691
+-0.752793
+220
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+414
+-0.2303
+0.380102
+0.865051
+0.454478
+0.27237
+221
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+78
+-0.241527
+0.511906
+0.81336
+0.118204
+0.193287
+222
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+807
+-0.228831
+0.785669
+0.669722
+-0.0701707
+-0.964121
+223
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+494
+-0.219517
+0.548747
+0.766921
+-0.276836
+-0.527102
+224
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+299
+-0.23951
+0.180221
+0.928006
+0.562839
+-0.670758
+225
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+352
+-0.167981
+-0.0555632
+0.946327
+0.224895
+-0.677509
+226
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+55
+-0.230662
+0.917999
+0.633307
+0.116059
+-0.0156139
+227
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+502
+-0.239526
+0.868189
+0.648281
+-0.114655
+-0.309885
+228
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+339
+-0.240322
+0.843646
+0.642959
+-0.448427
+-0.482516
+229
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+734
+-0.238411
+0.87944
+0.656853
+0.116086
+0.106364
+230
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+532
+-0.243142
+0.450483
+0.821769
+-0.124862
+-0.287463
+231
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+351
+-0.193333
+0.467958
+0.77738
+-0.264127
+0.413232
+232
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+728
+-0.241795
+0.879666
+0.631789
+-0.251961
+-0.604553
+233
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+789
+-0.28154
+0.547032
+0.835597
+0.388517
+-0.494427
+234
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+706
+-0.178219
+0.0517831
+0.921297
+0.231305
+0.193681
+235
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+636
+-0.168528
+0.494789
+0.730623
+-0.480744
+0.51991
+236
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+631
+-0.226431
+0.489051
+0.793958
+-0.142792
+0.287009
+237
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+665
+-0.17202
+0.1685
+0.873718
+-0.0982326
+-0.104627
+238
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+865
+-0.23791
+0.389003
+0.84719
+0.259172
+-0.654725
+239
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+885
+-0.0833924
+-0.267744
+0.881663
+-0.366427
+-0.562518
+240
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+605
+0.952181
+-0.353969
+-0.948672
+0.43851
+-0.147357
+241
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+632
+-0.244654
+0.505554
+0.83342
+0.231237
+-0.320148
+242
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+441
+-0.239071
+0.691435
+0.731341
+0.0931302
+0.0724616
+243
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+217
+-0.25485
+0.517362
+0.855179
+0.486857
+0.0890794
+244
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+344
+-0.254801
+0.616894
+0.813357
+0.606764
+0.0442862
+245
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+511
+-0.244191
+0.876946
+0.662494
+0.101561
+-0.039279
+246
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+307
+-0.24248
+0.832772
+0.673798
+-0.0761362
+-0.0952121
+247
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+493
+-0.243751
+0.926835
+0.657217
+0.302731
+0.0741742
+248
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+462
+-0.179356
+0.511042
+0.724681
+-0.481423
+0.383643
+249
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+17
+-0.254619
+0.873327
+0.673157
+0.159766
+0.0554973
+250
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+44
+-0.224427
+0.884697
+0.64412
+-0.114227
+-0.436232
+251
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+380
+-0.239242
+0.869504
+0.655429
+0.0175946
+-0.0381016
+252
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+278
+-0.251538
+0.89213
+0.671426
+0.269688
+0.0338248
+253
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+414
+-0.225194
+0.912173
+0.645784
+0.0715872
+0.0244021
+254
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+602
+-0.237532
+0.920813
+0.653477
+0.079291
+-0.403815
+255
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+112
+-0.259563
+0.756152
+0.7227
+0.112764
+-0.296066
+256
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+621
+-0.262466
+0.660117
+0.773316
+0.249568
+-0.277378
+257
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+480
+-0.254082
+0.473482
+0.822705
+0.19753
+-0.258309
+258
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+599
+-0.257283
+0.527764
+0.817405
+0.226889
+-0.440926
+259
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+572
+-0.254989
+0.38981
+0.872654
+0.336333
+-0.45792
+260
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+13
+0.879428
+-0.278486
+-0.841897
+0.416748
+-0.163269
+261
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+199
+-0.25336
+0.491665
+0.833313
+0.334342
+0.00728952
+262
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+554
+-0.253211
+0.739471
+0.710747
+-0.202781
+-0.384229
+263
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+521
+-0.230291
+0.946463
+0.611794
+-0.00985917
+-0.194979
+264
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+139
+-0.236246
+0.922115
+0.631543
+0.0458897
+-0.356835
+265
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+266
+-0.215032
+0.941849
+0.631186
+0.374652
+0.36392
+266
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+421
+-0.258759
+0.590556
+0.806443
+0.39487
+0.306514
+267
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+347
+-0.21878
+0.800359
+0.696684
+0.11794
+0.671813
+268
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+175
+-0.265892
+0.597801
+0.808626
+0.225955
+0.0705801
+269
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+544
+-0.247206
+0.776428
+0.726628
+0.191512
+0.0576306
+270
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+136
+-0.259635
+0.805063
+0.726957
+0.263648
+0.131916
+271
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+345
+-0.256992
+0.787913
+0.707916
+0.123082
+0.0500428
+272
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+513
+-0.200502
+0.884842
+0.635834
+0.290989
+0.157583
+273
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+7
+-0.223307
+0.211111
+0.928719
+0.591652
+0.209885
+274
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+185
+-0.143899
+0.213766
+0.806718
+-0.523054
+0.203462
+275
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+439
+-0.247882
+0.365514
+0.896762
+0.613331
+0.0428865
+276
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+549
+-0.256265
+0.467029
+0.858107
+0.421224
+-0.247801
+277
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+455
+-0.265818
+0.564416
+0.816636
+0.272599
+-0.403486
+278
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+584
+-0.20325
+0.0800065
+0.924695
+0.171443
+-0.478116
+279
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+507
+-0.12732
+0.021259
+0.855348
+-0.544668
+-0.151736
+280
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+466
+-0.220875
+0.507727
+0.790177
+-0.0823841
+-0.0788147
+281
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+267
+-0.0748951
+0.575069
+0.576979
+0.115562
+0.479052
+282
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+62
+-0.259755
+0.619944
+0.789147
+0.155527
+-0.48351
+283
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+430
+-0.198101
+0.528853
+0.760787
+-0.189236
+0.330563
+284
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+340
+-0.228373
+0.400761
+0.829547
+0.0279774
+-0.408322
+285
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+115
+-0.223509
+0.375591
+0.816732
+-0.175562
+0.0176436
+286
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+370
+-0.182178
+0.529243
+0.734575
+-0.470169
+0.240466
+287
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+511
+-0.26276
+0.857352
+0.68259
+0.162676
+-0.261467
+288
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+168
+-0.236831
+0.499516
+0.803059
+-0.00691
+0.32686
+289
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+319
+-0.200534
+0.158515
+0.8947
+-0.0298793
+-0.152754
+290
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+399
+-0.147188
+-0.110255
+0.933003
+-0.0948699
+-0.217534
+291
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+224
+-0.225225
+0.413507
+0.827012
+-0.0872755
+0.0562075
+292
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+249
+-0.218118
+0.0955061
+0.963151
+0.644121
+-0.26325
+293
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+537
+-0.228466
+0.378694
+0.842999
+-0.0140061
+0.12801
+294
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+458
+-0.224761
+0.1588
+0.934282
+0.343356
+-0.243374
+295
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+28
+-0.207454
+0.648632
+0.758209
+0.492316
+-0.453754
+296
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+519
+-0.240127
+0.415309
+0.875974
+0.538847
+0.153898
+297
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+48
+-0.254387
+0.705981
+0.744432
+0.172199
+0.0183897
+298
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+77
+-0.255824
+0.757307
+0.735012
+0.163479
+-0.0581895
+299
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+353
+-0.269975
+0.623985
+0.785966
+0.29161
+-0.503472
+300
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+321
+-0.148146
+0.0244603
+0.856587
+-0.451267
+-0.422383
+301
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+213
+-0.233615
+0.366166
+0.864692
+0.304377
+0.159859
+302
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+469
+-0.239916
+0.576652
+0.792498
+0.297275
+0.305221
+303
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+281
+-0.167729
+0.225763
+0.835084
+-0.0880212
+0.167123
+304
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+175
+-0.208532
+0.270749
+0.844992
+-0.195344
+-0.284071
+305
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+124
+-0.194893
+0.329276
+0.82406
+-0.201098
+0.0301364
+306
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+459
+-0.161885
+0.0312707
+0.913757
+0.143681
+0.538497
+307
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+28
+-0.204467
+0.282472
+0.846076
+-0.158245
+-0.768681
+308
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+100
+-0.265363
+0.675971
+0.776659
+0.236307
+-0.114889
+309
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+85
+-0.17367
+-0.0380736
+0.936207
+0.0578614
+-0.105712
+310
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+236
+-0.215765
+0.445358
+0.861834
+0.516354
+-0.17471
+311
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+210
+-0.19837
+0.513188
+0.792369
+0.353446
+-0.0568244
+312
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+250
+0.986007
+-0.396227
+-0.977401
+0.401981
+-0.153165
+313
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+425
+-0.159213
+0.138247
+0.859364
+-0.290736
+0.0390974
+314
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+42
+-0.20709
+0.0988316
+0.953141
+0.587238
+0.070371
+315
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+69
+-0.244227
+0.838318
+0.670444
+0.0804386
+0.233718
+316
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+86
+-0.222201
+0.311115
+0.872189
+0.311896
+-0.13618
+317
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+363
+-0.238485
+0.625942
+0.773313
+0.161058
+-0.213879
+318
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+257
+-0.230003
+0.507093
+0.818641
+0.26815
+0.346832
+319
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+437
+-0.237615
+0.36206
+0.85825
+0.237828
+0.208093
+320
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+40
+-0.122973
+-0.0997106
+0.892489
+0.0381388
+-0.424477
+321
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+270
+-0.0753563
+0.10714
+0.732456
+-1.
+-0.110268
+322
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+407
+-0.25131
+0.64187
+0.772494
+0.0260607
+-0.160596
+323
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+438
+-0.239475
+0.321199
+0.88058
+0.201557
+-0.431338
+324
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+103
+-0.121083
+-0.382185
+1.
+0.500959
+-0.135747
+325
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+292
+0.969214
+-0.391085
+-0.955244
+0.438018
+-0.165372
+326
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+381
+0.093269
+0.544444
+0.307567
+0.0613257
+-0.504753
+327
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+118
+0.22639
+0.41498
+0.170549
+-0.2472
+0.0239562
+328
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+234
+-0.237942
+0.545997
+0.817903
+0.311507
+-0.249464
+329
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+329
+-0.232977
+0.632662
+0.74666
+0.0246211
+0.387567
+330
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+177
+0.134156
+-0.0588285
+0.545108
+-0.584837
+0.467382
+331
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+178
+-0.137647
+-0.0808337
+0.892326
+-0.240216
+-0.280192
+332
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+1
+-0.183597
+-0.0463801
+0.955761
+0.235084
+-0.207892
+333
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+346
+-0.275506
+0.716579
+0.762365
+0.281469
+-0.376424
+334
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+543
+-0.249536
+0.834338
+0.684257
+0.0557387
+0.0784327
+335
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+9
+-0.229059
+0.890165
+0.643602
+-0.0765265
+0.0272215
+336
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+287
+-0.215279
+0.211163
+0.916735
+0.584372
+0.474841
+337
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+167
+-0.223894
+0.533133
+0.781626
+-0.0759345
+0.310785
+338
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+351
+-0.237849
+0.717603
+0.711661
+-0.205996
+-0.60532
+339
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+356
+-0.0705841
+-0.418148
+0.943774
+-0.277999
+-0.243285
+340
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+91
+-0.205307
+0.433559
+0.788361
+-0.378608
+0.000153385
+341
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+141
+-0.25404
+0.35781
+0.893249
+0.538133
+-0.181748
+342
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+526
+0.977622
+-0.389678
+-0.971866
+0.416254
+-0.155398
+343
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+236
+0.765788
+-0.114562
+-0.657855
+0.434978
+-0.00984599
+344
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+351
+-0.183584
+0.545453
+0.729723
+-0.422555
+0.475925
+345
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+522
+-0.244334
+0.883087
+0.657423
+0.0623892
+-0.147163
+346
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+344
+-0.251287
+0.814594
+0.711125
+0.287092
+0.297291
+347
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+137
+-0.246448
+0.463314
+0.854551
+0.223731
+-0.215383
+348
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+69
+-0.245129
+0.412089
+0.89771
+0.599678
+0.1166
+349
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+394
+-0.247532
+0.815807
+0.704318
+0.038293
+-0.584865
+350
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+497
+-0.208387
+0.0561581
+0.967117
+0.664197
+-0.0554218
+351
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+242
+-0.258231
+0.683748
+0.794631
+0.536649
+-0.246125
+352
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+198
+-0.266483
+0.74223
+0.748925
+0.291315
+0.0731038
+353
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+21
+-0.238525
+0.410603
+0.861422
+0.198571
+-0.31683
+354
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+419
+-0.22136
+0.544579
+0.802564
+0.0956468
+-0.0115049
+355
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+263
+-0.24204
+0.831814
+0.667959
+-0.0393334
+-0.151113
+356
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+431
+-0.241183
+0.631974
+0.756682
+0.290888
+0.561789
+357
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+135
+-0.230777
+0.812864
+0.681441
+0.384953
+0.557688
+358
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+498
+-0.225172
+0.33592
+0.850501
+0.401245
+-0.197787
+359
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+230
+-0.179579
+0.063258
+0.871856
+0.120853
+-0.216661
+360
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+309
+0.0202715
+-0.629584
+0.892458
+0.0530486
+-0.33603
+361
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+168
+-0.0132319
+-0.674884
+0.953648
+0.0412163
+0.242356
+362
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+53
+-0.029283
+-0.388147
+0.899461
+-0.148829
+0.208871
+363
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+388
+-0.0582339
+-0.537447
+0.95612
+-0.0912669
+-0.235081
+364
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+354
+-0.112061
+-0.228089
+0.935195
+0.0488147
+-0.0501013
+365
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+116
+-0.129411
+-0.159525
+0.919508
+-0.226767
+-0.388034
+366
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+133
+-0.0317608
+-0.416702
+0.888767
+-0.322464
+0.279427
+367
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+3
+-0.196041
+0.51777
+0.774191
+0.0616987
+0.236271
+368
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+235
+-0.160729
+0.593604
+0.68617
+-0.517342
+-0.246856
+369
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+103
+0.131761
+0.583417
+0.283611
+0.528521
+-0.262815
+370
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+327
+0.881319
+-0.276991
+-0.840086
+0.398658
+-0.100725
+371
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+158
+-0.240934
+0.2951
+0.886967
+0.345717
+-0.621245
+372
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+111
+-0.183577
+-0.031675
+0.953212
+0.238014
+-0.486031
+373
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+223
+-0.133745
+-0.145953
+0.926835
+0.0311657
+-0.139202
+374
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+213
+0.0157589
+0.0811451
+0.64675
+-0.713176
+0.350632
+375
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+292
+-0.23037
+0.698582
+0.737048
+-0.0132961
+0.0404923
+376
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+22
+-0.0416259
+-0.338563
+0.886097
+-0.352827
+-0.0955563
+377
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+241
+-0.0638709
+-0.339824
+0.893015
+-0.0772957
+0.441634
+378
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+162
+-0.176327
+0.410356
+0.767977
+-0.304458
+0.07036
+379
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+298
+-0.152959
+-0.0186327
+0.898468
+-0.0942611
+0.0348536
+380
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+9
+-0.177225
+0.135032
+0.877654
+-0.0775489
+0.178451
+381
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+305
+-0.197852
+0.231637
+0.846224
+-0.370138
+-0.59237
+382
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+308
+-0.248084
+0.716893
+0.768251
+0.548154
+0.279918
+383
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+262
+-0.239234
+0.582705
+0.787347
+0.123964
+0.487522
+384
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+42
+-0.26004
+0.716466
+0.769783
+0.460221
+-0.299826
+385
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+130
+-0.277485
+0.703842
+0.760052
+0.272508
+-0.253528
+386
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+70
+-0.208839
+0.657307
+0.707855
+-0.427602
+-0.537317
+387
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+375
+-0.24954
+0.482393
+0.843299
+0.179109
+-0.0719675
+388
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+202
+-0.255545
+0.39726
+0.903299
+0.717581
+-0.295061
+389
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+311
+0.991894
+-0.404737
+-0.98772
+0.423065
+-0.169743
+390
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+91
+-0.0969968
+0.424382
+0.658028
+0.122316
+-0.840849
+391
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+85
+-0.153516
+0.459466
+0.730934
+-0.0436049
+-0.253331
+392
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+111
+-0.193125
+0.403864
+0.799125
+-0.404147
+0.0125922
+393
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+263
+-0.271305
+0.627563
+0.804914
+0.404939
+-0.318177
+394
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+230
+-0.262002
+0.720752
+0.780229
+0.494734
+-0.149147
+395
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+183
+-0.204539
+0.0540968
+0.948047
+0.290859
+-0.0554905
+396
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+198
+-0.260288
+0.418464
+0.863061
+0.251685
+-0.203067
+397
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+33
+-0.238579
+0.27855
+0.907861
+0.421506
+-0.0367517
+398
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+87
+-0.251839
+0.760811
+0.731319
+0.201134
+-0.566627
+399
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+370
+-0.13876
+0.0856211
+0.854695
+-0.23538
+0.322072
+400
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+19
+-0.150192
+0.531045
+0.714279
+0.260366
+-0.255515
+401
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+108
+-0.0925703
+0.512549
+0.621871
+0.138862
+-0.335402
+402
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+227
+-0.101694
+0.528881
+0.635765
+0.510586
+-0.161277
+403
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+16
+-0.126963
+0.221238
+0.769686
+0.134506
+0.0960759
+404
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+41
+-0.20994
+0.523016
+0.78434
+0.290595
+0.422435
+405
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+121
+-0.23137
+0.773547
+0.715389
+0.17102
+-0.11709
+406
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+48
+0.932657
+-0.322281
+-0.927453
+0.41926
+-0.11411
+407
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+4
+0.942078
+-0.341665
+-0.93781
+0.41946
+-0.145964
+408
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+198
+-0.243356
+0.539949
+0.82499
+0.311691
+-0.225945
+409
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+40
+-0.228217
+0.620833
+0.752887
+-0.128875
+0.363047
+410
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+11
+-0.230203
+0.931687
+0.626237
+0.00589651
+-0.17782
+411
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+160
+-0.241122
+0.904554
+0.657318
+0.138403
+-0.046688
+412
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+80
+-0.231238
+0.88994
+0.651866
+-0.0297785
+-0.0420309
+413
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+19
+-0.235895
+0.868011
+0.650253
+-0.148174
+-0.0321624
+414
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+235
+-0.240385
+0.858732
+0.668934
+0.0563182
+0.0952254
+415
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+123
+-0.240029
+0.869599
+0.662514
+0.0283787
+0.0482209
+416
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+74
+-0.142743
+0.102593
+0.851087
+-0.21856
+0.384397
+417
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+101
+-0.258232
+0.599561
+0.808482
+0.466168
+-0.040695
+418
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+21
+-0.245891
+0.577757
+0.786598
+0.0714024
+-0.377985
+419
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+12
+-0.187968
+-0.105678
+0.959453
+0.401771
+-0.494098
+420
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+211
+-0.138819
+0.440069
+0.730333
+0.337017
+-0.531302
+421
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+85
+-0.221559
+0.551606
+0.787474
+0.198867
+-0.0386691
+422
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+51
+-0.186142
+0.763592
+0.663582
+-0.215296
+-0.282702
+423
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+59
+-0.189155
+0.0795052
+0.905423
+-0.0911701
+-0.787606
+424
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+98
+-0.178109
+0.0313246
+0.913433
+-0.133977
+-0.405479
+425
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+90
+-0.141472
+-0.0739129
+0.914942
+0.00876175
+-0.0664784
+426
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+180
+-0.130038
+-0.1552
+0.959434
+0.220356
+0.0418395
+427
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+8
+-0.214848
+0.418434
+0.837215
+-0.0237575
+0.269333
+428
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+103
+-0.151904
+0.0446957
+0.894519
+0.0843731
+0.271456
+429
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+60
+-0.158603
+0.024339
+0.93479
+0.326781
+0.336258
+430
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+130
+-0.270059
+0.483023
+0.855819
+0.467463
+-0.326711
+431
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+4
+-0.244535
+0.334963
+0.892365
+0.517855
+-0.232699
+432
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+106
+-0.244186
+0.323192
+0.898491
+0.64184
+-0.220416
+433
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+161
+-0.206165
+0.00708617
+0.959024
+0.541097
+-0.446402
+434
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+32
+-0.131906
+-0.101078
+0.932187
+-0.00691217
+-0.142947
+435
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+160
+-0.164287
+-0.0864577
+0.957331
+0.405154
+-0.283691
+436
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+97
+-0.217312
+0.4903
+0.785188
+-0.0137498
+-0.0488689
+437
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+244
+-0.164406
+0.337472
+0.778147
+-0.558789
+-0.00380723
+438
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+44
+-0.0967709
+-0.32336
+0.949281
+-0.0731425
+-0.198061
+439
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+207
+-0.220657
+0.159159
+0.922326
+0.471956
+-0.408025
+440
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+89
+0.0600102
+-0.373995
+0.772088
+-0.436807
+0.0516239
+441
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+714
+-0.250759
+0.755402
+0.734231
+0.233503
+-0.227295
+442
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+421
+-0.252691
+0.593351
+0.80898
+0.264654
+-0.344385
+443
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+88
+-0.243204
+0.620341
+0.795312
+0.290782
+0.392346
+444
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+320
+-0.246056
+0.913875
+0.623463
+-0.166038
+-0.313136
+445
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+215
+-0.151873
+0.130121
+0.861426
+-0.0383371
+-0.336094
+446
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+731
+-0.221607
+0.66527
+0.755841
+0.45383
+-0.747446
+447
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+665
+-0.226665
+0.897152
+0.639105
+0.209304
+-0.461939
+448
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+848
+-0.237801
+0.843456
+0.703758
+0.460117
+-0.160265
+449
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+796
+-0.249686
+0.867527
+0.674949
+0.1374
+-0.00971743
+450
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+112
+-0.241528
+0.732454
+0.743149
+0.175918
+-0.504811
+451
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+667
+-0.239116
+0.644242
+0.761197
+0.242008
+0.154821
+452
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+909
+-0.217114
+0.343423
+0.87612
+0.397793
+0.285489
+453
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+9
+-0.25359
+0.650151
+0.792167
+0.448829
+0.323667
+454
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+624
+-0.268558
+0.585191
+0.823589
+0.58901
+-0.0602613
+455
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+1004
+-0.255208
+0.637602
+0.806307
+0.416299
+-0.194821
+456
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+897
+-0.227817
+0.931208
+0.612713
+0.0378087
+-0.78945
+457
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+621
+-0.254103
+0.628893
+0.781361
+0.20671
+0.129079
+458
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+712
+-0.262239
+0.633029
+0.78945
+0.29448
+-0.257333
+459
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+48
+-0.239453
+0.460587
+0.856673
+0.6359
+0.193716
+460
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+576
+-0.0773465
+0.150052
+0.751651
+-0.238786
+0.0952184
+461
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+104
+0.00383191
+-0.0145314
+0.696786
+-0.560191
+0.128624
+462
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+24
+0.0600102
+-0.373995
+0.772088
+-0.436807
+0.0516239
+463
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+132
+-0.00480754
+-0.160356
+0.772175
+-0.311291
+0.232067
+464
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+10
+-0.247425
+0.829475
+0.701172
+0.187229
+-0.20947
+465
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+169
+-0.235979
+0.873829
+0.670522
+0.210614
+-0.0407388
+466
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+7
+-0.226209
+0.67052
+0.747912
+0.514614
+-0.0252866
+467
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+168
+-0.247802
+0.6349
+0.785386
+0.358512
+-0.0450987
+468
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+5
+-0.0976569
+0.314206
+0.707849
+0.310049
+-0.292031
+469
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+69
+0.516635
+-0.0876003
+-0.217517
+0.0151696
+-0.191782
+470
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+33
+-0.0176028
+0.121121
+0.672112
+0.112005
+-0.220425
+471
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+108
+-0.204308
+0.653949
+0.755203
+0.352535
+-0.295846
+472
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+49
+-0.248927
+0.734526
+0.747076
+0.30664
+-0.0127488
+473
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+135
+-0.223368
+0.819374
+0.688562
+0.185725
+-0.0172095
+474
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+60
+-0.222097
+0.838876
+0.695637
+0.507721
+-0.243203
+475
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+40
+-0.196041
+0.774848
+0.686818
+0.603124
+0.000584996
+476
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+89
+-0.230268
+0.681147
+0.74265
+0.28825
+-0.335718
+477
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+70
+-0.246084
+0.799253
+0.715031
+0.349001
+-0.304286
+478
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+9
+-0.228719
+0.759872
+0.723956
+0.481964
+0.111007
+479
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+142
+-0.230366
+0.524757
+0.830774
+0.611749
+0.491613
+480
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+176
+-0.924479
+0.00824841
+0.666556
+-0.0846859
+-0.270754
+481
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+826
+-0.932269
+-0.0715618
+0.712239
+0.888919
+0.091643
+482
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+188
+-0.909464
+-0.381636
+0.748524
+0.726231
+0.0472054
+483
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+176
+-0.995939
+0.714039
+0.410274
+0.319759
+-0.238565
+484
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+565
+-0.993787
+0.726349
+0.409865
+0.386261
+-0.198462
+485
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+952
+-0.976572
+0.701726
+0.472818
+0.43555
+-0.167029
+486
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1238
+-0.975486
+0.618068
+0.505905
+0.130825
+-0.102532
+487
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+501
+-0.975579
+0.807602
+0.383628
+0.0470648
+-0.280235
+488
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+380
+-0.953592
+0.548051
+0.515763
+-0.195693
+-0.182456
+489
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+423
+-0.93219
+0.0486858
+0.699415
+0.425065
+-0.00833776
+490
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+90
+-0.955242
+0.268095
+0.644505
+0.368686
+0.321635
+491
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+217
+-0.953799
+0.506459
+0.566694
+0.336044
+-0.123306
+492
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+839
+-0.943146
+0.497073
+0.560242
+-0.0457683
+-0.349614
+493
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+219
+-0.983239
+0.594323
+0.522446
+0.533592
+0.247052
+494
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1293
+-0.967455
+0.679316
+0.474717
+0.172615
+-0.486908
+495
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+360
+-0.99341
+0.756459
+0.393137
+0.168479
+0.343053
+496
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1018
+-0.968363
+0.548285
+0.50093
+0.299483
+-0.762582
+497
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+454
+-0.951377
+0.354434
+0.633993
+0.312731
+-0.369879
+498
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+234
+-0.965086
+0.379569
+0.59625
+0.351871
+-0.386794
+499
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+588
+-0.891224
+-0.434876
+0.754086
+0.309868
+-0.465204
+500
+NC_013896.1
+Callithrix jacchus chromosome 1  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+824
+-0.928593
+-0.115917
+0.569621
+-0.802868
+-0.0630584
+501
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1075
+-0.967352
+0.705466
+0.459648
+0.11151
+-0.461233
+502
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+454
+-0.955596
+0.440165
+0.473737
+-0.68259
+0.139828
+503
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+632
+-0.949381
+0.189291
+0.656362
+0.334612
+0.0607263
+504
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+274
+-1.
+0.705063
+0.393742
+0.398716
+-0.305281
+505
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1068
+-0.991302
+0.708592
+0.439218
+0.23628
+-0.266317
+506
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+881
+-0.993868
+0.773876
+0.420443
+0.301805
+0.337821
+507
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+551
+-0.979352
+0.741928
+0.422834
+0.0319437
+0.0249053
+508
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+468
+-0.987485
+0.69922
+0.446134
+0.138101
+0.454743
+509
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+960
+-0.95197
+0.362756
+0.62691
+0.469557
+0.0385728
+510
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+830
+-0.947515
+0.425976
+0.583246
+-0.102506
+-0.357237
+511
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+714
+-0.946648
+0.363143
+0.625775
+0.440505
+-0.23865
+512
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1062
+-0.975378
+0.428589
+0.542668
+0.0853857
+0.539221
+513
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1280
+-0.974388
+0.701674
+0.453554
+0.0659121
+-0.0974948
+514
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+46
+-0.973294
+0.608874
+0.525571
+0.265126
+-0.203111
+515
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+152
+-0.957034
+0.288043
+0.646177
+0.233861
+-0.125735
+516
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1159
+-0.98506
+0.628273
+0.461853
+0.242043
+-0.539813
+517
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1090
+-0.988549
+0.70349
+0.468027
+0.368502
+0.102551
+518
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1001
+-0.986925
+0.77032
+0.41158
+0.121206
+0.118545
+519
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+470
+-0.920733
+-0.0431672
+0.69513
+0.642739
+-0.32654
+520
+NC_013897.1
+Callithrix jacchus chromosome 2  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+799
+-0.964304
+0.670989
+0.449166
+-0.0930092
+-0.230029
+521
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+685
+-0.985188
+0.741028
+0.37665
+-0.0463187
+-0.190052
+522
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+962
+-0.989944
+0.642317
+0.473992
+0.391235
+-0.0917043
+523
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+864
+-0.960158
+0.722508
+0.415653
+-0.105797
+-0.306954
+524
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1034
+-0.979002
+0.674342
+0.451902
+0.0703208
+0.189383
+525
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1213
+-0.959992
+0.480884
+0.547252
+0.0352605
+0.265054
+526
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+559
+-0.995616
+0.69204
+0.463886
+0.377699
+-0.0401757
+527
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+693
+-0.979539
+0.646874
+0.471594
+0.0520273
+0.614225
+528
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+937
+-0.984837
+0.866129
+0.338091
+-0.0129305
+-0.256069
+529
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+919
+-0.980507
+0.782425
+0.40784
+0.196195
+-0.143353
+530
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1148
+-0.963545
+0.617386
+0.512455
+0.191647
+-0.456217
+531
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+433
+-0.978926
+0.79341
+0.407043
+0.184279
+-0.193027
+532
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+302
+-0.983734
+0.789477
+0.39851
+0.216576
+-0.0113669
+533
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1180
+-0.979163
+0.329609
+0.486786
+-0.562914
+0.563396
+534
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1108
+-0.981338
+0.715314
+0.446127
+0.0415626
+-0.23449
+535
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1078
+-0.966622
+0.618902
+0.526194
+0.343241
+-0.0223577
+536
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+118
+-0.96467
+0.284567
+0.603469
+0.441089
+0.538511
+537
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+673
+-0.9474
+0.425479
+0.604711
+0.374337
+-0.157157
+538
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+813
+-0.902987
+-0.473548
+0.779506
+0.811698
+0.178311
+539
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+55
+-0.965671
+0.316696
+0.549044
+0.146385
+-0.0367347
+540
+NC_013898.1
+Callithrix jacchus chromosome 3  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+846
+-0.955611
+0.428982
+0.57597
+0.376696
+0.263836
+541
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+102
+-0.930172
+0.193991
+0.594157
+-0.199466
+-0.0455203
+542
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1030
+-0.956695
+0.470839
+0.570568
+0.156436
+-0.235693
+543
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+245
+-0.950651
+0.372778
+0.605029
+0.213793
+-0.0484785
+544
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+45
+-0.942559
+0.335089
+0.621588
+0.242856
+-0.141803
+545
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+606
+-0.944703
+0.0721566
+0.685547
+0.551723
+-0.545083
+546
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+999
+-0.963927
+0.516687
+0.511548
+-0.309702
+-0.466435
+547
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+288
+-0.899708
+-0.155242
+0.748023
+0.350334
+-0.346058
+548
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+839
+-0.943755
+0.143266
+0.702165
+0.717921
+0.176455
+549
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+418
+-0.972418
+0.73987
+0.419793
+-0.179243
+-0.317702
+550
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+592
+-0.995877
+0.774541
+0.397008
+0.206924
+0.151825
+551
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+28
+-0.99527
+0.802843
+0.373838
+0.339831
+0.173277
+552
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+265
+-0.989637
+0.829668
+0.366264
+0.21899
+-0.097017
+553
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+285
+-0.977201
+0.583262
+0.53835
+0.414023
+0.0542608
+554
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+185
+-0.948455
+0.486524
+0.561374
+0.132036
+-0.21716
+555
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+111
+-0.956866
+0.469206
+0.542777
+-0.169293
+-0.351404
+556
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+75
+-0.983383
+0.665509
+0.482957
+0.18993
+0.287227
+557
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+629
+-0.956481
+0.50221
+0.54769
+0.119546
+-0.306298
+558
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+750
+-0.941116
+0.149614
+0.634503
+0.0314123
+-0.310978
+559
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+354
+-0.946847
+0.211176
+0.673692
+0.686374
+0.169921
+560
+NC_013899.1
+Callithrix jacchus chromosome 4  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1047
+-0.960787
+0.315236
+0.634017
+0.602485
+-0.162812
+561
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+798
+-0.941889
+0.166619
+0.652774
+0.0813514
+-0.135817
+562
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+815
+-0.967863
+0.291571
+0.643214
+0.888679
+0.177196
+563
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+770
+-0.943922
+-0.0202679
+0.675896
+0.0494204
+0.165133
+564
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+243
+-0.939455
+-0.0188467
+0.718248
+0.671503
+-0.163401
+565
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+240
+-0.951393
+0.223482
+0.520668
+-0.738728
+0.089446
+566
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+562
+-0.954631
+0.0742824
+0.590353
+-0.440939
+0.241135
+567
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+585
+-0.904999
+-0.385162
+0.758009
+0.320856
+0.00841691
+568
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+556
+-0.940159
+0.235383
+0.627003
+-0.0818004
+-0.14059
+569
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+581
+-0.961284
+0.23268
+0.643393
+0.35376
+0.0415153
+570
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+275
+-0.960771
+0.362178
+0.636798
+0.704747
+-0.0229137
+571
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+857
+-0.922103
+0.0960852
+0.714053
+0.495726
+-0.547046
+572
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+357
+-0.935683
+0.185566
+0.619855
+-0.242864
+-0.195718
+573
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+157
+-0.955525
+0.223225
+0.621
+0.0233269
+0.31234
+574
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+796
+-0.942873
+0.097755
+0.633489
+-0.143464
+0.157046
+575
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+627
+-0.915723
+-0.0625433
+0.747503
+0.469503
+-0.32291
+576
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+148
+-0.934538
+0.12441
+0.675331
+0.172507
+0.0689827
+577
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+570
+-0.911712
+-0.47391
+0.760833
+0.393924
+0.440357
+578
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+47
+-0.880045
+-0.842197
+0.792299
+0.724575
+-0.11379
+579
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+278
+-0.92912
+0.315484
+0.60594
+-0.0642149
+-0.559207
+580
+NC_013900.1
+Callithrix jacchus chromosome 5  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+552
+-0.950993
+0.452986
+0.572098
+0.263059
+-0.37967
+581
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+522
+-0.960192
+0.50599
+0.541744
+0.141147
+-0.117582
+582
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+126
+-0.969777
+0.559516
+0.534273
+0.36053
+-0.0481155
+583
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+908
+-0.908384
+0.0354584
+0.692636
+0.203273
+-0.719649
+584
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+85
+-0.966482
+0.440526
+0.589527
+0.401355
+0.0351496
+585
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+803
+-0.973725
+0.495092
+0.530147
+-0.0328921
+-0.116086
+586
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+935
+-0.973366
+0.711685
+0.459831
+0.0439225
+-0.207746
+587
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+304
+-0.99149
+0.769796
+0.406233
+0.193878
+0.0747166
+588
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+643
+-0.976919
+0.75304
+0.40019
+-0.267715
+-0.363943
+589
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+87
+-0.968764
+0.691225
+0.467809
+0.0817392
+-0.467092
+590
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+672
+-0.973208
+0.634635
+0.494209
+0.289117
+-0.0372583
+591
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+403
+-0.979867
+0.645324
+0.463621
+0.0701472
+0.505057
+592
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+99
+-0.970008
+0.606996
+0.494649
+-0.0178174
+-0.355894
+593
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+997
+-0.95898
+0.424854
+0.555661
+-0.203807
+-0.311158
+594
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+869
+-0.972915
+0.718011
+0.469597
+0.188509
+0.00184405
+595
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+784
+-0.968884
+0.674639
+0.47922
+0.107572
+-0.0795398
+596
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+348
+-0.933567
+0.409711
+0.587357
+0.0909325
+-0.332962
+597
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+633
+-0.944825
+0.171214
+0.640208
+0.242683
+0.1804
+598
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+946
+-0.980014
+0.481784
+0.506314
+-0.0784706
+0.791921
+599
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+67
+-0.881531
+-0.686214
+0.752984
+0.541083
+-0.323248
+600
+NC_013901.1
+Callithrix jacchus chromosome 6  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+320
+-0.9449
+0.100587
+0.663982
+0.27658
+0.0977427
+601
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+272
+-0.943197
+0.42705
+0.569103
+-0.0475541
+-0.558094
+602
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+758
+-0.895054
+-0.687477
+0.790222
+0.595514
+0.108639
+603
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+756
+-0.911521
+-0.348154
+0.739262
+0.206075
+-0.108513
+604
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+782
+-0.938026
+-0.0436654
+0.67486
+-0.0802753
+-0.144273
+605
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+171
+-0.93068
+-0.0729538
+0.741329
+0.664919
+0.0694902
+606
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+283
+-0.938466
+0.0536294
+0.645408
+-0.187815
+0.139348
+607
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+724
+-0.931094
+0.0703854
+0.696288
+0.242086
+-0.222443
+608
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+199
+-0.956603
+0.454118
+0.563046
+0.121806
+-0.271371
+609
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+490
+-0.980477
+0.653383
+0.492456
+0.267186
+0.208676
+610
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+947
+-0.962454
+0.613933
+0.51794
+0.35605
+0.0847456
+611
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+228
+-0.973024
+0.753677
+0.43391
+0.0677632
+-0.0317771
+612
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+671
+-0.978314
+0.776756
+0.39683
+-0.0298873
+-0.109794
+613
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+332
+-0.957063
+0.522587
+0.506688
+-0.238919
+-0.420833
+614
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+957
+-0.943853
+0.421392
+0.586162
+-0.0400562
+-0.586353
+615
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+919
+-0.951907
+0.611814
+0.499173
+-0.000966481
+-0.770283
+616
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+321
+-0.989138
+0.751595
+0.412902
+0.269679
+-0.167284
+617
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+874
+-0.930372
+0.0663452
+0.705241
+0.363585
+0.119894
+618
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+592
+-0.92141
+0.158247
+0.686401
+0.556698
+-0.646033
+619
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+638
+-0.94234
+0.277902
+0.633005
+0.440386
+-0.135336
+620
+NC_013902.1
+Callithrix jacchus chromosome 7  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+530
+-0.950072
+0.267741
+0.630244
+0.263869
+-0.00966153
+621
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+101
+-0.949102
+0.0946021
+0.575693
+-0.536912
+0.224629
+622
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+30
+-0.974105
+0.522576
+0.549859
+0.416663
+0.270435
+623
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+717
+-0.98432
+0.591713
+0.510858
+0.530599
+0.108598
+624
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+202
+-0.949339
+0.378741
+0.605202
+0.146565
+-0.256909
+625
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+403
+-0.953454
+0.364863
+0.554486
+-0.30933
+0.0336213
+626
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+788
+-0.976951
+0.677426
+0.459896
+0.269917
+0.132037
+627
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+691
+-0.970854
+0.633278
+0.480296
+0.344061
+-0.474998
+628
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+166
+-0.972858
+0.675222
+0.438003
+-0.163651
+-0.223725
+629
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+359
+-0.995846
+0.706673
+0.455958
+0.500368
+0.0896558
+630
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+282
+-0.994635
+0.836503
+0.345702
+0.0525742
+-0.35154
+631
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+275
+-0.982416
+0.708567
+0.432727
+-0.038452
+-0.232977
+632
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+726
+-0.959128
+0.376576
+0.594797
+-0.0145537
+-0.127575
+633
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+489
+-0.99373
+0.756667
+0.420593
+0.277515
+0.106005
+634
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+598
+-0.92117
+-0.229115
+0.748936
+0.47929
+-0.0754854
+635
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+647
+-0.92007
+0.109683
+0.678341
+0.265139
+-0.628022
+636
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+362
+-0.97576
+0.695018
+0.463273
+0.123285
+-0.363367
+637
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+482
+-0.942663
+0.0313829
+0.727701
+0.771201
+-0.0842405
+638
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+386
+-0.956758
+0.333878
+0.573367
+0.0348787
+0.35171
+639
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+100
+-0.978009
+0.600568
+0.496324
+0.0509131
+-0.394995
+640
+NC_013903.1
+Callithrix jacchus chromosome 8  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+80
+-0.971404
+0.73331
+0.400948
+-0.0868952
+-0.246577
+641
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+656
+-0.967528
+0.650918
+0.460722
+0.115846
+-0.168214
+642
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+27
+-0.934562
+0.200224
+0.60408
+-0.215639
+-0.0000206629
+643
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+364
+-0.915712
+-0.165109
+0.747141
+0.62086
+-0.266946
+644
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+306
+-0.933747
+-0.00169859
+0.665568
+-0.00461005
+-0.0702353
+645
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+266
+-0.93707
+0.301646
+0.627156
+0.227561
+-0.59949
+646
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+485
+-0.982393
+0.706172
+0.454094
+0.340737
+0.0988343
+647
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+780
+-0.992761
+0.70341
+0.446319
+0.249081
+0.23768
+648
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+278
+-0.973731
+0.747802
+0.438458
+0.180371
+-0.186213
+649
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+58
+-0.986329
+0.539811
+0.510649
+0.517264
+-0.151605
+650
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+199
+-0.905529
+-0.185531
+0.748783
+0.355621
+-0.330751
+651
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+228
+-0.922566
+-0.0670039
+0.642575
+-0.364804
+-0.152071
+652
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+663
+-0.994006
+0.725336
+0.435687
+0.23649
+0.219751
+653
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+689
+-0.96056
+0.396449
+0.590807
+0.172011
+-0.0466617
+654
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+22
+-0.967173
+0.707608
+0.445799
+0.0691771
+-0.257485
+655
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+205
+-0.955939
+0.482641
+0.523325
+-0.357787
+-0.125495
+656
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+77
+-0.928393
+-0.00359873
+0.70938
+0.362671
+-0.0851382
+657
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+76
+-0.922948
+-0.139713
+0.692215
+0.0264883
+0.163228
+658
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+579
+-0.97012
+0.29946
+0.610367
+0.482279
+0.313317
+659
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+172
+-0.955615
+0.213107
+0.579376
+-0.0390827
+0.22198
+660
+NC_013904.1
+Callithrix jacchus chromosome 9  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+100
+-0.949455
+0.151736
+0.652394
+0.411851
+0.39649
+661
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+556
+-0.966639
+0.474243
+0.513869
+-0.372211
+-0.076261
+662
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+399
+-0.955501
+0.342679
+0.614697
+0.326759
+0.149612
+663
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+608
+-0.941243
+0.197148
+0.628602
+-0.027656
+-0.239338
+664
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+596
+-0.956971
+0.429081
+0.585198
+0.384914
+-0.669606
+665
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+570
+-0.945794
+0.423337
+0.483942
+-0.786319
+-0.535977
+666
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+611
+-0.964258
+0.274059
+0.493581
+-0.79352
+0.231329
+667
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+125
+-0.952983
+0.460795
+0.544989
+-0.155999
+-0.722708
+668
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+500
+-0.990998
+0.570485
+0.467267
+0.298368
+0.443754
+669
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+620
+-0.993851
+0.746103
+0.397651
+0.196687
+-0.182405
+670
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+268
+-0.966233
+0.447876
+0.514767
+-0.318321
+0.18758
+671
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+697
+-0.969396
+0.306651
+0.468941
+-0.786437
+0.174368
+672
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+806
+-0.96854
+0.369054
+0.609671
+0.651931
+0.345745
+673
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+52
+-0.953098
+0.215671
+0.655636
+0.336174
+0.318193
+674
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+794
+-0.979661
+0.550363
+0.511767
+0.0613122
+0.496872
+675
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+211
+-0.969441
+0.435496
+0.581207
+0.3962
+0.475685
+676
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+90
+-0.974819
+0.486867
+0.462886
+-0.719926
+-0.119319
+677
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+214
+-0.970451
+0.707187
+0.470817
+0.236345
+0.0317998
+678
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+33
+-0.945717
+0.161274
+0.627346
+0.181224
+0.430833
+679
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+152
+-0.920371
+0.0303522
+0.671397
+0.10459
+-0.22483
+680
+NC_013905.1
+Callithrix jacchus chromosome 10  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+418
+-0.94592
+0.278216
+0.582826
+-0.0198999
+0.0539002
+681
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+472
+-0.980936
+0.625514
+0.483047
+0.393153
+-0.238951
+682
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+197
+-0.954057
+0.491275
+0.575221
+0.377645
+-0.44245
+683
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+167
+-0.945186
+0.442623
+0.602013
+0.41546
+-0.369452
+684
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+286
+-0.987395
+0.656705
+0.492161
+0.5338
+0.0811912
+685
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+315
+-0.961202
+0.46679
+0.574151
+0.374163
+-0.682146
+686
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+326
+-0.954591
+0.468111
+0.531496
+-0.336356
+-0.262963
+687
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+678
+-0.986107
+0.576382
+0.493969
+0.287743
+0.400802
+688
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+682
+-0.938466
+0.0840093
+0.696719
+0.219053
+-0.549634
+689
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+660
+-0.966336
+0.512862
+0.547693
+0.327795
+-0.0957856
+690
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+651
+-0.953115
+0.384871
+0.625625
+0.607731
+-0.0438938
+691
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+800
+-0.955068
+0.325872
+0.601719
+0.0926591
+-0.208762
+692
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+202
+-0.961071
+0.612723
+0.512168
+-0.00611403
+-0.39969
+693
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+614
+-0.973712
+0.664142
+0.472299
+0.119799
+0.0373018
+694
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+667
+-0.961884
+0.627179
+0.505193
+0.199252
+-0.470628
+695
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+750
+-0.931452
+-0.0407482
+0.742864
+0.642043
+-0.127677
+696
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+742
+-0.913781
+-0.130079
+0.751552
+0.633165
+-0.365756
+697
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+394
+-0.958314
+0.267516
+0.58666
+0.516456
+-0.137035
+698
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+34
+-0.934923
+0.0952311
+0.615486
+-0.369596
+-0.640216
+699
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+485
+-0.8843
+-0.558696
+0.776168
+0.608549
+0.0132424
+700
+NC_013906.1
+Callithrix jacchus chromosome 11  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+322
+-0.908997
+-0.289626
+0.735996
+0.0899612
+0.00567279
+701
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+470
+-0.946979
+0.299005
+0.601524
+0.264299
+0.192564
+702
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+529
+-0.952429
+-0.0285395
+0.56639
+-0.504216
+0.428046
+703
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+332
+-0.921904
+-0.175031
+0.733415
+0.166771
+-0.0787452
+704
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+588
+-0.948776
+0.0998162
+0.680432
+0.34741
+0.165532
+705
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+131
+-0.956637
+0.308568
+0.637354
+0.411071
+-0.0884486
+706
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+395
+-0.949802
+0.42424
+0.573298
+-0.0541385
+-0.138582
+707
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+609
+-0.966897
+0.328716
+0.599268
+0.120039
+0.222439
+708
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+336
+-0.93915
+0.29989
+0.542691
+-0.654621
+-0.346595
+709
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+127
+-0.929078
+-0.0465831
+0.723782
+0.289257
+0.0140227
+710
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+118
+-0.933158
+-0.0458327
+0.741985
+0.796264
+-0.290296
+711
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+30
+-0.968911
+0.690927
+0.482196
+0.249741
+-0.36555
+712
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+734
+-0.958213
+0.510178
+0.550934
+0.215458
+-0.0743346
+713
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+42
+-0.976232
+0.734921
+0.435307
+0.0103512
+-0.260272
+714
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+77
+-0.967274
+0.515607
+0.542481
+0.40049
+0.0348459
+715
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+491
+-0.942126
+0.163321
+0.664371
+0.214548
+0.203558
+716
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+102
+-0.926989
+-0.0948614
+0.705854
+0.114354
+0.0592218
+717
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+123
+-0.971709
+0.653553
+0.492628
+0.14245
+-0.0922482
+718
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+392
+-0.967134
+0.567284
+0.53532
+0.339418
+-0.401421
+719
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+500
+-0.932545
+0.0662147
+0.690457
+0.614354
+-0.293291
+720
+NC_013907.1
+Callithrix jacchus chromosome 12  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+303
+-0.944847
+0.167635
+0.652178
+0.437584
+-0.156991
+721
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+180
+-0.933075
+0.181924
+0.649093
+0.25324
+-0.12929
+722
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+154
+-0.945281
+0.298741
+0.63382
+0.265017
+-0.197845
+723
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+740
+-0.946639
+0.177831
+0.649921
+0.0960958
+0.122265
+724
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+489
+-0.948463
+0.190251
+0.673414
+0.359898
+-0.22453
+725
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+234
+-0.962614
+0.373112
+0.570421
+0.119547
+0.277375
+726
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+499
+-0.991836
+0.779264
+0.385854
+0.0828987
+0.28052
+727
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+738
+-0.986065
+0.798546
+0.388069
+0.106955
+-0.136403
+728
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+65
+-0.946644
+0.228584
+0.593922
+-0.255681
+0.125979
+729
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+674
+-0.97009
+0.677671
+0.468098
+0.195921
+0.0661781
+730
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+109
+-0.944666
+0.135728
+0.662522
+0.229032
+-0.0568531
+731
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+611
+-0.961618
+0.606154
+0.506737
+0.0969147
+-0.23852
+732
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+409
+-0.967514
+0.687439
+0.473005
+0.135628
+-0.10557
+733
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+57
+-0.958279
+0.583388
+0.523166
+0.247192
+-0.223251
+734
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+677
+-0.931605
+0.159135
+0.69564
+0.485384
+-0.700407
+735
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+152
+-0.962949
+0.163694
+0.610377
+0.16013
+0.772049
+736
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+77
+-0.984573
+0.745767
+0.412251
+0.106822
+0.11639
+737
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+42
+-0.969379
+0.658558
+0.473192
+0.0869085
+-0.292958
+738
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+132
+-0.887681
+-0.24657
+0.691646
+0.366264
+-0.856499
+739
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+542
+-0.967259
+0.371563
+0.571487
+0.486489
+0.585162
+740
+NC_013908.1
+Callithrix jacchus chromosome 13  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+209
+-0.936933
+0.0434854
+0.670458
+0.212358
+-0.393379
+741
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+691
+-0.939535
+0.249844
+0.657762
+0.304405
+-0.451604
+742
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+5
+-0.983572
+0.707961
+0.440166
+0.160884
+0.0934386
+743
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+284
+-0.928845
+0.180732
+0.631707
+0.154518
+-0.502512
+744
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+656
+-0.927055
+0.120847
+0.677003
+-0.00499986
+-0.545974
+745
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+260
+-0.952274
+0.236378
+0.659529
+0.439392
+-0.587966
+746
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+444
+-0.974087
+0.544318
+0.555416
+0.434389
+-0.185748
+747
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+651
+-0.971523
+0.588712
+0.517503
+0.443713
+-0.44988
+748
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+69
+-0.953474
+0.520958
+0.5657
+0.450988
+-0.640292
+749
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+253
+-0.939145
+0.152717
+0.65074
+-0.0708448
+-0.230611
+750
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+536
+-0.979956
+0.689657
+0.452912
+0.128168
+-0.240638
+751
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+406
+-0.928701
+0.144853
+0.676656
+0.230319
+-0.818088
+752
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+230
+-0.966889
+0.364898
+0.550724
+-0.216018
+0.447241
+753
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+249
+-0.96838
+0.380688
+0.561457
+-0.0237382
+0.633187
+754
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+30
+-0.976082
+0.485916
+0.538239
+-0.0710975
+0.131111
+755
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+55
+-0.960948
+0.517808
+0.54666
+0.354463
+-0.276607
+756
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+349
+-0.965137
+0.460704
+0.560654
+0.379904
+0.143923
+757
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+644
+-0.92344
+0.194664
+0.642348
+0.345715
+-0.255695
+758
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+687
+-0.930692
+-0.0532551
+0.656944
+0.528506
+-0.224119
+759
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+394
+-0.940288
+0.215134
+0.635839
+0.401369
+-0.194613
+760
+NC_013909.1
+Callithrix jacchus chromosome 14  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+208
+-0.961235
+0.244434
+0.586477
+0.00711631
+0.428034
+761
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+142
+-0.973153
+0.661581
+0.470819
+-0.0229888
+-0.549429
+762
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+159
+-0.933001
+0.330163
+0.601446
+-0.118442
+-0.586636
+763
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+354
+-0.943336
+0.224151
+0.675143
+0.47758
+-0.0139236
+764
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+93
+-0.920543
+0.0443234
+0.700521
+0.239155
+-0.396401
+765
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+347
+-0.910747
+-0.121643
+0.696957
+-0.165604
+-0.280863
+766
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+156
+-0.932836
+-0.139844
+0.678269
+-0.0705358
+0.163057
+767
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+501
+-0.895253
+-0.449222
+0.79757
+0.599198
+-0.613534
+768
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+505
+-0.954742
+0.291478
+0.629334
+0.00610359
+-0.481917
+769
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+602
+-0.977299
+0.720024
+0.452618
+0.0230108
+0.185817
+770
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+475
+-0.970591
+0.652279
+0.471632
+0.0939332
+-0.664468
+771
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+99
+-0.950475
+-0.0256633
+0.625961
+-0.190653
+0.562778
+772
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+494
+-0.954631
+0.436039
+0.572115
+-0.0238887
+-0.62346
+773
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+493
+-0.966982
+0.501335
+0.514998
+0.153823
+0.0581608
+774
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+75
+-0.967173
+0.401772
+0.583055
+0.25406
+-0.145943
+775
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+626
+-0.939796
+0.269174
+0.641066
+0.158581
+-0.160682
+776
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+209
+-0.981416
+0.645339
+0.5039
+0.473152
+-0.186327
+777
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+398
+-0.977764
+0.686514
+0.47572
+0.293525
+-0.0969906
+778
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+54
+-0.954614
+0.568689
+0.498557
+-0.037269
+-0.425454
+779
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+472
+-0.985225
+0.644759
+0.465256
+0.501954
+-0.115937
+780
+NC_013910.1
+Callithrix jacchus chromosome 15  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+177
+-0.986811
+0.174766
+0.517061
+-0.220283
+0.862551
+781
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+41
+-0.971674
+0.523889
+0.491056
+0.227931
+-0.0970513
+782
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+183
+-0.959158
+0.418171
+0.538336
+0.237766
+-0.477406
+783
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+233
+-0.932104
+0.166576
+0.631677
+0.330372
+-0.50307
+784
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+602
+-0.952927
+0.574973
+0.52212
+0.183098
+-0.289235
+785
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+283
+-0.959336
+0.458012
+0.562286
+0.0198468
+-0.454297
+786
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+408
+-0.963958
+0.595125
+0.5253
+0.209092
+-0.094449
+787
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+171
+-0.971076
+0.575176
+0.521239
+0.417689
+-0.363414
+788
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+6
+-0.959787
+0.540314
+0.557125
+0.393369
+-0.00259801
+789
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+421
+-0.981769
+0.776851
+0.393537
+0.0332673
+-0.196139
+790
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+472
+-0.991957
+0.808349
+0.359965
+-0.0626455
+0.0730083
+791
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+157
+-0.984153
+0.813065
+0.399643
+0.187256
+0.0435171
+792
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+40
+-0.981168
+0.697639
+0.462714
+0.260279
+-0.244839
+793
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+93
+-0.95545
+0.175185
+0.682813
+0.90356
+0.147697
+794
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+13
+-0.958916
+0.374701
+0.622248
+0.353976
+-0.638133
+795
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+189
+-0.960235
+0.600274
+0.519703
+0.332364
+-0.383036
+796
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+119
+-0.953521
+0.374014
+0.524842
+-0.481798
+0.17182
+797
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+455
+-0.95853
+0.479535
+0.574282
+0.30124
+0.134582
+798
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+595
+-0.953301
+0.347472
+0.589982
+-0.0546158
+-0.269371
+799
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+155
+-0.945379
+0.311298
+0.61471
+0.0131592
+-0.279378
+800
+NC_013911.1
+Callithrix jacchus chromosome 16  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+383
+-0.983608
+0.714588
+0.430236
+0.220105
+-0.0958458
+801
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+342
+-0.974634
+0.650743
+0.430328
+-0.172624
+-0.620987
+802
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+232
+-0.915115
+0.211082
+0.604007
+-0.291915
+-0.42498
+803
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+469
+-0.967382
+0.446839
+0.505294
+-0.344495
+-0.00313246
+804
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+457
+-0.978721
+0.704551
+0.457245
+0.180624
+0.219975
+805
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+189
+-0.98653
+0.706404
+0.420158
+0.0401133
+-0.238136
+806
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+74
+-0.966985
+0.580511
+0.523626
+0.195698
+-0.325935
+807
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+27
+-0.97725
+0.714642
+0.439192
+-0.0450424
+0.054218
+808
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+425
+-0.935348
+0.315369
+0.596643
+-0.124504
+-0.0956821
+809
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+122
+-0.992483
+0.69955
+0.415825
+0.166525
+-0.471811
+810
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+170
+-0.953664
+0.33267
+0.658323
+0.567545
+-0.30737
+811
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+418
+-0.990475
+0.741166
+0.419842
+0.213002
+-0.0162332
+812
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+389
+-0.970914
+0.691689
+0.469447
+0.299604
+-0.513668
+813
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+132
+-0.954011
+0.58143
+0.533028
+0.20862
+-0.49269
+814
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+343
+-0.963425
+0.582308
+0.545307
+0.410797
+-0.106703
+815
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+367
+-0.967122
+0.640512
+0.498086
+0.304673
+-0.120273
+816
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+44
+-0.988607
+0.666838
+0.473462
+0.338121
+0.384039
+817
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+332
+-0.972481
+0.577597
+0.506636
+0.175496
+0.0787769
+818
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+147
+-0.944088
+0.212359
+0.641709
+0.561073
+0.139589
+819
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+57
+-0.964761
+0.0955376
+0.582
+-0.371703
+0.57952
+820
+NC_013912.1
+Callithrix jacchus chromosome 17  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+18
+-0.922977
+-0.026788
+0.609717
+-0.485136
+0.0643467
+821
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+42
+-0.934519
+0.000613787
+0.616016
+-0.384939
+0.160657
+822
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+109
+-0.95568
+0.232939
+0.635032
+0.618421
+0.118419
+823
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+93
+-0.939247
+-0.0743752
+0.681354
+0.0993482
+0.254681
+824
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+53
+-0.937814
+0.119565
+0.677893
+0.601856
+0.368554
+825
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+29
+-0.941631
+0.104785
+0.64498
+0.0417632
+0.315829
+826
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+124
+-0.973563
+0.742549
+0.405881
+0.0712591
+0.0206224
+827
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+193
+-0.972728
+0.639149
+0.455867
+0.0823841
+-0.397775
+828
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+290
+-0.966366
+0.628027
+0.478086
+-0.121328
+-0.263707
+829
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+204
+-0.959202
+0.606805
+0.460528
+-0.437169
+-0.109123
+830
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+132
+-0.924159
+0.13363
+0.662901
+0.370145
+-0.902571
+831
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+31
+-0.970179
+0.451079
+0.584586
+0.5849
+0.297726
+832
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+117
+-0.94565
+0.380979
+0.632399
+0.398257
+-0.317473
+833
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+189
+-0.957977
+0.60619
+0.50138
+0.174023
+-0.748256
+834
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+157
+-0.95954
+0.45997
+0.503856
+-0.460877
+-0.106211
+835
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+88
+-0.966477
+0.487075
+0.514051
+-0.273856
+-0.0870553
+836
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+205
+-0.951813
+0.630081
+0.431788
+-0.43291
+-0.892498
+837
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+212
+-0.970525
+0.478588
+0.534956
+0.183725
+0.165887
+838
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+279
+-0.962421
+0.644734
+0.451213
+0.0286811
+-0.537555
+839
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+186
+-0.973172
+0.6894
+0.441001
+0.070826
+-0.354037
+840
+NC_013913.1
+Callithrix jacchus chromosome 18  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+208
+-0.970404
+0.469543
+0.570769
+0.602499
+0.255583
+841
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+63
+-0.954348
+0.340165
+0.502691
+-0.437269
+0.443765
+842
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+151
+-0.967392
+0.581749
+0.512337
+0.269075
+-0.0703195
+843
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+251
+-0.971644
+0.608074
+0.501003
+0.265966
+-0.227612
+844
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+248
+-0.944278
+0.200749
+0.633461
+-0.0553948
+-0.0717606
+845
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+287
+-0.968192
+0.419182
+0.60705
+0.609145
+0.338802
+846
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+160
+-0.960207
+0.618666
+0.466612
+-0.0455458
+-0.853069
+847
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+39
+-0.92998
+-0.103008
+0.695818
+0.0502807
+0.181332
+848
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+274
+-0.917792
+-0.0811732
+0.722266
+0.337275
+-0.000375292
+849
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+89
+-0.921077
+-0.224452
+0.750235
+0.408993
+0.153513
+850
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+284
+-0.889201
+-0.584447
+0.779439
+0.504729
+0.177523
+851
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+214
+-0.938917
+0.244201
+0.57751
+-0.413717
+-0.24247
+852
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+301
+-0.956346
+0.367185
+0.543122
+-0.295414
+0.0276928
+853
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+276
+-0.961427
+0.500903
+0.562151
+0.200519
+0.024397
+854
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+16
+-0.946894
+0.434252
+0.533558
+-0.302277
+-0.657773
+855
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+30
+-0.952768
+0.53018
+0.4874
+-0.326968
+-0.332418
+856
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+136
+-0.929066
+0.377591
+0.567136
+-0.184968
+-0.592275
+857
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+259
+-0.975921
+0.565568
+0.486973
+0.0250048
+0.133447
+858
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+218
+-0.975395
+0.377827
+0.470169
+-0.663269
+0.423292
+859
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+76
+-0.932487
+0.277539
+0.661949
+0.47518
+-0.18677
+860
+NC_013914.1
+Callithrix jacchus chromosome 19  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+166
+-0.958535
+0.43673
+0.586528
+0.282429
+-0.109278
+861
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+49
+-0.960202
+0.587273
+0.532577
+0.41411
+-0.121895
+862
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+200
+-0.966069
+0.509315
+0.551346
+0.199781
+-0.468111
+863
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+167
+-0.96977
+0.517015
+0.526732
+0.08579
+0.619554
+864
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+111
+-0.941303
+0.323795
+0.645579
+0.455286
+-0.352914
+865
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+199
+-0.906874
+-0.360147
+0.751333
+0.21169
+-0.267208
+866
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+75
+-0.986591
+0.651885
+0.483644
+0.265535
+-0.0959133
+867
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+101
+-0.978283
+0.737209
+0.440883
+0.134366
+-0.107362
+868
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+236
+-0.977407
+0.712635
+0.438363
+0.0805839
+-0.0959307
+869
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+205
+-0.9733
+0.63126
+0.485127
+-0.0354343
+-0.326218
+870
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+219
+-0.973787
+0.690543
+0.45727
+-0.00273538
+-0.15145
+871
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+59
+-0.942715
+0.256143
+0.668859
+0.435644
+-0.583777
+872
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+266
+-0.972829
+0.622836
+0.504936
+0.361658
+-0.107085
+873
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+84
+-0.945304
+0.296958
+0.650321
+0.22126
+-0.435148
+874
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+94
+-0.942949
+0.282029
+0.630497
+0.180538
+0.0463565
+875
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+34
+-0.941895
+0.384885
+0.576924
+-0.163466
+-0.371534
+876
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+38
+-0.952713
+0.2097
+0.624955
+0.163271
+0.379279
+877
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+166
+-0.953856
+0.446363
+0.583386
+0.373942
+-0.243085
+878
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+127
+-0.954388
+0.363815
+0.624838
+0.463035
+-0.00280459
+879
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+92
+-0.903811
+-0.258303
+0.708267
+0.00383761
+-0.463938
+880
+NC_013915.1
+Callithrix jacchus chromosome 20  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+43
+-0.9726
+0.693901
+0.432048
+0.050252
+-0.221091
+881
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+253
+-0.975083
+0.694884
+0.418785
+-0.0204709
+-0.0238506
+882
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+277
+-0.948309
+0.529216
+0.492211
+-0.122047
+-0.289969
+883
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+6
+-0.979224
+0.737567
+0.382603
+-0.102863
+-0.0834799
+884
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+123
+-0.995009
+0.711082
+0.387085
+0.0981479
+0.00546884
+885
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+267
+-0.998357
+0.799501
+0.364854
+0.147837
+0.344333
+886
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+136
+-0.96256
+0.636174
+0.492129
+0.0728858
+-0.0825988
+887
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+290
+-0.973779
+0.691725
+0.431163
+-0.23516
+-0.138297
+888
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+91
+-0.972803
+0.596505
+0.504309
+0.15796
+-0.310269
+889
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+103
+-0.972612
+0.658267
+0.476635
+0.220709
+-0.486509
+890
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+246
+-0.958422
+0.507803
+0.517411
+-0.123692
+-0.415545
+891
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+72
+-0.9189
+0.126275
+0.623814
+-0.249445
+-0.76874
+892
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+135
+-0.951464
+0.442116
+0.593675
+0.437157
+-0.332344
+893
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+18
+-0.943021
+-0.022458
+0.615144
+-0.217036
+0.587695
+894
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+41
+-0.936073
+0.335138
+0.601693
+0.214849
+-0.62632
+895
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+221
+-0.932195
+0.219855
+0.651385
+0.468712
+-0.303356
+896
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+108
+-0.915832
+-0.263512
+0.752824
+0.710326
+0.033977
+897
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+58
+-0.899551
+-0.403821
+0.708816
+-0.139353
+-0.147954
+898
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+294
+-0.895667
+-0.265041
+0.724371
+0.224058
+-0.600116
+899
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+305
+-0.941224
+-0.032927
+0.653479
+0.102465
+0.638313
+900
+NC_013916.1
+Callithrix jacchus chromosome 21  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+315
+-0.866115
+-0.855672
+0.680206
+-0.0694809
+-0.564171
+901
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+207
+-0.853523
+-1.
+0.741599
+0.00321478
+-0.159039
+902
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+66
+-0.892743
+-0.383297
+0.705857
+-0.180019
+-0.194011
+903
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1
+-0.946483
+0.0167535
+0.566185
+-0.463469
+0.386503
+904
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+244
+-0.901306
+-0.465058
+0.693705
+-0.190034
+0.387999
+905
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+100
+-0.899835
+-0.576174
+0.704436
+-0.302638
+0.0271412
+906
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+5
+-0.897331
+-0.426899
+0.710753
+-0.241934
+-0.217785
+907
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+250
+-0.894303
+-0.607744
+0.709452
+-0.221889
+0.104874
+908
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+30
+-0.898418
+-0.651038
+0.761059
+0.274322
+0.401074
+909
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+170
+-0.957136
+0.25753
+0.625097
+0.401946
+-0.452147
+910
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+91
+-0.935471
+0.0364964
+0.714444
+0.559112
+0.13088
+911
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+242
+-0.931549
+-0.171878
+0.624641
+-0.559803
+-0.156955
+912
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+194
+-0.909685
+-0.354891
+0.746967
+0.253473
+0.0435655
+913
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+169
+-0.883844
+-0.554153
+0.762317
+0.115313
+0.0328134
+914
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+142
+-0.936355
+-0.0279371
+0.620381
+-0.329749
+0.315919
+915
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+129
+-0.940867
+0.186878
+0.5687
+-0.243674
+-0.365382
+916
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+157
+-0.932471
+-0.172095
+0.693245
+0.0722687
+-0.161562
+917
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+71
+-0.893434
+-0.596414
+0.713193
+-0.0647367
+0.394132
+918
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+173
+-0.914876
+-0.327617
+0.71864
+0.0352079
+-0.123323
+919
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+104
+-0.934466
+0.0533716
+0.682162
+0.290273
+-0.220035
+920
+NC_013917.1
+Callithrix jacchus chromosome 22  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+78
+-0.966371
+0.539876
+0.562891
+0.291718
+0.0506227
+921
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+539
+-0.978046
+0.669321
+0.487312
+0.372224
+-0.288383
+922
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+294
+-0.964899
+0.33584
+0.535
+-0.306799
+0.0991245
+923
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+105
+-0.974579
+0.74013
+0.443052
+0.114735
+-0.0244592
+924
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+821
+-0.98172
+0.67847
+0.476488
+0.177957
+0.0528694
+925
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+607
+-0.969396
+0.521458
+0.556347
+0.3045
+-0.247594
+926
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+816
+-0.92733
+-0.0252394
+0.683366
+-0.023833
+-0.139856
+927
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+438
+-0.95679
+0.542321
+0.564284
+0.331852
+-0.229739
+928
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+657
+-0.998629
+0.625752
+0.358021
+0.604006
+-0.329911
+929
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+524
+-0.980426
+0.582454
+0.41508
+-0.26011
+0.0217567
+930
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+352
+-0.990938
+0.671157
+0.395258
+0.367017
+-0.379233
+931
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+310
+-0.96151
+0.655943
+0.493756
+0.0750767
+-0.385613
+932
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+181
+-0.993789
+0.794116
+0.399921
+0.461018
+0.143838
+933
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+436
+-0.951019
+0.253786
+0.656256
+0.439494
+-0.0603347
+934
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+769
+-0.953805
+0.605089
+0.519137
+0.0161144
+-0.466661
+935
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+65
+-0.977794
+0.604319
+0.500862
+0.631307
+-0.160411
+936
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+609
+-0.96854
+0.50674
+0.518605
+-0.193616
+0.133566
+937
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+238
+-0.943538
+0.473845
+0.578281
+0.0983506
+-0.359753
+938
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+191
+-0.98163
+0.788818
+0.393168
+0.260684
+-0.232173
+939
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+83
+-0.97669
+0.752191
+0.433579
+0.177243
+-0.0956897
+940
+NC_013918.1
+Callithrix jacchus chromosome X  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+592
+-0.941123
+0.149548
+0.581304
+-0.0790054
+-0.128277
+941
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+17
+-0.966933
+0.601028
+0.472027
+0.0912121
+-0.381916
+942
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+3
+-0.941001
+0.30277
+0.541998
+0.109324
+-0.353841
+943
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+2
+-0.914621
+-0.171897
+0.742937
+0.349542
+-0.0923906
+944
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+6
+-0.912496
+-0.451123
+0.787527
+1.
+0.0727478
+945
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+13
+-0.886157
+-0.510785
+0.788426
+0.614463
+-0.284092
+946
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+7
+-0.963038
+0.477291
+0.542121
+-0.0593905
+-0.133183
+947
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+12
+-0.991259
+0.662568
+0.43375
+-0.0778772
+0.495953
+948
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+11
+-0.954815
+0.424661
+0.591724
+0.244684
+0.125564
+949
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+15
+-0.920811
+-0.0158188
+0.715652
+0.297926
+-0.295923
+950
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+9
+-0.986801
+0.481006
+0.478253
+0.387103
+1.
+951
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+8
+-0.987919
+0.66519
+0.445942
+0.364018
+0.367308
+952
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+1
+-0.984102
+0.632764
+0.481787
+0.237992
+0.359706
+953
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+14
+-0.946503
+0.297826
+0.623014
+0.29793
+0.255178
+954
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+16
+-0.957424
+0.158398
+0.667464
+0.43378
+0.359032
+955
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+4
+-0.954992
+0.309527
+0.618302
+0.215125
+0.248901
+956
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+5
+-0.955292
+0.269447
+0.618958
+0.385343
+-0.13418
+957
+NC_013919.1
+Callithrix jacchus chromosome Y  Callithrix jacchus-3.2  whole genome shotgun sequence
+150000
+10

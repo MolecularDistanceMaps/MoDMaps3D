@@ -1,0 +1,1317 @@
+1,5,2,10,3,1,7,3,2,4,4,7,6,5,7,6,18,15,14,11
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+S.cerevisiae (73), K.pastoris (58)
+Sampling from S.cerevisiae and K.pastoris; Number of genomic DNA sequences is 131; FCGR with k=9; Approx. Information
+0.337778
+-0.308744
+0.565245
+0.0890023
+-0.150678
+1
+NC_001133.9
+Saccharomyces cerevisiae S288c chromosome I  complete sequence
+150000
+1
+0.744898
+-0.549732
+-0.560396
+-0.233683
+0.51115
+2
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+1
+0.767791
+0.416199
+0.0888702
+0.865719
+-0.13924
+3
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+4
+0.501153
+-0.0635997
+0.953161
+0.064497
+-0.309891
+4
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+3
+0.519144
+-0.119024
+0.852971
+0.103071
+-0.0402492
+5
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+5
+0.354893
+-0.109738
+0.785501
+0.121439
+-0.355349
+6
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+2
+0.650556
+0.0142826
+0.263369
+-0.352742
+1.
+7
+NC_001135.5
+Saccharomyces cerevisiae S288c chromosome III  complete sequence
+150000
+1
+0.527991
+-0.058726
+0.864817
+0.0713639
+-0.170917
+8
+NC_001135.5
+Saccharomyces cerevisiae S288c chromosome III  complete sequence
+150000
+2
+0.513593
+-0.288646
+0.585602
+0.0911252
+-0.0937467
+9
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+5
+0.446873
+-0.091622
+0.769614
+0.136347
+-0.311912
+10
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+6
+0.500592
+-0.0961541
+0.876055
+0.0306495
+-0.139069
+11
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+7
+0.780977
+0.145557
+0.785319
+-0.0531317
+-0.156132
+12
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+2
+0.741377
+0.418885
+0.400275
+-0.734349
+-0.887085
+13
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+4
+0.894482
+0.630578
+-0.261114
+-0.753413
+0.191884
+14
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+10
+0.90863
+0.417456
+0.0464841
+-0.956323
+0.186865
+15
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+8
+0.800369
+0.422057
+0.0787163
+0.818321
+-0.0248319
+16
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+3
+0.732079
+0.416273
+0.0905635
+0.891723
+-0.0212348
+17
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+1
+0.536961
+-0.0788533
+0.804475
+0.130297
+-0.34271
+18
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+9
+0.66864
+-0.642137
+-0.200736
+0.130775
+-0.315578
+19
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+3
+0.499338
+-0.110732
+0.844454
+-0.0432623
+-0.249375
+20
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+2
+0.755968
+0.352427
+0.360516
+-0.788498
+-0.867081
+21
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+1
+0.705508
+-0.529679
+-0.783583
+-0.408784
+0.627949
+22
+NC_001138.5
+Saccharomyces cerevisiae S288c chromosome VI  complete sequence
+150000
+1
+0.537154
+-0.150448
+0.763415
+0.168881
+-0.190476
+23
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+3
+0.479577
+-0.118148
+0.881799
+0.0737746
+-0.271875
+24
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+2
+0.570198
+-0.0756104
+0.934823
+0.178344
+-0.146832
+25
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+7
+0.892677
+0.859858
+-0.294235
+0.0131508
+-0.523801
+26
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+6
+0.589416
+0.00883388
+0.9199
+0.180615
+-0.265587
+27
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+4
+0.945526
+0.404121
+-0.0459531
+-1.
+0.179749
+28
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+1
+0.505376
+-0.0590524
+0.764508
+0.0982388
+-0.209372
+29
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+5
+0.686668
+-0.658459
+-0.205716
+-0.0412331
+-0.37203
+30
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+3
+0.458249
+-0.105547
+0.798962
+0.0629322
+-0.293887
+31
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+1
+0.462966
+-0.081502
+0.836946
+0.0539146
+-0.205488
+32
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+2
+0.590688
+-0.985283
+-0.621175
+0.332206
+-0.827977
+33
+NC_001141.2
+Saccharomyces cerevisiae S288c chromosome IX  complete sequence
+150000
+2
+0.435723
+-0.0522164
+0.830893
+0.119137
+-0.362032
+34
+NC_001141.2
+Saccharomyces cerevisiae S288c chromosome IX  complete sequence
+150000
+1
+0.684812
+-1.
+-0.544201
+0.252546
+-0.726232
+35
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+2
+0.470922
+-0.0781632
+0.804901
+0.103728
+-0.167418
+36
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+3
+0.495206
+0.0106952
+0.898412
+0.112811
+-0.179767
+37
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+4
+0.716475
+0.472228
+-0.132802
+0.933961
+0.0286878
+38
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+1
+0.524819
+-0.217854
+0.71271
+0.121528
+-0.201837
+39
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+4
+0.518979
+-0.0917951
+0.887397
+0.0447236
+-0.209898
+40
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+1
+0.567442
+-0.0767029
+0.812998
+0.00313032
+-0.348769
+41
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+2
+0.434325
+-0.14088
+0.839341
+0.0671853
+-0.267471
+42
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+3
+0.569046
+-0.810225
+-0.407583
+0.0282951
+-0.29016
+43
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+1
+0.689846
+0.253279
+0.394418
+-0.68669
+-0.905292
+44
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+4
+0.415923
+-0.02332
+0.806724
+0.0935367
+-0.198468
+45
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+7
+0.991857
+1.
+-0.797275
+0.0382718
+-1.
+46
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+3
+0.823069
+0.404399
+0.23469
+0.8195
+-0.0221345
+47
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+2
+0.49491
+-0.10205
+0.782518
+0.143304
+-0.302689
+48
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+6
+0.713798
+0.258152
+0.233082
+-0.439815
+0.86989
+49
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+5
+0.583005
+-0.708119
+-0.320515
+-0.028491
+-0.327545
+50
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+5
+0.840267
+0.453816
+-0.0364329
+1.
+-0.057328
+51
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+4
+0.793738
+0.349393
+0.287691
+-0.838645
+-0.93653
+52
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+2
+0.499852
+-0.048467
+0.918958
+0.111628
+-0.274091
+53
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+3
+0.491361
+-0.0957072
+0.988364
+0.0717825
+-0.232489
+54
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+1
+0.472528
+-0.0917436
+0.821859
+0.0699268
+-0.33898
+55
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+6
+0.71123
+-0.516586
+-0.931092
+-0.58716
+-0.579029
+56
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+5
+0.42763
+-0.0451257
+0.9069
+0.129233
+-0.313503
+57
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+2
+0.437792
+-0.0726281
+0.851145
+0.137953
+-0.276269
+58
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+4
+0.759938
+0.466003
+-0.0338588
+0.483365
+-0.0138233
+59
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+1
+0.413793
+-0.037211
+0.709427
+0.0582392
+-0.386694
+60
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+3
+0.826534
+0.116238
+-0.219698
+0.952755
+-0.407038
+61
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+4
+0.436621
+-0.0819086
+0.852796
+0.135911
+-0.170501
+62
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+5
+0.590474
+-0.0908709
+0.93099
+0.0873096
+-0.315222
+63
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+7
+0.632731
+0.325409
+0.144223
+0.900458
+0.00167213
+64
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+2
+0.691288
+0.200102
+0.667805
+-0.0554871
+-0.0569607
+65
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+1
+0.526186
+-0.0595987
+0.881637
+0.18242
+-0.289266
+66
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+3
+0.661233
+0.0881216
+0.311917
+-0.320819
+0.900542
+67
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+6
+0.759148
+-0.259546
+-1.
+0.794409
+-0.236911
+68
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+4
+0.602467
+-0.117022
+1.
+0.123308
+-0.107514
+69
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+5
+0.448963
+-0.0132898
+0.899347
+0.00622258
+-0.229472
+70
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+1
+0.523824
+-0.0459634
+0.957723
+0.160644
+-0.420946
+71
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+2
+0.485852
+-0.0450386
+0.857047
+0.066294
+-0.178667
+72
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+3
+1.
+0.886829
+-0.407151
+0.0264228
+-0.737745
+73
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+6
+-0.649247
+-0.0202664
+0.359448
+0.0435698
+-0.263822
+74
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+16
+-0.677617
+0.0703822
+0.326086
+0.129345
+-0.0532842
+75
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+6
+-0.756582
+0.0544007
+0.316064
+0.0812649
+-0.175238
+76
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+14
+-0.724193
+0.0504258
+0.318157
+0.0726164
+-0.251338
+77
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+12
+-0.724816
+0.0909818
+0.34654
+0.0731224
+-0.138262
+78
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+10
+-0.916032
+0.035941
+0.212328
+0.0893396
+-0.0762148
+79
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+2
+-0.857387
+0.0557824
+0.167804
+-0.0132787
+-0.18117
+80
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+18
+-0.68345
+0.0550485
+0.341506
+0.0483152
+-0.254852
+81
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+8
+-0.491243
+0.0410687
+0.420648
+0.041219
+-0.194257
+82
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+5
+-0.255395
+0.0134246
+0.563509
+0.0820697
+-0.221586
+83
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+1
+-0.545158
+0.0501048
+0.457722
+0.135123
+-0.217605
+84
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+17
+-0.873959
+0.0222509
+0.324534
+0.00199533
+-0.160482
+85
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+13
+-0.813827
+0.0767926
+0.309119
+0.0406672
+-0.264007
+86
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+3
+-0.814118
+0.0607652
+0.221898
+0.0581809
+-0.250802
+87
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+15
+-0.676802
+0.0449057
+0.380744
+0.12334
+-0.130398
+88
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+9
+-0.929285
+0.129002
+0.310699
+-0.0171209
+-0.193195
+89
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+7
+-0.946608
+0.0623924
+0.230317
+0.00493452
+-0.249609
+90
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+11
+-0.868343
+0.050407
+0.212808
+0.0166078
+-0.190836
+91
+NC_012963.1
+Pichia pastoris GS115 chromosome 1  complete sequence
+150000
+4
+-0.582639
+0.0164924
+0.369719
+0.0901252
+-0.210794
+92
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+7
+-0.934691
+0.0171418
+0.19013
+-0.106422
+-0.217452
+93
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+14
+-1.
+0.0598266
+0.108328
+0.0989673
+-0.246614
+94
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+2
+-0.841369
+0.0235619
+0.373032
+0.0354052
+-0.262429
+95
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+6
+-0.753706
+0.0513966
+0.261234
+0.0118044
+-0.175782
+96
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+4
+-0.886742
+0.0527793
+0.24344
+0.095174
+-0.138323
+97
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+10
+-0.890105
+0.0415708
+0.242829
+-0.0136293
+-0.213058
+98
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+8
+-0.774642
+0.081172
+0.40515
+0.0701703
+-0.137416
+99
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+13
+-0.676858
+0.0449783
+0.347549
+0.00209654
+-0.212648
+100
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+9
+-0.441372
+0.0484162
+0.421756
+0.118037
+-0.293037
+101
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+3
+-0.266979
+0.031185
+0.604717
+0.0209064
+-0.158364
+102
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+11
+-0.621097
+0.0497409
+0.403106
+0.143286
+-0.199324
+103
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+15
+-0.787321
+0.059395
+0.382728
+-0.0383644
+-0.35801
+104
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+12
+-0.642117
+0.094784
+0.421371
+0.115623
+-0.142184
+105
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+5
+-0.650942
+-0.00701672
+0.419303
+0.0842054
+-0.198942
+106
+NC_012964.1
+Pichia pastoris GS115 chromosome 2  complete sequence
+150000
+1
+-0.533302
+0.0236711
+0.415053
+-0.0179746
+-0.135354
+107
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+8
+-0.744068
+0.0890775
+0.307657
+0.128005
+-0.155823
+108
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+10
+-0.696745
+0.0496897
+0.411189
+0.0621776
+-0.276491
+109
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+7
+-0.708263
+0.0796353
+0.311095
+0.00430868
+-0.228898
+110
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+12
+-0.688475
+0.0231443
+0.387941
+0.110491
+-0.157427
+111
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+14
+-0.761723
+0.0531393
+0.336277
+0.0585795
+-0.360919
+112
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+1
+-0.717232
+0.0261654
+0.367119
+0.0152259
+-0.306107
+113
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+4
+-0.756444
+-0.0120319
+0.258628
+0.0491894
+-0.353663
+114
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+3
+-0.746401
+0.0947376
+0.318178
+0.0563013
+-0.240888
+115
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+11
+-0.824576
+0.0281699
+0.253578
+0.0570022
+-0.189095
+116
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+2
+-0.987684
+0.0682159
+0.176669
+0.128731
+-0.221831
+117
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+9
+-0.882082
+0.0802027
+0.223996
+0.142323
+-0.172592
+118
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+13
+-0.868369
+-0.00284234
+0.161985
+0.0531843
+-0.345649
+119
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+5
+-0.479829
+-0.00147909
+0.491586
+0.00758384
+-0.294019
+120
+NC_012965.1
+Pichia pastoris GS115 chromosome 3  complete sequence
+150000
+6
+-0.717522
+0.0374258
+0.29828
+0.0913316
+-0.171814
+121
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+1
+-0.914457
+0.00939693
+0.296398
+0.0659385
+-0.105358
+122
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+8
+-0.846849
+0.0918006
+0.263939
+0.0423693
+-0.141411
+123
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+3
+-0.806805
+-0.00839209
+0.377316
+-0.00640669
+-0.296685
+124
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+5
+-0.951677
+0.0640388
+0.141465
+0.0782243
+-0.161554
+125
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+10
+-0.833872
+0.0419012
+0.331714
+0.0683366
+-0.214279
+126
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+7
+-0.733378
+0.0643225
+0.218282
+0.117535
+-0.178206
+127
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+11
+-0.995683
+0.0827065
+0.0925967
+-0.0234955
+-0.286423
+128
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+9
+-0.929345
+0.0499746
+0.187651
+0.0261794
+-0.141579
+129
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+2
+-0.814721
+0.0141842
+0.315794
+0.0905739
+-0.189211
+130
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+6
+-0.504552
+0.0210481
+0.444426
+-0.00011388
+-0.235738
+131
+NC_012966.1
+Pichia pastoris GS115 chromosome 4  complete sequence
+150000
+4

@@ -1,0 +1,3687 @@
+332,32,4
+blue,cyan,purple
+5
+Index,Acc,Name,Length,Taxa
+blue,cyan,purple
+M (332),E (32),G (4)
+Set of mtDNA sequences
+-0.700024
+0.471853
+-0.251364
+0.120102
+0.440411
+1
+DQ404442
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="AUR6"                     /db_xref="taxon:9606"                     /haplogroup="M42b"     D-loop
+-0.772568
+0.477939
+-0.411599
+0.215503
+0.547517
+2
+DQ404443
+mitochondrion Homo sapiens (human)
+16572
+FEATURES             Location/Qualifiers     source          1..16572                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="AUR7"                     /db_xref="taxon:9606"                     /haplogroup="M42a"     D-loop
+-0.696076
+0.458981
+-0.357162
+0.248864
+0.53559
+3
+DQ404445
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="AUR25"                     /db_xref="taxon:9606"                     /haplogroup="M42a"     D-loop
+-0.80732
+0.427584
+-0.21153
+0.498543
+-0.612402
+4
+GQ377749
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="TBurkina105"                     /db_xref="taxon:9606"                     /haplogroup="M1a2a"     D-loop
+-0.80732
+0.427584
+-0.21153
+0.498543
+-0.612402
+5
+GQ377750
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="TBurkina110"                     /db_xref="taxon:9606"                     /haplogroup="M1a2a"     D-loop
+-0.80732
+0.427584
+-0.21153
+0.498543
+-0.612402
+6
+GQ377751
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="TBurkina111"                     /db_xref="taxon:9606"                     /haplogroup="M1a2a"     D-loop
+-0.670222
+0.328484
+-0.188239
+0.202811
+0.320545
+7
+GQ389777
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="CP043"                     /db_xref="taxon:9606"                     /haplogroup="M23"     D-loop
+-0.67795
+0.32976
+-0.191273
+0.199922
+0.324111
+8
+GQ389778
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FT378"                     /db_xref="taxon:9606"                     /haplogroup="M23"     D-loop
+-0.58909
+0.514207
+-0.270352
+0.322037
+0.59133
+9
+GQ389779
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GY240"                     /db_xref="taxon:9606"                     /haplogroup="M46"     D-loop
+-0.866206
+0.336249
+-0.260729
+0.537982
+-0.54529
+11
+GU122999
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Tm27"                     /db_xref="taxon:9606"                     /haplogroup="M1a3b"                     /country="Russia"     D-loop
+-0.876885
+0.541812
+-0.891334
+0.763943
+0.557646
+12
+GU123012
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Tm45"                     /db_xref="taxon:9606"                     /haplogroup="M7b"                     /country="Russia"     D-loop
+-0.775867
+0.404204
+-0.728915
+0.469577
+0.754654
+15
+HM238203
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BD35"                     /db_xref="taxon:9606"                     /haplogroup="M7c3"                     /country="Philippines: Ivatan from Batan Archipelago"     D-loop
+-0.852457
+0.561005
+-0.976147
+0.715017
+0.576238
+16
+HM238206
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BD40"                     /db_xref="taxon:9606"                     /haplogroup="M7b4"                     /country="Philippines: Ivatan from Batan Archipelago"     D-loop
+-0.889573
+0.681067
+-0.939009
+0.999595
+0.536168
+17
+HM238210
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="YA07"                     /db_xref="taxon:9606"                     /haplogroup="M7b3"                     /country="Taiwan: Yami from Orchid Island"     D-loop
+-0.897538
+0.528919
+-0.796397
+0.389391
+1.
+19
+HM238218
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="YE15"                     /db_xref="taxon:9606"                     /haplogroup="M7c3"                     /country="Taiwan: Yami from Orchid Island"     D-loop
+-0.505241
+0.373863
+-0.294082
+0.224364
+0.363121
+20
+HQ541751
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /db_xref="taxon:9606"                     /haplogroup="M37a"                     /note="ethnicity:Indian; origin_locality:Goa India"     D-loop
+-0.904282
+0.58306
+-0.865001
+0.801922
+0.432448
+21
+JF896798
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="LHON patient Le53"                     /db_xref="taxon:9606"                     /haplogroup="M7b1'2'4"     D-loop
+-0.943878
+0.572813
+-0.977796
+0.815521
+0.460663
+22
+JN645818
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="LHON Le95"                     /db_xref="taxon:9606"                     /haplogroup="M7b2"     D-loop
+-0.966146
+0.590432
+-0.995408
+0.854577
+0.564236
+23
+JN645819
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="LHON patient Le666"                     /db_xref="taxon:9606"                     /haplogroup="M7b1"     D-loop
+-0.910824
+0.558187
+-0.922205
+0.793882
+0.520538
+24
+JN645820
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="LHON patient Le777"                     /db_xref="taxon:9606"                     /haplogroup="M7b1"     D-loop
+-0.934162
+0.573228
+-0.92579
+0.815056
+0.5155
+25
+JN645821
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="LHON patient Le978"                     /db_xref="taxon:9606"                     /haplogroup="M7b1'2'4"     D-loop
+-0.66506
+0.352631
+-0.454118
+0.254663
+0.490881
+26
+JN857010
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Alt_33*"                     /isolation_source="Altaian-Kizhi"                     /db_xref="taxon:9606"                     /haplogroup="M11b2"                     /country="Russia: South Siberia"     D-loop
+-0.914492
+0.213958
+-0.556484
+0.336238
+0.483119
+27
+JN857013
+mitochondrion Homo sapiens (human)
+16574
+FEATURES             Location/Qualifiers     source          1..16574                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Alt_164"                     /isolation_source="Altaian-Kizhi"                     /db_xref="taxon:9606"                     /haplogroup="M10a1a2a"                     /country="Russia: South Siberia"     D-loop
+-0.694418
+0.406544
+-0.356803
+-0.00677513
+0.4766
+28
+JN857018
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Br_377"                     /isolation_source="Buryat"                     /db_xref="taxon:9606"                     /haplogroup="M9a1a1c1b1a1"                     /country="Russia: South Siberia"     D-loop
+-0.503726
+0.545313
+-0.248154
+0.256307
+0.46601
+29
+JN857020
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Br_389"                     /isolation_source="Buryat"                     /db_xref="taxon:9606"                     /haplogroup="M13a1b"                     /country="Russia: South Siberia"     D-loop
+-0.682519
+0.246723
+-0.408443
+0.258181
+0.500645
+30
+JN857024
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Br_444"                     /isolation_source="Buryat"                     /db_xref="taxon:9606"                     /haplogroup="M11a"                     /country="Russia: South Siberia"     D-loop
+-0.586242
+0.463152
+-0.344614
+0.19804
+0.454702
+31
+JN857028
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Bt_43"                     /isolation_source="Barghut"                     /db_xref="taxon:9606"                     /haplogroup="M13a1b"                     /country="China: Inner Mongolia  Hulun Buir Aimak"     D-loop
+-0.698778
+0.361937
+-0.225804
+0.0582193
+0.435633
+32
+JN857040
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Khm_15"                     /isolation_source="Khamnigan"                     /db_xref="taxon:9606"                     /haplogroup="M9a1a1a1"                     /country="Russia: South Siberia"     D-loop
+-0.702657
+0.31132
+-0.36931
+0.249526
+0.321617
+33
+JN857047
+mitochondrion Homo sapiens (human)
+16576
+FEATURES             Location/Qualifiers     source          1..16576                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Km_27"                     /isolation_source="Kalmyk"                     /db_xref="taxon:9606"                     /haplogroup="M10a2a"                     /country="Russia: Kalmyk Republic"     D-loop
+-0.643025
+0.405317
+-0.336112
+0.0240477
+0.497363
+34
+JN857048
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Km_68"                     /isolation_source="Kalmyl"                     /db_xref="taxon:9606"                     /haplogroup="M9a1a1a1*"                     /country="Russia: Kalmyk Republic"     D-loop
+-0.587701
+0.421558
+-0.283696
+0.0142106
+0.456212
+35
+JN857049
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Km_79"                     /isolation_source="Kalmyk"                     /db_xref="taxon:9606"                     /haplogroup="M9a1b2"                     /country="Russia: Kalmyk Republic"     D-loop
+-0.606722
+0.440871
+-0.327532
+0.0518026
+0.49468
+36
+JN857050
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Kor_10"                     /isolation_source="Korean"                     /db_xref="taxon:9606"                     /haplogroup="M9a4b"                     /country="South Korea: Seoul"     D-loop
+-0.664366
+0.447346
+-0.357544
+-0.0282975
+0.490243
+37
+JN857051
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Kor_30"                     /isolation_source="Korean"                     /db_xref="taxon:9606"                     /haplogroup="M9a1a*"                     /country="South Korea: Seoul"     D-loop
+-0.620685
+0.39195
+-0.191418
+0.0579937
+0.384447
+38
+JN857054
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Kz_69"                     /isolation_source="Altaian Kazakh"                     /db_xref="taxon:9606"                     /haplogroup="M9a1b2"                     /country="Russia: South Siberia"     D-loop
+-0.820068
+0.382353
+-0.411938
+0.349759
+0.300245
+39
+JN857055
+mitochondrion Homo sapiens (human)
+16573
+FEATURES             Location/Qualifiers     source          1..16573                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Mn_9"                     /isolation_source="Mongolian"                     /db_xref="taxon:9606"                     /haplogroup="M10a1a1"                     /country="Mongolia"     D-loop
+-0.608456
+0.469947
+-0.323959
+-0.0261267
+0.487749
+40
+JN857056
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Mn_16"                     /isolation_source="Mongolian"                     /db_xref="taxon:9606"                     /haplogroup="M9a1b1*"                     /country="Mongolia"     D-loop
+-0.704004
+0.318324
+-0.339397
+0.266595
+0.327241
+41
+JN857058
+mitochondrion Homo sapiens (human)
+16574
+FEATURES             Location/Qualifiers     source          1..16574                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Rus_Vo-78"                     /isolation_source="Russian"                     /db_xref="taxon:9606"                     /haplogroup="M10a2a"                     /country="Russia: northwestern part"     D-loop
+-0.850794
+0.310587
+-0.194859
+0.239577
+0.325066
+42
+JN857060
+mitochondrion Homo sapiens (human)
+16574
+FEATURES             Location/Qualifiers     source          1..16574                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Sh_27"                     /isolation_source="Shor"                     /db_xref="taxon:9606"                     /haplogroup="M10a1*"                     /country="Russia: South Siberia"     D-loop
+-0.70819
+0.388576
+-0.440702
+0.26483
+0.408859
+43
+JN857062
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Tel_20"                     /isolation_source="Teleut"                     /db_xref="taxon:9606"                     /haplogroup="M11c"                     /country="Russia: South Siberia"     D-loop
+-0.664494
+0.453362
+-0.36501
+-0.00340172
+0.528403
+44
+JN857063
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Tv_351c"                     /isolation_source="Tuvinian"                     /db_xref="taxon:9606"                     /haplogroup="M9a1a1c1a1"                     /country="Russia: South Siberia"     D-loop
+-1.
+0.418823
+-0.309504
+0.468237
+-0.835658
+45
+JQ249907
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /db_xref="taxon:9606"                     /haplogroup="M1a1b"                     /note="ethnicity:Jewish; origin_locality:Poland"     D-loop
+-0.893793
+0.360627
+-0.277383
+0.553376
+-0.611787
+46
+JX153011
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="1313432"                     /db_xref="taxon:9606"                     /haplogroup="M1a3a"                     /sex="female"                     /dev_stage="age 93"                     /country="Italy: Calabria"                     /note="Group: case"     D-loop
+-0.903704
+0.256845
+-0.248373
+0.556458
+-0.609491
+47
+JX153066
+mitochondrion Homo sapiens (human)
+16575
+FEATURES             Location/Qualifiers     source          1..16575                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="1535332"                     /db_xref="taxon:9606"                     /haplogroup="M1a3b"                     /sex="female"                     /dev_stage="age 51"                     /country="Italy: Calabria"                     /note="Group: control"     D-loop
+-0.844978
+0.384492
+-0.317779
+0.549623
+-0.420263
+48
+JX153113
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="1678153"                     /db_xref="taxon:9606"                     /haplogroup="M1b1a"                     /sex="male"                     /dev_stage="age 63"                     /country="Italy: Calabria"                     /note="Group: control"     D-loop
+-0.909146
+0.330044
+-0.129384
+0.574474
+-0.597099
+49
+JX154038
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="5173875"                     /db_xref="taxon:9606"                     /haplogroup="M1a8"                     /sex="female"                     /dev_stage="age 94"                     /country="Denmark"                     /note="Group: case"     D-loop
+-0.859051
+0.714682
+-0.962397
+1.
+0.579109
+50
+JX390633
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA 233764"                     /db_xref="taxon:9606"                     /haplogroup="M7b3a"                     /note="ethnicity:Cebuano - Filipino;                     origin_locality:Philippines: Ibabao  Cordova  Cebu City"     D-loop
+-0.801789
+0.50448
+-0.628617
+0.366599
+0.785768
+51
+JX987440
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="AD014"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.745468
+0.47507
+-0.56659
+0.355525
+0.734403
+52
+JX987441
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="AD183"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.873587
+0.527003
+-0.945026
+0.745255
+0.576263
+53
+JX987442
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="AD203"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.611745
+0.515532
+-0.540372
+0.464731
+0.494427
+54
+JX987443
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="AD232"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.749099
+0.403532
+-0.77071
+0.460649
+0.920068
+55
+JX987444
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="AD269"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.749916
+0.437347
+-0.695668
+0.447561
+0.708
+56
+JX987445
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="DM006"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.752872
+0.467637
+-0.753551
+0.463809
+0.724213
+57
+JX987446
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="DM007"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.911083
+0.579823
+-0.926023
+0.815987
+0.5408
+58
+JX987447
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FujP91043M"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="China: Han  Fujian"     D-loop
+-0.915444
+0.57246
+-0.919936
+0.813803
+0.452313
+59
+JX987448
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="HA056"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Hakka"     D-loop
+-0.739522
+0.431253
+-0.702912
+0.444983
+0.736511
+60
+JX987449
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="HA064"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Hakka"     D-loop
+-0.908314
+0.53002
+-0.876145
+0.847258
+0.394987
+61
+JX987450
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IN159"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Indonesia"     D-loop
+-0.769475
+0.445711
+-0.723937
+0.465342
+0.784543
+62
+JX987451
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IN170"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Indonesia"     D-loop
+-0.756607
+0.495091
+-0.621037
+0.370024
+0.803735
+63
+JX987452
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IN197"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Indonesia"     D-loop
+-0.777575
+0.582246
+-0.655884
+0.370631
+0.888592
+64
+JX987453
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IN246"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Indonesia"     D-loop
+-0.873183
+0.543966
+-0.889681
+0.781924
+0.494833
+65
+JX987454
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IN251"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Indonesia"     D-loop
+-0.708551
+0.480171
+-0.739704
+0.456747
+0.824329
+66
+JX987455
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="N370"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.925003
+0.573944
+-0.935396
+0.828897
+0.452122
+67
+JX987456
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="P91043M"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.892732
+0.536275
+-0.97806
+0.765253
+0.589193
+68
+JX987457
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="PE003"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.712125
+0.395022
+-0.671117
+0.453091
+0.714325
+69
+JX987458
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="PE009"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.6124
+0.457104
+-0.690913
+0.39132
+0.647736
+70
+JX987459
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="PE010"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.740963
+0.435757
+-0.702153
+0.433754
+0.743094
+71
+JX987460
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="PZ003"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Plain tribe  Pazeh"     D-loop
+-0.780872
+0.50575
+-0.650456
+0.377916
+0.809286
+72
+JX987461
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="PZ022"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Plain tribe  Pazeh"     D-loop
+-0.844638
+0.523147
+-0.690271
+0.394826
+0.807013
+73
+JX987462
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="PZ078"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Plain tribe  Pazeh"     D-loop
+-0.929571
+0.583437
+-0.962222
+0.81099
+0.526059
+74
+JX987463
+mitochondrion Homo sapiens (human)
+16572
+FEATURES             Location/Qualifiers     source          1..16572                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="PZ102"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Plain tribe  Pazeh"     D-loop
+-0.736534
+0.432895
+-0.672916
+0.449955
+0.757019
+75
+JX987464
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="sbb043"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.781254
+0.436434
+-0.619641
+0.389399
+0.731431
+76
+JX987465
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SD10362"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Han  Minnan"     D-loop
+-0.827922
+0.497566
+-0.704284
+0.392856
+0.889322
+77
+JX987466
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SL017"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Plain tribe  Siraya"     D-loop
+-0.841826
+0.501803
+-0.733192
+0.398571
+0.929484
+78
+JX987467
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SL273"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Plain tribe  Siraya"     D-loop
+-0.746302
+0.444892
+-0.668795
+0.455469
+0.734822
+79
+JX987468
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SL495"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Plain tribe  Siraya"     D-loop
+-0.845066
+0.49487
+-1.
+0.702624
+0.661434
+80
+JX987469
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SL588"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Taiwan: Plain tribe  Siraya"     D-loop
+-0.733001
+0.270355
+-0.725121
+0.411824
+0.724984
+81
+JX987470
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Thai142"                     /db_xref="taxon:9606"                     /haplogroup="M7"                     /country="Thailand"     D-loop
+-0.931831
+0.495974
+-0.840819
+0.798371
+0.469633
+83
+KC569547
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA 257635"                     /db_xref="taxon:9606"                     /haplogroup="M7b1'2'4'5'6'7'8"                     /note="ethnicity:Vietnamese; origin_locality:Vietnam: Hung                     Yen"     D-loop
+-0.85929
+0.30478
+-0.357266
+0.468641
+-0.680535
+84
+KC622266
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BOT6_211"                     /isolation_source="Shua"                     /db_xref="taxon:9606"                     /haplogroup="M1a5"     D-loop
+-0.706572
+0.362044
+-0.477238
+0.10081
+0.544109
+85
+KC896622
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA 129476"                     /db_xref="taxon:9606"                     /haplogroup="M"                     /note="ethnicity:Mon; origin_locality:Burma: Rangoon"     D-loop
+-0.713086
+0.429561
+-0.33231
+0.305207
+0.314394
+86
+KC911312
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M5a2a4"                     /country="Iran"     D-loop
+-0.45914
+0.45104
+-0.175203
+0.188331
+0.32305
+87
+KC911313
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Qashqai"                     /db_xref="taxon:9606"                     /haplogroup="M4a"                     /country="Iran"     D-loop
+-0.735824
+0.453343
+-0.334917
+0.310416
+0.307711
+88
+KC911321
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M5a2a4"                     /country="Iran"     D-loop
+-0.7045
+0.424819
+-0.325893
+0.301209
+0.323112
+89
+KC911351
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M5a2a4"                     /country="Iran"     D-loop
+-0.676068
+0.416969
+-0.30707
+0.290564
+0.288861
+90
+KC911363
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M5a2a1a"                     /country="Iran"     D-loop
+-0.580783
+0.305764
+-0.281867
+0.164639
+0.30386
+91
+KC911394
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M4b"                     /country="Iran"     D-loop
+-0.697197
+0.357136
+-0.255641
+0.19221
+0.478697
+92
+KC911426
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M2c"                     /country="Iran"     D-loop
+-0.568821
+0.306326
+-0.250159
+0.247629
+0.337675
+93
+KC911475
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M18a"                     /country="Iran"     D-loop
+-0.598018
+0.335934
+-0.309068
+0.296355
+0.330049
+95
+KC911530
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M3a1"                     /country="Iran"     D-loop
+-0.725745
+0.437001
+-0.335613
+0.299096
+0.32377
+96
+KC911557
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M5a2a4"                     /country="Iran"     D-loop
+-0.737376
+0.280733
+-0.230361
+0.0462279
+0.255786
+97
+KC911559
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M42b1b"                     /country="Iran"     D-loop
+-0.703328
+0.425834
+-0.321209
+0.299829
+0.321708
+98
+KC911579
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M5a2a4"                     /country="Iran"     D-loop
+-0.71088
+0.429734
+-0.324757
+0.299827
+0.322676
+99
+KC911596
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Persian"                     /db_xref="taxon:9606"                     /haplogroup="M5a2a4"                     /country="Iran"     D-loop
+-0.71894
+0.716806
+0.549672
+0.432796
+0.595279
+101
+KJ154163
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="1025"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Fiji"     D-loop
+-0.749126
+0.748345
+0.610431
+0.440433
+0.644474
+102
+KJ154167
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="1054"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Fiji"     D-loop
+-0.696801
+0.813541
+0.778889
+0.505202
+0.62166
+103
+KJ154180
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="1118"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Fiji"     D-loop
+-0.60043
+0.725173
+0.733752
+0.382733
+0.605064
+104
+KJ154201
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="1277"                     /db_xref="taxon:9606"                     /haplogroup="M28b"                     /country="Samoa"     D-loop
+-0.664672
+0.915138
+0.9095
+0.489
+0.659307
+105
+KJ154253
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="25"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Wallis and Futuna: Futuna"     D-loop
+-0.60043
+0.725173
+0.733752
+0.382733
+0.605064
+106
+KJ154292
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="4465"                     /db_xref="taxon:9606"                     /haplogroup="M28b"                     /country="Tonga"     D-loop
+-0.735246
+0.50945
+-0.629008
+0.370498
+0.877157
+107
+KJ154325
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="54a"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Tuvalu"     D-loop
+-0.736118
+0.73953
+0.592695
+0.441128
+0.61333
+108
+KJ154395
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="6087"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Tonga"     D-loop
+-0.626063
+0.840204
+0.842197
+0.454134
+0.53327
+109
+KJ154451
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="752"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Fiji"     D-loop
+-0.249668
+0.0931236
+-0.652653
+0.290175
+0.956599
+110
+KJ154473
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV01"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.33769
+-0.880313
+0.230968
+0.261427
+0.383555
+111
+KJ154475
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV04"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.69029
+0.984015
+0.902667
+0.494788
+0.749853
+112
+KJ154476
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV07"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.33769
+-0.880313
+0.230968
+0.261427
+0.383555
+113
+KJ154477
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV08"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.651431
+0.960939
+0.926615
+0.469916
+0.776121
+114
+KJ154478
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV09"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.646363
+0.895791
+0.882311
+0.478348
+0.562547
+115
+KJ154481
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV103"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.260033
+0.121619
+-0.525398
+0.314083
+0.759146
+116
+KJ154486
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV111"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.363338
+-0.76892
+0.0975154
+0.253085
+0.470388
+117
+KJ154488
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV113"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.281874
+0.101431
+-0.706524
+0.311754
+0.931544
+118
+KJ154489
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV114"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.26661
+0.114554
+-0.545494
+0.326456
+0.784788
+119
+KJ154490
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV115"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.261981
+0.0838683
+-0.548656
+0.327708
+0.804948
+120
+KJ154492
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV117"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.328477
+-0.925206
+0.210396
+0.251606
+0.413437
+121
+KJ154494
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV119"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.657468
+0.917743
+0.924497
+0.483957
+0.574647
+122
+KJ154495
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV120"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.281089
+0.135493
+-0.561874
+0.349656
+0.854051
+123
+KJ154496
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV121"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.282293
+0.144782
+-0.526504
+0.347043
+0.820607
+124
+KJ154497
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV122"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.363731
+-0.866363
+0.195476
+0.329519
+0.516381
+125
+KJ154498
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV123"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.363338
+-0.76892
+0.0975154
+0.253085
+0.470388
+126
+KJ154499
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV124"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+0.681081
+0.579657
+-0.250356
+0.356878
+0.25905
+127
+KJ154500
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV125"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.33769
+-0.880313
+0.230968
+0.261427
+0.383555
+128
+KJ154504
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV12"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.386934
+-0.780789
+0.083507
+0.272513
+0.404401
+129
+KJ154505
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV130"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.247346
+0.0960887
+-0.64473
+0.318382
+0.935025
+130
+KJ154508
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV134"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.360326
+-0.771221
+0.0730952
+0.265184
+0.50969
+131
+KJ154510
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV136"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.337145
+-0.926933
+0.248078
+0.259445
+0.387492
+132
+KJ154516
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV141"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Siwai"     D-loop
+0.771446
+0.597749
+-0.351285
+0.40016
+0.322472
+133
+KJ154518
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV143"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Papua New Guinea: Bougainville  Siwai"     D-loop
+-0.340561
+-0.981798
+0.220225
+0.243073
+0.416097
+134
+KJ154522
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV147"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Siwai"     D-loop
+-0.340561
+-0.981798
+0.220225
+0.243073
+0.416097
+135
+KJ154523
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV148"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Siwai"     D-loop
+-0.282422
+0.143498
+-0.532183
+0.345101
+0.81963
+136
+KJ154528
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV152"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Siwai"     D-loop
+-0.340561
+-0.981798
+0.220225
+0.243073
+0.416097
+137
+KJ154529
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV154"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Siwai"     D-loop
+-0.340561
+-0.981798
+0.220225
+0.243073
+0.416097
+138
+KJ154532
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV158"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Siwai"     D-loop
+-0.329217
+-0.933284
+0.216557
+0.253352
+0.411077
+139
+KJ154533
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV159"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.280116
+0.13139
+-0.569854
+0.352195
+0.872116
+140
+KJ154537
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV162"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.282422
+0.143498
+-0.532183
+0.345101
+0.81963
+141
+KJ154538
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV163"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Siwai"     D-loop
+-0.329217
+-0.933284
+0.216557
+0.253352
+0.411077
+142
+KJ154540
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV166"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.653574
+0.913825
+0.932253
+0.471302
+0.561656
+143
+KJ154541
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV169"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.337983
+-0.872262
+0.229598
+0.270419
+0.383273
+144
+KJ154542
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV16"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.669325
+0.938238
+0.969736
+0.492628
+0.58714
+145
+KJ154544
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV171"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.329217
+-0.933284
+0.216557
+0.253352
+0.411077
+146
+KJ154545
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV172"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.363267
+-0.833895
+0.184649
+0.329612
+0.510746
+147
+KJ154546
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV173"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.281769
+0.136687
+-0.552623
+0.350094
+0.842835
+148
+KJ154554
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV182"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.282625
+0.14593
+-0.521964
+0.344066
+0.801087
+149
+KJ154561
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV190"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.281129
+0.139679
+-0.543375
+0.345897
+0.83344
+150
+KJ154566
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV196"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.33769
+-0.880313
+0.230968
+0.261427
+0.383555
+151
+KJ154576
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV206"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.651431
+0.960939
+0.926615
+0.469916
+0.776121
+152
+KJ154579
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV20"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.684856
+0.438093
+-0.28921
+0.173379
+0.309372
+153
+KJ154581
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV212"                     /db_xref="taxon:9606"                     /haplogroup="M29a"                     /country="Papua New Guinea: Bougainville  Buka"     D-loop
+-0.629241
+0.858756
+0.797502
+0.460131
+0.535169
+156
+KJ154600
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV31"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.327902
+-0.978663
+0.229113
+0.249176
+0.41873
+157
+KJ154601
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV33"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.743346
+0.51269
+-0.416069
+0.251527
+0.3457
+158
+KJ154604
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV36"                     /db_xref="taxon:9606"                     /haplogroup="M*"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.280417
+0.118919
+-0.577468
+0.355442
+0.855722
+159
+KJ154619
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV56"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.280956
+0.140938
+-0.538374
+0.345612
+0.826355
+160
+KJ154621
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV58"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.291766
+0.106507
+-0.563898
+0.359212
+0.870783
+161
+KJ154624
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV61"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.322252
+-0.979077
+0.231361
+0.25294
+0.411803
+162
+KJ154625
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV62"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.337491
+-0.918468
+0.245022
+0.259476
+0.386747
+163
+KJ154626
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV63"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.279091
+0.114533
+-0.5911
+0.356912
+0.876198
+164
+KJ154630
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV67"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Papua New Guinea: Bougainville  Buin"     D-loop
+-0.364379
+-0.806372
+0.107026
+0.252532
+0.476916
+165
+KJ154632
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV70"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.363338
+-0.76892
+0.0975154
+0.253085
+0.470388
+166
+KJ154633
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV71"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.653574
+0.913825
+0.932253
+0.471302
+0.561656
+167
+KJ154634
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV72"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.372026
+-0.804545
+0.113135
+0.250789
+0.475479
+168
+KJ154635
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV73"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Nasioi"     D-loop
+-0.33769
+-0.880313
+0.230968
+0.261427
+0.383555
+169
+KJ154637
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV76"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+-0.328695
+-0.971058
+0.224694
+0.25085
+0.418998
+170
+KJ154638
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV79"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Papua New Guinea: Bougainville  Torau"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+172
+KJ154654
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL02"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+173
+KJ154655
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL03"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+174
+KJ154656
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL06"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.751172
+0.600674
+-0.260445
+0.36502
+0.249924
+175
+KJ154657
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL14"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.720358
+0.591566
+-0.255979
+0.360858
+0.25605
+176
+KJ154658
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL15"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.789869
+0.63247
+-0.253407
+0.403028
+0.262366
+177
+KJ154659
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL21"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+178
+KJ154660
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL24"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+179
+KJ154661
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL37"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+180
+KJ154662
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL40"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Savo"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+181
+KJ154663
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL41"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+182
+KJ154664
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FL43"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Gela"     D-loop
+0.840431
+0.598593
+-0.364799
+0.305403
+0.307938
+183
+KJ154665
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU02"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Guadalcanal"     D-loop
+-0.683064
+0.68166
+0.621462
+0.326253
+0.712078
+184
+KJ154666
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU07"                     /db_xref="taxon:9606"                     /haplogroup="M28b"                     /country="Solomon Islands: Guadalcanal"     D-loop
+-0.701125
+0.689818
+0.74149
+0.367397
+0.538666
+185
+KJ154667
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU11"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Guadalcanal"     D-loop
+-0.60193
+0.746359
+0.776472
+0.433684
+0.516866
+186
+KJ154668
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU14"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Guadalcanal"     D-loop
+-0.727599
+0.495578
+-0.400685
+0.232001
+0.388922
+187
+KJ154669
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU20"                     /db_xref="taxon:9606"                     /haplogroup="M*"                     /country="Solomon Islands: Guadalcanal"     D-loop
+-0.756386
+0.385727
+-0.359818
+0.250041
+0.363909
+188
+KJ154670
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU23"                     /db_xref="taxon:9606"                     /haplogroup="M*"                     /country="Solomon Islands: Choiseul"     D-loop
+0.740567
+0.680182
+-0.178255
+0.493924
+0.136363
+189
+KJ154671
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU28"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Savo"     D-loop
+-0.675997
+0.732525
+0.640669
+0.380819
+0.499022
+190
+KJ154672
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU37"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Guadalcanal"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+191
+KJ154673
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU40"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Guadalcanal"     D-loop
+0.748194
+0.599782
+-0.26001
+0.364634
+0.250464
+192
+KJ154675
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU47"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Guadalcanal"     D-loop
+0.82288
+0.613301
+-0.348816
+0.410979
+0.300892
+193
+KJ154676
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GU49"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Guadalcanal"     D-loop
+-0.305429
+0.1075
+-0.543589
+0.350978
+0.898972
+194
+KJ154679
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GZ02"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Solomon Islands: Choiseul"     D-loop
+-0.733668
+0.507129
+-0.407988
+0.252734
+0.342935
+195
+KJ154681
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GZ07"                     /db_xref="taxon:9606"                     /haplogroup="M*"                     /country="Solomon Islands: Choiseul"     D-loop
+-0.733668
+0.507129
+-0.407988
+0.252734
+0.342935
+196
+KJ154682
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GZ09"                     /db_xref="taxon:9606"                     /haplogroup="M*"                     /country="Solomon Islands: Choiseul"     D-loop
+-0.672976
+0.910015
+0.880237
+0.500492
+0.502731
+197
+KJ154683
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GZ11"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Shortland Islands"     D-loop
+0.8135
+0.624756
+-0.270369
+0.349116
+0.219498
+198
+KJ154685
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GZ27"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+-0.281635
+0.14061
+-0.541451
+0.346041
+0.829049
+199
+KJ154686
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="GZ35"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Solomon Islands: Shortland Islands"     D-loop
+0.681081
+0.579657
+-0.250356
+0.356878
+0.25905
+201
+KJ154688
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS13"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Isabel"     D-loop
+0.79355
+0.613903
+-0.265457
+0.370546
+0.242714
+204
+KJ154691
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS21"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Isabel"     D-loop
+0.840222
+0.529697
+-0.220255
+0.371202
+0.251852
+205
+KJ154692
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS23"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Isabel"     D-loop
+0.7541
+0.601547
+-0.26088
+0.365422
+0.249355
+206
+KJ154693
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS28"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Isabel"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+207
+KJ154695
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS34"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Isabel"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+210
+KJ154698
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS43"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Isabel"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+211
+KJ154699
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS44"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Isabel"     D-loop
+-0.550384
+0.53801
+-0.257088
+0.105613
+0.355282
+212
+KJ154701
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KI39"                     /db_xref="taxon:9606"                     /haplogroup="M29b"                     /country="Solomon Islands: Makira"     D-loop
+-0.329942
+-0.666655
+0.124377
+0.263637
+0.362421
+213
+KJ154703
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO05"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.214658
+-1.
+0.213708
+0.272411
+0.370215
+214
+KJ154704
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO11"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Shortland Islands"     D-loop
+-0.281769
+0.136687
+-0.552623
+0.350094
+0.842835
+215
+KJ154705
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO12"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Solomon Islands: Shortland Islands"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+216
+KJ154706
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO13"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Vella Lavella"     D-loop
+1.
+0.492071
+-0.203153
+0.371916
+0.202292
+217
+KJ154707
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO29"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Choiseul"     D-loop
+-0.759142
+0.504104
+-0.44835
+0.250444
+0.402185
+218
+KJ154709
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO35"                     /db_xref="taxon:9606"                     /haplogroup="M*"                     /country="Solomon Islands: Choiseul"     D-loop
+-0.335462
+-0.750122
+0.149429
+0.262553
+0.358021
+219
+KJ154710
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO39"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Vella Lavella"     D-loop
+-0.335462
+-0.750122
+0.149429
+0.262553
+0.358021
+220
+KJ154711
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO49"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Vella Lavella"     D-loop
+-0.33037
+-0.622341
+0.109875
+0.265689
+0.358758
+221
+KJ154715
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO58"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+0.681081
+0.579657
+-0.250356
+0.356878
+0.25905
+222
+KJ154716
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO65"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Kolombangara"     D-loop
+0.720531
+0.596457
+-0.248347
+0.35873
+0.245383
+224
+KJ154719
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA04"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.733174
+0.594516
+-0.254243
+0.361323
+0.250341
+225
+KJ154720
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA10"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+226
+KJ154721
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA15"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+227
+KJ154722
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA17"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.72434
+0.598669
+-0.252508
+0.355417
+0.248939
+228
+KJ154723
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA19"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+229
+KJ154724
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA22"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+230
+KJ154726
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA35"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.967623
+0.637755
+-0.379954
+0.349199
+0.286764
+231
+KJ154727
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA38"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.638401
+0.565885
+-0.240247
+0.349382
+0.266644
+232
+KJ154728
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA39"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.769281
+0.611284
+-0.263647
+0.344195
+0.227614
+233
+KJ154729
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA40"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+234
+KJ154730
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA42"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+235
+KJ154731
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA45"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+236
+KJ154732
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA47"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+237
+KJ154733
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA48"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.720531
+0.596457
+-0.248347
+0.35873
+0.245383
+238
+KJ154735
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA52"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+-0.740692
+1.
+1.
+0.535987
+0.675715
+239
+KJ154736
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA57"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Malaita"     D-loop
+0.68565
+0.549033
+-0.209665
+0.348696
+0.270495
+240
+KJ154737
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA63"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+241
+KJ154738
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA67"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+242
+KJ154739
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA68"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+243
+KJ154742
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="MA73"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+-0.772088
+0.462125
+-0.61861
+0.370861
+0.834994
+244
+KJ154750
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="OJ01"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Ontong Java"     D-loop
+-0.727945
+0.485336
+-0.581509
+0.354251
+0.833023
+245
+KJ154751
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="OJ09"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Ontong Java"     D-loop
+-0.759387
+0.49735
+-0.618078
+0.368066
+0.808439
+246
+KJ154752
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="OJ12"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Ontong Java"     D-loop
+-0.725476
+0.500988
+-0.582103
+0.34955
+0.854553
+247
+KJ154753
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="OJ17"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Ontong Java"     D-loop
+-0.722586
+0.498892
+-0.590753
+0.355515
+0.843215
+248
+KJ154754
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="OJ20"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Ontong Java"     D-loop
+-0.727945
+0.485336
+-0.581509
+0.354251
+0.833023
+249
+KJ154755
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="OJ21"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Ontong Java"     D-loop
+-0.757207
+0.513333
+-0.619226
+0.363586
+0.829723
+250
+KJ154756
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="OJ23"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Ontong Java"     D-loop
+-0.772338
+0.504845
+-0.636264
+0.364865
+0.829486
+251
+KJ154757
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="OJ29"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Ontong Java"     D-loop
+-0.33037
+-0.622341
+0.109875
+0.265689
+0.358758
+252
+KJ154758
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA02"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.339601
+-0.646254
+0.102234
+0.27845
+0.348363
+253
+KJ154759
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA06"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.369859
+-0.661343
+0.0691291
+0.29681
+0.321157
+254
+KJ154761
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA17"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.339601
+-0.646254
+0.102234
+0.27845
+0.348363
+255
+KJ154762
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA20"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.339601
+-0.646254
+0.102234
+0.27845
+0.348363
+256
+KJ154764
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA24"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.332425
+-0.688782
+0.141544
+0.265261
+0.385091
+257
+KJ154765
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA32"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.330036
+-0.664167
+0.123636
+0.263727
+0.362216
+258
+KJ154766
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA35"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.330158
+-0.644441
+0.117109
+0.264667
+0.360587
+259
+KJ154768
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA41"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.332425
+-0.688782
+0.141544
+0.265261
+0.385091
+260
+KJ154769
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA42"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.279035
+0.129367
+-0.538386
+0.344519
+0.830662
+261
+KJ154770
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA49"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Solomon Islands: Simbo"     D-loop
+-0.322826
+0.113102
+-0.615664
+0.387419
+0.885909
+262
+KJ154771
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA50"                     /db_xref="taxon:9606"                     /haplogroup="M27c"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.332425
+-0.688782
+0.141544
+0.265261
+0.385091
+263
+KJ154772
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA57"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.332425
+-0.688782
+0.141544
+0.265261
+0.385091
+264
+KJ154773
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA59"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+-0.750627
+0.476285
+-0.659178
+0.409005
+0.776212
+265
+KJ154775
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA73"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Vella Lavella"     D-loop
+-0.339601
+-0.646254
+0.102234
+0.27845
+0.348363
+266
+KJ154776
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RA78"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Ranongga"     D-loop
+0.756622
+0.602584
+-0.261779
+0.364284
+0.249089
+267
+KJ154777
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RUL39"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Russell"     D-loop
+-0.60193
+0.746359
+0.776472
+0.433684
+0.516866
+268
+KJ154780
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RUL48"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Russell"     D-loop
+0.8135
+0.624756
+-0.270369
+0.349116
+0.219498
+270
+KJ154783
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="S05"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+-0.327893
+-0.86375
+0.190909
+0.253644
+0.402045
+271
+KJ154784
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="S13"                     /db_xref="taxon:9606"                     /haplogroup="M27a"                     /country="Solomon Islands: Shortland Islands"     D-loop
+0.685027
+0.584723
+-0.242818
+0.361622
+0.252552
+272
+KJ154785
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="S14"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Malaita"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+273
+KJ154786
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="S15"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Guadalcanal"     D-loop
+0.756658
+0.597319
+-0.259868
+0.365248
+0.25055
+275
+KJ154789
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SA11"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Savo"     D-loop
+0.797264
+0.620215
+-0.275449
+0.379901
+0.180217
+276
+KJ154790
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SA18"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Savo"     D-loop
+0.804585
+0.617089
+-0.269063
+0.373247
+0.234698
+278
+KJ154792
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SA29"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Savo"     D-loop
+0.753862
+0.60158
+-0.261176
+0.365532
+0.249584
+279
+KJ154793
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SA30"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Savo"     D-loop
+0.705245
+0.58689
+-0.253776
+0.359198
+0.258075
+281
+KJ154795
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SA45"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Savo"     D-loop
+0.757902
+0.601848
+-0.257552
+0.364713
+0.244875
+282
+KJ154796
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC01"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.644608
+0.846548
+0.749798
+0.392319
+0.577315
+283
+KJ154798
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC03"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.622806
+0.481597
+-0.249176
+0.167998
+0.38762
+284
+KJ154801
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC08"                     /db_xref="taxon:9606"                     /haplogroup="M29b"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.653208
+0.863987
+0.788727
+0.399324
+0.590751
+285
+KJ154806
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC13"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.644608
+0.846548
+0.749798
+0.392319
+0.577315
+286
+KJ154807
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC14"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.647464
+0.868712
+0.783254
+0.392017
+0.572132
+287
+KJ154809
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC16"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.64984
+0.857523
+0.776151
+0.397564
+0.586515
+288
+KJ154810
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC18"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.64984
+0.857523
+0.776151
+0.397564
+0.586515
+289
+KJ154811
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC21"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.644608
+0.846548
+0.749798
+0.392319
+0.577315
+290
+KJ154820
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC32"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.601182
+0.729262
+0.679211
+0.575964
+0.482163
+291
+KJ154829
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC43"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.803403
+0.444629
+-0.294125
+0.287522
+0.285045
+292
+KJ154830
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC44"                     /db_xref="taxon:9606"                     /haplogroup="M*"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.612416
+0.73458
+0.8262
+0.445112
+0.526794
+293
+KJ154832
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SC47"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Solomon Islands: Santa Cruz"     D-loop
+-0.607428
+0.744042
+0.779148
+0.438312
+0.523745
+301
+KJ154847
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1070"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.607428
+0.744042
+0.779148
+0.438312
+0.523745
+304
+KJ154851
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1078"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.610705
+0.744936
+0.772998
+0.439683
+0.518584
+308
+KJ154859
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1092"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.609293
+0.746058
+0.77965
+0.437005
+0.522594
+309
+KJ154860
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1093"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.634416
+0.776844
+0.848368
+0.448596
+0.539657
+310
+KJ154862
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1097"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.644578
+0.879035
+0.854121
+0.46486
+0.525567
+313
+KJ154896
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV888"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.609293
+0.746058
+0.77965
+0.437005
+0.522594
+314
+KJ154897
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV901"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.634741
+0.860644
+0.818484
+0.458514
+0.515026
+315
+KJ154898
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV903"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.634741
+0.860644
+0.818484
+0.458514
+0.515026
+316
+KJ154900
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV906"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.614359
+0.836411
+0.784606
+0.444543
+0.521837
+317
+KJ154902
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV910"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.613824
+0.470035
+-0.240123
+0.223431
+0.396408
+318
+KJ154905
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV914"                     /db_xref="taxon:9606"                     /haplogroup="M29b"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.63139
+0.858765
+0.818996
+0.456307
+0.520882
+319
+KJ154906
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV915"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.613824
+0.470035
+-0.240123
+0.223431
+0.396408
+320
+KJ154908
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV920"                     /db_xref="taxon:9606"                     /haplogroup="M29b"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.613824
+0.470035
+-0.240123
+0.223431
+0.396408
+321
+KJ154911
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV924"                     /db_xref="taxon:9606"                     /haplogroup="M29b"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.650249
+0.891229
+0.893009
+0.49606
+0.518969
+322
+KJ154913
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV926"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.63139
+0.858765
+0.818996
+0.456307
+0.520882
+323
+KJ154914
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV928"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.643519
+0.850934
+0.863375
+0.466094
+0.531472
+324
+KJ154919
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV946"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.634741
+0.860644
+0.818484
+0.458514
+0.515026
+325
+KJ154920
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV947"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.576918
+0.469822
+-0.236551
+0.189552
+0.369392
+326
+KJ154923
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV954"                     /db_xref="taxon:9606"                     /haplogroup="M29b"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.643114
+0.882448
+0.86684
+0.46529
+0.534514
+327
+KJ154931
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV973"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.614359
+0.836411
+0.784606
+0.444543
+0.521837
+328
+KJ154933
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV982"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.613824
+0.470035
+-0.240123
+0.223431
+0.396408
+329
+KJ154934
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV983"                     /db_xref="taxon:9606"                     /haplogroup="M29b"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+-0.650249
+0.891229
+0.893009
+0.49606
+0.518969
+330
+KJ154937
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV986"                     /db_xref="taxon:9606"                     /haplogroup="M28a"                     /country="Papua New Guinea: New Britain  Nakanai"     D-loop
+0.681081
+0.579657
+-0.250356
+0.356878
+0.25905
+331
+KJ154938
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="VL12"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Vella Lavella"     D-loop
+0.681081
+0.579657
+-0.250356
+0.356878
+0.25905
+332
+KJ154940
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="VL21"                     /db_xref="taxon:9606"                     /haplogroup="M27b"                     /country="Solomon Islands: Vella Lavella"     D-loop
+-0.719331
+0.46463
+-0.62179
+0.39463
+0.801012
+333
+KJ154941
+mitochondrion Homo sapiens (human)
+16566
+FEATURES             Location/Qualifiers     source          1..16566                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="VL40"                     /db_xref="taxon:9606"                     /haplogroup="M7c3c"                     /country="Solomon Islands: Vella Lavella"     D-loop
+-0.55228
+0.431845
+-0.446845
+0.216693
+0.455941
+335
+KJ198896
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA 244603"                     /db_xref="taxon:9606"                     /haplogroup="M8a3"                     /note="ethnicity:Chinese; origin_locality:China: Jiangsu                     province"     D-loop
+-0.80156
+0.472394
+-0.275811
+0.433542
+-0.81595
+336
+KJ486158
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA 286699"                     /db_xref="taxon:9606"                     /haplogroup="M1a1"                     /note="ethnicity:Iraqi Jewish; origin_locality:Israel:                     Jaffa"     D-loop
+-0.565279
+0.393794
+-0.282817
+0.164657
+0.397463
+337
+KM043056
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA B6225"                     /db_xref="taxon:9606"                     /haplogroup="M30b"                     /note="ethnicity:Punjabi Jatt; origin_locality:USA"     D-loop
+-0.942488
+0.410084
+-0.240934
+0.422775
+-0.782877
+338
+KM986520
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y023"                     /db_xref="taxon:9606"                     /haplogroup="M1a1"                     /country="Yemen"     D-loop
+-0.872127
+0.303467
+-0.363462
+0.472256
+-0.70026
+339
+KM986529
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y377"                     /db_xref="taxon:9606"                     /haplogroup="M1a5"                     /country="Yemen"     D-loop
+-0.938875
+0.452985
+-0.344634
+0.510543
+-1.
+340
+KM986531
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y468"                     /db_xref="taxon:9606"                     /haplogroup="M1a1b"                     /country="Yemen"     D-loop
+-0.633533
+0.430433
+-0.266088
+0.272207
+0.445775
+341
+KM986539
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y024"                     /db_xref="taxon:9606"                     /haplogroup="M52b"                     /country="Yemen"     D-loop
+-0.849094
+0.344817
+-0.256499
+0.529269
+-0.51534
+342
+KM986540
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y028"                     /db_xref="taxon:9606"                     /haplogroup="M1a"                     /country="Yemen"     D-loop
+-0.946543
+0.414691
+-0.202874
+0.433076
+-0.67613
+343
+KM986541
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y029"                     /db_xref="taxon:9606"                     /haplogroup="M1a1"                     /country="Yemen"     D-loop
+-0.931338
+0.411512
+-0.203491
+0.428769
+-0.635037
+344
+KM986542
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y050"                     /db_xref="taxon:9606"                     /haplogroup="M1a1"                     /country="Yemen"     D-loop
+-0.627014
+0.410662
+-0.275513
+0.297823
+0.269856
+345
+KM986545
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y057"                     /db_xref="taxon:9606"                     /haplogroup="M5a5"                     /country="Yemen"     D-loop
+-0.884172
+0.394175
+-0.258556
+0.406541
+-0.600772
+346
+KM986550
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y074"                     /db_xref="taxon:9606"                     /haplogroup="M1a1"                     /country="Yemen"     D-loop
+-0.828245
+0.300319
+-0.348739
+0.452416
+-0.559765
+347
+KM986554
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y098"                     /db_xref="taxon:9606"                     /haplogroup="M1a5"                     /country="Yemen"     D-loop
+-0.840418
+0.456178
+-0.146898
+0.455762
+-0.668638
+348
+KM986557
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y120"                     /db_xref="taxon:9606"                     /haplogroup="M1a1"                     /country="Yemen"     D-loop
+-0.971272
+0.406649
+-0.301527
+0.461259
+-0.773477
+349
+KM986558
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y127"                     /db_xref="taxon:9606"                     /haplogroup="M1a1b"                     /country="Yemen"     D-loop
+-0.883001
+0.395627
+-0.199367
+0.403608
+-0.575064
+350
+KM986562
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y153"                     /db_xref="taxon:9606"                     /haplogroup="M1a1"                     /country="Yemen"     D-loop
+-0.90062
+0.447756
+-0.325304
+0.433693
+-0.609458
+351
+KM986568
+mitochondrion Homo sapiens (human)
+16559
+FEATURES             Location/Qualifiers     source          1..16559                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y187"                     /db_xref="taxon:9606"                     /haplogroup="M1a1d"                     /country="Yemen"     D-loop
+-0.925453
+0.409437
+-0.196687
+0.425486
+-0.63103
+352
+KM986570
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y197"                     /db_xref="taxon:9606"                     /haplogroup="M1a1"                     /country="Yemen"     D-loop
+-0.845042
+0.301852
+-0.356632
+0.458579
+-0.599949
+353
+KM986572
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y209"                     /db_xref="taxon:9606"                     /haplogroup="M1a5"                     /country="Yemen"     D-loop
+-0.828245
+0.300319
+-0.348739
+0.452416
+-0.559765
+354
+KM986574
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y226"                     /db_xref="taxon:9606"                     /haplogroup="M1a5"                     /country="Yemen"     D-loop
+-0.534031
+0.379516
+-0.38536
+0.263436
+0.373109
+355
+KM986578
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y235"                     /db_xref="taxon:9606"                     /haplogroup="M44a1"                     /country="Yemen"     D-loop
+-0.946047
+0.383135
+-0.245041
+0.514654
+-0.710854
+356
+KM986585
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y272"                     /db_xref="taxon:9606"                     /haplogroup="M1a2"                     /country="Yemen"     D-loop
+-0.672474
+0.484297
+-0.332282
+0.303361
+0.321854
+357
+KM986586
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y275"                     /db_xref="taxon:9606"                     /haplogroup="M5a2a2"                     /country="Yemen"     D-loop
+-0.862803
+0.327624
+-0.267926
+0.531997
+-0.532863
+358
+KM986594
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y296"                     /db_xref="taxon:9606"                     /haplogroup="M1a"                     /country="Yemen"     D-loop
+-0.938875
+0.452985
+-0.344634
+0.510543
+-1.
+359
+KM986610
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y465"                     /db_xref="taxon:9606"                     /haplogroup="M1a1b"                     /country="Yemen"     D-loop
+-0.965432
+0.404527
+-0.289302
+0.448257
+-0.775704
+360
+KM986611
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y469"                     /db_xref="taxon:9606"                     /haplogroup="M1a1b"                     /country="Yemen"     D-loop
+-0.633533
+0.430433
+-0.266088
+0.272207
+0.445775
+361
+KM986612
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y471"                     /db_xref="taxon:9606"                     /haplogroup="M52b"                     /country="Yemen"     D-loop
+-0.58117
+0.377233
+-0.312192
+0.24804
+0.32843
+362
+KM986613
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y474"                     /db_xref="taxon:9606"                     /haplogroup="M3a2"                     /country="Yemen"     D-loop
+-0.948657
+0.401707
+-0.295148
+0.45302
+-0.722477
+363
+KM986622
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y530"                     /db_xref="taxon:9606"                     /haplogroup="M1a1b"                     /country="Yemen"     D-loop
+-0.664842
+0.33885
+-0.176141
+0.203658
+0.301941
+364
+KM986625
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y539"                     /db_xref="taxon:9606"                     /haplogroup="M23"                     /country="Yemen"     D-loop
+-0.886383
+0.357773
+-0.297195
+0.343356
+-0.60361
+365
+KM986626
+mitochondrion Homo sapiens (human)
+16575
+FEATURES             Location/Qualifiers     source          1..16575                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Y547"                     /db_xref="taxon:9606"                     /haplogroup="M1a1"                     /country="Yemen"     D-loop
+-0.587999
+0.342333
+-0.288847
+0.277112
+0.386219
+366
+KP076664
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA 233265"                     /db_xref="taxon:9606"                     /haplogroup="M30"                     /note="ethnicity:French; origin_locality:France"     D-loop
+-0.626073
+0.502068
+-0.368589
+0.321129
+0.303296
+368
+KP857593
+mitochondrion Homo sapiens (human)
+16572
+FEATURES             Location/Qualifiers     source          1..16572                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA 220016"                     /db_xref="taxon:9606"                     /haplogroup="M5a1b"                     /note="origin_locality:USA: GA"     D-loop
+-0.614818
+0.455399
+-0.295653
+-0.334366
+0.329813
+10
+GU012637
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /db_xref="taxon:9606"                     /haplogroup="E2a"                     /note="ethnicity:Filipino"     D-loop
+-0.550995
+0.512834
+-0.150785
+-0.264012
+0.271509
+18
+HM238216
+mitochondrion Homo sapiens (human)
+16569
+FEATURES             Location/Qualifiers     source          1..16569                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="YC17"                     /db_xref="taxon:9606"                     /haplogroup="E2b1"                     /country="Taiwan: Yami from Orchid Island"     D-loop
+-0.548377
+0.670408
+-0.322024
+-0.521852
+0.282156
+100
+KF006361
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA 254214"                     /db_xref="taxon:9606"                     /haplogroup="E1a1a1"                     /note="ethnicity:Filipino; origin_locality:Philippines:                     Bohol"     D-loop
+-0.567964
+0.628031
+-0.236474
+-0.789501
+0.336359
+154
+KJ154582
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV214"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: Bougainville  Buka"     D-loop
+-0.543217
+0.551125
+-0.1171
+-0.566897
+0.23894
+155
+KJ154586
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="BGV219"                     /db_xref="taxon:9606"                     /haplogroup="E1b+16261"                     /country="Papua New Guinea: Bougainville  Buka"     D-loop
+-0.53564
+0.643679
+-0.286586
+-0.68553
+0.281248
+171
+KJ154653
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="CH52"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Solomon Islands: Choiseul"     D-loop
+-0.502394
+0.618455
+-0.24344
+-0.669078
+0.326322
+200
+KJ154687
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS12"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Solomon Islands: Isabel"     D-loop
+-0.605058
+0.430634
+-0.196991
+-0.350631
+0.318054
+202
+KJ154689
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS18"                     /db_xref="taxon:9606"                     /haplogroup="E2a"                     /country="Solomon Islands: Isabel"     D-loop
+-0.533716
+0.635086
+-0.283172
+-0.676597
+0.297298
+203
+KJ154690
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS19"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Solomon Islands: Isabel"     D-loop
+-0.604905
+0.431146
+-0.194246
+-0.349029
+0.315618
+208
+KJ154696
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS38"                     /db_xref="taxon:9606"                     /haplogroup="E2a"                     /country="Solomon Islands: Isabel"     D-loop
+-0.500173
+0.613458
+-0.236026
+-0.644566
+0.317092
+209
+KJ154697
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="IS42"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Solomon Islands: Isabel"     D-loop
+-0.604905
+0.431146
+-0.194246
+-0.349029
+0.315618
+223
+KJ154717
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="KO74"                     /db_xref="taxon:9606"                     /haplogroup="E2a"                     /country="Solomon Islands: Isabel"     D-loop
+-0.537054
+0.645402
+-0.296376
+-0.703462
+0.279892
+269
+KJ154781
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="RUT13"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Solomon Islands: Choiseul"     D-loop
+-0.51875
+0.637351
+-0.250872
+-0.724595
+0.284806
+274
+KJ154788
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SA08"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Solomon Islands: Savo"     D-loop
+-0.500173
+0.613458
+-0.236026
+-0.644566
+0.317092
+277
+KJ154791
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SA19"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Solomon Islands: Savo"     D-loop
+-0.500173
+0.613458
+-0.236026
+-0.644566
+0.317092
+280
+KJ154794
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="SA35"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Solomon Islands: Guadalcanal"     D-loop
+-0.54499
+0.664255
+-0.268222
+-1.
+0.323349
+294
+KJ154836
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1054"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.54499
+0.664255
+-0.268222
+-1.
+0.323349
+295
+KJ154837
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1055"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.53865
+0.652137
+-0.263606
+-0.944558
+0.323511
+296
+KJ154841
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1062"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.54499
+0.664255
+-0.268222
+-1.
+0.323349
+297
+KJ154843
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1065"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.54427
+0.662662
+-0.267605
+-0.992785
+0.323411
+298
+KJ154844
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1066"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.53865
+0.652137
+-0.263606
+-0.944558
+0.323511
+299
+KJ154845
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1068"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.543786
+0.662941
+-0.255717
+-0.974778
+0.326128
+300
+KJ154846
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1069"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.53865
+0.652137
+-0.263606
+-0.944558
+0.323511
+302
+KJ154848
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1071"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.53865
+0.652137
+-0.263606
+-0.944558
+0.323511
+303
+KJ154850
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1074"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.54499
+0.664255
+-0.268222
+-1.
+0.323349
+305
+KJ154853
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1081"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.53865
+0.652137
+-0.263606
+-0.944558
+0.323511
+306
+KJ154855
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1083"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.53865
+0.652137
+-0.263606
+-0.944558
+0.323511
+307
+KJ154856
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1086"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.543786
+0.662941
+-0.255717
+-0.974778
+0.326128
+311
+KJ154863
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV1098"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Ata"     D-loop
+-0.547677
+0.57824
+-0.273083
+-0.761241
+0.312804
+312
+KJ154892
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="UV2108"                     /db_xref="taxon:9606"                     /haplogroup="E1b1"                     /country="Papua New Guinea: New Britain  Anem"     D-loop
+-0.621303
+0.493771
+-0.161894
+-0.584855
+0.20856
+334
+KJ154942
+mitochondrion Homo sapiens (human)
+16568
+FEATURES             Location/Qualifiers     source          1..16568                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="VL42"                     /db_xref="taxon:9606"                     /haplogroup="E1a2"                     /country="Solomon Islands: Vella Lavella"     D-loop
+-0.88659
+0.371276
+-0.475242
+0.243845
+0.515412
+367
+KP763848
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /db_xref="taxon:9606"                     /haplogroup="ERI41"     D-loop
+-0.587632
+0.448154
+-0.3762
+0.143942
+0.430759
+13
+GU123035
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Tm95"                     /db_xref="taxon:9606"                     /haplogroup="G2b"                     /country="Russia"     D-loop
+-0.684872
+0.462887
+-0.359629
+-0.0403704
+0.609203
+14
+GU123045
+mitochondrion Homo sapiens (human)
+16571
+FEATURES             Location/Qualifiers     source          1..16571                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="Tm139"                     /db_xref="taxon:9606"                     /haplogroup="G2a"                     /country="Russia"     D-loop
+-0.657066
+0.429181
+-0.329239
+0.0317519
+0.567739
+82
+KC109820
+mitochondrion Homo sapiens (human)
+16567
+FEATURES             Location/Qualifiers     source          1..16567                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolate="FTDNA N109968"                     /db_xref="taxon:9606"                     /haplogroup="G2a1"                     /note="ethnicity:Chinese; origin_locality:China"     D-loop
+-0.654574
+0.527257
+-0.391758
+-0.0251924
+0.593712
+94
+KC911517
+mitochondrion Homo sapiens (human)
+16570
+FEATURES             Location/Qualifiers     source          1..16570                     /organism="Homo sapiens"                     /organelle="mitochondrion"                     /mol_type="genomic DNA"                     /isolation_source="Azerbaijanian"                     /db_xref="taxon:9606"                     /haplogroup="G2a3"                     /country="Iran"     D-loop

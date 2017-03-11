@@ -1,0 +1,317 @@
+20,11
+blue,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+E.coli (20), H.pylori (11)
+Sampling from E.coli and H.pylori; Number of genomic DNA sequences is 31; FCGR with k=9; Approx. Information
+0.955383
+1.
+-0.257271
+0.558528
+0.36496
+1
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+4
+0.910407
+-0.121228
+0.550265
+0.641919
+-1.
+2
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+29
+0.97921
+-0.267896
+0.662458
+0.850003
+0.0829042
+3
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+5
+0.965361
+-0.0785176
+0.312657
+-1.
+-0.668633
+4
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+11
+0.904873
+-0.102646
+0.584649
+-0.646366
+-0.56404
+5
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+12
+0.768206
+-0.683511
+1.
+0.519073
+-0.855396
+6
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+23
+0.894886
+-0.556811
+0.439212
+-0.725272
+0.377616
+7
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+8
+0.876458
+-0.62683
+0.276754
+-0.353361
+0.508611
+8
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+19
+0.86403
+-0.779852
+0.25212
+0.265809
+0.662438
+9
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+21
+0.904094
+-0.692364
+0.210518
+0.657117
+0.505884
+10
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+15
+0.98165
+-0.738986
+0.313086
+0.279178
+0.870125
+11
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+28
+0.857817
+-0.68498
+0.271345
+-0.53727
+1.
+12
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+16
+0.883623
+-0.952186
+-1.
+0.0578669
+-0.828172
+13
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+25
+0.989689
+-0.628184
+0.0510292
+-0.270631
+0.669308
+14
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+30
+0.939801
+-0.424659
+0.310705
+-0.675045
+0.29917
+15
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+2
+0.950777
+-1.
+-0.972155
+0.293123
+-0.507778
+16
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+17
+0.931469
+-0.528699
+0.620261
+1.
+0.210486
+17
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+14
+1.
+0.856915
+-0.253987
+0.0563451
+0.35793
+18
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+22
+0.978533
+0.810673
+-0.0408253
+0.129845
+0.428762
+19
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+13
+0.920278
+-0.0805893
+0.335459
+-0.785068
+-0.330494
+20
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+7
+-0.94808
+-0.253212
+0.165705
+-0.0293336
+0.165772
+21
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+5
+-0.967132
+-0.0705406
+0.296093
+-0.0181214
+-0.142404
+22
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+8
+-0.962594
+-0.0431694
+0.146988
+0.00279714
+0.0470703
+23
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+11
+-0.995504
+-0.257902
+0.297481
+-0.031749
+-0.285033
+24
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+10
+-0.930606
+-0.103855
+0.319847
+-0.0402619
+-0.111967
+25
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+1
+-0.965945
+-0.249206
+0.168106
+0.0249268
+0.159269
+26
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+7
+-0.959858
+-0.394443
+0.0993643
+0.0310095
+0.255921
+27
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+4
+-1.
+-0.355587
+0.273276
+0.0239239
+0.0881218
+28
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+9
+-0.932483
+-0.548801
+0.00176093
+0.0861947
+0.357942
+29
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+6
+-0.957441
+-0.434126
+0.0964482
+0.0344647
+0.149602
+30
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+3
+-0.969995
+-0.501466
+0.00527218
+0.0949434
+0.337728
+31
+NC_000915.1
+Helicobacter pylori 26695 chromosome  complete genome
+150000
+2

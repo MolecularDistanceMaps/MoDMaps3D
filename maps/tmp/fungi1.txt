@@ -1,0 +1,1877 @@
+1,5,2,10,3,1,7,3,2,4,4,7,6,5,7,6,13,14,13,14,8,8,8,8,6,3,6,5,4,4
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+S.cerevisiae (73), C.gattii (114)
+Sampling from S.cerevisiae and C.gattii; Number of genomic DNA sequences is 187; FCGR with k=9; Approx. Information
+0.687588
+-0.969763
+-0.748423
+-0.564496
+-0.261168
+1
+NC_001133.9
+Saccharomyces cerevisiae S288c chromosome I  complete sequence
+150000
+1
+0.87535
+-0.977812
+-0.740261
+-0.640659
+-0.230272
+2
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+1
+0.870864
+-0.963555
+-0.708645
+0.0447879
+-0.471398
+3
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+4
+0.869747
+-0.966333
+-0.650932
+-0.387742
+-0.295559
+4
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+3
+0.851628
+-0.977122
+-0.645426
+-0.427398
+-0.296682
+5
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+5
+0.719015
+-0.980106
+-0.656771
+-0.431896
+-0.305743
+6
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+2
+0.801205
+-0.976687
+-0.736492
+-0.273471
+-0.366125
+7
+NC_001135.5
+Saccharomyces cerevisiae S288c chromosome III  complete sequence
+150000
+1
+0.791404
+-0.970243
+-0.712357
+-0.371735
+-0.316829
+8
+NC_001135.5
+Saccharomyces cerevisiae S288c chromosome III  complete sequence
+150000
+2
+0.811054
+-0.976236
+-0.710129
+-0.509836
+-0.236939
+9
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+5
+0.855825
+-0.974
+-0.682448
+-0.404446
+-0.294213
+10
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+6
+0.835827
+-0.962557
+-0.652344
+-0.401422
+-0.292378
+11
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+7
+0.92064
+-0.94899
+-0.670468
+-0.173924
+-0.347008
+12
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+2
+0.944633
+-0.970881
+-0.673468
+0.028258
+-0.460772
+13
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+4
+0.97966
+-0.970687
+-0.734295
+0.222097
+-0.559492
+14
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+10
+0.973906
+-0.972703
+-0.692595
+0.0610672
+-0.482105
+15
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+8
+1.
+-0.964616
+-0.649829
+0.0385194
+-0.470026
+16
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+3
+0.885381
+-0.973092
+-0.714161
+0.0414952
+-0.47069
+17
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+1
+0.81149
+-0.977211
+-0.711889
+-0.388078
+-0.314259
+18
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+9
+0.820765
+-0.976159
+-0.765841
+-0.743342
+-0.206297
+19
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+3
+0.793828
+-0.972209
+-0.709698
+-0.393781
+-0.279713
+20
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+2
+0.889238
+-0.970396
+-0.738473
+-0.0148496
+-0.449117
+21
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+1
+0.828844
+-0.975873
+-0.74679
+-0.627357
+-0.259936
+22
+NC_001138.5
+Saccharomyces cerevisiae S288c chromosome VI  complete sequence
+150000
+1
+0.915131
+-0.975296
+-0.675226
+-0.450384
+-0.285581
+23
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+3
+0.854416
+-0.972927
+-0.673938
+-0.426597
+-0.282609
+24
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+2
+0.857108
+-0.970894
+-0.68089
+-0.405843
+-0.324744
+25
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+7
+0.905706
+-0.970338
+-0.745325
+0.413716
+-0.606615
+26
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+6
+0.91629
+-0.970663
+-0.675897
+-0.361339
+-0.355848
+27
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+4
+0.960463
+-0.971645
+-0.705978
+0.0755651
+-0.468965
+28
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+1
+0.791494
+-0.975649
+-0.698696
+-0.368343
+-0.3232
+29
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+5
+0.845791
+-0.977572
+-0.686277
+-0.742125
+-0.189072
+30
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+3
+0.785779
+-0.969757
+-0.737749
+-0.393832
+-0.285081
+31
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+1
+0.84869
+-0.970106
+-0.676332
+-0.41678
+-0.317424
+32
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+2
+0.791341
+-0.977496
+-0.753257
+-0.985923
+-0.121364
+33
+NC_001141.2
+Saccharomyces cerevisiae S288c chromosome IX  complete sequence
+150000
+2
+0.776627
+-0.977366
+-0.718672
+-0.369687
+-0.305992
+34
+NC_001141.2
+Saccharomyces cerevisiae S288c chromosome IX  complete sequence
+150000
+1
+0.843162
+-0.975822
+-0.747537
+-1.
+-0.125151
+35
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+2
+0.821002
+-0.975932
+-0.679744
+-0.404619
+-0.316839
+36
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+3
+0.853023
+-0.973089
+-0.707218
+-0.335231
+-0.33006
+37
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+4
+0.867142
+-0.959785
+-0.664958
+0.080551
+-0.501402
+38
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+1
+0.835275
+-0.97424
+-0.653552
+-0.48523
+-0.27042
+39
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+4
+0.843492
+-0.97244
+-0.721679
+-0.402386
+-0.292889
+40
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+1
+0.889541
+-0.9718
+-0.678072
+-0.401086
+-0.313843
+41
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+2
+0.815915
+-0.97975
+-0.694214
+-0.433665
+-0.279585
+42
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+3
+0.823473
+-0.964324
+-0.755653
+-0.850317
+-0.13425
+43
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+1
+0.896488
+-0.972263
+-0.716442
+-0.104276
+-0.420187
+44
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+4
+0.766916
+-0.974046
+-0.692389
+-0.322395
+-0.293608
+45
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+7
+0.866858
+-0.928921
+-0.699364
+0.563969
+-0.660319
+46
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+3
+0.95264
+-0.973057
+-0.780358
+0.00315738
+-0.485202
+47
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+2
+0.809543
+-0.97795
+-0.686704
+-0.397102
+-0.29729
+48
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+6
+0.906967
+-0.970712
+-0.750003
+-0.0846369
+-0.41531
+49
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+5
+0.819302
+-0.975434
+-0.736509
+-0.787453
+-0.171967
+50
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+5
+0.924435
+-0.961012
+-0.728533
+0.0547457
+-0.51292
+51
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+4
+0.881207
+-0.9574
+-0.747734
+-0.00943136
+-0.460309
+52
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+2
+0.898499
+-0.970445
+-0.67091
+-0.401728
+-0.328464
+53
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+3
+0.858562
+-0.972349
+-0.636497
+-0.417297
+-0.295004
+54
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+1
+0.811452
+-0.973702
+-0.649106
+-0.392308
+-0.29604
+55
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+6
+0.78772
+-0.983925
+-0.725185
+-0.581934
+-0.253537
+56
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+5
+0.830631
+-0.967436
+-0.676258
+-0.379125
+-0.309112
+57
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+2
+0.797877
+-0.974961
+-0.733894
+-0.38766
+-0.304262
+58
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+4
+0.877624
+-0.969916
+-0.751833
+0.0817181
+-0.498474
+59
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+1
+0.746154
+-0.974459
+-0.700835
+-0.362665
+-0.330868
+60
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+3
+0.925672
+-0.973549
+-0.696006
+-0.169485
+-0.405256
+61
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+4
+0.778485
+-0.977753
+-0.649256
+-0.394816
+-0.300906
+62
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+5
+0.853951
+-0.971368
+-0.687612
+-0.409651
+-0.31456
+63
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+7
+0.826701
+-0.979483
+-0.721264
+-0.0426615
+-0.449885
+64
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+2
+0.95356
+-0.964235
+-0.66642
+-0.165373
+-0.386071
+65
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+1
+0.860427
+-0.970571
+-0.700582
+-0.371945
+-0.300535
+66
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+3
+0.86519
+-0.970803
+-0.774044
+-0.215524
+-0.370119
+67
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+6
+0.839031
+-0.979517
+-0.768336
+-0.419301
+-0.345241
+68
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+4
+0.893049
+-0.964073
+-0.661661
+-0.412728
+-0.280761
+69
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+5
+0.881164
+-0.969305
+-0.646066
+-0.363656
+-0.322002
+70
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+1
+0.809598
+-0.967208
+-0.677745
+-0.373679
+-0.318191
+71
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+2
+0.850397
+-0.971578
+-0.648675
+-0.369767
+-0.310448
+72
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+3
+0.975426
+-0.957031
+-0.696586
+0.447626
+-0.623667
+73
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+6
+-0.878302
+-0.98181
+-0.915983
+-0.125102
+-0.258341
+74
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+10
+-0.916385
+-0.987947
+-0.837165
+-0.290716
+-0.340478
+75
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+4
+-0.912537
+-0.995518
+-0.74093
+-0.296864
+-0.345285
+76
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+8
+-0.795838
+-0.997331
+-0.854488
+-0.282962
+-0.386574
+77
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+3
+-0.686943
+-0.992702
+0.920044
+-0.377812
+-0.386577
+78
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+12
+-0.872788
+-0.993551
+-0.797208
+-0.320514
+-0.336822
+79
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+5
+-0.831503
+-0.991204
+-0.735332
+-0.277679
+-0.330099
+80
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+11
+-0.791201
+-0.987338
+-0.747811
+-0.296801
+-0.284887
+81
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+7
+-0.751971
+-0.999693
+-0.824345
+-0.263902
+-0.37478
+82
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+13
+-0.842426
+-0.995949
+-0.768422
+-0.306525
+-0.380097
+83
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+1
+-0.84644
+-0.994798
+-0.754918
+-0.379761
+-0.356444
+84
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+9
+-1.
+-0.989044
+-0.857344
+-0.273033
+-0.368053
+85
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+6
+-0.839
+-0.99233
+-0.92298
+-0.288811
+-0.32935
+86
+NC_014938.1
+Cryptococcus gattii WM276 chromosome A  complete sequence
+150000
+2
+-0.877769
+-0.995257
+-0.933227
+-0.330958
+-0.364306
+87
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+11
+-0.888986
+-0.99416
+-0.93237
+-0.269856
+-0.353176
+88
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+8
+-0.83647
+-0.997346
+-0.788325
+-0.316689
+-0.353117
+89
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+14
+-0.799227
+-0.99366
+-0.774957
+-0.307652
+-0.357196
+90
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+9
+-0.703727
+-0.998949
+-0.79842
+-0.32154
+-0.367018
+91
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+7
+-0.773331
+-0.994261
+-0.716152
+-0.273054
+-0.364303
+92
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+5
+-0.701966
+-0.980478
+0.422807
+-0.307953
+-0.392695
+93
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+3
+-0.792587
+-0.997664
+-0.801563
+-0.275459
+-0.344716
+94
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+6
+-0.810157
+-0.995067
+-0.871063
+-0.314166
+-0.348882
+95
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+2
+-0.893041
+-0.996713
+-0.804242
+-0.353654
+-0.335234
+96
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+13
+-0.440751
+0.750018
+-0.711976
+-0.948855
+-1.
+97
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+4
+-0.441766
+1.
+-0.736633
+-0.643378
+-0.66702
+98
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+12
+-0.632966
+0.339353
+-0.564894
+1.
+1.
+99
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+1
+-0.871778
+-0.990864
+-0.794004
+-0.293804
+-0.314236
+100
+NC_014939.1
+Cryptococcus gattii WM276 chromosome B  complete sequence
+150000
+10
+-0.799371
+-0.986582
+-0.858926
+-0.289565
+-0.344206
+101
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+3
+-0.864826
+-0.990957
+-0.870215
+-0.280764
+-0.334297
+102
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+10
+-0.857607
+-0.997583
+-0.792543
+-0.301088
+-0.312265
+103
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+6
+-0.76562
+-0.992272
+-0.763041
+-0.378018
+-0.310364
+104
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+8
+-0.814095
+-0.991997
+-0.851495
+-0.345936
+-0.349199
+105
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+12
+-0.487146
+-0.991483
+0.548554
+-0.255021
+-0.271993
+106
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+13
+-0.797228
+-0.996716
+-0.754699
+-0.310054
+-0.370558
+107
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+7
+-0.799339
+-0.989963
+-0.814907
+-0.33364
+-0.369092
+108
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+4
+-0.901966
+-0.996903
+-0.739665
+-0.319855
+-0.374811
+109
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+11
+-0.752931
+-0.999725
+-0.7994
+-0.327712
+-0.363796
+110
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+2
+-0.908158
+-0.993841
+-0.869315
+-0.291912
+-0.367141
+111
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+1
+-0.863677
+-0.993505
+-0.825954
+-0.333317
+-0.36003
+112
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+9
+-0.787215
+-0.993696
+-0.822645
+-0.303192
+-0.363104
+113
+NC_014940.1
+Cryptococcus gattii WM276 chromosome C  complete sequence
+150000
+5
+-0.823739
+-0.999529
+-0.907468
+-0.33943
+-0.326123
+114
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+1
+-0.836201
+-0.993039
+-0.809805
+-0.328545
+-0.35283
+115
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+3
+-0.845108
+-0.987936
+-0.796858
+-0.285292
+-0.361954
+116
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+5
+-0.791782
+-0.994903
+-0.794749
+-0.371038
+-0.350789
+117
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+10
+-0.729329
+-0.988973
+1.
+-0.381806
+-0.361309
+118
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+11
+-0.92514
+-0.992177
+-0.873101
+-0.279351
+-0.345481
+119
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+14
+-0.707367
+-0.999929
+-0.771581
+-0.336663
+-0.371597
+120
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+6
+-0.898312
+-0.989337
+-0.806765
+-0.287566
+-0.382463
+121
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+8
+-0.840097
+-0.993164
+-0.828999
+-0.307378
+-0.354714
+122
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+7
+-0.883614
+-0.989285
+-0.806471
+-0.357225
+-0.368265
+123
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+12
+-0.688922
+-0.995716
+-0.803971
+-0.276357
+-0.348121
+124
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+4
+-0.783388
+-0.987905
+-0.764033
+-0.162226
+-0.240215
+125
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+2
+-0.981504
+-0.991194
+-0.901519
+-0.273086
+-0.341579
+126
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+13
+-0.886674
+-0.994064
+-0.833957
+-0.303303
+-0.386426
+127
+NC_014941.1
+Cryptococcus gattii WM276 chromosome D  complete sequence
+150000
+9
+-0.893313
+-0.989564
+-0.92724
+-0.265909
+-0.365036
+128
+NC_014942.1
+Cryptococcus gattii WM276 chromosome E  complete sequence
+150000
+7
+-0.824064
+-0.997369
+-0.888172
+-0.27279
+-0.340322
+129
+NC_014942.1
+Cryptococcus gattii WM276 chromosome E  complete sequence
+150000
+3
+-0.849234
+-0.99861
+-0.794285
+-0.352829
+-0.342721
+130
+NC_014942.1
+Cryptococcus gattii WM276 chromosome E  complete sequence
+150000
+5
+-0.819376
+-0.994529
+-0.745551
+-0.33279
+-0.367589
+131
+NC_014942.1
+Cryptococcus gattii WM276 chromosome E  complete sequence
+150000
+6
+-0.704167
+-0.992844
+0.175475
+-0.313347
+-0.329397
+132
+NC_014942.1
+Cryptococcus gattii WM276 chromosome E  complete sequence
+150000
+8
+-0.777968
+-0.996552
+-0.796819
+-0.301218
+-0.331673
+133
+NC_014942.1
+Cryptococcus gattii WM276 chromosome E  complete sequence
+150000
+2
+-0.918152
+-0.993115
+-0.827979
+-0.24134
+-0.352833
+134
+NC_014942.1
+Cryptococcus gattii WM276 chromosome E  complete sequence
+150000
+1
+-0.931282
+-0.99081
+-0.8296
+-0.346911
+-0.349793
+135
+NC_014942.1
+Cryptococcus gattii WM276 chromosome E  complete sequence
+150000
+4
+-0.839427
+-0.993392
+-0.941483
+-0.285521
+-0.371438
+136
+NC_014943.1
+Cryptococcus gattii WM276 chromosome F  complete sequence
+150000
+5
+-0.781562
+-0.995233
+-0.883727
+-0.233767
+-0.350214
+137
+NC_014943.1
+Cryptococcus gattii WM276 chromosome F  complete sequence
+150000
+3
+-0.937718
+-0.992589
+-0.808156
+-0.289945
+-0.351656
+138
+NC_014943.1
+Cryptococcus gattii WM276 chromosome F  complete sequence
+150000
+7
+-0.511216
+-0.998575
+0.678701
+-0.29133
+-0.411344
+139
+NC_014943.1
+Cryptococcus gattii WM276 chromosome F  complete sequence
+150000
+2
+-0.895842
+-0.9965
+-0.82381
+-0.350692
+-0.338671
+140
+NC_014943.1
+Cryptococcus gattii WM276 chromosome F  complete sequence
+150000
+8
+-0.935789
+-0.990645
+-0.821453
+-0.324576
+-0.339343
+141
+NC_014943.1
+Cryptococcus gattii WM276 chromosome F  complete sequence
+150000
+4
+-0.778975
+-0.997012
+-0.741825
+-0.336031
+-0.333914
+142
+NC_014943.1
+Cryptococcus gattii WM276 chromosome F  complete sequence
+150000
+1
+-0.842475
+-0.991809
+-0.74096
+-0.283721
+-0.382275
+143
+NC_014943.1
+Cryptococcus gattii WM276 chromosome F  complete sequence
+150000
+6
+-0.807233
+-0.994977
+-0.862577
+-0.262981
+-0.369533
+144
+NC_014944.1
+Cryptococcus gattii WM276 chromosome G  complete sequence
+150000
+3
+-0.892622
+-0.990037
+-0.886779
+-0.266894
+-0.358312
+145
+NC_014944.1
+Cryptococcus gattii WM276 chromosome G  complete sequence
+150000
+4
+-0.782356
+-0.993952
+-0.0478205
+-0.289319
+-0.374804
+146
+NC_014944.1
+Cryptococcus gattii WM276 chromosome G  complete sequence
+150000
+7
+-0.690632
+-0.995405
+-0.433822
+-0.29601
+-0.363934
+147
+NC_014944.1
+Cryptococcus gattii WM276 chromosome G  complete sequence
+150000
+8
+-0.954714
+-0.995268
+-0.803652
+-0.295028
+-0.379431
+148
+NC_014944.1
+Cryptococcus gattii WM276 chromosome G  complete sequence
+150000
+1
+-0.873565
+-0.999179
+-0.77007
+-0.318004
+-0.377795
+149
+NC_014944.1
+Cryptococcus gattii WM276 chromosome G  complete sequence
+150000
+2
+-0.818803
+-0.995522
+-0.842172
+-0.283497
+-0.368711
+150
+NC_014944.1
+Cryptococcus gattii WM276 chromosome G  complete sequence
+150000
+5
+-0.942358
+-0.986933
+-0.889778
+-0.260169
+-0.338315
+151
+NC_014944.1
+Cryptococcus gattii WM276 chromosome G  complete sequence
+150000
+6
+-0.928493
+-0.990077
+-0.930105
+-0.301847
+-0.393162
+152
+NC_014945.1
+Cryptococcus gattii WM276 chromosome H  complete sequence
+150000
+4
+-0.910334
+-0.987108
+-0.91383
+-0.296834
+-0.34438
+153
+NC_014945.1
+Cryptococcus gattii WM276 chromosome H  complete sequence
+150000
+1
+-0.841721
+-0.995226
+0.0453339
+-0.287328
+-0.344866
+154
+NC_014945.1
+Cryptococcus gattii WM276 chromosome H  complete sequence
+150000
+5
+-0.854777
+-0.982515
+-0.8159
+-0.292841
+-0.364344
+155
+NC_014945.1
+Cryptococcus gattii WM276 chromosome H  complete sequence
+150000
+7
+-0.785447
+-0.996734
+-0.721931
+-0.336164
+-0.351395
+156
+NC_014945.1
+Cryptococcus gattii WM276 chromosome H  complete sequence
+150000
+6
+-0.850918
+-0.995798
+-0.819159
+-0.308762
+-0.312125
+157
+NC_014945.1
+Cryptococcus gattii WM276 chromosome H  complete sequence
+150000
+2
+-0.941106
+-0.993288
+-1.
+-0.277402
+-0.360016
+158
+NC_014945.1
+Cryptococcus gattii WM276 chromosome H  complete sequence
+150000
+3
+-0.835446
+-0.992096
+-0.894979
+-0.271181
+-0.332785
+159
+NC_014945.1
+Cryptococcus gattii WM276 chromosome H  complete sequence
+150000
+8
+-0.935027
+-0.987812
+-0.828059
+-0.208954
+-0.363745
+160
+NC_014946.1
+Cryptococcus gattii WM276 chromosome I  complete sequence
+150000
+5
+-0.732755
+-0.992258
+-0.784012
+-0.335375
+-0.362065
+161
+NC_014946.1
+Cryptococcus gattii WM276 chromosome I  complete sequence
+150000
+3
+-0.947007
+-0.992735
+-0.824297
+-0.24149
+-0.38796
+162
+NC_014946.1
+Cryptococcus gattii WM276 chromosome I  complete sequence
+150000
+6
+-0.848126
+-0.993772
+-0.764726
+-0.333035
+-0.359031
+163
+NC_014946.1
+Cryptococcus gattii WM276 chromosome I  complete sequence
+150000
+1
+-0.916065
+-0.992851
+-0.836936
+-0.325053
+-0.335494
+164
+NC_014946.1
+Cryptococcus gattii WM276 chromosome I  complete sequence
+150000
+2
+-0.728025
+-1.
+0.176437
+-0.296409
+-0.373789
+165
+NC_014946.1
+Cryptococcus gattii WM276 chromosome I  complete sequence
+150000
+4
+-0.804278
+-0.998348
+-0.859786
+-0.29385
+-0.408187
+166
+NC_014947.1
+Cryptococcus gattii WM276 chromosome J  complete sequence
+150000
+1
+-0.802718
+-0.996289
+0.0394523
+-0.293688
+-0.373744
+167
+NC_014947.1
+Cryptococcus gattii WM276 chromosome J  complete sequence
+150000
+3
+-0.771843
+-0.994999
+-0.874539
+-0.306812
+-0.375036
+168
+NC_014947.1
+Cryptococcus gattii WM276 chromosome J  complete sequence
+150000
+2
+-0.855987
+-0.989079
+-0.892029
+-0.271787
+-0.370023
+169
+NC_014948.1
+Cryptococcus gattii WM276 chromosome K  complete sequence
+150000
+4
+-0.796326
+-0.994652
+-0.895414
+-0.331822
+-0.32221
+170
+NC_014948.1
+Cryptococcus gattii WM276 chromosome K  complete sequence
+150000
+1
+-0.871946
+-0.993025
+-0.809127
+-0.320264
+-0.36038
+171
+NC_014948.1
+Cryptococcus gattii WM276 chromosome K  complete sequence
+150000
+6
+-0.843766
+-0.99457
+-0.84336
+-0.330846
+-0.346759
+172
+NC_014948.1
+Cryptococcus gattii WM276 chromosome K  complete sequence
+150000
+5
+-0.805452
+-0.999683
+-0.849186
+-0.269846
+-0.366677
+173
+NC_014948.1
+Cryptococcus gattii WM276 chromosome K  complete sequence
+150000
+3
+-0.817371
+-0.987757
+0.551539
+-0.248575
+-0.359906
+174
+NC_014948.1
+Cryptococcus gattii WM276 chromosome K  complete sequence
+150000
+2
+-0.854888
+-0.991255
+-0.869211
+-0.268027
+-0.389742
+175
+NC_014949.1
+Cryptococcus gattii WM276 chromosome L  complete sequence
+150000
+3
+-0.82124
+-0.991468
+-0.829702
+-0.298713
+-0.352422
+176
+NC_014949.1
+Cryptococcus gattii WM276 chromosome L  complete sequence
+150000
+4
+-0.763017
+-0.993938
+0.360106
+-0.304135
+-0.368829
+177
+NC_014949.1
+Cryptococcus gattii WM276 chromosome L  complete sequence
+150000
+1
+-0.847315
+-0.994428
+-0.824215
+-0.238425
+-0.366195
+178
+NC_014949.1
+Cryptococcus gattii WM276 chromosome L  complete sequence
+150000
+2
+-0.869417
+-0.991328
+-0.893283
+-0.350315
+-0.353875
+179
+NC_014949.1
+Cryptococcus gattii WM276 chromosome L  complete sequence
+150000
+5
+-0.922804
+-0.979202
+0.192571
+-0.26588
+-0.352906
+180
+NC_014950.1
+Cryptococcus gattii WM276 chromosome M  complete sequence
+150000
+1
+-0.702536
+-0.997456
+-0.784179
+-0.289468
+-0.370425
+181
+NC_014950.1
+Cryptococcus gattii WM276 chromosome M  complete sequence
+150000
+3
+-0.907116
+-0.984194
+-0.895199
+-0.303093
+-0.358448
+182
+NC_014950.1
+Cryptococcus gattii WM276 chromosome M  complete sequence
+150000
+4
+-0.960354
+-0.990684
+-0.927775
+-0.294769
+-0.365524
+183
+NC_014950.1
+Cryptococcus gattii WM276 chromosome M  complete sequence
+150000
+2
+-0.911129
+-0.985033
+-0.857818
+-0.297829
+-0.349178
+184
+NC_014951.1
+Cryptococcus gattii WM276 chromosome N  complete sequence
+150000
+2
+-0.820916
+-0.988326
+-0.79475
+-0.191936
+-0.211818
+185
+NC_014951.1
+Cryptococcus gattii WM276 chromosome N  complete sequence
+150000
+4
+-0.826785
+-0.991389
+-0.835682
+-0.327962
+-0.363891
+186
+NC_014951.1
+Cryptococcus gattii WM276 chromosome N  complete sequence
+150000
+1
+-0.801358
+-0.997891
+0.240586
+-0.324111
+-0.407482
+187
+NC_014951.1
+Cryptococcus gattii WM276 chromosome N  complete sequence
+150000
+3

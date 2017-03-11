@@ -1,0 +1,1487 @@
+33,115
+green,red
+5
+Index,Acc,Name,Length,Taxa
+green,red
+Strepsirrhini (33),Haplorrhini (115)
+Order Primates#mtDNA, complete genome#148 sequences#Approx.Inf.Dist.(k=9)#16,629
+-0.525763
+-0.601673
+-0.213592
+-0.409005
+-0.341617
+10
+NC_002765.1
+mitochondrion Nycticebus coucang (slow loris)
+16764
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lorisiformes  Lorisidae  Nycticebus}
+-0.770245
+-0.51742
+-0.584181
+-0.489228
+-0.283565
+12
+NC_004025.1
+mitochondrion Lemur catta (Ring-tailed lemur)
+17036
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Lemur}
+-0.438183
+-0.585631
+-0.194769
+-0.404419
+-0.307897
+26
+NC_010299.1
+mitochondrion Daubentonia madagascariensis (aye-aye)
+16620
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Chiromyiformes  Daubentoniidae  Daubentonia}
+-0.919715
+-0.559873
+-0.87967
+-0.516922
+-0.219206
+27
+NC_010300.1
+mitochondrion Eulemur mongoz (mongoose lemur)
+16686
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Eulemur}
+-0.767569
+-0.65218
+-0.64602
+-0.445274
+-0.376133
+28
+NC_011053.1
+mitochondrion Propithecus coquereli (Coquerel's sifaka)
+17104
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Indriidae  Propithecus}
+-0.573152
+-0.57376
+-0.258908
+-0.418489
+-0.317885
+33
+NC_012761.1
+mitochondrion Galago senegalensis (Senegal galago)
+16795
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lorisiformes  Galagidae  Galago}
+-0.493333
+-0.610926
+-0.180872
+-0.385042
+-0.311799
+34
+NC_012762.1
+mitochondrion Otolemur crassicaudatus (thick-tailed bush baby)
+16827
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lorisiformes  Galagidae  Otolemur}
+-0.551721
+-0.558418
+-0.217596
+-0.43328
+-0.298874
+35
+NC_012763.1
+mitochondrion Loris tardigradus (slender loris)
+16776
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lorisiformes  Lorisidae  Loris}
+-0.441111
+-0.598822
+-0.175385
+-0.393935
+-0.336608
+36
+NC_012764.1
+mitochondrion Perodicticus potto (potto)
+16638
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lorisiformes  Lorisidae  Perodicticus}
+-0.998775
+-0.575876
+-1.
+-0.520183
+-0.224396
+37
+NC_012766.1
+mitochondrion Eulemur fulvus fulvus (brown lemur)
+17126
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Eulemur}
+-1.
+-0.579515
+-0.996363
+-0.520111
+-0.222644
+38
+NC_012769.1
+mitochondrion Eulemur fulvus mayottensis (brown lemur)
+17118
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Eulemur}
+-0.90454
+-0.556663
+-0.844086
+-0.526628
+-0.239535
+39
+NC_012771.1
+mitochondrion Eulemur macaco macaco (black lemur)
+17149
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Eulemur}
+-0.72672
+-0.523333
+-0.527138
+-0.469163
+-0.288191
+40
+NC_012773.1
+mitochondrion Varecia variegata variegata (black and white ruffled
+16965
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Varecia}
+-0.592184
+-0.562484
+-0.376412
+-0.430989
+-0.291692
+49
+NC_014453.1
+mitochondrion Lepilemur hubbardorum (Hubbard's sportive lemur)
+16854
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lepilemuridae  Lepilemur}
+-0.559874
+-0.599849
+-0.362919
+-0.420351
+-0.34019
+81
+NC_021940.1
+mitochondrion Avahi laniger (woolly lemur)
+16787
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Indriidae  Avahi}
+-0.469964
+-0.301619
+-0.28333
+-0.427949
+-0.291093
+86
+NC_021945.1
+mitochondrion Cheirogaleus medius (Lesser dwarf lemur)
+16804
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Cheirogaleidae  Cheirogaleus}
+-0.994647
+-0.576307
+-0.977685
+-0.524668
+-0.21892
+89
+NC_021948.1
+mitochondrion Eulemur rufus (Red-fronted lemur)
+16280
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Eulemur}
+-0.570258
+-0.572047
+-0.24935
+-0.419065
+-0.317594
+90
+NC_021949.1
+mitochondrion Galago moholi (Moholi bushbaby)
+16650
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lorisiformes  Galagidae  Galago}
+-0.749902
+-0.488728
+-0.558205
+-0.51025
+-0.272027
+91
+NC_021950.1
+mitochondrion Hapalemur griseus (bamboo lemur)
+16878
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Hapalemur}
+-0.580913
+-0.555825
+-0.370987
+-0.427878
+-0.294677
+94
+NC_021953.1
+mitochondrion Lepilemur ruficaudatus (red-tailed sportive lemur)
+16936
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lepilemuridae  Lepilemur}
+-0.54358
+-0.555456
+-0.222489
+-0.424221
+-0.297336
+96
+NC_021955.1
+mitochondrion Loris lydekkerianus (gray slender loris)
+16791
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lorisiformes  Lorisidae  Loris}
+-0.525847
+-0.602074
+-0.213202
+-0.40918
+-0.344995
+99
+NC_021958.1
+mitochondrion Nycticebus bengalensis (Bengal slow loris)
+16735
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lorisiformes  Lorisidae  Nycticebus}
+-0.736866
+-0.491464
+-0.581803
+-0.489014
+-0.302062
+100
+NC_021959.1
+mitochondrion Prolemur simus (greater bamboo lemur)
+16765
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Prolemur}
+-0.736386
+-0.643927
+-0.59274
+-0.436319
+-0.379673
+129
+NC_026084.1
+mitochondrion Propithecus diadema (diademed sifaka)
+17084
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Indriidae  Propithecus}
+-0.728761
+-0.524653
+-0.525342
+-0.464139
+-0.284602
+130
+NC_026085.1
+mitochondrion Varecia variegata (ruffed lemur)
+17051
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Varecia}
+-0.738226
+-0.63109
+-0.59109
+-0.43521
+-0.375667
+131
+NC_026086.1
+mitochondrion Propithecus edwardsi (Milne-Edwards sifaka)
+17100
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Indriidae  Propithecus}
+-0.614057
+-0.501026
+-0.351165
+-0.44622
+-0.29141
+132
+NC_026088.1
+mitochondrion Megaladapis edwardsi
+16781
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lepilemuridae  Megaladapis}
+-0.626509
+-0.517902
+-0.385007
+-0.455086
+-0.321857
+133
+NC_026090.1
+mitochondrion Palaeopropithecus ingens (large sloth lemur)
+16910
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Paleopropithecidae  Palaeopropithecus}
+-0.639823
+-0.541837
+-0.418859
+-0.464424
+-0.326126
+134
+NC_026095.1
+mitochondrion Indri indri
+17098
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Indriidae  Indri}
+-0.914674
+-0.579486
+-0.898168
+-0.521952
+-0.215849
+135
+NC_026098.1
+mitochondrion Eulemur rubriventer (red-bellied lemur)
+17534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Lemuridae  Eulemur}
+-0.761669
+-0.654378
+-0.645634
+-0.440412
+-0.379241
+141
+NC_027740.1
+mitochondrion Propithecus tattersalli (Tattersall's sifaka)
+17099
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Indriidae  Propithecus}
+-0.74314
+-0.642449
+-0.617574
+-0.449206
+-0.383653
+143
+NC_028210.1
+mitochondrion Propithecus verreauxi (white sifaka)
+17106
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Indriidae  Propithecus}
+-0.647237
+-0.427373
+-0.295715
+-0.497301
+-0.322761
+146
+NC_028718.1
+mitochondrion Microcebus murinus (gray mouse lemur)
+17114
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Strepsirrhini  Lemuriformes  Cheirogaleidae  Microcebus}
+-0.0202048
+-0.736201
+0.332171
+0.659672
+-0.315491
+1
+NC_001643.1
+mitochondrion Pan troglodytes (chimpanzee)
+16554
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Pan}
+-0.00100802
+-0.735048
+0.326916
+0.660556
+-0.327421
+2
+NC_001644.1
+mitochondrion Pan paniscus (pygmy chimpanzee)
+16563
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Pan}
+-0.000178706
+-0.733586
+0.327408
+0.603197
+-0.325158
+3
+NC_001645.1
+mitochondrion Gorilla gorilla (western gorilla)
+16364
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Gorilla}
+0.0201214
+-0.721288
+0.246581
+0.178333
+-0.328607
+4
+NC_001646.1
+mitochondrion Pongo pygmaeus (Bornean orangutan)
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Pongo}
+0.79954
+-0.867083
+-0.039393
+-0.792971
+0.991982
+5
+NC_001992.1
+mitochondrion Papio hamadryas (hamadryas baboon)
+16521
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Papio}
+0.0290755
+-0.747262
+0.261605
+0.468883
+-0.294809
+6
+NC_002082.1
+mitochondrion Hylobates lar (common gibbon)
+16472
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Hylobates}
+0.0230455
+-0.73025
+0.238349
+0.184346
+-0.298282
+7
+NC_002083.1
+mitochondrion Pongo abelii (Sumatran orangutan)
+16499
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Pongo}
+-0.582149
+-0.434169
+0.502273
+-0.6941
+-0.307015
+8
+NC_002763.1
+mitochondrion Cebus albifrons (white-fronted capuchin)
+16554
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Cebinae  Cebus}
+0.693028
+-0.771473
+-0.0323275
+-0.704035
+-0.623515
+9
+NC_002764.1
+mitochondrion Macaca sylvanus (Barbary ape)
+16586
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+-0.542573
+-0.475441
+-0.172271
+-0.45336
+-0.315299
+11
+NC_002811.1
+mitochondrion Tarsius bancanus (Horsfield's tarsier)
+16927
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Tarsiiformes  Tarsiidae  Tarsius}
+0.906767
+-0.968814
+-0.0804524
+-0.872635
+-1.
+13
+NC_005943.1
+mitochondrion Macaca mulatta (Rhesus monkey)
+16564
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+0.271709
+0.48885
+-0.0174038
+-0.376198
+-0.373891
+14
+NC_006900.1
+mitochondrion Trachypithecus obscurus (Dusky leaf-monkey)
+16560
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Trachypithecus}
+0.188232
+-0.0410992
+0.00621096
+-0.403243
+-0.287046
+15
+NC_006901.1
+mitochondrion Colobus guereza (mantled guereza)
+16648
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Colobus}
+0.614481
+-0.716571
+-0.0143102
+-0.606328
+-0.217762
+16
+NC_007009.1
+mitochondrion Chlorocebus aethiops (Cercopithecus aethiops)
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Chlorocebus}
+0.59441
+-0.677796
+-0.0136508
+-0.606723
+-0.237336
+17
+NC_008066.1
+mitochondrion Chlorocebus sabaeus (green monkey)
+16550
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Chlorocebus}
+0.199053
+0.242513
+-0.00542231
+-0.410809
+-0.312763
+18
+NC_008215.1
+mitochondrion Semnopithecus entellus (Hanuman langur)
+16532
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Semnopithecus}
+0.261071
+0.333354
+-0.0150936
+-0.392139
+-0.313331
+19
+NC_008216.1
+mitochondrion Nasalis larvatus (proboscis monkey)
+16570
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Nasalis}
+0.170386
+0.20624
+-0.00490301
+-0.427941
+-0.32936
+20
+NC_008217.1
+mitochondrion Presbytis melalophos (mitred leaf monkey)
+16543
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Presbytis}
+0.305319
+0.836803
+-0.0383734
+-0.359824
+-0.30977
+21
+NC_008218.1
+mitochondrion Rhinopithecus roxellana (golden snub-nosed monkey)
+16549
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Rhinopithecus}
+0.16195
+0.049622
+-0.012423
+-0.406801
+-0.289939
+22
+NC_008219.1
+mitochondrion Piliocolobus badius (red colobus)
+16595
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Piliocolobus}
+0.200483
+0.460282
+-0.0178948
+-0.394913
+-0.297993
+23
+NC_008220.1
+mitochondrion Pygathrix nemaeus (Red shanked douc langur)
+15467
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Pygathrix}
+0.65395
+-0.705421
+-0.0331366
+-0.598535
+-0.216295
+24
+NC_009747.1
+mitochondrion Chlorocebus pygerythrus (Cercopithecus pygerythrus)
+16343
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Chlorocebus}
+0.65333
+-0.715111
+-0.028336
+-0.600385
+-0.237707
+25
+NC_009748.1
+mitochondrion Chlorocebus tantalus (Cercopithecus tantalus)
+16368
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Chlorocebus}
+0.0039523
+-0.735439
+0.329681
+0.60954
+-0.323633
+29
+NC_011120.1
+mitochondrion Gorilla gorilla gorilla (western lowland gorilla)
+16412
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Gorilla}
+0.0253414
+-0.830047
+0.427309
+0.993996
+-0.323029
+30
+NC_011137.1
+mitochondrion Homo sapiens neanderthalensis (Neandertal)
+16565
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Homo}
+0.802871
+-0.933898
+-0.0734226
+-0.824822
+-0.877506
+31
+NC_011519.1
+mitochondrion Macaca thibetana (Pere David's macaque)
+16540
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+0.847302
+-0.90898
+-0.0687003
+-0.821745
+-0.86178
+32
+NC_012670.1
+mitochondrion Macaca fascicularis (crab-eating macaque)
+16575
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+-0.568804
+-0.465746
+-0.164918
+-0.458331
+-0.31851
+41
+NC_012774.1
+mitochondrion Carlito syrichta (Philippine tarsier)
+17004
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Tarsiiformes  Tarsiidae  Carlito}
+-0.702481
+-0.504698
+0.814849
+-0.822054
+-0.346642
+42
+NC_012775.1
+mitochondrion Saimiri sciureus (common squirrel monkey)
+16474
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Saimiriinae  Saimiri}
+0.0173461
+-0.827073
+0.428444
+1.
+-0.323551
+43
+NC_012920.1
+mitochondrion Homo sapiens (human)
+16569
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Homo}
+0.0253158
+-0.811957
+0.425085
+0.987039
+-0.319216
+44
+NC_013993.1
+mitochondrion Homo sapiens ssp. Denisova (Denisova hominin)
+16570
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Homo}
+0.0129604
+-0.761016
+0.263871
+0.451911
+-0.308647
+45
+NC_014042.1
+mitochondrion Hylobates agilis (agile gibbon)
+16500
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Hylobates}
+0.0286496
+-0.739777
+0.245792
+0.466146
+-0.297182
+46
+NC_014045.1
+mitochondrion Hylobates pileatus (pileated gibbon)
+16502
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Hylobates}
+0.00964786
+-0.703821
+0.228099
+0.41504
+-0.301458
+47
+NC_014047.1
+mitochondrion Symphalangus syndactylus (siamang)
+16516
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Symphalangus}
+0.0401691
+-0.811398
+0.29581
+0.637367
+-0.29471
+48
+NC_014051.1
+mitochondrion Nomascus siki (southern white-cheeked gibbon)
+16476
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Nomascus}
+0.302416
+0.794257
+-0.02822
+-0.35619
+-0.286358
+50
+NC_015485.1
+mitochondrion Rhinopithecus avunculus (Tonkin snub-nosed monkey)
+16548
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Rhinopithecus}
+0.33566
+0.985094
+-0.0324687
+-0.32777
+-0.302276
+51
+NC_015486.1
+mitochondrion Rhinopithecus bieti (black snub-nosed monkey)
+16551
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Rhinopithecus}
+0.312526
+0.871095
+-0.0272033
+-0.342728
+-0.319719
+52
+NC_018057.1
+mitochondrion Rhinopithecus brelichi (Gray snub-nosed monkey)
+16553
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Rhinopithecus}
+0.34044
+0.983566
+-0.0345061
+-0.327397
+-0.300509
+53
+NC_018058.1
+mitochondrion Rhinopithecus bieti 1 RL-2012 (black snub-nosed
+16550
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Rhinopithecus}
+0.326552
+0.99029
+-0.0312713
+-0.321922
+-0.31012
+54
+NC_018059.1
+mitochondrion Rhinopithecus strykeri (Burmese snub-nosed monkey)
+16550
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Rhinopithecus}
+0.333423
+1.
+-0.031767
+-0.318645
+-0.307393
+55
+NC_018060.1
+mitochondrion Rhinopithecus bieti 2 RL-2012 (black snub-nosed
+16550
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Rhinopithecus}
+0.216413
+0.417473
+-0.0455894
+-0.420035
+-0.287242
+56
+NC_018061.1
+mitochondrion Pygathrix nigripes (Black-shanked douc langur)
+16536
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Pygathrix}
+0.252511
+0.484925
+-0.0414354
+-0.412359
+-0.298945
+57
+NC_018062.1
+mitochondrion Pygathrix cinerea 1 RL-2012 (gray-shanked douc
+16535
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Pygathrix}
+0.258204
+0.501406
+-0.0351163
+-0.395028
+-0.299917
+58
+NC_018063.1
+mitochondrion Pygathrix cinerea 2 RL-2012 (gray-shanked douc
+16535
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Pygathrix}
+-0.702511
+-0.501981
+0.813059
+-0.822366
+-0.346613
+59
+NC_018096.1
+mitochondrion Saimiri boliviensis boliviensis (Bolivian squirrel
+16473
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Saimiriinae  Saimiri}
+-0.734009
+-0.399387
+0.732951
+-0.911675
+-0.271441
+60
+NC_018115.1
+mitochondrion Aotus azarai azarai (Azara's night monkey)
+16585
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Aotidae  Aotus}
+-0.718072
+-0.393883
+0.719757
+-0.86277
+-0.288122
+61
+NC_018116.1
+mitochondrion Aotus nancymaae (Ma's night monkey)
+16469
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Aotidae  Aotus}
+0.0224998
+-0.781546
+0.297966
+0.616244
+-0.29881
+62
+NC_018753.1
+mitochondrion Nomascus gabriellae (Red-cheeked gibbon)
+16478
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Nomascus}
+0.282728
+0.499948
+-0.0243315
+-0.369963
+-0.346412
+63
+NC_019579.1
+mitochondrion Trachypithecus hatinhensis (Hatinh langur)
+16547
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Trachypithecus}
+0.280241
+0.532845
+-0.029298
+-0.346235
+-0.369266
+64
+NC_019580.1
+mitochondrion Trachypithecus germaini (Indochinese lutung)
+16552
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Trachypithecus}
+0.285063
+0.486932
+-0.0259804
+-0.364272
+-0.35108
+65
+NC_019581.1
+mitochondrion Trachypithecus shortridgei (Shortridge's langur)
+16529
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Trachypithecus}
+0.202096
+0.238004
+-0.0113232
+-0.414974
+-0.324857
+66
+NC_019582.1
+mitochondrion Trachypithecus vetulus (purple-faced leaf monkey)
+16554
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Trachypithecus}
+0.226277
+0.282158
+-0.00548698
+-0.417264
+-0.321906
+67
+NC_019583.1
+mitochondrion Trachypithecus johnii (Nilgiri langur)
+16544
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Trachypithecus}
+-0.706007
+-0.406509
+0.731528
+-0.877039
+-0.282025
+68
+NC_019799.1
+mitochondrion Aotus lemurinus (gray-bellied night monkey)
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Aotidae  Aotus}
+-0.558923
+-0.437836
+0.573631
+-0.685043
+-0.324959
+69
+NC_019800.1
+mitochondrion Ateles belzebuth (white-bellied spider monkey)
+16560
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Atelidae  Atelinae  Ateles}
+-0.569202
+-0.399002
+0.451903
+-0.690251
+-0.280899
+70
+NC_019801.1
+mitochondrion Plecturocebus donacophilus (Bolivian titi)
+16563
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Callicebinae  Plecturocebus}
+0.626947
+-0.725108
+-0.00778667
+-0.635799
+0.235851
+71
+NC_019802.1
+mitochondrion Theropithecus gelada (gelada)
+16546
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Theropithecus}
+0.805025
+-0.867755
+-0.0410677
+-0.80234
+1.
+72
+NC_020006.2
+mitochondrion Papio anubis (olive baboon)
+16516
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Papio}
+0.806802
+-0.866674
+-0.0381946
+-0.79866
+0.988719
+73
+NC_020007.2
+mitochondrion Papio cynocephalus (Yellow baboon)
+16515
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Papio}
+0.773219
+-0.826284
+-0.0359994
+-0.765636
+0.849312
+74
+NC_020008.2
+mitochondrion Papio kindae (Kinda baboon)
+16504
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Papio}
+0.773692
+-0.834347
+-0.0476072
+-0.75308
+0.888669
+75
+NC_020009.2
+mitochondrion Papio papio (Guinea baboon)
+16505
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Papio}
+0.750749
+-0.837352
+-0.0361382
+-0.749942
+0.829875
+76
+NC_020010.2
+mitochondrion Papio ursinus (Chacma baboon)
+16496
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Papio}
+0.178077
+0.0671731
+0.00940019
+-0.406442
+-0.290333
+77
+NC_020666.1
+mitochondrion Procolobus verus (olive colobus)
+16605
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Procolobus}
+0.237859
+0.333629
+-0.0179032
+-0.370661
+-0.331943
+78
+NC_020667.1
+mitochondrion Simias concolor (Simakobou)
+16561
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Simias}
+-0.611541
+-0.429551
+0.602423
+-0.729534
+-0.299106
+79
+NC_021938.1
+mitochondrion Alouatta caraya (black howler monkey)
+16517
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Atelidae  Alouattinae  Alouatta}
+-0.733891
+-0.398591
+0.732874
+-0.912868
+-0.272588
+80
+NC_021939.1
+mitochondrion Aotus azarai (Azara's night monkey)
+16555
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Aotidae  Aotus}
+-0.733847
+-0.474103
+0.96625
+-0.984803
+-0.291949
+82
+NC_021941.1
+mitochondrion Callithrix geoffroyi (Geoffroy's marmoset)
+16502
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callithrix}
+-0.640643
+-0.466017
+0.712583
+-0.832671
+-0.305622
+83
+NC_021942.1
+mitochondrion Callithrix pygmaea (pygmy marmoset)
+16520
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callithrix}
+0.602683
+-0.685794
+-0.0300209
+-0.617413
+-0.30149
+84
+NC_021943.1
+mitochondrion Cercocebus chrysogaster (Golden-bellied mangabey)
+16551
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Cercocebus}
+0.498644
+-0.633557
+-0.00873619
+-0.592162
+-0.243061
+85
+NC_021944.1
+mitochondrion Cercopithecus albogularis (Sykes' monkey)
+16544
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Cercopithecus}
+-0.587038
+-0.39403
+0.498921
+-0.738061
+-0.286011
+87
+NC_021946.1
+mitochondrion Chiropotes albinasus
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Pitheciinae  Chiropotes}
+0.360428
+-0.513481
+0.00621047
+-0.548165
+-0.263477
+88
+NC_021947.1
+mitochondrion Erythrocebus patas (red guenon)
+16676
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Erythrocebus}
+-0.589351
+-0.470584
+0.565388
+-0.728697
+-0.286615
+92
+NC_021951.1
+mitochondrion Lagothrix lagotricha (brown woolly monkey)
+16595
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Atelidae  Atelinae  Lagothrix}
+-0.573493
+-0.377762
+0.457952
+-0.698746
+-0.299671
+93
+NC_021952.1
+mitochondrion Leontopithecus rosalia (golden lion tamarin)
+16872
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Leontopithecus}
+0.580109
+-0.708836
+-0.00935666
+-0.665105
+0.217122
+95
+NC_021954.1
+mitochondrion Lophocebus aterrimus (Black crested mangabey)
+16563
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Lophocebus}
+0.59113
+-0.692555
+-0.0310721
+-0.621705
+-0.318459
+97
+NC_021956.1
+mitochondrion Mandrillus sphinx (mandrill)
+16546
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Mandrillus}
+0.0357294
+-0.813218
+0.296042
+0.636591
+-0.294847
+98
+NC_021957.1
+mitochondrion Nomascus leucogenys (northern white-cheeked gibbon)
+16478
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Nomascus}
+-0.52925
+-0.484248
+0.491975
+-0.672596
+-0.287307
+101
+NC_021960.1
+mitochondrion Saguinus oedipus (cotton-top tamarin)
+16551
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Saguinus}
+-0.565544
+-0.44574
+0.515594
+-0.697029
+-0.291895
+102
+NC_021961.1
+mitochondrion Sapajus xanthosternos (yellow-breasted capuchin)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Cebinae  Sapajus}
+-0.592493
+-0.372921
+0.447648
+-0.689127
+-0.28129
+103
+NC_021965.1
+mitochondrion Plecturocebus cupreus (coppery titi)
+16551
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Callicebinae  Plecturocebus}
+-0.698098
+-0.503799
+0.812349
+-0.821388
+-0.345443
+104
+NC_021966.1
+mitochondrion Saimiri boliviensis (Bolivian squirrel monkey)
+16471
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Saimiriinae  Saimiri}
+-0.56287
+-0.425211
+0.465598
+-0.70933
+-0.303922
+105
+NC_021967.1
+mitochondrion Cacajao calvus (Bald Uacari)
+16702
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Pitheciinae  Cacajao}
+0.0085447
+-0.81027
+0.429579
+0.989254
+-0.319639
+106
+NC_023100.1
+mitochondrion Homo heidelbergensis (Heidelberg man)
+16568
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Homo}
+-0.666146
+-0.509741
+0.752013
+-0.793793
+-0.348843
+107
+NC_023211.1
+mitochondrion Saimiri oerstedii citrinellus
+16472
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Saimiriinae  Saimiri}
+0.798013
+-0.928649
+-0.0670646
+-0.830119
+-0.881667
+108
+NC_023795.1
+mitochondrion Macaca assamensis (Assam macaque)
+16542
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+0.513156
+-0.628204
+-0.012088
+-0.589281
+-0.238037
+109
+NC_023961.1
+mitochondrion Cercopithecus mitis (blue monkey)
+16512
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Cercopithecus}
+0.522415
+-0.60328
+0.00464205
+-0.576283
+-0.259863
+110
+NC_023962.1
+mitochondrion Cercopithecus lhoesti (L'Hoest's monkey)
+16518
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Cercopithecus}
+0.454273
+-0.61987
+0.00439946
+-0.536165
+-0.262906
+111
+NC_023963.1
+mitochondrion Cercopithecus diana (Diana monkey)
+16505
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Cercopithecus}
+0.564196
+-0.653866
+-0.0370999
+-0.623716
+-0.315361
+112
+NC_023964.1
+mitochondrion Cercocebus torquatus (collared mangabey)
+16542
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Cercocebus}
+0.431161
+-0.504177
+0.0033791
+-0.577225
+-0.283266
+113
+NC_023965.1
+mitochondrion Allenopithecus nigroviridis (Allen's swamp monkey)
+16517
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Allenopithecus}
+0.263945
+0.485556
+-0.0164074
+-0.389775
+-0.3848
+114
+NC_023970.1
+mitochondrion Trachypithecus francoisi (Francois's langur)
+16554
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Trachypithecus}
+0.291989
+0.498938
+-0.0246871
+-0.35564
+-0.357892
+115
+NC_023971.1
+mitochondrion Trachypithecus cristatus (Silvery lutung)
+16557
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Trachypithecus}
+-0.627808
+-0.431638
+-0.245071
+-0.42525
+-0.332394
+116
+NC_024051.1
+mitochondrion Tarsius lariang (Lariang tarsier)
+16965
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Tarsiiformes  Tarsiidae  Tarsius}
+-0.624553
+-0.436599
+-0.229375
+-0.41715
+-0.331096
+117
+NC_024052.1
+mitochondrion Tarsius dentatus (Dian's tarsier)
+16965
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Tarsiiformes  Tarsiidae  Tarsius}
+-0.620605
+-0.440447
+-0.243428
+-0.429423
+-0.338622
+118
+NC_024053.1
+mitochondrion Tarsius wallacei
+16957
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Tarsiiformes  Tarsiidae  Tarsius}
+0.282029
+0.490552
+-0.0285064
+-0.365566
+-0.344789
+119
+NC_024529.1
+mitochondrion Trachypithecus pileatus
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Colobinae  Trachypithecus}
+-0.609428
+-0.4169
+0.544064
+-0.730073
+-0.306584
+120
+NC_024628.1
+mitochondrion Callimico goeldii (Goeldi's marmoset)
+16523
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callimico}
+-0.572572
+-0.383376
+0.490758
+-0.724065
+-0.294419
+121
+NC_024629.1
+mitochondrion Chiropotes israelita
+16670
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Pitheciinae  Chiropotes}
+-0.57379
+-0.371514
+0.448704
+-0.664418
+-0.272377
+122
+NC_024630.1
+mitochondrion Cheracebus lugens (black titi)
+16689
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Callicebinae  Cheracebus}
+0.662147
+-0.706391
+-0.0317364
+-0.596998
+-0.217022
+123
+NC_024933.1
+mitochondrion Chlorocebus cynosuros (malbrouck)
+16334
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Chlorocebus}
+0.813363
+-0.911167
+-0.0615265
+-0.834376
+-0.877669
+124
+NC_025201.1
+mitochondrion Macaca arctoides (stump-tailed macaque)
+16558
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+0.788888
+-0.874257
+-0.0643319
+-0.776973
+-0.744972
+125
+NC_025221.1
+mitochondrion Macaca silenus (liontail macaque)
+16541
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+0.748813
+-0.876379
+-0.0475261
+-0.756478
+-0.71406
+126
+NC_025222.1
+mitochondrion Macaca tonkeana (Tonkean macaque)
+16560
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+0.897133
+-0.975353
+-0.074023
+-0.882112
+-0.979362
+127
+NC_025513.1
+mitochondrion Macaca fuscata (Japanese macaque)
+16565
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+-0.752078
+-0.494628
+0.989142
+-0.996121
+-0.291119
+128
+NC_025586.1
+mitochondrion Callithrix jacchus (white-tufted-ear marmoset)
+16499
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callithrix}
+0.901524
+-0.955262
+-0.0753641
+-0.873691
+-0.952538
+136
+NC_026120.1
+mitochondrion Macaca nigra (Celebes crested macaque)
+16564
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+1.
+-1.
+-0.081022
+-0.90384
+-0.984097
+137
+NC_026976.1
+mitochondrion Macaca nemestrina (pig-tailed macaque)
+16560
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+0.912223
+-0.982417
+-0.0741201
+-0.894042
+-0.983514
+138
+NC_027449.1
+mitochondrion Macaca cyclopis (Taiwan macaque)
+16563
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+0.770977
+-0.879546
+-0.0550978
+-0.785627
+-0.75878
+139
+NC_027604.1
+mitochondrion Macaca leonina (Northern pig-tailed macaque)
+17050
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}
+-0.742658
+-0.488311
+0.987308
+-0.985372
+-0.294952
+140
+NC_027658.1
+mitochondrion Callithrix kuhlii (Wied's marmoset)
+16500
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callithrix}
+-0.625816
+-0.432715
+0.625765
+-0.740255
+-0.296546
+142
+NC_027825.1
+mitochondrion Alouatta seniculus (howler monkey)
+16557
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Atelidae  Alouattinae  Alouatta}
+0.602268
+-0.704735
+-0.0286134
+-0.621543
+-0.307285
+144
+NC_028442.1
+mitochondrion Mandrillus leucophaeus (drill)
+16547
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Mandrillus}
+0.57577
+-0.661641
+-0.00775806
+-0.625702
+-0.319399
+145
+NC_028592.1
+mitochondrion Cercocebus atys (sooty mangabey)
+16543
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Cercocebus}
+-0.749825
+-0.487464
+1.
+-1.
+-0.293501
+147
+NC_030788.1
+mitochondrion Callithrix penicillata (black-pencilled marmoset)
+16246
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callithrix}
+0.75182
+-0.872055
+-0.0496402
+-0.792858
+-0.786815
+148
+NC_031156.1
+mitochondrion Macaca leucogenys
+16565
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Cercopithecidae  Cercopithecinae  Macaca}

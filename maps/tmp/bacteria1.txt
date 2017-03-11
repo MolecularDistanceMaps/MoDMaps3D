@@ -1,0 +1,387 @@
+20,18
+blue,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+E.coli (20), S.aureus (18)
+Sampling from E.coli and S.aureus; Number of genomic DNA sequences is 38; FCGR with k=9; Approx. Information
+0.943188
+0.176684
+1.
+0.0960859
+-0.511837
+1
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+4
+0.858834
+0.160566
+-0.400999
+0.545316
+-0.753119
+2
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+29
+0.973281
+0.0842885
+-0.549553
+0.816164
+-0.87856
+3
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+5
+0.934885
+0.162038
+-0.370941
+0.325443
+1.
+4
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+11
+0.865906
+0.110209
+-0.352351
+0.609702
+0.662152
+5
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+12
+0.680339
+-0.0558757
+-0.87063
+1.
+-0.578596
+6
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+23
+0.871371
+-0.123665
+-0.642641
+0.600563
+0.851636
+7
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+8
+0.835097
+-0.133078
+-0.68498
+0.45288
+0.444307
+8
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+19
+0.813708
+-0.0978034
+-0.938343
+0.392155
+-0.226323
+9
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+21
+0.869069
+-0.168329
+-0.766145
+0.450449
+-0.61054
+10
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+15
+0.974039
+-0.130072
+-0.902846
+0.529198
+-0.179227
+11
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+28
+0.816123
+-0.124533
+-0.782636
+0.445008
+0.692478
+12
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+16
+0.846249
+-0.188073
+-0.94339
+-1.
+-0.182919
+13
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+25
+0.984428
+-0.0806002
+-0.763249
+0.256695
+0.362741
+14
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+30
+0.909846
+-0.0681031
+-0.573001
+0.478898
+0.735885
+15
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+2
+0.922601
+-0.224685
+-1.
+-0.94789
+-0.388334
+16
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+17
+0.91463
+-0.0312739
+-0.726529
+0.781693
+-1.
+17
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+14
+1.
+0.186906
+0.823966
+0.0594149
+0.00966992
+18
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+22
+0.976143
+0.144261
+0.757189
+0.28521
+-0.065218
+19
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+13
+0.897705
+0.0840875
+-0.314614
+0.430572
+0.77416
+20
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+7
+-0.868816
+0.809298
+-0.568057
+0.281711
+-0.0314523
+21
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+9
+-0.87845
+0.595251
+-0.608958
+0.374151
+-0.0532622
+22
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+8
+-0.833173
+0.715417
+-0.433636
+0.253641
+0.0471987
+23
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+2
+-0.861985
+1.
+-0.33655
+0.240865
+-0.0254631
+24
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+12
+-1.
+0.640376
+-0.572956
+0.351438
+-0.00635322
+25
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+18
+-0.931375
+0.78476
+-0.513191
+0.289068
+0.0106189
+26
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+17
+-0.995252
+0.557155
+-0.457435
+0.343319
+-0.0304974
+27
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+1
+-0.92528
+0.983749
+-0.552868
+0.284369
+0.0938318
+28
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+5
+-0.976897
+0.693187
+-0.588622
+0.242071
+0.0567828
+29
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+3
+-0.931553
+-1.
+-0.170618
+0.494436
+0.0367997
+30
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+14
+-0.967625
+-0.880302
+-0.333408
+0.37465
+0.0235309
+31
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+13
+-0.94866
+-0.793585
+-0.27771
+0.411014
+0.0101316
+32
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+16
+-0.905745
+-0.854411
+-0.366949
+0.120177
+0.0253697
+33
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+7
+-0.962131
+-0.719447
+-0.225606
+0.436023
+-0.00200625
+34
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+6
+-0.899213
+-0.73733
+-0.356979
+0.0812227
+0.0189019
+35
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+4
+-0.925929
+-0.713787
+-0.396569
+0.38805
+-0.016312
+36
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+11
+-0.910432
+-0.563922
+-0.480181
+0.405386
+0.0562703
+37
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+15
+-0.892716
+-0.620927
+-0.433039
+0.394454
+-0.0574779
+38
+NC_007795.1
+Staphylococcus aureus subsp. aureus NCTC 8325 chromosome  complete genome
+150000
+10

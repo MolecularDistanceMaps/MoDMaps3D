@@ -1,0 +1,307 @@
+12,18
+blue,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+P.furiosus (12), S.islandicus (18)
+Sampling from P.furiosus and S.islandicus; Number of genomic DNA sequences is 30; FCGR with k=9; Approx. Information
+0.891263
+-0.396995
+0.625085
+-1.
+-0.404761
+1
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+2
+0.83673
+-0.492573
+0.514296
+-0.713236
+0.799808
+2
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+1
+0.842465
+-0.348804
+0.543706
+-0.426602
+0.0992638
+3
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+10
+1.
+0.297697
+-1.
+0.0308836
+-0.324277
+4
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+9
+0.889167
+-0.28576
+0.837869
+-0.446143
+-0.993036
+5
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+6
+0.726647
+-0.393656
+0.912539
+0.156276
+-0.135975
+6
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+7
+0.790647
+-0.407307
+0.762479
+-0.179872
+0.2524
+7
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+12
+0.717351
+-0.498261
+1.
+0.0189011
+-0.742962
+8
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+8
+0.641488
+-0.570333
+0.817663
+0.0562816
+0.326499
+9
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+5
+0.82415
+-0.386511
+0.790663
+1.
+0.942945
+10
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+4
+0.834951
+-0.450695
+0.746029
+-0.787333
+0.521909
+11
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+11
+0.73197
+-0.554641
+0.827322
+-0.659047
+0.509389
+12
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+3
+-0.872573
+-0.727759
+0.357104
+-0.565908
+0.636932
+13
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+8
+-0.732035
+-0.874848
+0.460607
+-0.376809
+0.0216093
+14
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+12
+-0.786694
+-0.0327388
+0.584512
+-0.301898
+-0.348721
+15
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+10
+-0.905617
+1.
+0.921458
+-0.295234
+1.
+16
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+4
+-0.873326
+0.571377
+0.734955
+-0.262747
+0.598168
+17
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+11
+-0.894263
+-0.0371731
+0.689765
+-0.180725
+-1.
+18
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+6
+-1.
+0.0454964
+0.713537
+-0.421028
+0.380689
+19
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+16
+-0.794818
+-0.56149
+0.521075
+-0.103495
+-0.376388
+20
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+1
+-0.671292
+-1.
+0.463158
+0.163057
+0.537514
+21
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+5
+-0.760206
+-0.857375
+0.323463
+-0.433244
+0.716481
+22
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+17
+-0.811855
+-0.927648
+0.421532
+-0.245827
+0.239709
+23
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+7
+-0.834783
+-0.880277
+0.575722
+-0.0139614
+0.171654
+24
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+15
+-0.829898
+-0.304826
+0.482299
+-0.327115
+0.980394
+25
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+18
+-0.873291
+-0.894072
+0.481198
+-0.351923
+0.177491
+26
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+2
+-0.894229
+-0.402063
+0.571689
+-0.319606
+-0.666127
+27
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+14
+-0.750424
+-0.269983
+0.709697
+-0.210504
+-0.82367
+28
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+9
+-0.808395
+-0.294572
+0.66287
+-0.0736071
+-0.807423
+29
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+3
+-0.888419
+-0.544631
+0.639768
+-0.139406
+-0.43347
+30
+NC_012589.1
+Sulfolobus islandicus L.S.2.15  complete genome
+150000
+13

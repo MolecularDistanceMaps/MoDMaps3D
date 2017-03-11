@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>MoDMaps3D - Three Dimensional Molecular Distance Maps</title>
+  </head>
+    
+ <body style = "margin:0px;overflow:hidden">
+
+  <div id="leftmenu"></div>
+  <div id="rightmenu"></div>
+  <div id="pointInfoDiv"></div>
+  <div id="fcgrDiv"></div>
+  <div id="cgrInfoDiv"></div>
+  <div id="searchDiv"></div>
+  <div id="leftminimized"></div>
+  <div id="rightminimized"></div>
+  <div id="distPointsDiv"></div>
+
+  <!-- 
+  flashing green = 28EE2F
+  default jscolor = EE22B0
+  magenta = EF4589 
+  -->
+  <div id="pickcolor" style="display:none;">
+    <input id="pickbtn" class="color" value="28EE2F">
+    <input id="pickapply" type="button" value="Apply" onclick="changeHighlightColor();">
+  </div>
+
+  <div id="showload">
+    <center><img src="img/loading.gif" width="200"></center>
+  </div>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/three.js/r71/three.js"></script>
+<!--   <script src="js/jquery.min.js"></script>
+  <script src="js/three.js"></script> -->
+  <script type="text/javascript" src="js/jscolor/jscolor.js"></script>
+  <script type="text/javascript" src="js/load.js?v=12"></script>
+
+ </body>
+</html>
+

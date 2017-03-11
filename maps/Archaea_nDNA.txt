@@ -1,0 +1,2597 @@
+2,166,87,4
+blue,red,green,orange
+5
+Index,Acc,Name,Length,Taxa
+blue,red,green,orange
+DPANN group (2),Euryarchaeota (166),TACK group (87),unclassified Archaea (4) 
+Archaea#nDNA, complete genome#259 sequences#Approx.Inf.Dist.(k=9)#2,423,807
+0.7101893651268646
+-0.3510443418093466
+-0.8971047365355328
+-1
+1.0000000000000002
+0
+AE017199.1
+Nanoarchaeum equitans Kin4-M, complete genome
+490885
+Archaea; Nanoarchaeota; Nanoarchaeum
+0.9999999999999998
+-1
+-1
+1
+-0.8469769169280241
+1
+CP010514.1
+Nanoarchaeota archaeon 7A, complete genome
+605887
+Archaea; Nanoarchaeota
+-0.06249554877854324
+0.695538836453211
+0.5094413355163216
+0.23834893631198603
+-0.06529365686728057
+2
+NC_009637.1
+Methanococcus maripaludis C7, complete genome
+1772694
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus
+0.23704588405726063
+0.7388545524324338
+0.5043105261310863
+0.3198738049384336
+-0.2696847350354164
+3
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061, complete genome
+1853160
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter
+0.0848310879967176
+0.6242978259981158
+0.7116449440144359
+0.0571467515919768
+0.023704209470428995
+4
+NC_014222.1
+Methanococcus voltae A3, complete genome
+1936387
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus
+0.4204599933351557
+0.22792905024738064
+1
+-0.620637201432631
+-0.37427934711747485
+5
+NC_000909.1
+Methanocaldococcus jannaschii DSM 2661, complete genome
+1664970
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus
+-0.35603053180860783
+0.6788886191572344
+0.3422296211222601
+-0.0725765657120275
+-0.2505275990782413
+6
+NZ_CP009528.1
+Methanosarcina barkeri MS, complete genome
+4533209
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3576810140803921
+0.5294798565590277
+0.4975058175218614
+-0.16301850367312834
+-0.2470478949816262
+7
+NC_000917.1
+Archaeoglobus fulgidus DSM 4304, complete genome
+2178400
+Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus
+-0.36953145088962835
+0.5899150027677081
+0.3458824708202499
+-0.05580393516071476
+-0.24618140965719434
+8
+NC_002578.1
+Thermoplasma acidophilum DSM 1728 complete genome
+1564906
+Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Thermoplasmataceae; Thermoplasma
+-0.2543944012805613
+0.7207899519566555
+0.3177358670407705
+-0.0816623935867265
+-0.24011642958036225
+9
+NC_002689.2
+Thermoplasma volcanium GSS1 DNA, complete genome
+1584804
+Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Thermoplasmataceae; Thermoplasma
+-0.18384447055967948
+0.7434480429807614
+0.2759474014026556
+-0.2777220246322047
+-0.2952572686180721
+10
+NC_000961.1
+Pyrococcus horikoshii OT3 DNA, complete genome
+1738505
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus
+-0.3434332586935467
+0.4586967053603916
+0.4741257704271671
+-0.115085187544238
+-0.36714635287650277
+11
+NC_000916.1
+Methanothermobacter thermautotrophicus str. Delta H, complete genome
+1751377
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter
+-0.375668040338673
+0.6592754674543039
+0.3441581788536217
+-0.08502837499725492
+-0.2533150815571786
+12
+NC_003552.1
+Methanosarcina acetivorans str. C2A, complete genome
+5751492
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.6495629615243969
+0.7501981745418975
+0.19247273314937366
+-0.21110208101339617
+-0.32480636903351207
+13
+AE009439.1
+Methanopyrus kandleri AV19, complete genome
+1694969
+Archaea; Euryarchaeota; Methanopyri; Methanopyrales; Methanopyraceae; Methanopyrus
+-0.35724148591862487
+0.6243697176745688
+0.3826903480611877
+-0.07255018986986349
+-0.24878915721418246
+14
+NZ_CP009512.1
+Methanosarcina mazei S-6, complete genome
+4142816
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.2707282791688368
+0.7068837572525012
+0.27991999776565873
+-0.25678159137357154
+-0.28345027793389516
+15
+NC_000868.1
+Pyrococcus abyssi complete genome
+1765118
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus
+-1
+0.08905706169594108
+0.24713927301501673
+0.27287000849455323
+-0.3419416945543768
+16
+NC_010364.1
+Halobacterium salinarum R1 complete genome
+2000962
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium
+-0.16715671540432236
+0.5413556388779339
+0.47302304826918873
+-0.05563403506028723
+-0.22571033562494183
+17
+NC_021592.1
+Ferroplasma acidarmanus fer1, complete genome
+1935211
+Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Ferroplasmaceae; Ferroplasma
+-0.16079245571047052
+0.7421195759519962
+0.3236180166700452
+-0.27469426119362556
+-0.3070806865466519
+18
+NC_003413.1
+Pyrococcus furiosus DSM 3638, complete genome
+1908256
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus
+-0.540337632707192
+0.6465689910231929
+0.3574050278445611
+-0.030588087848101388
+-0.2442305192916982
+19
+NC_006396.1
+Haloarcula marismortui ATCC 43049 chromosome I, complete sequence
+3131724
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula
+-0.732841904786536
+0.42842366549661637
+0.38904277624591826
+0.010162454884660532
+-0.21604237992030462
+20
+NC_013967.1
+Haloferax volcanii DS2, complete genome
+2847757
+Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax
+-0.36235294851758654
+0.5851050158844955
+0.41790571059530623
+-0.029882157583144834
+-0.24642295843378564
+21
+NC_007796.1
+Methanospirillum hungatei JF-1, complete genome
+3544738
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanospirillaceae; Methanospirillum
+-0.4011232631270254
+0.6194804255499463
+0.33400654031158256
+-0.18257098044773393
+-0.28235324038414006
+22
+NC_006624.1
+Thermococcus kodakarensis KOD1 DNA, complete genome
+2088737
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.7949997004686589
+0.48682324185556436
+0.33850178339772263
+0.00007381216632648461
+-0.24340422477469303
+23
+NC_012029.1
+Halorubrum lacusprofundi ATCC 49239 chromosome 1, complete sequence
+2735295
+Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halorubrum
+0.6324831550371665
+0.7849399394382334
+0.1912390358503159
+0.4679419401615831
+-0.5734670724630677
+24
+NC_007681.1
+Methanosphaera stadtmanae DSM 3091, complete genome
+1767403
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanosphaera
+-0.6699871082413625
+0.5411806675462316
+0.41359804637638825
+-0.02709281307199595
+-0.21114371446119334
+25
+NC_007426.1
+Natronomonas pharaonis DSM 2160 complete genome
+2595221
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Natronomonas
+-0.469829642480101
+0.5344297079076498
+0.3579359962125362
+-0.08904124386176411
+-0.2868947607668357
+26
+CP000477.1
+Methanosaeta thermophila PT, complete genome
+1879471
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosaetaceae; Methanosaeta
+-0.40026313562042176
+0.6573706984661823
+0.34681588798537005
+-0.0193113154695056
+-0.2536045520779727
+27
+NC_017459.1
+Haloquadratum walsbyi C23 complete genome
+3148033
+Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloquadratum
+0.05777091660073066
+0.7441910242767545
+0.4793694593866585
+0.11698573651275983
+-0.04185755186903374
+28
+NC_009634.1
+Methanococcus vannielii SB, complete genome
+1720048
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus
+-0.4278984169178925
+0.4852222210553372
+0.4561037322051298
+-0.015486081541013124
+-0.2311695701665818
+29
+NC_008942.1
+Methanocorpusculum labreanum Z, complete genome
+1804962
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanocorpusculaceae; Methanocorpusculum
+-0.44572500505297363
+0.5073373709929196
+0.44302526126399877
+-0.05191850354720355
+-0.23721164443215934
+30
+NC_009712.1
+Candidatus Methanoregula boonei 6A8, complete genome
+2542943
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanoregulaceae; Methanoregula
+0.23373104949820703
+0.299919085913196
+0.7778022852605017
+-0.26450755754010863
+-0.004897584632087906
+31
+NC_009635.1
+Methanococcus aeolicus Nankai-3, complete genome
+1569500
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus
+-0.08892376748318173
+0.5607846082639583
+0.3408451758758104
+-0.31095661501886557
+-0.2299406399541115
+32
+NC_013926.1
+Aciduliprofundum boonei T469, complete genome
+1486778
+Archaea; Euryarchaeota; DHVE2 group; Aciduliprofundum
+-0.23361697918924515
+0.5462464144863008
+0.5555250752714531
+-0.17633385074033917
+-0.25397522403292494
+33
+NC_014804.1
+Thermococcus barophilus MP, complete genome
+2010078
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.3948445299267316
+0.6157874777025454
+0.33280048039239885
+-0.18671475344270227
+-0.28397684740887086
+34
+NC_011529.1
+Thermococcus onnurineus NA1, complete genome
+1847607
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.3995266596427086
+0.6113203910939584
+0.38250488873675564
+-0.09798080064532164
+-0.256752475586308
+35
+NC_009464.1
+Methanocella arvoryzae MRE50 complete genome
+3179916
+Archaea; Euryarchaeota; Methanomicrobia; Methanocellales; Methanocellaceae; Methanocella
+-0.29997726534260627
+0.6456103972082952
+0.430320999191766
+-0.009086743606366018
+-0.23998898933725898
+36
+NC_007955.1
+Methanococcoides burtonii DSM 6242, complete genome
+2575032
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanococcoides
+-0.14885812072164395
+0.36542531846796683
+0.5272599393843971
+-0.009340734822558797
+-0.257539853444794
+37
+NC_005877.1
+Picrophilus torridus DSM 9790, complete genome
+1545895
+Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales; Picrophilaceae; Picrophilus
+-0.5509731629885588
+0.4315164529992933
+0.4292559505554269
+-0.030783389973112935
+-0.22647869650609337
+38
+NC_009051.1
+Methanoculleus marisnigri JR1, complete genome
+2478101
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanoculleus
+-0.4425876170313796
+0.5367101350868975
+0.40630404259621383
+-0.023073198827299475
+-0.2532438363868822
+39
+NC_011832.1
+Candidatus Methanosphaerula palustris E1-9c, complete genome
+2922917
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanoregulaceae; Methanosphaerula
+-0.29771495612856835
+0.54918025968466
+0.4741246452929885
+-0.0007206479143696801
+-0.24776433469062767
+40
+NC_014002.1
+Methanohalophilus mahii DSM 5219, complete genome
+2012424
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanohalophilus
+-0.5062027834643944
+0.6557432909078243
+0.3621188719972565
+-0.016608039237348195
+-0.2492186637176433
+41
+NC_013922.1
+Natrialba magadii ATCC 43099, complete genome
+3751858
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natrialba
+-0.20445163436180083
+0.7437602248706233
+0.3987743910475576
+-0.10072773762538376
+-0.22489094142872623
+42
+NC_013741.1
+Archaeoglobus profundus DSM 5631, complete genome
+1560622
+Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus
+0.7182423235576851
+0.013276912742393244
+0.578663294982852
+-0.7146938718818387
+-1
+43
+NC_014122.1
+Methanocaldococcus infernus ME, complete genome
+1328194
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus
+0.3350944133510399
+0.36347165055963576
+0.8339870498526079
+-0.5531993871599087
+-0.35054418045828284
+44
+NC_013156.1
+Methanocaldococcus fervens AG86, complete genome
+1485061
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus
+0.1848152520578181
+0.3670217235156633
+0.8979586372868137
+-0.30402775399204274
+-0.19407228558696712
+45
+NC_013407.1
+Methanocaldococcus vulcanius M7, complete genome
+1746329
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus
+-0.3079540043203102
+0.583901305410577
+0.4943578590326816
+-0.11235439977737594
+-0.22914444136681467
+46
+NC_013849.1
+Ferroglobus placidus DSM 10642, complete genome
+2196266
+Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Ferroglobus
+-0.4279018955012133
+0.5858951877419563
+0.35881911690829893
+-0.1986719678316172
+-0.28209252709845895
+47
+NC_012804.1
+Thermococcus gammatolerans EJ3, complete genome
+2045438
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+0.33055237114294483
+0.7281363217074589
+0.25372590739996603
+0.03440133527605279
+-0.48363057017588723
+48
+NC_014658.1
+Methanothermus fervidus DSM 2088, complete genome
+1243342
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanothermaceae; Methanothermus
+-0.20005238507874176
+0.6924570281782629
+0.3564253698071943
+-0.21494907992513615
+-0.27772487487884406
+49
+NC_012883.1
+Thermococcus sibiricus MM 739, complete genome
+1845800
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.6028239662170864
+0.628908473338911
+0.3527804988786093
+-0.012080665082843329
+-0.2498496515289263
+50
+NC_015948.1
+Haloarcula hispanica ATCC 33960 chromosome I, complete sequence
+2995271
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula
+-0.04895841174790652
+0.8080716134654968
+0.40918675425000806
+-0.012865359684648643
+-0.2622478971626653
+51
+NC_013790.1
+Methanobrevibacter ruminantium M1, complete genome
+2937203
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter
+-0.19160803522875705
+0.6187272166985849
+0.4793303108332923
+0.048286724834165025
+-0.26075892165721104
+52
+NC_015676.1
+Methanosalsum zhilinae DSM 4017, complete genome
+2138444
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosalsum
+-0.3902531395981084
+0.5417586206138982
+0.44193966164308485
+-0.06492896245579595
+-0.24497653644077447
+53
+NC_014507.1
+Methanoplanus petrolearius DSM 11571, complete genome
+2843290
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanolacinia
+-0.17018386131171834
+0.6142083552383837
+0.5605273654752988
+0.0773226994569198
+-0.22054025899077234
+54
+NC_014253.1
+Methanohalobium evestigatum Z-7303, complete genome
+2242317
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanohalobium
+-0.647455614991613
+0.6467880066940588
+0.3185848445492318
+-0.015895118725806078
+-0.23886913042296648
+55
+NC_013743.1
+Haloterrigena turkmenica DSM 5511, complete genome
+3889038
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Haloterrigena
+-0.4107410534654551
+0.6129119949046362
+0.33353420675427614
+-0.12218037910206146
+-0.24482859842935883
+56
+AP011532.1
+Methanocella paludicola SANAE DNA, complete genome
+2957635
+Archaea; Euryarchaeota; Methanomicrobia; Methanocellales; Methanocellaceae; Methanocella
+0.3362343383560312
+0.3272870080442225
+0.8924992700976276
+-0.3038048477037419
+-0.09351612037296361
+57
+NC_015636.1
+Methanothermococcus okinawensis IH1, complete genome
+1662525
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanothermococcus
+-0.32205787000827607
+0.4498899364784439
+0.4799590987891941
+-0.1151578241063046
+-0.37115324816853795
+58
+NC_014408.1
+Methanothermobacter marburgensis str. Marburg, complete genome
+1634695
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter
+-0.6650076040725068
+0.5868306222696229
+0.3115190921149405
+-0.028213622549329968
+-0.25246203821731406
+59
+NC_014297.1
+Halalkalicoccus jeotgali B3, complete genome
+2809118
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halalkalicoccus
+-0.3609580896331808
+0.5298352189731997
+0.4975779951129517
+-0.11450434563289406
+-0.24649978965467897
+60
+NC_015320.1
+Archaeoglobus veneficus SNP6, complete genome
+1901943
+Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus
+0.21816102728365497
+0.48686360699191994
+0.8024374150508341
+-0.2949079547672296
+-0.23162199725876917
+61
+NC_015562.1
+Methanotorris igneus Kol 5, complete genome
+1854197
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanotorris
+-0.6528363984495085
+0.6245275513124072
+0.3221052864537652
+-0.019482242974023928
+-0.23103769999139015
+62
+NC_015666.1
+Halopiger xanaduensis SH-6, complete genome
+3668009
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Halopiger
+-0.6426837653693557
+0.6241304140645236
+0.34449177012302895
+0.009958720488576208
+-0.23742505204066694
+63
+CP003050.1
+Halovivax ruber XH-70, complete genome
+3223876
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Halovivax
+-0.582679930269265
+0.6418465861107894
+0.39129690633950753
+0.013601827045636363
+-0.22997892207973156
+64
+NC_014729.1
+Halogeometricum borinquense DSM 11551, complete genome
+2820544
+Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Halogeometricum
+-0.6870766319284243
+0.5451472539873209
+0.3298833311749102
+0.024644804353330045
+-0.26093501026825994
+65
+NC_013202.1
+Halomicrobium mukohataei DSM 12286, complete genome
+3110487
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halomicrobium
+-0.5801741935778087
+0.5933239063764406
+0.38416993472067296
+0.0032312663469734604
+-0.24951419059609026
+66
+NC_013158.1
+Halorhabdus utahensis DSM 12940, complete genome
+3116795
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halorhabdus
+-0.38724746971913054
+0.6066619993869145
+0.3220909461193663
+-0.2556695037406223
+-0.2948272214255918
+67
+NC_015680.1
+Pyrococcus yayanosii CH1, complete genome
+1716818
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus
+-0.3815124279507988
+0.6039750383413351
+0.3304032557863764
+-0.1321365236710265
+-0.25758236602547346
+68
+NC_015416.1
+Methanosaeta concilii GP-6, complete genome
+3008626
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosaetaceae; Methanosaeta
+-0.6248366446351157
+0.5888302714881991
+0.3800395900137634
+0.014062807229977874
+-0.24843263672917987
+69
+NC_021921.1
+Halorhabdus tiamatea SARL4B complete genome
+2815791
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halorhabdus
+-0.44737885628316115
+0.4725555135637382
+0.473967090082264
+-0.36586243773229504
+-0.2466327160508741
+70
+NZ_CP007264.1
+Thermococcus nautili strain 30-1, complete genome
+1976356
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.5408106967459663
+0.6153216446213792
+0.4172106986576381
+-0.047717616778031026
+-0.21754992930510503
+71
+NC_017941.2
+Haloferax mediterranei ATCC 33500, complete genome
+2948884
+Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax
+-0.547429026058328
+0.6522417280105011
+0.32658649476183216
+-0.04011879719022983
+-0.2518638901454039
+72
+NC_019974.1
+Natronococcus occultus SP4, complete genome
+4013216
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natronococcus
+-0.5936118893173761
+0.5883415651561078
+0.35020674229683874
+0.00184559543810703
+-0.24281445536859478
+73
+NC_020388.1
+Natronomonas moolapensis 8.8.11 complete genome
+2912573
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Natronomonas
+-0.3114989362403062
+0.6420770889926054
+0.39544733243304303
+-0.05063370448579323
+-0.2557989401038696
+74
+NC_019977.1
+Methanomethylovorans hollandica DSM 15978, complete genome
+2428904
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanomethylovorans
+-0.5529093180282101
+0.34930090977333217
+0.4627327472158217
+0.003513416753784012
+-0.23525887917098823
+75
+NZ_CM001555.1
+Methanofollis liminatans DSM 4140 chromosome, whole genome shotgun sequence
+2475100
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanofollis
+-0.5686390514884563
+0.6399260044126526
+0.33440781970263855
+-0.03253995047624697
+-0.24203469781645717
+76
+NC_019962.1
+Natrinema pellirubrum DSM 15624, complete genome
+3790479
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natrinema
+-0.5573299952032332
+0.6760870304819486
+0.33107636439984417
+-0.016100072745229323
+-0.24806478264654175
+77
+NC_019792.1
+Natronobacterium gregoryi SP2, complete genome
+3788356
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natronobacterium
+-0.33151959839689477
+0.4863720193236473
+0.532436518482482
+-0.04624648559372597
+-0.25099365535527646
+78
+NZ_CM001436.1
+Methanoplanus limicola DSM 2279 chromosome, whole genome shotgun sequence
+3200946
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanoplanus
+-0.5149743830305298
+0.3815548609849406
+0.48724970856630734
+0.025439037995567487
+-0.23174823149772483
+79
+NZ_AGIY02000001.1
+Methanolinea tarda NOBI-1 chromosome, whole genome shotgun sequence
+2052856
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanoregulaceae; Methanolinea
+-0.44955596620060656
+0.509105084077567
+0.44282957274682716
+-0.02965436190113478
+-0.2426136308222883
+80
+NC_019943.1
+Methanoregula formicicum SMSP, complete genome
+2820858
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanoregulaceae; Methanoregula
+-0.594851074666481
+0.6087351960943326
+0.3536542684426412
+0.009782754127372487
+-0.22954919952539007
+81
+NZ_CP007055.1
+Halostagnicola larsenii XH-48, complete genome
+2789326
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Halostagnicola
+-0.6328211252142343
+0.39858029260471195
+0.37233892268951907
+-0.03420527677366488
+-0.2972832322724859
+82
+NC_020892.1
+Thermoplasmatales archaeon BRNA1, complete genome
+1461105
+Archaea; Euryarchaeota; Thermoplasmata; Thermoplasmatales
+-0.4098155435606791
+0.6285542760761442
+0.3013297479736153
+-0.15851754743032567
+-0.2521776632282713
+83
+NC_017034.1
+Methanocella conradii HZ254, complete genome
+2378438
+Archaea; Euryarchaeota; Methanomicrobia; Methanocellales; Methanocellaceae; Methanocella
+-0.3656865596834051
+0.6242296891234913
+0.37710560978810487
+-0.07250261224897626
+-0.2542214696974476
+84
+NC_018876.1
+Methanolobus psychrophilus R15, complete genome
+3072769
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanolobus
+-0.4469220419569803
+0.5217717178594444
+0.2476229930579568
+-0.22842788362181568
+-0.2759165116625314
+85
+NC_017527.1
+Methanosaeta harundinacea 6Ac, complete genome
+2559043
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosaetaceae; Methanosaeta
+-0.2862559216703392
+0.6775922200541213
+0.3516667633368231
+-0.18256662679373512
+-0.2683988096879469
+86
+NC_022084.1
+Thermococcus litoralis DSM 5473, complete genome
+2215172
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.5142603053509335
+0.559893055958766
+0.4866540016678607
+-0.013905014525154186
+-0.23238437891544722
+87
+CM001443.1
+uncultured marine group II euryarchaeote chromosome, whole genome shotgun sequence
+2064136
+Archaea; Euryarchaeota; Marine Group II; environmental samples
+-0.8845518459890332
+0.47155160955328934
+0.2718992753293098
+-0.003432966432941825
+-0.29313125754922104
+88
+NZ_CP007060.1
+Halobacterium sp. DL1, complete genome
+2846968
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium
+-0.5492529910897609
+0.6444074482420206
+0.3436752695762142
+-0.0179614633817171
+-0.244514409052118
+89
+NC_018224.1
+Natrinema sp. J7-2, complete genome
+3697626
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Natrinema
+-0.21329861476001313
+0.7257934228687198
+0.3316388578132787
+-0.21845223329624835
+-0.29422207970371456
+90
+NC_015474.1
+Pyrococcus sp. NA2, complete genome
+1861320
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus
+0.24715850177727694
+0.864273590119348
+0.38429605782911264
+0.21092226369896355
+-0.2993393889727281
+91
+NC_021355.1
+Methanobrevibacter sp. AbM4, complete genome
+1998189
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter
+0.3508863459399191
+0.3293670733907476
+0.9199826151441258
+-0.6215183804073224
+-0.37075532181783677
+92
+NC_013887.1
+Methanocaldococcus sp. FS406-22, complete genome
+1760939
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus
+-0.35531394702306135
+0.6415436102734706
+0.37326149597995695
+-0.07737002565332446
+-0.2514443792333456
+93
+NZ_CP009503.1
+Methanosarcina sp. WWM596, complete genome
+4137337
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.18882261689094393
+0.6854911237824699
+0.36744515954931345
+-0.07764336101800537
+-0.30531036946195383
+94
+NC_023044.1
+Methanobacterium sp. MB1 complete sequence
+2029766
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium
+-0.271713419284573
+0.4863536917665933
+0.4399723930648891
+-0.1397355880399052
+-0.27913357764783414
+95
+NC_019942.1
+Aciduliprofundum sp. MAR08-339, complete genome
+1437090
+Archaea; Euryarchaeota; DHVE2 group; Aciduliprofundum
+-0.493802880779671
+0.5227693057106665
+0.40991469175387424
+-0.05297163265739996
+-0.25486274111049345
+96
+NC_018227.2
+Methanoculleus bourgensis MS2T complete genome
+2789774
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanoculleus
+-0.25339183817614847
+0.6337304819132494
+0.4033880022583249
+-0.07150243192202764
+-0.2893254496136764
+97
+NZ_CP006933.1
+Methanobacterium formicicum strain BRM9, complete genome
+2449987
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium
+-0.5361488228584984
+0.653449239150084
+0.34957783656857494
+-0.02874183791955454
+-0.24725306849592324
+98
+NZ_CP010529.1
+Haloarcula sp. CBA1115, complete genome
+3423144
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula
+-0.7687589460157327
+0.38731460854393635
+0.39929041340445176
+0.0066971230119875925
+-0.20355594674223565
+99
+NZ_CP011947.1
+Haloferax gibbonsii strain ARA6, complete genome
+2945391
+Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax
+-0.2424667345872321
+0.6128053645089429
+0.4537699692281743
+-0.11900659526781952
+-0.22853929117570007
+100
+NC_021169.1
+Archaeoglobus sulfaticallidus PM70-1, complete genome
+2076931
+Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus
+-0.7790996820798016
+0.5272369310140151
+0.3372292641074468
+0.029934501946187613
+-0.24642008828657783
+101
+NC_021313.1
+Salinarchaeum sp. Harcht-Bsk1, complete genome
+3255260
+Archaea; Euryarchaeota; Halobacteria; Natrialbales; Natrialbaceae; Salinarchaeum
+-0.27547155032022014
+0.6539554474829996
+0.3603915528492615
+-0.23564700708320258
+-0.27180604854263374
+102
+NZ_CP006019.1
+Palaeococcus pacificus DY20341, complete genome
+1859370
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Palaeococcus
+-0.5143461637525489
+0.4435566542094465
+0.40620737786006983
+-0.03522625565106231
+-0.2637246214121367
+103
+NC_020913.1
+Candidatus Methanomethylophilus alvus Mx1201, complete genome
+1666795
+Archaea; Euryarchaeota; Thermoplasmata; Methanomassiliicoccales; Methanomassiliicoccaceae; Candidatus Methanomethylophilus
+-0.291933861736638
+0.6615558195071292
+0.3774027694265162
+-0.024535850343375493
+-0.2522537629037325
+104
+NC_021353.1
+Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1, complete genome
+1931651
+Archaea; Euryarchaeota; Thermoplasmata; Methanomassiliicoccales; Methanomassiliicoccaceae; Methanomassiliicoccus
+-0.11304721485049748
+0.7711286472437627
+0.4221926971605099
+0.01920023821517158
+-0.27565876989066984
+105
+NC_015216.1
+Methanobacterium lacus strain AL-21, complete genome
+2583753
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium
+-0.1942244346934342
+0.6875217499884594
+0.43862641406538627
+-0.007702910713440525
+-0.26349870269847425
+106
+NC_015574.1
+Methanobacterium paludis strain SWAN1, complete genome
+2546541
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium
+-0.40833692629381113
+0.5713238708394922
+0.3756810910594236
+-0.22719244998420482
+-0.28006390824797023
+107
+NZ_CP008887.1
+Thermococcus eurythermalis strain A501, complete genome
+2122535
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.3565089008907512
+0.4678988683759711
+0.5765039440996055
+-0.07679747020390848
+-0.24240678711654023
+108
+NZ_CP009552.1
+Geoglobus acetivorans strain SBH6, complete genome
+1860815
+Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Geoglobus
+-0.4270014793193137
+0.4633556155807093
+0.46769825733322334
+-0.05926068928709626
+-0.23080877511230508
+109
+NZ_CP010070.1
+Candidatus Methanoplasma termitum strain MpT1, complete genome
+1488669
+Archaea; Euryarchaeota; Thermoplasmata; Methanomassiliicoccales; Methanomassiliicoccaceae; Candidatus Methanoplasma
+-0.41640797060112417
+0.5928454286237823
+0.34755484160846306
+-0.2034310343434709
+-0.28373471335406575
+110
+NZ_CP007140.1
+Thermococcus guaymasensis DSM 11113, complete genome
+1920914
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.3392070339927266
+0.4443954053733568
+0.48802168579753424
+-0.11744501828598455
+-0.3757820437423046
+111
+NZ_AP011952.1
+Methanothermobacter sp. CaT2 DNA, complete genome
+1720003
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanothermobacter
+-0.33275606390132223
+0.6542225872868206
+0.3753496913000206
+-0.06463085889231199
+-0.24932749288285358
+112
+NZ_CP009501.1
+Methanosarcina thermophila TM-1, complete genome
+3127379
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3573928567285629
+0.665529121071162
+0.3527059794453414
+-0.07618064920226998
+-0.24923910576106775
+113
+NZ_CP009520.1
+Methanosarcina vacuolata Z-761, complete genome
+4505752
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.371269960319474
+0.641570479336645
+0.3606000961616558
+-0.08392358030857519
+-0.24937462619712733
+114
+NZ_CP009506.1
+Methanosarcina siciliae T4/M, complete genome
+5017558
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.35860453292559114
+0.6298210951694259
+0.3816261767105935
+-0.07560059743509638
+-0.2494668925127673
+115
+NZ_CP009515.1
+Methanosarcina lacustris Z-7289, complete genome
+4139808
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3677127552711352
+0.6649288240277149
+0.3445279633928799
+-0.0766016734210766
+-0.2530170370966574
+116
+NZ_CP009516.1
+Methanosarcina horonobensis HB-1, complete genome
+5018607
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.16756476847365961
+0.6979429278626939
+0.399991489980376
+-0.20504706076777754
+-0.2737550925543846
+117
+NZ_CP006965.1
+Thermococcus sp. ES1, complete genome
+1957742
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.4679689390023051
+0.5613671885186696
+0.32825126787776665
+-0.2545313010159163
+-0.3000212500107317
+118
+NC_018015.1
+Thermococcus sp. CL1, complete genome
+1950313
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.44148644601078396
+0.44127274463471533
+0.5062532833431017
+-0.16856934781979388
+-0.28075325926882383
+119
+NZ_CP011267.1
+Geoglobus ahangari strain 234, complete genome
+1770093
+Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Geoglobus
+-0.6951797512807187
+0.4779852155691997
+0.39261213253960764
+0.07788020810745323
+-0.19980389994652176
+120
+NZ_CP011564.1
+Halanaeroarchaeum sulfurireducens strain M27-SA2, complete genome
+2129244
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halanaeroarchaeum
+-0.40251849188596417
+0.6074186883621744
+0.3317256783105832
+-0.21022171306218004
+-0.2914276881560367
+121
+NZ_CP014750.1
+Thermococcus peptonophilus strain OG-1, complete genome
+1847000
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+0.456758467138394
+0.18750890632778894
+0.9814702863734954
+-0.6337950548432838
+-0.394315638479151
+122
+NZ_CP009149.1
+Methanocaldococcus sp. JH146, complete genome
+1607556
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanocaldococcaceae; Methanocaldococcus
+-0.01996930635959417
+0.7796361558485639
+0.465321521396503
+0.17929315571501528
+-0.21273356870338858
+123
+NZ_CP011266.1
+Methanobrevibacter millerae strain SM9, complete genome
+2543538
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter
+-0.9268184682734504
+0.30259610519584934
+0.2545870167072658
+0.009796756451571848
+-0.25984494289530324
+124
+NZ_LN831302.1
+Halobacterium sp. JI20-1 genome assembly Halobacterium hubeiense JI20-1, chromosome : I
+2510607
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium
+0.44485165869891874
+0.883002073868074
+0.29207129067447263
+0.133903508361399
+-0.3735732970887292
+125
+CP014265.1
+Methanobrevibacter olleyae strain YLM1, complete genome
+2201192
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter
+-0.44839087417391493
+0.5410300372532412
+0.4084618227836438
+-0.04557902820560638
+-0.2608111967467898
+126
+CP014214.1
+Methanogenic archaeon ISO4-H5, complete genome
+1937883
+Archaea; Euryarchaeota; Thermoplasmata; unclassified Thermoplasmata
+-0.7126170039309756
+0.4575657447088207
+0.39628040801146297
+0.08899062264655966
+-0.19465904248609858
+127
+NZ_CP008874.1
+Halanaeroarchaeum sulfurireducens strain HSR2, complete genome
+2085482
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halanaeroarchaeum
+-0.3718804146396289
+0.6502110140638057
+0.3542723232992452
+-0.08336413003186724
+-0.25045562891303236
+128
+NZ_CP009508.1
+Methanosarcina siciliae C2J, complete genome
+5427890
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.33481400260486205
+0.6514334616173452
+0.3725747348456507
+-0.06528632967702347
+-0.24850156947410515
+129
+CP009502.1
+Methanosarcina thermophila CHTI-55, complete genome
+3130228
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3293467419380577
+0.5994748255887613
+0.44091173031819453
+-0.016946440893123818
+-0.2515530269272143
+130
+NZ_CP009518.1
+Methanococcoides methylutens MM1, complete genome
+2394636
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanococcoides
+-0.47492069702959394
+0.5381321350139394
+0.4029108796696307
+-0.051956746654471385
+-0.25194667702167045
+131
+NZ_LT158599.1
+Methanoculleus sp. MAB1 isolate Methanoculleus sp MAB1 genome assembly, chromosome: chrI
+2859299
+Archaea; Euryarchaeota; Methanomicrobia; Methanomicrobiales; Methanomicrobiaceae; Methanoculleus
+-0.3720638858581539
+0.6251695526020326
+0.37599157477004425
+-0.08860249529504062
+-0.25278028002914593
+132
+NZ_CP009505.1
+Methanosarcina sp. MTP4, complete genome
+4211468
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.09741528072564606
+0.7173424249039241
+0.44182702056894996
+0.10090786172516654
+-0.19934315543747536
+133
+CP010834.1
+Methanobrevibacter sp. YE315, complete genome
+2273296
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobrevibacter
+-0.4491992136028625
+0.5542003950535909
+0.37114958028502704
+-0.21571499785425402
+-0.2807003559120305
+134
+NC_016051.1
+Thermococcus sp. AM4, complete genome
+2086428
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.21003619536798962
+0.7137171270314542
+0.32766466027664326
+-0.24253470864811502
+-0.3004574376280595
+135
+NC_017946.1
+Pyrococcus sp. ST04, complete genome
+1736885
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus
+-0.542942041132711
+0.6150174361055302
+0.41875410999426804
+-0.045493927128068684
+-0.21762449075159634
+136
+NZ_CP007551.1
+Haloferax mediterranei ATCC 33500 genome
+2946877
+Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloferax
+-0.5981248242893538
+0.6287975813218484
+0.35342624180262205
+-0.012772121138069399
+-0.2501460686590233
+137
+NC_023013.1
+Haloarcula hispanica N601 chromosome 1, complete sequence
+3006708
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Haloarcula
+-0.2611582396277029
+0.5805802010085948
+0.5169550026716506
+-0.15769328365861032
+-0.25071521686512827
+138
+NZ_CP013050.1
+Thermococcus barophilus strain CH5, complete genome
+2388527
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.3993184494210452
+0.6568597253708532
+0.3469121077810216
+-0.018307099451186363
+-0.25156981739345546
+139
+NC_008212.1
+Haloquadratum walsbyi DSM 16790 complete genome
+3132494
+Archaea; Euryarchaeota; Halobacteria; Haloferacales; Haloferacaceae; Haloquadratum
+-0.16067348021871491
+0.742979143244479
+0.3223239647989648
+-0.2703323372439048
+-0.3060173630784372
+140
+NC_018092.1
+Pyrococcus furiosus COM1, complete genome
+1909827
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus
+-0.9839065977145638
+0.11185686238020007
+0.2533878121757244
+0.2631924544485951
+-0.3400215015403597
+141
+NC_002607.1
+Halobacterium sp. NRC-1, complete genome
+2014239
+Archaea; Euryarchaeota; Halobacteria; Halobacteriales; Halobacteriaceae; Halobacterium
+-0.3571006529243964
+0.6214643100532873
+0.38651453492169724
+-0.0722926343027571
+-0.24913242228347682
+142
+NC_003901.1
+Methanosarcina mazei strain Goe1, complete genome
+4096345
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.352633999691439
+0.5631710638118365
+0.46210751654712406
+-0.1423887565644556
+-0.24773763397683288
+143
+NZ_CP006577.1
+Archaeoglobus fulgidus DSM 8774, complete genome
+2316287
+Archaea; Euryarchaeota; Archaeoglobi; Archaeoglobales; Archaeoglobaceae; Archaeoglobus
+-0.34963784623325267
+0.6853319347367532
+0.3491075973821443
+-0.0645917941308157
+-0.24886713508122238
+144
+NZ_CP009517.1
+Methanosarcina barkeri 3, complete genome
+4560446
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.04454907780138621
+0.6762978584024134
+0.5555418224302816
+0.28700120906078
+-0.03438556071584707
+145
+NC_015847.1
+Methanococcus maripaludis X1, complete genome
+1746697
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus
+-0.03161755797505781
+0.6763791272450799
+0.5624489433727159
+0.2984763611854125
+-0.023940783274834163
+146
+NC_005791.1
+Methanococcus maripaludis strain S2, complete sequence
+1661137
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus
+-0.360295238843422
+0.6776321131413269
+0.33987300881595617
+-0.07615570824781415
+-0.2511863813601322
+147
+NC_007355.1
+Methanosarcina barkeri str. Fusaro, complete genome
+4837408
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3567642740529331
+0.62404239677939
+0.38534298015011725
+-0.07191573550328265
+-0.24846507470523413
+148
+NZ_CP009509.1
+Methanosarcina mazei WWM610, complete genome
+4096482
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.28397195264586955
+0.6920606969463393
+0.3158950246338772
+-0.20603010566545638
+-0.2881189627347607
+149
+CP010835.1
+Pyrococcus sp. NCB100, complete genome
+1977126
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Pyrococcus
+-0.25317231955296593
+0.6364979637661349
+0.4009302369305338
+-0.07362288649976012
+-0.28270982054941574
+150
+NZ_LN515531.1
+Methanobacterium formicicum genome assembly DSM1535, chromosome : chrI
+2478074
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium
+-0.37181280850428966
+0.6427405275282295
+0.3605865857222025
+-0.08352191465892585
+-0.2493945822766547
+151
+CP009507.1
+Methanosarcina siciliae HI350, complete genome
+4941115
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.2518828734738303
+0.6373012039234643
+0.4000035446530758
+-0.07096789203541237
+-0.2789248809788483
+152
+NZ_LN734822.1
+Methanobacterium formicicum genome assembly isolate Mb9, chromosome : I
+2494510
+Archaea; Euryarchaeota; Methanobacteria; Methanobacteriales; Methanobacteriaceae; Methanobacterium
+-0.35921538133830655
+0.6654284917858897
+0.3513998516320836
+-0.07774148576325833
+-0.25076525954409673
+153
+NZ_CP009524.1
+Methanosarcina sp. Kolksee, complete genome
+4499114
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.47713185745925785
+0.534763619051955
+0.36627850122463756
+-0.22846594867381628
+-0.28322847247960636
+154
+NC_015865.1
+Thermococcus sp. 4557, complete genome
+2011320
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.3569268307624391
+0.6207689984478353
+0.3846261098001557
+-0.06835121616661467
+-0.24785772057313626
+155
+NZ_CP009511.1
+Methanosarcina mazei SarPi, complete genome
+4066551
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.36071432180782076
+0.6780112437203099
+0.3387831170947409
+-0.07485975411065761
+-0.25121562852969137
+156
+NZ_CP009526.1
+Methanosarcina barkeri str. Wiesmoor, complete genome
+4874815
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.056619161548371134
+0.70301969647214
+0.5090194975901023
+0.23735253652649582
+-0.054650541521354824
+157
+NC_009135.1
+Methanococcus maripaludis C5, complete genome
+1780761
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus
+-0.06977845567424114
+0.6923839151812361
+0.5143351250673462
+0.23429252587051425
+-0.0697298048589527
+158
+NC_009975.1
+Methanococcus maripaludis C6, complete genome
+1744193
+Archaea; Euryarchaeota; Methanococci; Methanococcales; Methanococcaceae; Methanococcus
+-0.3551111431897436
+0.6770248268995419
+0.34311582570096116
+-0.07324934858474048
+-0.25023132726220315
+159
+NZ_CP009530.1
+Methanosarcina barkeri 227, complete genome
+4447980
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3561357108613846
+0.6262797204256514
+0.3829191931005972
+-0.07277480442630213
+-0.24834106059433056
+160
+NZ_CP009513.1
+Methanosarcina mazei LYC, complete genome
+4154344
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.29658770168728305
+0.608688802601448
+0.40799890448970144
+-0.21051924750894468
+-0.26146805617672714
+161
+NZ_CP012200.1
+Thermococcus sp. 2319x1, complete genome
+1961221
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.3533593619015783
+0.6341076241899799
+0.3812973445948062
+-0.07818154041351844
+-0.25027126976942937
+162
+NZ_CP009504.1
+Methanosarcina sp. WH1, complete genome
+3914091
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3884803443630678
+0.6158790012030775
+0.3409884871181418
+-0.1869227726957682
+-0.2786739847451995
+163
+CP015520.1
+Thermococcus sp. CDGS, complete genome
+1928800
+Archaea; Euryarchaeota; Thermococci; Thermococcales; Thermococcaceae; Thermococcus
+-0.3566131776234696
+0.6212407774116523
+0.3860624488944031
+-0.07179620335307178
+-0.24774451601195227
+164
+NZ_CP009514.1
+Methanosarcina mazei C16, complete genome
+4166241
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3556039979175622
+0.6783964138695219
+0.34203984258813924
+-0.07345577326955852
+-0.2499458051166341
+165
+NZ_CP008746.1
+Methanosarcina barkeri CM1, complete genome
+4501171
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3347269337426514
+0.6484610235368612
+0.3747521823188831
+-0.06791469030722662
+-0.2478452568993346
+166
+CP011449.1
+Methanosarcina sp. 795 genome
+3122414
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.3531183972923609
+0.5946048624171503
+0.4104340128731872
+-0.07081006131353723
+-0.24720267884002428
+167
+CP004144.1
+Methanosarcina mazei Tuc01, complete genome
+3427949
+Archaea; Euryarchaeota; Methanomicrobia; Methanosarcinales; Methanosarcinaceae; Methanosarcina
+-0.46916765185780795
+0.6018195984196139
+0.2661294636224616
+-0.07781775979106567
+-0.2757327322774716
+168
+DP000238.1
+Cenarchaeum symbiosum A, complete genome
+2045086
+Archaea; Thaumarchaeota; Cenarchaeales; Cenarchaeaceae; Cenarchaeum
+-0.14150436931361918
+0.966766260635293
+0.22931753131375252
+-0.16009945378570828
+-0.23319006932971953
+169
+NC_012589.1
+Sulfolobus islandicus L.S.2.15, complete genome
+2736272
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.1771913202174463
+0.8862552035245967
+0.26827138754326285
+-0.13762962370795687
+-0.242285200702536
+170
+NC_002754.1
+Sulfolobus solfataricus P2, complete genome
+2992245
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.43440162561500334
+0.6900760291605168
+0.16334905681386364
+-0.38265749310626596
+-0.38520068364385046
+171
+BA000002.3
+Aeropyrum pernix K1 DNA, complete genome
+1669696
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Aeropyrum
+-0.3843141781506569
+0.6768146075899194
+0.24492532188697916
+-0.2327638750828534
+-0.29390621950484686
+172
+AE009441.1
+Pyrobaculum aerophilum str. IM2, complete genome
+2222430
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum
+-0.03951881202910216
+0.9182881946700681
+0.27524706798145493
+-0.15698299405342334
+-0.2614607882871371
+173
+NC_003106.2
+Sulfolobus tokodaii str. 7 DNA, complete genome
+2694756
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.43374242770242605
+0.7200498103985138
+0.21234522241841422
+-0.2688060059291187
+-0.3283855836095824
+174
+NC_008818.1
+Hyperthermus butylicus DSM 5456, complete genome
+1667163
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Pyrodictiaceae; Hyperthermus
+-0.4660013112790954
+0.7573527995003373
+0.23288635547966266
+-0.21839678800682302
+-0.3033172663363143
+175
+NC_015931.1
+Pyrolobus fumarii 1A, complete genome
+1843267
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Pyrodictiaceae; Pyrolobus
+-0.5159529079662244
+0.6678858945926267
+0.0036688535121595926
+-0.6313203795873411
+-0.40460917745485464
+176
+NC_009776.1
+Ignicoccus hospitalis KIN4/I, complete genome
+1297538
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Ignicoccus
+-0.12147766296788653
+0.8986762926781849
+0.3092420371106611
+-0.09122084125776209
+-0.2974518000295354
+177
+NC_007181.1
+Sulfolobus acidocaldarius DSM 639, complete genome
+2225959
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.39947886985235376
+0.6827783173652364
+0.2446831825272076
+-0.199124238651534
+-0.291258117867445
+178
+CP000660.1
+Pyrobaculum arsenaticum DSM 13514, complete genome
+2121076
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum
+-0.530038064182356
+0.6646394321252389
+0.09999093714583
+-0.441131066397039
+-0.3724808600505728
+179
+CP001014.1
+Thermoproteus neutrophilus V24Sta, complete genome
+1769823
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum
+-0.37112301413975624
+0.672701049261786
+0.21773043620247345
+-0.2620274635867944
+-0.30497456323096594
+180
+NC_008701.1
+Pyrobaculum islandicum DSM 4184, complete genome
+1826402
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum
+-0.5179604627977059
+0.729057143118796
+0.153951348507996
+-0.3435364589248074
+-0.3323487723303645
+181
+NC_008698.1
+Thermofilum pendens Hrk 5, complete genome
+1781889
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermofilaceae; Thermofilum
+-0.33062495768613703
+0.7071951963211268
+0.20903283476070714
+-0.31078552126964354
+-0.3301215620867342
+182
+NC_010482.1
+Candidatus Korarchaeum cryptofilum OPF8, complete genome
+1590757
+Archaea; Candidatus Korarchaeota; Candidatus Korarchaeum
+-0.20988181086094937
+0.7929773026183766
+0.22172783565738385
+-0.3149846757868318
+-0.4020348722053904
+183
+NC_009954.1
+Caldivirga maquilingensis IC-167, complete genome
+2077567
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Caldivirga
+-0.3243374760324157
+0.7324390998124223
+0.29749063848043894
+-0.1263582176705347
+-0.2853421453140311
+184
+NC_009440.1
+Metallosphaera sedula DSM 5348, complete genome
+2191517
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera
+-0.06644568811725002
+0.7946061700475227
+0.15894145384653907
+-0.2869299191508571
+-0.29661446247453715
+185
+NC_009033.1
+Staphylothermus marinus F1, complete genome
+1570485
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Staphylothermus
+-0.4239252576824454
+0.6847819645663189
+0.20436299672546773
+-0.32344266649547193
+-0.3375353864459301
+186
+CP000561.1
+Pyrobaculum calidifontis JCM 11548, complete genome
+2009313
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum
+0.17383422208594543
+0.9617083875308821
+0.3274567500013147
+0.3841615589244431
+-0.3011496915816771
+187
+CP000866.1
+Nitrosopumilus maritimus SCM1, complete genome
+1645259
+Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus
+-0.30341094207783265
+0.7216492739845539
+0.17669954019826556
+-0.3499502764066017
+-0.40249479405336014
+188
+NC_011766.1
+Desulfurococcus kamchatkensis 1221n, complete genome
+1365223
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Desulfurococcus
+-0.35196674405119827
+0.7028939238953894
+0.28106329857729656
+-0.16259413408968895
+-0.2963992884501738
+189
+NC_014537.1
+Vulcanisaeta distributa DSM 14429, complete genome
+2374137
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Vulcanisaeta
+0.07382526231411586
+0.8599390507570005
+0.16586154983981438
+-0.3260966045438533
+-0.4112025290240305
+190
+CP002098.1
+Ignisphaera aggregans DSM 17230, complete genome
+1875953
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Ignisphaera
+-0.1054748772628285
+0.7651887879115028
+0.17149307186776183
+-0.3229292815530079
+-0.32553099726717516
+191
+NC_014205.1
+Staphylothermus hellenicus DSM 12710, complete genome
+1580347
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Staphylothermus
+-0.3474759371819243
+0.6816022722318904
+0.22819317983578657
+-0.2815126378909613
+-0.31990696595536366
+192
+NC_014160.1
+Thermosphaera aggregans DSM 11486, complete genome
+1316595
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Thermosphaera
+-0.4496021203568723
+0.6490966928613571
+0.11865340918781118
+-0.5501753334826168
+-0.5147921155046288
+193
+NC_014374.1
+Acidilobus saccharovorans 345-15, complete genome
+1496453
+Archaea; Crenarchaeota; Thermoprotei; Acidilobales; Acidilobaceae; Acidilobus
+-0.4597719618911992
+0.7169811498729998
+0.12522978291687856
+-0.4741896036211237
+-0.47794010705972423
+194
+NC_014961.1
+Desulfurococcus mucosus DSM 2162, complete genome
+1314639
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Desulfurococcus
+-0.06769310690759524
+0.9070141132610446
+0.2479569088018765
+-0.1710254523383114
+-0.2521392663195227
+195
+NC_015518.1
+Acidianus hospitalis W1, complete genome
+2137654
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Acidianus
+-0.3096173676656707
+0.7303129731997717
+0.28429318111029317
+-0.14755866093075068
+-0.29555620682421063
+196
+NC_015151.1
+Vulcanisaeta moutnovskia 768-28, complete genome
+2298983
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Vulcanisaeta
+-0.514305189738994
+0.6549104264804547
+0.09005416829688317
+-0.39345134325254716
+-0.3520383622448093
+197
+NC_015315.1
+Thermoproteus uzoniensis 768-20, complete genome
+1936063
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Thermoproteus
+-0.2883008502042803
+0.7666221607315747
+0.26850830675391163
+-0.1323145561591177
+-0.29103347810006597
+198
+NC_015435.1
+Metallosphaera cuprina Ar-4, complete genome
+1840348
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera
+-0.40963076377453506
+0.6505091346476808
+0.28877037814571743
+-0.07426947304687487
+-0.2535386177993088
+199
+CP007536.1
+Nitrososphaera viennensis EN76, complete genome
+2527938
+Archaea; Thaumarchaeota; Nitrososphaeria; Nitrososphaerales; Nitrososphaeraceae; Nitrososphaera
+-0.27999258336425153
+0.7362482109843012
+0.17309954232605224
+-0.3625981894783983
+-0.3982170816020332
+200
+NC_018001.1
+Desulfurococcus fermentans DSM 16532, complete genome
+1384116
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Desulfurococcus
+-0.39362182485768477
+0.6832752323041729
+0.2648341284801397
+-0.16605140250756345
+-0.2824228592480061
+201
+CP003316.1
+Pyrobaculum oguniense TE7, complete genome
+2436033
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum
+-0.38572806153976236
+0.67700011984614
+0.2983964094597143
+-0.07600088607602726
+-0.2608664910333993
+202
+CP002408.1
+Candidatus Nitrososphaera gargensis Ga9.2, complete genome
+2833868
+Archaea; Thaumarchaeota; Nitrososphaeria; Nitrososphaerales; Nitrososphaeraceae; Nitrososphaera
+-0.3340470399062471
+0.750425824176555
+0.16709085614484648
+-0.24499021689952993
+-0.25781630311212206
+203
+CP006867.1
+Ignicoccus islandicus DSM 13165, complete genome
+1394664
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Ignicoccus
+0.35961175053651906
+0.7919814460916187
+0.07226480182398225
+-0.340347392058712
+-0.308059864367884
+204
+NC_019791.1
+Caldisphaera lagunensis DSM 15908, complete genome
+1546846
+Archaea; Crenarchaeota; Thermoprotei; Acidilobales; Caldisphaeraceae; Caldisphaera
+-0.4296366895577121
+0.6706875993071683
+0.22161591172761544
+-0.23555590319689815
+-0.30427231819465245
+205
+NC_016070.1
+Thermoproteus tenax Kra 1, complete genome
+1841542
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Thermoproteus
+-0.40966553902692193
+0.6164414991554641
+0.3447091595309932
+-0.2581355429623686
+-0.27183263811180014
+206
+BA000048.1
+Candidatus Caldiarchaeum subterraneum DNA, complete genome, from subsurface mine microbial mat
+1680938
+Archaea; Thaumarchaeota; unclassified Thaumarchaeota; Candidatus Caldiarchaeum
+-0.11449594372284129
+0.7251373306326774
+0.26120503508642384
+-0.21255196685979472
+-0.2634175655764768
+207
+CP003423.1
+Fervidicoccus fontis Kam940, complete genome
+1319206
+Archaea; Crenarchaeota; Thermoprotei; Fervidicoccales; Fervidicoccaceae; Fervidicoccus
+-0.451046337445844
+0.6802665279841866
+0.21031425923356614
+-0.27543284022526576
+-0.3177992997140601
+208
+CP012158.1
+Pyrobaculum sp. WP30, complete genome
+1993257
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum
+0.12082203442181053
+0.9111449908239037
+0.3518006682177292
+0.2642163246837961
+-0.2737125891745208
+209
+NC_018656.1
+Candidatus Nitrosopumilus sp. AR2, complete genome
+1690905
+Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus
+-0.37369772562486103
+0.6805582319199697
+0.26535952911215427
+-0.16314216922409203
+-0.29451130075040444
+210
+NZ_CP009961.1
+Thermofilum sp. 1807-2, complete genome
+1611988
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermofilaceae; Thermofilum
+-0.5144338327002896
+0.769139961348085
+0.08856619588634089
+-0.45176526188203087
+-0.42045780372281844
+211
+NC_017954.1
+Thermogladius cellulolyticus 1633, complete genome
+1356318
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Thermogladius
+0.12263426016994525
+0.9253931922597481
+0.3568311167497188
+0.31093277359147226
+-0.27219135043894727
+212
+CP003842.1
+Candidatus Nitrosopumilus koreensis AR1, complete genome
+1639964
+Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus
+-0.39154265269735256
+0.6736349006077594
+0.29701038674509606
+-0.07536890264211386
+-0.25652439385215087
+213
+CP007174.1
+Candidatus Nitrososphaera evergladensis SR1, complete genome
+2954373
+Archaea; Thaumarchaeota; Nitrososphaeria; Nitrososphaerales; Nitrososphaeraceae; Nitrososphaera
+-0.2711163421202635
+0.752243693109115
+0.3304560877603153
+-0.044071700076486
+-0.2436512135204662
+214
+CP012850.1
+Thaumarchaeota archaeon MY3, complete genome
+3430706
+Archaea; Thaumarchaeota; Nitrososphaeria; Nitrososphaerales; Nitrososphaeraceae; Candidatus Nitrosocosmicus
+0.2273836399838072
+0.9310996910987596
+0.30061805100814004
+0.5770244255378334
+-0.20265868297314557
+215
+NZ_CP007026.1
+Ammonia-oxidizing marine archaeon V2, complete genome
+1232128
+Archaea; Thaumarchaeota; unclassified Thaumarchaeota
+-0.35191051778237703
+0.6786984983827812
+0.26980571980244283
+-0.19224619238225998
+-0.29551284970335145
+216
+NZ_CP007493.1
+Thermofilum carboxyditrophus 1505, complete genome
+1754190
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermofilaceae; Thermofilum
+-0.2481490261425616
+0.7383044166570637
+0.3022216146512738
+0.10501092197114378
+-0.24896305440748706
+217
+NZ_CP011097.1
+Thaumarchaeota archaeon SAT1, complete genome
+1620156
+Archaea; Thaumarchaeota; unclassified Thaumarchaeota; Candidatus Nitrosotenuis
+-0.412878042959419
+0.7133524760831095
+0.24270487003688193
+-0.19552466111706593
+-0.3068554551796667
+218
+NZ_CP013011.1
+Pyrodictium delaneyi strain Su06, complete genome
+2023836
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Pyrodictiaceae; Pyrodictium
+-0.404227132385929
+0.6835533826905646
+0.24016903055805844
+-0.21496406103156082
+-0.3050594871468501
+219
+CP003098.1
+Pyrobaculum ferrireducens strain 1860, complete genome
+2467972
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermoproteaceae; Pyrobaculum
+0.13174744462393587
+0.9132223243843093
+0.3370230099255284
+0.2495240550229167
+-0.2901856389427502
+220
+CP010868.1
+Candidatus Nitrosopumilus piranensis strain D3C, complete genome
+1713078
+Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus
+0.10887477070547331
+0.9159536577167054
+0.34735929525621567
+0.20435776601255076
+-0.26366601366681475
+221
+NZ_CP011070.1
+Candidatus Nitrosopumilus sp. NF5, complete genome
+1803090
+Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Nitrosopumilus
+-0.44960324100621074
+0.6809230616340951
+0.1381100716271565
+-0.44424810746136295
+-0.4064374131072063
+222
+AP012489.1
+Aeropyrum camini SY1 = JCM 12091 DNA, complete genome
+1595994
+Archaea; Crenarchaeota; Thermoprotei; Desulfurococcales; Desulfurococcaceae; Aeropyrum
+-0.3544200172150503
+0.6765396580101972
+0.26728491078602185
+-0.19167986680761656
+-0.29831462800208086
+223
+NC_022093.1
+Thermofilum sp. 1910b, complete genome
+1750259
+Archaea; Crenarchaeota; Thermoprotei; Thermoproteales; Thermofilaceae; Thermofilum
+0.14002859892077976
+0.9321690548494003
+0.35056720157322296
+0.2741974965051877
+-0.24582965265007836
+224
+CM001158.1
+Candidatus Nitrosoarchaeum limnia SFB1 chromosome, whole genome shotgun sequence
+1772718
+Archaea; Thaumarchaeota; Nitrosopumilales; Nitrosopumilaceae; Candidatus Nitrosoarchaeum
+-0.3243461364912296
+0.7323182039101708
+0.29745438121109424
+-0.12640048316935615
+-0.28538591327981866
+225
+NZ_CP012172.1
+Metallosphaera sedula strain ARS50-1, complete genome
+2191533
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera
+-0.12133724733457849
+0.8987690668635624
+0.3093716912007413
+-0.09123268610335444
+-0.2974741439767468
+226
+NC_020247.1
+Sulfolobus acidocaldarius Ron12/I, complete genome
+2223983
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.15009527889953417
+0.9057302493926002
+0.25517402973706155
+-0.1478219437161296
+-0.24355105956861048
+227
+NC_017274.1
+Sulfolobus solfataricus 98/2, complete genome
+2668974
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.1250296422762024
+0.9949101331500276
+0.21502626792423796
+-0.1770968643922521
+-0.22863791017644014
+228
+NC_012588.1
+Sulfolobus islandicus M.14.25, complete genome
+2608832
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.12956861141537382
+0.9904230321724271
+0.21997509125846612
+-0.17542766128595078
+-0.23021302829233709
+229
+NC_012632.1
+Sulfolobus islandicus M.16.27, complete genome
+2692402
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.15449065615237723
+0.9022745052615425
+0.2570123737538858
+-0.1453936745889648
+-0.24350502738394264
+230
+NZ_CP011055.1
+Sulfolobus solfataricus strain SULB, complete genome
+2727261
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.11563655773015807
+0.9022584273431096
+0.3080246112718881
+-0.09232429035851684
+-0.2989495570582803
+231
+NC_020246.1
+Sulfolobus acidocaldarius N8, complete genome
+2176362
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.32432814190006076
+0.7324340424270138
+0.297469878255354
+-0.12633266581962566
+-0.2854040626308048
+232
+NZ_CP012173.1
+Metallosphaera sedula strain ARS50-2, complete genome
+2191529
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera
+-0.32433484842099647
+0.7322644958654122
+0.29754965749233975
+-0.1264855502157527
+-0.28535343898508786
+233
+NZ_CP012174.1
+Metallosphaera sedula strain ARS120-1, complete genome
+2191531
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera
+-0.07689849421358928
+0.9162182467073178
+0.30563585670903726
+-0.09937106967279648
+-0.3047407117838779
+234
+NC_023069.1
+Sulfolobus acidocaldarius SUSAZ, complete genome
+2061920
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.15442008513620728
+0.9024920871145472
+0.25711503199003377
+-0.145187349655951
+-0.2434551653382436
+235
+NZ_CP011056.1
+Sulfolobus solfataricus strain SULC, complete genome
+2727312
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.13002764811135512
+0.9911448627714888
+0.21665964989778996
+-0.17417534333288962
+-0.23198420484937288
+236
+NC_012726.1
+Sulfolobus islandicus M.16.4, complete genome
+2586647
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.13394470332011235
+0.9724421773728876
+0.2231101746971616
+-0.17275561857058983
+-0.2361428692024993
+237
+NC_012622.1
+Sulfolobus islandicus Y.G.57.14, complete genome
+2702058
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.15458621688961544
+0.9023959070268281
+0.2569488210896384
+-0.14539935588981515
+-0.24361779249662618
+238
+NZ_CP011057.1
+Sulfolobus solfataricus strain SULA, complete genome
+2727337
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.11871571334640238
+0.8872747449416596
+0.3124121601568304
+-0.09257526888707059
+-0.29103104497332183
+239
+CP013694.1
+Sulfolobus acidocaldarius strain GG12-C01-09 genome
+2220582
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.32431529429426875
+0.7324213459286579
+0.29753879887303486
+-0.12638187182663901
+-0.2853841932865656
+240
+NZ_CP012175.1
+Metallosphaera sedula strain ARS120-2, complete genome
+2191533
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera
+-0.32431926593739663
+0.732445509944539
+0.2975438430977384
+-0.12634598342754852
+-0.2853951692925307
+241
+NZ_CP012176.1
+Metallosphaera sedula strain SARC-M1, complete genome
+2191533
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera
+-0.12177214560974178
+0.8853317457214777
+0.312137950918546
+-0.09399443269436972
+-0.29004931213463103
+242
+NZ_CP013695.1
+Sulfolobus acidocaldarius strain NG05B_CO5_07 genome
+2217426
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.1812325405493739
+0.8803902358414138
+0.2721505722610783
+-0.1367069082951149
+-0.24559078552018482
+243
+NZ_LT549890.1
+Sulfolobus solfataricus strain P1 genome assembly, chromosome: I
+3034024
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.13810074112714021
+0.9185838978287287
+0.25039734803452235
+-0.15308507272613922
+-0.24455878969101724
+244
+NC_012623.1
+Sulfolobus islandicus Y.N.15.51, complete genome
+2812165
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.11182772993357865
+0.9988196775052232
+0.21445852206702307
+-0.17616711947416994
+-0.23828861386538683
+245
+NC_017276.1
+Sulfolobus islandicus REY15A, complete genome
+2522992
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.3243048336646519
+0.7324576147236235
+0.2974857351727568
+-0.12632500508348912
+-0.2854334221736475
+246
+NZ_CP008822.1
+Metallosphaera sedula strain CuR1 genome
+2191492
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Metallosphaera
+-0.12744826760644076
+0.980395044596413
+0.2256444448676081
+-0.1714895680017466
+-0.2367316522393581
+247
+NC_017275.1
+Sulfolobus islandicus HVE10/4, complete genome
+2655201
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.11284705522851882
+0.9984002516292206
+0.2136733034643094
+-0.18130629135274112
+-0.23522978277118728
+248
+NC_021058.1
+Sulfolobus islandicus LAL14/1, complete genome
+2465177
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.14562177827765252
+0.9640085896943404
+0.2282961058302478
+-0.16914165702933032
+-0.23737318958082904
+249
+NC_013769.1
+Sulfolobus islandicus L.D.8.5, complete genome
+2722032
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.12565048703076184
+0.9943777014653175
+0.21807266010899803
+-0.17428470042416408
+-0.22861399657996487
+250
+NZ_AHJK01000001.1
+Sulfolobus islandicus M.16.2 chromosome, whole genome shotgun sequence
+2645252
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.12108768606301683
+1
+0.21483584562318905
+-0.17836689155689045
+-0.2297144504695905
+251
+NZ_AHJO01000001.1
+Sulfolobus islandicus M.16.23 chromosome, whole genome shotgun sequence
+2601131
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.13618777456619136
+0.9836972949735694
+0.21939291472362826
+-0.17334940416181857
+-0.23084713773867727
+252
+NZ_AHJQ01000001.1
+Sulfolobus islandicus M.16.40 chromosome, whole genome shotgun sequence
+2664783
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.12231116829304756
+0.9988922979524947
+0.2127392599350497
+-0.18077058087053624
+-0.22973934869861548
+253
+NZ_AHJR01000001.1
+Sulfolobus islandicus M.16.43 chromosome, whole genome shotgun sequence
+2589840
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.12496118355887278
+0.9967541859305107
+0.21587892894321165
+-0.1773675275129303
+-0.23027121659294908
+254
+NZ_AHJT01000001.1
+Sulfolobus islandicus M.16.47 chromosome, whole genome shotgun sequence
+2637559
+Archaea; Crenarchaeota; Thermoprotei; Sulfolobales; Sulfolobaceae; Sulfolobus
+-0.6740365571112248
+0.5965631350161573
+0.41321487517282873
+-0.03466188250527826
+-0.25045362109039293
+255
+NC_015954.1
+Halophilic archaeon DL31, complete genome
+2913689
+Archaea
+-0.1780177729961223
+0.4539663911257811
+0.4523834226358027
+-0.26448389259428956
+-0.21620466377934344
+256
+CP010424.1
+Archaeon GW2011_AR10, complete genome
+1241428
+Archaea
+-0.13780401247448482
+0.33784083322316627
+0.522468129338603
+-0.23304768676817955
+-0.3369311245795155
+257
+CP010425.1
+Archaeon GW2011_AR15 genome
+1157790
+Archaea
+0.30942839106371295
+0.3649097831782309
+0.3325254741652369
+0.09343179860656542
+0.07415727884475738
+258
+CP010426.1
+Archaeon GW2011_AR20, complete genome
+829411
+Archaea

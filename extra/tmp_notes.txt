@@ -1,0 +1,6 @@
+if new or updated filename of map
+*in load.js for CGRs
+*in load.js for distMatrix
+*in index.html for refmap loading
+*in maps.txt for map names listing
+

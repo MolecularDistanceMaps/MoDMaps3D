@@ -1,0 +1,407 @@
+20,20
+blue,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+E.coli (20), S.enterica (20)
+Sampling from E.coli and S.enterica; Number of genomic DNA sequences is 40; FCGR with k=9; Approx. Information
+-0.596569
+-0.0611486
+0.962488
+-0.158428
+-0.192711
+1
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+4
+-0.107256
+-0.80403
+0.0859802
+0.514903
+0.233418
+2
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+29
+0.0926747
+-0.814286
+0.268898
+-0.00293552
+0.370749
+3
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+5
+-0.121469
+-0.73496
+0.153579
+1.
+-0.406959
+4
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+11
+-0.032165
+-0.843241
+0.0200657
+0.590553
+-0.911481
+5
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+12
+0.284949
+-1.
+0.427363
+0.0993421
+-0.324956
+6
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+23
+0.293318
+-0.754842
+0.467405
+-0.0654599
+-0.303864
+7
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+8
+0.326156
+-0.713886
+0.392228
+-0.144335
+-0.252674
+8
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+19
+0.399844
+-0.765574
+0.434868
+-0.132616
+-0.319143
+9
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+21
+0.431941
+-0.813273
+0.312582
+-0.512568
+-0.177068
+10
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+15
+0.43986
+-0.762472
+0.360725
+-0.541202
+-0.246143
+11
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+28
+0.367277
+-0.778628
+0.411972
+-0.157299
+-0.414048
+12
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+16
+0.65952
+-0.0132221
+0.190714
+0.177684
+-0.542712
+13
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+25
+0.356039
+-0.600623
+0.431293
+-0.211742
+-0.130751
+14
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+30
+0.223717
+-0.677964
+0.435525
+-0.131628
+-0.0756174
+15
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+2
+1.
+0.812248
+0.0213554
+0.52087
+0.0863453
+16
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+17
+0.304221
+-0.788192
+0.310015
+-0.483006
+0.131963
+17
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+14
+-0.68074
+0.0565933
+1.
+-0.442618
+-0.57731
+18
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+22
+-0.586637
+-0.187357
+0.774278
+-0.296214
+0.0603124
+19
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+13
+-0.0675852
+-0.629469
+0.108663
+0.178478
+0.996552
+20
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+7
+-0.341922
+-0.35784
+-0.80897
+-0.0449241
+-0.171952
+21
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+9
+-0.923316
+0.0929899
+0.199311
+-0.234997
+-0.135781
+22
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+30
+-0.404138
+-0.519666
+-0.831525
+0.230446
+0.218133
+23
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+8
+-0.314535
+-0.607607
+-0.920108
+-0.0783232
+0.318569
+24
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+4
+-0.384294
+-0.594598
+-0.736022
+0.498018
+-0.313671
+25
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+15
+-0.366452
+-0.599489
+-0.49513
+0.887787
+-0.427218
+26
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+29
+-0.362157
+-0.611089
+-0.894628
+0.458162
+-1.
+27
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+2
+-0.310039
+-0.605739
+-0.844849
+0.165776
+-0.351013
+28
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+31
+-0.217904
+-0.595914
+-1.
+-0.189816
+-0.421358
+29
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+19
+0.0804203
+-0.545558
+-0.82398
+-0.568699
+-0.565352
+30
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+5
+0.211723
+-0.613407
+-0.676353
+-0.876608
+-0.308418
+31
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+28
+0.267918
+-0.572241
+-0.713706
+-1.
+-0.299544
+32
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+10
+0.0811214
+-0.361592
+-0.939878
+-0.885315
+-0.225732
+33
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+1
+0.627782
+0.124672
+-0.572117
+-0.174204
+-0.614663
+34
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+11
+0.856545
+1.
+-0.609606
+0.296939
+0.0316118
+35
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+16
+0.0742241
+-0.472986
+-0.809279
+-0.837917
+0.0117004
+36
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+24
+-0.751776
+0.0646218
+-0.0287399
+-0.336254
+-0.208852
+37
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+26
+-0.530991
+-0.187711
+-0.142751
+-0.563568
+-0.627852
+38
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+12
+-1.
+0.180168
+0.590318
+-0.418494
+-0.377599
+39
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+7
+-0.397571
+-0.456728
+-0.661655
+-0.0410209
+1.
+40
+NC_003197.1
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 chromosome  complete genome
+150000
+18

@@ -1,0 +1,9807 @@
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+H.sapiens (480), P.troglodytes (500)
+Sampling from H.sapiens and P.troglodytes; Number of genomic DNA sequences is 980; FCGR with k=9; Approx. Information
+0.890167
+-0.773973
+0.0123002
+0.218672
+-0.11334
+1
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+206
+0.380802
+-0.844232
+0.27932
+-0.0785478
+-0.0279166
+2
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+668
+0.661075
+-0.921961
+-0.471282
+-0.569296
+0.315721
+3
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+10
+-0.0877942
+-0.973161
+-0.846862
+0.18077
+0.0126357
+4
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1202
+0.145699
+-0.780985
+0.68317
+0.214332
+-0.153456
+5
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+115
+-0.493408
+-0.879578
+0.188448
+0.0281664
+0.203467
+6
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+501
+-0.740814
+-0.875692
+-0.300167
+0.590829
+0.104001
+7
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+611
+-0.283848
+-0.852234
+0.51597
+0.452902
+0.0717936
+8
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+713
+-0.563857
+-0.851247
+0.0999332
+-0.775152
+-0.00507238
+9
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1437
+-0.652649
+-0.868188
+0.0880601
+-0.713917
+0.243548
+10
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1375
+-0.715706
+-0.871701
+-0.0682537
+-0.417072
+0.325745
+11
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1142
+-0.482099
+-0.842924
+0.531921
+0.0196112
+0.093923
+12
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+335
+-0.55245
+-0.89708
+-0.242009
+-0.232519
+0.0231545
+13
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+633
+-0.500803
+-0.921821
+-0.457982
+-0.360705
+0.025279
+14
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+749
+-0.959533
+-0.769453
+0.198086
+0.109018
+0.17299
+15
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+793
+-0.813107
+-0.835606
+0.113533
+-0.357147
+0.247552
+16
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1394
+-0.26101
+-1.
+-0.361285
+0.106281
+0.479075
+17
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+948
+-0.251105
+-0.948668
+-0.175823
+-0.343143
+0.325232
+18
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1275
+-0.254276
+-0.946919
+-0.0957375
+0.448888
+0.182813
+19
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+116
+-0.51289
+-0.908664
+-0.259529
+-0.388517
+0.157431
+20
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+202
+-0.495491
+-0.882635
+0.219833
+0.567592
+0.277994
+21
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+691
+-0.180798
+-0.922929
+0.102112
+-0.109205
+0.172363
+22
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1455
+-0.527554
+-0.939369
+-0.424673
+0.256822
+0.200977
+23
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1083
+-0.776227
+-0.843109
+-0.182711
+-0.568349
+0.0540304
+24
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+622
+-0.381471
+-0.890296
+-0.263803
+-0.136766
+0.252547
+25
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+509
+-0.239807
+-0.938075
+0.0124911
+-0.116466
+0.236373
+26
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1352
+-0.287771
+-0.922672
+-0.1103
+0.370589
+0.238624
+27
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+59
+-0.626772
+-0.900393
+-0.193246
+-0.0687793
+0.305092
+28
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1389
+-0.149953
+-0.95211
+-0.38482
+-0.0995975
+0.0916561
+29
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+676
+-0.630951
+-0.881037
+-0.141057
+0.564178
+0.181772
+30
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+452
+-0.614933
+-0.910966
+0.000823196
+-0.144607
+0.28576
+31
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1531
+-0.362568
+-0.956
+-0.16137
+0.0771844
+0.308501
+32
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1255
+-0.745184
+-0.864271
+0.0943539
+-0.118681
+0.352212
+33
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1190
+-0.757839
+-0.862164
+-0.0809333
+-0.0815346
+0.272782
+34
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1478
+-0.713191
+-0.815367
+0.468124
+-0.313415
+0.196664
+35
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+914
+-0.584239
+-0.924235
+-0.263286
+-0.00330712
+0.248928
+36
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+878
+-0.711663
+-0.856809
+0.00726303
+-0.274584
+0.232803
+37
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+603
+-0.313132
+-0.943777
+-0.337459
+-0.742212
+0.201178
+38
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+416
+-0.618786
+-0.911418
+-0.434116
+-0.1694
+0.069389
+39
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+980
+-0.201186
+-0.885324
+0.286324
+-0.405964
+0.155033
+40
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+598
+-0.786614
+-0.821
+0.183526
+-0.459519
+0.211622
+41
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+16
+-0.747172
+-0.861911
+-0.236864
+0.33533
+0.102848
+42
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+131
+-0.739324
+-0.867529
+-0.0203686
+-0.251237
+0.327093
+43
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+656
+0.342673
+-0.973529
+-0.359167
+-0.0246198
+0.335182
+44
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+285
+-0.61287
+-0.895387
+-0.34613
+-0.69636
+0.193247
+45
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+220
+-0.809418
+-0.840928
+-0.411483
+0.00865381
+-0.0335154
+46
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+120
+-0.188202
+-0.8819
+0.249551
+-0.269759
+0.138365
+47
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+49
+0.0185757
+-0.977057
+-0.293247
+-0.299703
+0.288063
+48
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1143
+-0.0366
+-0.92033
+0.150056
+0.506753
+0.104713
+49
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+43
+-0.146207
+-0.794492
+0.703255
+0.525073
+-0.139359
+50
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1315
+-0.718465
+-0.542207
+0.297524
+0.534032
+0.00462635
+51
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+610
+-0.757533
+-0.856638
+-0.378613
+0.444332
+-0.00942698
+52
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+314
+-0.884749
+-0.815304
+-0.237652
+-0.277702
+0.00507033
+53
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1230
+-0.732901
+-0.858084
+-0.014517
+0.512592
+0.188295
+54
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+321
+-0.802287
+-0.825216
+0.260872
+0.0693501
+0.216233
+55
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+712
+-0.822586
+-0.855307
+-0.26122
+-0.131167
+0.146934
+56
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+690
+-0.463951
+-0.909685
+0.0194272
+0.0152949
+0.244842
+57
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1078
+0.267089
+-0.937676
+-0.171453
+-0.0848534
+0.236858
+58
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+96
+-0.485922
+-0.906447
+-0.297666
+0.214437
+-0.00540798
+59
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+986
+-0.341111
+-0.887428
+0.160538
+0.331394
+0.203287
+60
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1285
+-0.779178
+-0.869436
+-0.201934
+-0.347186
+0.176155
+61
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+95
+-0.796061
+-0.853109
+-0.258819
+0.102592
+0.0897776
+62
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1078
+-0.727996
+-0.878658
+-0.430071
+0.39452
+0.0609698
+63
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1162
+-0.811924
+-0.846158
+-0.123608
+-0.192466
+0.142111
+64
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1079
+-0.300492
+-0.910221
+0.0772362
+-0.0314066
+0.260436
+65
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1095
+-0.488479
+-0.887452
+0.163139
+0.862728
+0.205612
+66
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1121
+-0.46749
+-0.914325
+-0.041853
+0.00447325
+0.324515
+67
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+550
+-0.842855
+-0.819523
+0.00188449
+0.107783
+0.123421
+68
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+652
+-0.689796
+-0.884992
+-0.363814
+0.0806132
+0.00908049
+69
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+427
+-0.404391
+-0.873329
+0.307498
+0.409753
+0.113102
+70
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+133
+-0.772768
+-0.851539
+0.0805942
+0.312243
+0.133745
+71
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+756
+-0.760672
+-0.846508
+0.252918
+0.386742
+0.263006
+72
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1221
+-0.577445
+-0.747261
+0.609055
+-0.147474
+-0.251705
+73
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+258
+-0.807736
+-0.842386
+0.0946257
+0.138815
+0.293893
+74
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1042
+-1.
+-0.759139
+0.2222
+0.235015
+0.139367
+75
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+484
+-0.900084
+-0.788634
+0.200791
+-0.00342516
+0.206673
+76
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+148
+-0.736452
+-0.839276
+-0.557816
+0.0311034
+-0.187537
+77
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+243
+-0.681768
+-0.866237
+-0.0605281
+0.641929
+0.11613
+78
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+278
+-0.818235
+-0.831513
+0.131962
+0.0283133
+0.156491
+79
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+851
+-0.178153
+-0.858322
+0.297396
+-0.0329958
+0.107663
+80
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+274
+-0.105483
+-0.936424
+-0.418094
+-0.0758569
+0.265643
+81
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+22
+-0.373635
+-0.926776
+-0.253937
+0.0467507
+0.326567
+82
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+501
+-0.527631
+-0.919871
+-0.115003
+0.431602
+0.384726
+83
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+530
+-0.787637
+-0.856271
+-0.165506
+0.485624
+0.181176
+84
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+81
+-0.640013
+-0.827924
+0.134592
+-0.32291
+0.0169889
+85
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+747
+-0.694242
+-0.854649
+-0.596815
+-0.288861
+-0.215741
+86
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+418
+-0.591496
+-0.916421
+-0.0434584
+0.0149568
+0.294545
+87
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1150
+-0.566025
+-0.891048
+0.102327
+-0.565457
+0.321481
+88
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+491
+-0.538447
+-0.862595
+-0.0679459
+-0.115472
+-0.187352
+89
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+782
+-0.608045
+-0.794694
+0.589055
+-0.486692
+0.0651928
+90
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+864
+-0.485752
+-0.910888
+-0.168484
+-0.493831
+0.248835
+91
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+636
+-0.802431
+-0.824529
+0.311039
+0.287222
+0.21049
+92
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1028
+-0.628127
+-0.885802
+-0.0303402
+0.258634
+0.189306
+93
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+776
+-0.485055
+-0.913556
+-0.105169
+0.151759
+0.354608
+94
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+28
+-0.876768
+-0.813509
+0.0710351
+-0.33429
+0.249136
+95
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+143
+-0.801593
+-0.84884
+-0.0495105
+-0.153684
+0.157732
+96
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1018
+-0.646955
+-0.87956
+-0.273176
+-0.487723
+0.134933
+97
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+63
+-0.797964
+-0.838359
+-0.459752
+0.139341
+-0.115209
+98
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+985
+-0.211541
+-0.986878
+-0.23115
+-0.0686382
+0.419903
+99
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+548
+0.287981
+-0.955963
+-0.376399
+-0.0622989
+0.337319
+100
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+430
+-0.289647
+-0.835708
+0.441614
+-0.161204
+0.112833
+101
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+933
+-0.491956
+-0.910557
+0.0137153
+-0.232069
+0.248931
+102
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+214
+0.535093
+-0.891293
+-0.136713
+-0.00389033
+0.129816
+103
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+855
+-0.390712
+-0.769198
+-0.0431308
+-0.0293608
+-0.124867
+104
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+736
+0.508592
+-0.951419
+-0.437171
+-0.151422
+0.333086
+105
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+995
+-0.823563
+-0.840183
+-0.0728072
+-0.00116475
+0.146495
+106
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+541
+-0.321316
+-0.911309
+0.204216
+0.0350461
+0.229634
+107
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+189
+-0.836413
+-0.829602
+-0.316402
+0.0478822
+-0.109263
+108
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+185
+-0.75884
+-0.851136
+0.0356204
+-0.513761
+0.215327
+109
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+328
+-0.863494
+-0.84066
+-0.207016
+0.464737
+0.0980973
+110
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1039
+-0.507132
+-0.908147
+-0.129238
+0.676973
+0.160002
+111
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+699
+-0.355499
+-0.786398
+0.544651
+0.147093
+-0.211439
+112
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+752
+-0.752518
+-0.876216
+-0.027962
+0.141562
+0.309039
+113
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1099
+-0.824562
+-0.846662
+-0.370352
+-0.0387743
+0.00106529
+114
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1060
+-0.88924
+-0.794823
+0.199406
+-0.43962
+0.266434
+115
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+217
+-0.274082
+-0.810851
+0.610108
+-0.188535
+-0.0188918
+116
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1052
+-0.501927
+-0.919741
+-0.604474
+0.191832
+-0.000746633
+117
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+532
+-0.378831
+-0.886044
+0.172515
+-0.709119
+0.241521
+118
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+349
+-0.340538
+-0.945354
+-0.282557
+-0.0524554
+0.195899
+119
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+496
+-0.713783
+-0.855992
+-0.179132
+0.638099
+0.162648
+120
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+225
+0.808326
+-0.811898
+-0.457053
+-0.0979735
+0.150098
+121
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+184
+-0.746848
+-0.833252
+-0.000235502
+0.36176
+0.0468041
+122
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+625
+-0.61097
+-0.870877
+0.0454068
+-0.424876
+0.223387
+123
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+151
+-0.47305
+-0.941715
+-0.325978
+0.304941
+0.187521
+124
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+649
+-0.589802
+-0.889978
+-0.115509
+-0.173287
+0.0738369
+125
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+953
+-0.725794
+-0.864197
+-0.517085
+0.411911
+-0.0306682
+126
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+138
+0.0345047
+-0.798548
+0.632675
+0.0370682
+-0.114911
+127
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+703
+-0.836066
+-0.84838
+-0.190043
+0.359727
+0.108871
+128
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+965
+-0.658664
+-0.870027
+0.0781774
+-0.26462
+0.217254
+129
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+1009
+-0.710109
+-0.87576
+-0.325243
+-0.261239
+0.0283617
+130
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+774
+-0.753868
+-0.860298
+-0.00159516
+0.0554317
+0.289805
+131
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+618
+-0.681925
+-0.850416
+-0.230697
+0.657269
+-0.028154
+132
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+587
+0.289502
+-0.838778
+0.332523
+-0.191103
+-0.0269939
+133
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+144
+-0.0429715
+-0.943749
+0.0147327
+0.139083
+0.26082
+134
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+231
+-0.730371
+-0.865022
+-0.238347
+0.557515
+0.0655818
+135
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+510
+-0.402643
+-0.881002
+0.322753
+-0.405834
+0.199274
+136
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+863
+-0.619803
+-0.897086
+0.132521
+-0.0891632
+0.330872
+137
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+374
+-0.551536
+-0.899231
+-0.262046
+0.0496139
+-0.0378625
+138
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+2
+-0.783994
+-0.836918
+-0.0510447
+-0.521278
+0.174411
+139
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+677
+-0.00142741
+-0.918846
+0.0456307
+0.295214
+0.183948
+140
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+905
+-0.630787
+-0.885805
+-0.0547926
+0.139208
+0.243737
+141
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+286
+-0.0727914
+-0.874329
+0.116681
+0.0222565
+0.160269
+142
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+912
+-0.622463
+-0.895447
+-0.0734392
+0.304305
+0.240555
+143
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+340
+-0.174388
+-0.958899
+-0.311407
+0.352778
+0.281023
+144
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+195
+-0.475274
+-0.786373
+0.529389
+-0.709938
+-0.146156
+145
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+391
+-0.75165
+-0.847175
+-0.0333185
+0.0381279
+0.125101
+146
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+533
+-0.460169
+-0.90035
+-0.0968593
+0.474508
+0.090263
+147
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+591
+-0.664474
+-0.878868
+0.0318931
+-0.306487
+0.348464
+148
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+349
+-0.695148
+-0.879162
+-0.0855565
+0.0294364
+0.359648
+149
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+661
+-0.841881
+-0.816913
+0.0735914
+-0.0692539
+0.146904
+150
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+651
+-0.412551
+-0.891838
+0.2235
+0.549823
+0.186423
+151
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+614
+-0.945975
+-0.788073
+-0.314602
+-0.085471
+-0.0790826
+152
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+121
+-0.815681
+-0.846413
+-0.0839657
+-0.505692
+0.229463
+153
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+272
+-0.700219
+-0.838885
+-0.344613
+-0.778733
+0.0135722
+154
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+915
+-0.150244
+-0.900981
+0.184781
+-0.405715
+0.211977
+155
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+607
+-0.862055
+-0.774233
+-0.111053
+-0.803729
+-0.188054
+156
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+938
+-0.885958
+-0.813637
+-0.100487
+0.165173
+0.0770882
+157
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+499
+-0.806014
+-0.83656
+-0.32332
+-0.366723
+0.0792938
+158
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+238
+-0.704971
+-0.88167
+-0.102666
+-0.222207
+0.320396
+159
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+743
+-0.536864
+-0.858956
+0.20486
+0.738678
+0.0366285
+160
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+364
+-0.530718
+-0.928082
+-0.41813
+-0.398707
+0.140873
+161
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+141
+-0.562161
+-0.924649
+-0.192075
+-0.290688
+0.354577
+162
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+520
+-0.690933
+-0.896374
+-0.130756
+-0.323222
+0.342816
+163
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+283
+-0.512845
+-0.936071
+-0.0722916
+0.3487
+0.344748
+164
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+49
+-0.72203
+-0.871077
+-0.131963
+0.0250803
+0.204699
+165
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+386
+-0.796745
+-0.840644
+-0.381464
+0.31196
+-0.0527777
+166
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+136
+-0.633596
+-0.830966
+0.249679
+0.145109
+0.111725
+167
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+747
+-0.520318
+-0.88827
+0.090456
+0.0827957
+0.179025
+168
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+479
+0.173208
+0.96787
+-0.266132
+0.215403
+0.838756
+169
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+807
+-0.836608
+-0.839943
+-0.157983
+0.537515
+0.170445
+170
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+261
+-0.661654
+-0.913275
+-0.129902
+0.207174
+0.403722
+171
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+458
+-0.539956
+-0.918711
+-0.132961
+0.0116981
+0.264223
+172
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+441
+-0.111885
+-0.870394
+0.0930952
+0.390587
+-0.121775
+173
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+537
+-0.178782
+-0.981905
+-0.412126
+-0.0292728
+0.35484
+174
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+50
+-0.522541
+-0.828137
+0.330204
+-0.412532
+-0.0278226
+175
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+297
+-0.337496
+-0.85996
+0.294849
+0.591003
+0.0325971
+176
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+668
+-0.504926
+-0.932482
+-0.201106
+0.385561
+0.225596
+177
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+490
+0.032802
+-0.833958
+0.464702
+-0.450091
+0.00983041
+178
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+782
+0.621022
+-0.904373
+-0.464794
+0.330895
+0.195859
+179
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+214
+0.7474
+-0.813165
+-0.127709
+0.675997
+-0.0160498
+180
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+121
+-0.430215
+-0.902426
+-0.00413942
+-0.196957
+0.257697
+181
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+810
+-0.378568
+-0.910264
+-0.020136
+0.127406
+0.210357
+182
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+687
+-0.850489
+-0.816176
+0.0234447
+-0.446499
+0.0751082
+183
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+566
+-0.715933
+-0.862955
+-0.335285
+-0.265464
+-0.0488268
+184
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+171
+-0.467579
+-0.816471
+0.434755
+-0.443744
+-0.0576664
+185
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+616
+-0.141786
+-0.972908
+-0.197514
+-0.0123719
+0.319627
+186
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+546
+-0.85575
+-0.823975
+-0.0270715
+-0.276695
+0.117527
+187
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+880
+-0.413615
+-0.933911
+-0.192223
+-0.637965
+0.435777
+188
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+235
+-0.0574567
+-0.991194
+-0.472584
+0.709229
+0.338716
+189
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+130
+-0.677784
+-0.876211
+-0.166645
+-0.595934
+0.124959
+190
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+827
+-0.686052
+-0.897414
+-0.425848
+0.130444
+0.0568698
+191
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+758
+-0.397426
+-0.87352
+0.322464
+-0.203459
+0.13828
+192
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+56
+-0.545766
+-0.786927
+0.611307
+-0.757239
+0.00359345
+193
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+627
+0.178741
+-0.920988
+0.0725022
+-0.48294
+0.196987
+194
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+317
+-0.386952
+-0.888094
+0.241806
+0.229807
+0.241394
+195
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+341
+-0.207962
+-0.967165
+-0.387917
+-0.356361
+0.262336
+196
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+514
+-0.480089
+-0.813312
+0.516224
+0.73301
+0.0508888
+197
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+788
+0.201695
+-0.962707
+-0.484212
+0.41161
+0.331232
+198
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+111
+0.265653
+-0.896196
+0.163236
+0.0584409
+0.0676532
+199
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+502
+0.730287
+-0.856505
+-0.406479
+-0.105116
+0.157895
+200
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+826
+-0.84333
+-0.822158
+-0.13328
+-0.153912
+0.155885
+201
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+746
+-0.0448763
+-0.954078
+-0.301876
+-0.526367
+0.137468
+202
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+833
+-0.850699
+-0.827727
+-0.147296
+0.137454
+0.0633737
+203
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+544
+-0.882545
+-0.82473
+-0.2662
+-0.166721
+0.070268
+204
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+39
+-0.829795
+-0.840698
+-0.0192772
+0.313336
+0.175222
+205
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+194
+-0.777137
+-0.849424
+0.0631798
+0.194176
+0.239626
+206
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+513
+-0.366939
+-0.949799
+-0.218561
+-0.138651
+0.418606
+207
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+779
+0.32737
+-0.955017
+-0.304565
+-0.00698441
+0.243586
+208
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+392
+0.406867
+-0.882177
+0.190334
+0.0469538
+0.0709424
+209
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+843
+0.237713
+-0.91238
+-0.160894
+0.120053
+0.189202
+210
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+624
+-0.0151659
+-0.922663
+-0.28915
+-0.305524
+-0.0239576
+211
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+116
+-0.699107
+-0.843606
+0.0379979
+-0.746321
+0.0651112
+212
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+892
+-0.606632
+-0.894906
+0.0365668
+0.886948
+0.15872
+213
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+269
+-0.754596
+-0.864137
+-0.0130047
+0.0240215
+0.355584
+214
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+207
+-0.522966
+-0.922182
+-0.517122
+-0.163581
+0.00674698
+215
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+431
+-0.324434
+-0.945246
+-0.536735
+-0.651119
+0.167759
+216
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+449
+-0.00256298
+-0.900799
+0.192374
+-0.601601
+0.143227
+217
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+175
+0.0773005
+-0.966905
+-0.225255
+0.191089
+0.333999
+218
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+428
+-0.25845
+-0.975018
+-0.400013
+0.0943645
+0.472636
+219
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+450
+-0.128528
+-0.909734
+-0.0202328
+-0.0248518
+0.220163
+220
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+504
+-0.291488
+-0.850915
+0.401005
+-0.0600395
+0.0632378
+221
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+593
+-0.283095
+-0.945888
+-0.26222
+-0.376413
+0.293704
+222
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+880
+-0.640895
+-0.854577
+0.307458
+0.159446
+0.206903
+223
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+571
+-0.892347
+-0.815228
+-0.0365972
+0.0210332
+0.11181
+224
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+225
+0.150554
+0.921276
+-0.251758
+0.102859
+0.825041
+225
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+373
+-0.748856
+-0.822915
+-0.246562
+1.
+0.0124663
+226
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+600
+0.108922
+-0.872044
+0.311827
+-0.173337
+0.0879938
+227
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+848
+-0.687092
+-0.873285
+-0.210862
+0.0344253
+0.191781
+228
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+246
+-0.759458
+-0.845892
+-0.00982409
+-0.424881
+0.202874
+229
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+58
+-0.764425
+-0.838229
+-0.335056
+0.195719
+-0.0840218
+230
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+684
+-0.848465
+-0.830081
+0.122728
+-0.189144
+0.256175
+231
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+106
+-0.746956
+-0.887189
+-0.171176
+0.218401
+0.310036
+232
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+392
+-0.709424
+-0.881414
+-0.00755674
+-0.440288
+0.381839
+233
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+393
+-0.735214
+-0.865192
+-0.255802
+-0.228325
+0.0638414
+234
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+747
+-0.666485
+-0.918014
+-0.216962
+-0.0638843
+0.287391
+235
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+299
+-0.190085
+-0.833152
+0.445161
+0.08806
+-0.128563
+236
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+650
+-0.341426
+-0.915827
+-0.108316
+0.0236465
+0.0940939
+237
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+88
+-0.385856
+-0.940042
+-0.190285
+0.0919505
+0.39365
+238
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+879
+0.682329
+-0.818466
+0.0900315
+-0.5287
+-0.0638976
+239
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+421
+0.187041
+-0.872067
+-0.054244
+-0.809754
+0.184145
+240
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+797
+-0.613237
+-0.852889
+0.0389967
+-0.183074
+0.138174
+241
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+505
+-0.46791
+-0.877408
+0.0564275
+-0.909182
+0.254503
+242
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+589
+-0.608164
+-0.889632
+-0.22886
+-0.413739
+0.119373
+243
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+613
+-0.845484
+-0.821021
+0.138419
+0.130858
+0.27162
+244
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+515
+-0.685607
+-0.893626
+-0.166253
+0.0830227
+0.15831
+245
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+442
+-0.168982
+-0.970395
+-0.338605
+0.608656
+0.307465
+246
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+489
+-0.804932
+-0.822323
+0.0275976
+-0.0967759
+0.178712
+247
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+44
+-0.852368
+-0.804178
+0.275273
+-0.0813736
+0.228821
+248
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+523
+-0.847901
+-0.828721
+0.0938228
+0.0244294
+0.242387
+249
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+63
+-0.921221
+-0.796184
+0.062391
+-0.348014
+0.165851
+250
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+432
+-0.899386
+-0.802707
+0.069732
+0.119876
+0.170579
+251
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+335
+-0.926894
+-0.795955
+0.120024
+0.297773
+0.201619
+252
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+103
+-0.838827
+-0.813621
+0.166213
+-0.124586
+0.182611
+253
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+285
+-0.899521
+-0.815793
+0.00531399
+-0.0734129
+0.146164
+254
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+309
+-0.755251
+-0.847201
+0.029023
+-0.571929
+0.293182
+255
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+446
+-0.76322
+-0.862638
+0.086479
+-0.231894
+0.332943
+256
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+239
+-0.547081
+-0.876881
+0.0590693
+0.203312
+0.0536356
+257
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+519
+-0.78919
+-0.829626
+0.0256111
+-0.191646
+0.169222
+258
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+645
+-0.677252
+-0.883627
+-0.0629428
+0.169087
+0.354209
+259
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+184
+0.553074
+-0.862511
+-0.444524
+-0.149016
+0.244658
+260
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+144
+0.104461
+0.903541
+-0.293519
+0.104715
+0.722202
+261
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+526
+-0.783697
+-0.87325
+-0.282579
+0.222701
+0.135262
+262
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+165
+-0.771852
+-0.844985
+0.0600047
+-0.534551
+0.286274
+263
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+405
+-0.735715
+-0.881815
+-0.408435
+-0.206974
+0.0598
+264
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+65
+-0.964147
+-0.765712
+-0.126404
+-0.504499
+-0.0649752
+265
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+294
+-0.980658
+-0.762415
+-0.11764
+0.4644
+0.0152025
+266
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+265
+-0.682565
+-0.789028
+0.552042
+-0.469117
+0.043056
+267
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+551
+-0.568191
+-0.899711
+0.0723699
+-0.240814
+0.326969
+268
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+430
+-0.525327
+-0.905753
+-0.465867
+-0.46325
+0.0948761
+269
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+598
+-0.713078
+-0.865147
+-0.2161
+-0.0652466
+0.0305427
+270
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+113
+-0.530214
+-0.94744
+-0.584505
+0.154651
+0.0802275
+271
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+236
+-0.592756
+-0.81641
+0.283167
+-0.555937
+-0.0543728
+272
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+507
+0.441982
+-0.904757
+-0.0327387
+0.0447095
+0.127004
+273
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+145
+-0.82377
+-0.832691
+0.0684275
+0.57214
+0.215993
+274
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+8
+-0.0178152
+-0.960186
+-0.348143
+-0.532337
+0.171536
+275
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+192
+-0.373634
+-0.921853
+-0.153747
+0.354332
+0.285576
+276
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+333
+0.0103733
+-0.991902
+-0.460832
+0.291395
+0.468075
+277
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+180
+-0.132331
+-0.963754
+-0.314566
+0.456716
+0.379394
+278
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+340
+-0.0604774
+-0.952958
+-0.561787
+0.420643
+0.17785
+279
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+552
+0.123719
+-0.890774
+-0.729758
+-0.681235
+0.0894848
+280
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+567
+-0.564982
+-0.783961
+0.0698489
+-0.432101
+0.206959
+281
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+467
+-0.351368
+-0.941146
+-0.223493
+0.594471
+0.259309
+282
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+481
+-0.393056
+-0.823642
+0.326583
+0.055449
+0.0635883
+283
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+542
+0.0329373
+-0.943723
+-0.192548
+0.0777694
+0.244709
+284
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+47
+-0.329862
+-0.963059
+-0.302711
+0.455146
+0.348221
+285
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+316
+-0.530745
+-0.924781
+-0.301994
+-0.173673
+0.123055
+286
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+142
+-0.738422
+-0.862683
+-0.297102
+-0.153939
+0.0989861
+287
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+410
+-0.688909
+-0.885597
+-0.198335
+0.607154
+0.210661
+288
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+508
+-0.161577
+-0.945602
+0.0465913
+0.36088
+0.225183
+289
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+464
+-0.32267
+-0.827797
+0.628073
+-0.329369
+0.0560835
+290
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+97
+-0.568385
+-0.873535
+-0.250057
+-0.2706
+-0.193678
+291
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+63
+0.203108
+-0.968479
+-0.517014
+0.315574
+0.0470091
+292
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+218
+-0.43552
+-0.873051
+0.0486429
+0.0875731
+-0.0156993
+293
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+487
+0.133279
+-0.939599
+-0.173659
+-0.0596442
+0.145079
+294
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+375
+-0.5798
+-0.921796
+-0.200861
+-0.0569612
+0.362203
+295
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+454
+-0.754502
+-0.845545
+-0.562995
+0.0588607
+-0.117586
+296
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+194
+0.381102
+-0.95301
+-0.374705
+-0.130377
+0.327593
+297
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+75
+-0.0499432
+-0.866964
+0.32388
+-0.221678
+0.0403898
+298
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+311
+-0.370322
+-0.91332
+-0.254512
+-0.588133
+0.118917
+299
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+457
+-0.149758
+-0.888337
+0.21016
+0.123893
+0.0911491
+300
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+95
+0.164937
+-0.855909
+0.283718
+0.0868374
+0.0391723
+301
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+125
+-0.393734
+-0.905675
+0.0254111
+-0.358314
+0.304122
+302
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+303
+-0.402129
+-0.921274
+-0.200944
+0.453825
+0.166028
+303
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+273
+-0.428511
+-0.919461
+-0.152226
+0.574342
+0.14218
+304
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+350
+-0.240706
+-0.871165
+0.170367
+0.569524
+-0.0296826
+305
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+136
+-0.200602
+-0.962225
+-0.134569
+0.0285525
+0.329706
+306
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+43
+-0.250521
+-0.932738
+0.0711387
+-0.314833
+0.273473
+307
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+486
+0.137237
+-0.961379
+-0.209933
+0.159391
+0.244064
+308
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+186
+-0.508545
+-0.835751
+-0.0825206
+-0.350746
+-0.171793
+309
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+297
+-0.294575
+-0.671215
+-0.766538
+-0.139062
+-0.344059
+310
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+523
+-0.189634
+-0.874817
+0.149527
+0.16729
+-0.0914411
+311
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+353
+-0.246434
+-0.967665
+-0.377793
+0.337437
+0.253257
+312
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+120
+-0.579803
+-0.907726
+-0.0679296
+0.161814
+0.213264
+313
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+119
+-0.610165
+-0.85099
+0.29159
+-0.798564
+0.240912
+314
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+22
+0.458722
+-0.933426
+-0.136704
+0.059834
+0.158739
+315
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+419
+-0.876937
+-0.809182
+-0.129745
+0.0857002
+0.105233
+316
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+237
+-0.818436
+-0.830608
+0.18657
+0.0372814
+0.278384
+317
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+216
+-0.564981
+-0.915311
+-0.0951947
+0.722985
+0.279821
+318
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+161
+0.0854976
+-0.889666
+0.153191
+-0.027432
+0.131625
+319
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+258
+0.159496
+-0.949034
+-0.374333
+-0.117521
+0.338437
+320
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+331
+0.246729
+-0.840549
+0.151674
+0.27525
+0.0432104
+321
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+358
+0.325243
+-0.813035
+0.213185
+0.379682
+-0.0194677
+322
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+5
+-0.0883106
+-0.885785
+0.225671
+0.566875
+0.142788
+323
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+85
+-0.0600249
+-0.949882
+-0.341193
+0.0984279
+0.121256
+324
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+509
+-0.255025
+-0.916945
+-0.358824
+-0.112318
+0.00194654
+325
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+27
+0.433884
+-0.930813
+-0.259524
+-0.312772
+0.255413
+326
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+251
+-0.387294
+-0.903653
+0.0876658
+-0.253167
+0.274383
+327
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+124
+-0.366734
+-0.884414
+0.135093
+0.518137
+0.189263
+328
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+345
+-0.00908659
+-0.91999
+0.145041
+0.0391615
+0.146853
+329
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+61
+0.107107
+-0.846345
+0.438137
+0.293937
+-0.0193684
+330
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+37
+-0.317172
+-0.779771
+0.724214
+0.0287779
+-0.122525
+331
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+417
+-0.237045
+-0.887651
+0.188893
+0.225182
+0.0455022
+332
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+539
+0.184096
+-0.834265
+0.478463
+-0.203097
+-0.0525247
+333
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+248
+-0.735546
+-0.888388
+-0.185763
+0.1771
+0.354884
+334
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+45
+-0.869685
+-0.823415
+-0.163043
+0.399921
+0.0614668
+335
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+552
+0.0665684
+-0.918583
+-0.0828214
+0.116537
+0.0924956
+336
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+435
+-0.144959
+-0.948496
+-0.0560914
+0.307232
+0.278612
+337
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+191
+0.510881
+-0.881852
+0.0151371
+-0.203096
+0.098483
+338
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+3
+0.988876
+-0.814411
+-0.327112
+-0.287718
+0.0489048
+339
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+258
+0.533166
+-0.830364
+-0.361769
+0.516188
+0.063524
+340
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+131
+-0.459422
+-0.873281
+0.262386
+0.0512275
+0.193753
+341
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+504
+-0.312077
+-0.864935
+0.345077
+-0.0010353
+0.1196
+342
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+433
+-0.696405
+-0.87377
+-0.0573244
+-0.0705112
+0.242089
+343
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+361
+-0.725076
+-0.827966
+0.0181956
+-0.219812
+-0.0116708
+344
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+246
+0.185872
+0.901916
+-0.236985
+0.150017
+0.801629
+345
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+488
+0.0688098
+-0.898579
+0.113844
+-0.335864
+0.168432
+346
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+241
+-0.769842
+-0.834623
+-0.111213
+-0.0799354
+0.0375122
+347
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+154
+-0.497536
+-0.843138
+0.410577
+-0.393013
+0.107255
+348
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+22
+-0.333575
+-0.898192
+-0.144098
+-0.861398
+0.00697186
+349
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+286
+-0.810667
+-0.826267
+-0.108655
+-0.336097
+-0.0658894
+350
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+23
+-0.7881
+-0.860126
+0.0369341
+0.232421
+0.285125
+351
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+285
+-0.851997
+-0.838454
+0.073184
+0.239267
+0.327938
+352
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+458
+-0.414123
+-0.95753
+-0.298138
+-0.175893
+0.27232
+353
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+209
+-0.637967
+-0.838069
+0.152089
+-0.177657
+-0.0466892
+354
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+214
+-0.867847
+-0.805703
+0.0783267
+-0.159099
+0.240465
+355
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+127
+-0.859964
+-0.80428
+-0.185263
+-0.464904
+0.00114656
+356
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+481
+-0.814433
+-0.822219
+-0.068921
+0.286887
+0.192161
+357
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+28
+-0.735322
+-0.835625
+0.15674
+0.178037
+0.293294
+358
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+98
+-0.432879
+-0.925998
+-0.180963
+-0.12251
+0.382624
+359
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+336
+-0.378136
+-0.941702
+-0.252899
+0.131846
+0.426625
+360
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+507
+0.870508
+-0.760162
+0.0783436
+-0.292421
+-0.125725
+361
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+158
+0.721564
+-0.812501
+0.106448
+0.0277627
+-0.0729164
+362
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+343
+0.660238
+-0.754113
+0.454879
+-0.113798
+-0.230582
+363
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+176
+0.72307
+-0.795195
+0.20334
+-0.249961
+-0.0979122
+364
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+327
+-0.529821
+-0.779069
+0.275327
+0.53188
+-0.255003
+365
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+273
+0.0977368
+0.994812
+-0.320259
+0.0245918
+0.999273
+366
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+386
+0.114028
+1.
+-0.301477
+0.0285843
+1.
+367
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+172
+0.0862302
+-0.952671
+-0.400519
+-0.475181
+0.204395
+368
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+251
+-0.192319
+-0.959696
+-0.296894
+0.0639444
+0.304516
+369
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+200
+-0.45305
+-0.781597
+0.508402
+0.553731
+-0.0824796
+370
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+364
+0.520634
+-0.858094
+0.125879
+-0.0145373
+0.0324318
+371
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+256
+0.36779
+-0.851085
+0.241043
+-0.201423
+-0.00762268
+372
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+376
+-0.190058
+-0.925004
+-0.383882
+0.140982
+-0.0855958
+373
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+21
+0.496853
+-0.824619
+0.283851
+0.055828
+-0.0439493
+374
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+88
+0.533095
+-0.812634
+0.309673
+-0.23275
+-0.0755875
+375
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+260
+0.598079
+-0.792664
+0.187358
+-0.421851
+-0.0491932
+376
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+210
+-0.0795077
+-0.961927
+-0.23968
+-0.0442952
+0.316594
+377
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+51
+-0.0370589
+-0.861578
+-0.200208
+0.0796321
+0.106354
+378
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+70
+-0.440504
+-0.90737
+0.00112031
+-0.147246
+0.287988
+379
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+303
+0.212141
+-0.884231
+0.124521
+0.30177
+0.0878394
+380
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+315
+-0.737285
+-0.872436
+-0.187429
+-0.495938
+0.0931334
+381
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+158
+-0.575915
+-0.914042
+0.027811
+-0.0388102
+0.371432
+382
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+48
+-0.704945
+-0.887064
+-0.183591
+0.234256
+0.169883
+383
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+244
+-0.4326
+-0.919568
+0.109439
+0.638837
+0.307259
+384
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+65
+-0.32282
+-0.962764
+-0.220093
+0.118354
+0.386716
+385
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+232
+-0.466235
+-0.940104
+-0.31663
+0.0974982
+0.327117
+386
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+286
+-0.17261
+-0.875291
+-0.641531
+-0.481821
+0.108265
+387
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+341
+-0.53661
+0.022843
+-0.974004
+-0.263024
+-1.
+388
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+149
+0.0167122
+-0.920969
+0.0818511
+-0.472919
+0.228194
+389
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+245
+-0.299622
+-0.856032
+0.147748
+0.336461
+-0.195116
+390
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+352
+0.116525
+-0.832511
+0.521353
+0.298091
+-0.0391288
+391
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+377
+-0.303427
+-0.756965
+0.824864
+0.257129
+-0.141292
+392
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+361
+-0.170599
+-0.977889
+-0.229071
+0.388027
+0.467465
+393
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+310
+-0.149063
+-0.951748
+-0.120813
+-0.0102924
+0.321076
+394
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+59
+0.336894
+-0.86871
+0.249881
+-0.0757952
+0.0263571
+395
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+138
+0.143146
+-0.956543
+-0.223892
+0.531671
+0.304758
+396
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+397
+-0.399099
+-0.938255
+-0.12144
+-0.102114
+0.407057
+397
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+192
+-0.58556
+-0.888271
+0.0817552
+-0.161389
+0.249654
+398
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+140
+0.0965999
+-0.948769
+-0.128166
+-0.046815
+0.281684
+399
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+210
+-0.535645
+-0.88812
+-0.150254
+0.0790917
+0.225702
+400
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+331
+0.362389
+-0.903395
+-0.365889
+-0.000615834
+0.128772
+401
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+69
+-0.477233
+-0.810466
+-0.0726604
+-0.267007
+0.201487
+402
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+160
+-0.870846
+-0.785881
+0.16481
+-0.505001
+0.151946
+403
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+206
+-0.8613
+-0.813189
+-0.0923126
+0.166628
+0.0639873
+404
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+66
+-0.847488
+-0.833374
+-0.05654
+0.469309
+0.207564
+405
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+147
+-0.810989
+-0.794142
+0.305805
+-0.239129
+0.223747
+406
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+236
+-0.880098
+-0.797508
+0.133616
+0.0889269
+0.255011
+407
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+181
+-0.75669
+-0.815613
+0.320015
+0.0232733
+0.193104
+408
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+221
+-0.708367
+-0.882863
+-0.0245358
+0.4227
+0.235436
+409
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+97
+-0.603966
+-0.893243
+-0.0728034
+0.352286
+0.212499
+410
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+149
+-0.831805
+-0.822007
+0.104914
+-0.0905225
+0.194952
+411
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+112
+-0.498707
+-0.788747
+0.621877
+-0.430913
+0.019404
+412
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+207
+-0.522631
+-0.918797
+-0.322085
+-0.131627
+0.136246
+413
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+235
+-0.515192
+-0.83604
+0.374621
+-0.592038
+0.114695
+414
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+68
+-0.280418
+-0.910351
+-0.00780397
+-0.596412
+0.300236
+415
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+262
+-0.188493
+-0.950232
+-0.189515
+-0.397449
+0.34256
+416
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+115
+0.335844
+-0.930727
+-0.349807
+0.239058
+0.273172
+417
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+24
+0.292696
+-0.906834
+-0.201249
+0.545743
+0.197822
+418
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+193
+0.120056
+-0.929676
+-0.42232
+0.672235
+0.230381
+419
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+254
+0.279932
+-0.910122
+-0.435745
+-0.541644
+0.19937
+420
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+6
+-0.712898
+-0.826761
+-0.143067
+0.375906
+0.0915535
+421
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+247
+-0.548319
+-0.848183
+-0.173833
+0.570857
+-0.153334
+422
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+214
+0.10801
+-0.921735
+-0.0920675
+0.792343
+0.072896
+423
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+77
+0.576198
+-0.941157
+-0.397611
+0.100012
+0.23271
+424
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+169
+0.216389
+-0.95408
+-0.0780567
+-0.0341265
+0.255884
+425
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+185
+0.163604
+-0.894547
+0.126249
+-0.36945
+0.154613
+426
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+205
+0.0459391
+-0.859268
+0.408372
+0.203424
+0.0156198
+427
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+152
+0.0150113
+-0.915758
+0.162331
+-0.245934
+0.140101
+428
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+136
+-0.537629
+-0.91784
+-0.248303
+-0.47452
+0.227525
+429
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+120
+0.224611
+-0.959037
+-0.319649
+-0.113811
+0.369515
+430
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+86
+0.0968917
+-0.956967
+-0.223479
+-0.0607909
+0.297544
+431
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+223
+0.423452
+-0.890727
+-0.0669928
+0.54303
+-0.00907394
+432
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+168
+0.62259
+-0.890024
+-0.0480683
+0.0881567
+0.104651
+433
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+34
+-0.125581
+-0.897896
+0.22607
+-0.522112
+0.190459
+434
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+1
+0.0249678
+-0.850427
+0.436512
+-0.292696
+0.0560244
+435
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+184
+0.589973
+-0.929153
+-0.25813
+0.504255
+0.232251
+436
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+190
+-0.303938
+-0.921555
+-0.136631
+0.513554
+0.25996
+437
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+44
+0.429596
+-0.916487
+-0.2102
+0.299568
+0.198341
+438
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+89
+0.787908
+-0.854975
+-0.62739
+-0.492223
+0.243677
+439
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+261
+0.297627
+-0.890415
+-0.401047
+-0.65134
+-0.0737574
+440
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+201
+-0.552331
+-0.903534
+0.0376606
+0.166911
+0.288694
+441
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+878
+-0.734388
+-0.832973
+-0.554286
+-0.201317
+-0.224461
+442
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+588
+-0.167358
+-0.788732
+0.567332
+-0.428343
+-0.0665088
+443
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+785
+0.359558
+-0.843087
+0.160135
+-0.0522951
+-0.11851
+444
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+324
+-0.592952
+-0.810478
+-0.734812
+0.034841
+-0.311651
+445
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+942
+-0.870408
+-0.824058
+-0.199419
+0.081747
+0.0947216
+446
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+313
+-0.830275
+-0.819555
+0.073857
+-0.0815375
+0.133538
+447
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+563
+-0.880395
+-0.826095
+-0.133849
+-0.00569983
+0.176889
+448
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+939
+-0.868001
+-0.831693
+-0.104967
+-0.0851126
+0.195133
+449
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+962
+-0.766265
+-0.821876
+-0.257611
+0.499522
+-0.128484
+450
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+252
+-0.496108
+-0.862674
+0.344117
+-0.391068
+0.177751
+451
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+1003
+-0.653923
+-0.883672
+-0.228766
+0.461861
+0.0859283
+452
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+871
+-0.574044
+-0.879553
+-0.15277
+0.376553
+0.0336618
+453
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+617
+-0.442399
+-0.950324
+-0.115553
+0.152369
+0.40683
+454
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+482
+-0.645284
+-0.848111
+-0.302257
+-0.538955
+0.168872
+455
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+944
+-0.694118
+-0.856638
+-0.377789
+0.266035
+0.0140011
+456
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+304
+-0.789686
+-0.840362
+-0.167992
+-0.281009
+0.219939
+457
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+972
+-0.763265
+-0.85143
+-0.0517204
+-0.0907913
+0.124855
+458
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+762
+-0.764784
+-0.84498
+-0.1385
+0.134797
+0.17302
+459
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+623
+-0.510974
+-0.906989
+-0.0703287
+-0.302255
+0.201581
+460
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+817
+0.1014
+-0.697991
+0.330158
+0.0461892
+-0.20273
+461
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+66
+0.373725
+-0.607135
+0.546117
+-0.00983581
+-0.358925
+462
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+8
+0.365194
+-0.708223
+0.312384
+-0.0837343
+-0.181312
+463
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+53
+-0.053926
+-0.828987
+0.13116
+0.565638
+-0.0179126
+464
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+143
+0.0349113
+-0.849187
+0.122177
+-0.252321
+0.0786294
+465
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+47
+-0.155882
+-0.864578
+-0.0117773
+-0.804457
+-0.134758
+466
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+67
+-0.676784
+-0.853922
+-0.395991
+-0.0765502
+-0.130601
+467
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+91
+-0.409029
+-0.852136
+-0.676156
+-0.463929
+0.100501
+468
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+134
+-0.173322
+0.144893
+-0.889874
+-0.292568
+-0.944243
+469
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+119
+0.180772
+0.90675
+-0.308234
+0.143523
+0.552491
+470
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+10
+-0.534642
+-0.878815
+-0.371223
+0.433063
+-0.065345
+471
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+14
+-0.718452
+-0.870335
+-0.339915
+0.294696
+0.0511368
+472
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+175
+-0.730501
+-0.872992
+-0.518077
+-0.0534092
+-0.0997973
+473
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+6
+-0.679037
+-0.863271
+-0.321331
+0.420901
+-0.000690238
+474
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+55
+-0.642013
+-0.877547
+-0.126594
+-0.0907374
+0.176915
+475
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+161
+-0.497468
+-0.901554
+-0.45712
+-0.285544
+-0.0368646
+476
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+103
+-0.384016
+-0.838651
+-0.342469
+0.389973
+0.112091
+477
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+77
+-0.635471
+-0.583074
+-0.3563
+0.150436
+-0.544351
+478
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+105
+-0.69545
+-0.847079
+-0.459154
+-0.383853
+-0.0988123
+479
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+16
+-0.734296
+-0.853708
+-0.345744
+0.286369
+-0.0985231
+480
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+169
+0.421721
+-0.714813
+0.274328
+0.207118
+-0.0928677
+481
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+940
+0.523589
+-0.895445
+-0.0731712
+-0.0249495
+0.131785
+482
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+1343
+0.132144
+-0.902347
+0.0853564
+0.216003
+0.168057
+483
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+980
+0.134432
+-0.842907
+0.413084
+-0.130937
+0.00439218
+484
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+53
+0.394099
+-0.905058
+-0.0415499
+0.248267
+0.156748
+485
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+864
+-0.626366
+-0.854075
+0.127104
+-0.0252741
+0.063125
+486
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+634
+-0.555022
+-0.771816
+0.137499
+-0.239954
+0.158681
+487
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+1400
+-0.409013
+-0.92223
+-0.114262
+0.275922
+0.0792734
+488
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+1436
+-0.788029
+-0.837697
+-0.195146
+0.055916
+-0.0176572
+489
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+98
+-0.67039
+-0.875513
+0.156965
+0.439227
+0.299344
+490
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+79
+-0.843747
+-0.829975
+0.0786957
+0.243782
+0.179049
+491
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+602
+-0.492727
+-0.929911
+-0.291569
+-0.162046
+0.242541
+492
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+1224
+-0.776423
+-0.848444
+-0.16446
+-0.742562
+0.192017
+493
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+561
+-0.721005
+-0.823647
+0.302539
+-0.671612
+0.194291
+494
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+641
+-0.390448
+-0.944175
+-0.0724057
+-0.078331
+0.308527
+495
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+264
+-0.769318
+-0.843035
+0.0800047
+-0.445337
+0.322975
+496
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+1009
+-0.487498
+-0.899862
+-0.195008
+-0.543808
+0.0578973
+497
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+1344
+-0.43385
+-0.924734
+-0.0302566
+-0.0397555
+0.318182
+498
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+115
+-0.181601
+-0.869302
+0.242041
+-0.307459
+0.0294293
+499
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+738
+-0.359195
+-0.902286
+-0.0889877
+-0.436575
+0.176398
+500
+NC_006468.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 1  Pan_troglodytes-2.1.4
+150000
+70
+-0.297515
+-0.928672
+-0.314238
+0.582056
+0.228947
+501
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+551
+-0.558166
+-0.921599
+-0.149653
+-0.150226
+0.395481
+502
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+464
+0.356679
+-0.97825
+-0.498786
+0.0146186
+0.385542
+503
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+195
+-0.7058
+-0.845391
+-0.256244
+-0.756841
+0.078593
+504
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+233
+-0.231058
+-0.880858
+0.337026
+0.0558707
+0.109204
+505
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+134
+-0.343371
+-0.974969
+-0.321043
+0.330191
+0.415611
+506
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+171
+-0.782566
+-0.843221
+0.035442
+-0.0634857
+0.24461
+507
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+29
+-0.843271
+-0.81311
+-0.218729
+-0.290689
+-0.0353028
+508
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+386
+-0.873906
+-0.814845
+0.130676
+0.195064
+0.262755
+509
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+516
+-0.598954
+-0.81155
+0.381221
+0.414687
+-0.0767677
+510
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+138
+-0.775196
+-0.824763
+-0.18732
+-0.153815
+0.119792
+511
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+375
+-0.892607
+-0.801407
+-0.189751
+-0.0631626
+0.0638212
+512
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+225
+-0.724136
+-0.856292
+0.0914928
+-0.441136
+0.269189
+513
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+695
+-0.226787
+-0.953995
+-0.228157
+-0.169423
+0.226009
+514
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+366
+-0.136146
+-0.933894
+0.0153619
+0.151788
+0.240139
+515
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+559
+-0.946409
+-0.765113
+0.116956
+0.101432
+0.0381784
+516
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+480
+-0.577244
+-0.915878
+-0.413255
+-0.267089
+0.163451
+517
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+79
+-0.885801
+-0.816956
+-0.0980713
+0.0741526
+0.108672
+518
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+330
+-0.630393
+-0.889501
+-0.231771
+0.187634
+0.136204
+519
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+521
+-0.275849
+-0.916302
+0.00489604
+-0.0420838
+0.208435
+520
+NC_006469.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2A  Pan_troglodytes-2.1.4
+150000
+372
+-0.606443
+-0.903947
+-0.392351
+-0.288667
+0.128036
+521
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+772
+-0.779087
+-0.868639
+-0.247389
+-0.264644
+0.0818971
+522
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+130
+-0.790188
+-0.844672
+0.0515873
+0.0262523
+0.251556
+523
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+710
+-0.626762
+-0.900968
+-0.284069
+-0.213557
+0.264437
+524
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+797
+-0.832326
+-0.841152
+-0.334599
+-0.164434
+0.0573294
+525
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+324
+-0.846685
+-0.836084
+-0.127618
+0.470478
+0.0967016
+526
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+548
+-0.752862
+-0.854441
+-0.151735
+0.493878
+0.0367427
+527
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+569
+-0.909503
+-0.814845
+-0.0337168
+0.104305
+0.151034
+528
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+789
+-0.839351
+-0.838727
+0.067165
+0.0311335
+0.329125
+529
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+736
+-0.796762
+-0.850005
+-0.265031
+0.0828388
+0.0143359
+530
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+454
+-0.898322
+-0.802032
+0.0331355
+-0.0288847
+0.169795
+531
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+668
+-0.620777
+-0.909228
+-0.0556157
+0.361548
+0.2855
+532
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+290
+-0.40195
+-0.881789
+0.0651164
+0.0413448
+0.0772036
+533
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+158
+-0.839373
+-0.825253
+0.0450343
+-0.108428
+0.182564
+534
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+329
+-0.68204
+-0.884614
+-0.00427767
+-0.191788
+0.315148
+535
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+474
+-0.441456
+-0.857801
+0.278934
+-0.127214
+0.085993
+536
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+174
+-0.473483
+-0.905144
+0.047232
+0.208165
+0.282809
+537
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+750
+-0.272102
+-0.828141
+0.417516
+-0.259516
+-0.105028
+538
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+281
+0.0289904
+-0.875422
+0.272023
+-0.418612
+0.0380729
+539
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+264
+-0.230472
+-0.943024
+-0.211276
+-0.284033
+0.32939
+540
+NC_006470.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B  Pan_troglodytes-2.1.4
+150000
+235
+0.107038
+-0.91427
+-0.274546
+0.244176
+-0.0907408
+541
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+301
+0.0889552
+-0.920275
+-0.0988801
+0.073353
+0.2634
+542
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+469
+-0.550113
+-0.914348
+-0.105729
+-0.120973
+0.362333
+543
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+620
+-0.909647
+-0.803243
+0.0676843
+-0.102393
+0.215649
+544
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+436
+-0.832184
+-0.848467
+-0.222349
+0.215113
+0.11806
+545
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+326
+-0.183688
+-0.826372
+0.522291
+0.309886
+0.0183418
+546
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+64
+-0.464997
+-0.889751
+0.0735685
+-0.495821
+0.104229
+547
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+386
+-0.721491
+-0.882961
+-0.22298
+-0.0485664
+0.20309
+548
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+13
+-0.793414
+-0.838522
+0.00646877
+-0.27973
+0.280238
+549
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+236
+-0.874901
+-0.826198
+-0.0557851
+0.359042
+0.167151
+550
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+214
+-0.706833
+-0.846004
+-0.33644
+-0.274493
+-0.12963
+551
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+261
+-0.905852
+-0.786667
+-0.282094
+0.097639
+-0.0800282
+552
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+314
+-0.725583
+-0.879745
+-0.410486
+0.217176
+0.0776457
+553
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+630
+-0.823876
+-0.842984
+-0.172552
+0.218804
+0.124511
+554
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+56
+-0.878384
+-0.809524
+0.158701
+-0.0431226
+0.316457
+555
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+544
+-0.929665
+-0.800522
+-0.233113
+0.62351
+-0.0282396
+556
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+1008
+-0.74502
+-0.880631
+-0.246679
+0.466237
+0.180206
+557
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+1238
+-0.638689
+-0.885994
+0.0490625
+0.138639
+0.280212
+558
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+899
+-0.856097
+-0.794201
+-0.0828469
+0.161643
+-0.0208481
+559
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+322
+-0.618137
+-0.858507
+-0.249009
+-0.0133179
+0.188423
+560
+NC_006471.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 4  Pan_troglodytes-2.1.4
+150000
+1170
+-0.241689
+-0.951064
+-0.269597
+-0.108892
+0.343281
+561
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+667
+-0.746678
+-0.854249
+-0.00282138
+-0.18572
+0.165683
+562
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+342
+-0.53249
+-0.916491
+-0.391422
+0.645156
+0.138937
+563
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+335
+-0.708583
+-0.797188
+0.376632
+-0.326791
+0.0199891
+564
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+34
+-0.892965
+-0.821872
+-0.171834
+-0.013213
+0.0346941
+565
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+332
+-0.744364
+-0.878233
+-0.274907
+0.583291
+0.17556
+566
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+290
+-0.568415
+-0.94372
+-0.293601
+-0.0698208
+0.384048
+567
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+1043
+-0.851216
+-0.842913
+0.0374781
+-0.023097
+0.298352
+568
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+211
+-0.867546
+-0.805038
+-0.0735848
+-0.215495
+0.144612
+569
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+406
+-0.85458
+-0.816258
+-0.0469782
+0.0398431
+0.162503
+570
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+1067
+-0.913756
+-0.779136
+0.107349
+-0.235415
+0.136492
+571
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+906
+-0.865646
+-0.817613
+0.102995
+0.143328
+0.244153
+572
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+998
+-0.713884
+-0.86645
+-0.361156
+0.0864348
+-0.00756237
+573
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+950
+0.24544
+-0.953917
+-0.124542
+0.0562387
+0.279784
+574
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+1061
+-0.66321
+-0.891153
+-0.209747
+0.379919
+0.23205
+575
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+530
+-0.517479
+-0.921508
+-0.420958
+0.728448
+0.132525
+576
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+215
+-0.594894
+-0.90026
+0.0390231
+-0.296841
+0.348634
+577
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+551
+-0.799094
+-0.817636
+-0.429773
+0.0248116
+-0.181721
+578
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+692
+-0.810582
+-0.844207
+0.148442
+-0.0553898
+0.35148
+579
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+986
+-0.763394
+-0.835927
+-0.0107928
+-0.253501
+0.143936
+580
+NC_006472.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 5  Pan_troglodytes-2.1.4
+150000
+541
+-0.252109
+-0.941878
+-0.389637
+-0.149249
+0.301601
+581
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+106
+-0.500719
+-0.902208
+-0.0227048
+-0.234658
+0.214954
+582
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+401
+-0.259257
+-0.967632
+-0.249072
+0.224967
+0.415787
+583
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+885
+-0.410605
+-0.915578
+-0.165043
+-0.261204
+0.103788
+584
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+156
+-0.697081
+-0.835573
+0.251787
+-0.686841
+0.255874
+585
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+137
+-0.497818
+-0.898852
+0.131915
+-0.182689
+0.298755
+586
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+96
+-0.716328
+-0.878954
+-0.0497939
+0.0886008
+0.319649
+587
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+926
+0.301805
+-0.904859
+0.0829551
+-0.541631
+0.146983
+588
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+517
+-0.780655
+-0.83753
+-0.0992626
+0.0411146
+0.15264
+589
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+285
+-0.883125
+-0.815207
+0.0483273
+0.0455505
+0.184688
+590
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+76
+-0.738054
+-0.867182
+-0.105577
+-0.17317
+0.106946
+591
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+754
+-0.694322
+-0.82596
+-0.247018
+0.322379
+-0.114052
+592
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+446
+-0.581012
+-0.876307
+0.172876
+0.159948
+0.159284
+593
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+730
+-0.605502
+-0.920811
+-0.337523
+0.308893
+0.271767
+594
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+536
+-0.907035
+-0.78489
+-0.0519936
+-0.013642
+0.126848
+595
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+530
+-0.873203
+-0.83478
+-0.243015
+0.425239
+0.176935
+596
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+414
+-0.626023
+-0.867972
+0.105674
+0.231022
+0.235475
+597
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+140
+-0.539793
+-0.870616
+0.299177
+0.0605558
+0.171673
+598
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+1071
+-0.671875
+-0.886311
+-0.234534
+-0.292581
+0.201301
+599
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+6
+-0.139796
+-0.917854
+-0.281455
+0.671139
+0.102579
+600
+NC_006473.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6  Pan_troglodytes-2.1.4
+150000
+599
+-0.447612
+-0.90138
+-0.0494114
+-0.405773
+0.332322
+601
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+247
+-0.658228
+-0.855593
+-0.238812
+-0.603237
+0.0180276
+602
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+122
+-0.838157
+-0.818167
+-0.0689401
+-0.0395848
+0.117078
+603
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+788
+-0.714687
+-0.847004
+0.0985012
+-0.1192
+0.275065
+604
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+438
+-0.514062
+-0.824991
+0.196394
+-0.725044
+-0.12497
+605
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+386
+-0.531579
+-0.930442
+-0.0770284
+0.4704
+0.352717
+606
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+273
+-0.436633
+-0.941034
+-0.109977
+-0.0304012
+0.398054
+607
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+1011
+-0.613264
+-0.899774
+-0.0624897
+0.0657274
+0.346938
+608
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+801
+-0.758468
+-0.851878
+-0.366634
+0.0267172
+0.133628
+609
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+317
+-0.621912
+-0.170982
+-1.
+-0.154257
+-0.842653
+610
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+148
+-0.5734
+0.0368039
+-0.921726
+-0.250364
+-0.683385
+611
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+829
+-0.253607
+-0.942806
+-0.102993
+-0.235926
+0.36729
+612
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+16
+-0.874497
+-0.824188
+0.0380034
+0.515944
+0.168902
+613
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+268
+-0.853507
+-0.828046
+-0.0171833
+0.0786705
+0.245949
+614
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+126
+-0.810719
+-0.829719
+0.20386
+-0.227634
+0.247272
+615
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+730
+-0.940898
+-0.801826
+-0.0340218
+0.0200481
+0.219193
+616
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+942
+-0.61252
+-0.885905
+-0.43697
+0.387289
+-0.168034
+617
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+956
+-0.869418
+-0.807399
+-0.176101
+-0.120471
+0.0153151
+618
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+38
+0.538672
+-0.917643
+-0.334886
+0.0207208
+0.263041
+619
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+385
+-0.433066
+-0.898896
+-0.276099
+-0.401416
+0.0385162
+620
+NC_006474.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 7  Pan_troglodytes-2.1.4
+150000
+993
+-0.607943
+-0.854418
+-0.108103
+0.389224
+0.152913
+621
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+281
+-0.0761745
+-0.92096
+-0.3437
+-0.494365
+0.122447
+622
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+638
+-0.162473
+-0.923566
+0.0567074
+-0.0935289
+0.187855
+623
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+388
+-0.275812
+-0.851275
+0.378252
+-0.405096
+0.0740247
+624
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+161
+-0.677356
+-0.877798
+-0.175269
+-0.603975
+0.141984
+625
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+735
+-0.306442
+-0.929646
+-0.46819
+-0.33021
+-0.00699232
+626
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+832
+-0.318163
+-0.932588
+-0.168825
+-0.288086
+0.347423
+627
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+306
+-0.522872
+-0.882321
+-0.0640153
+0.502225
+0.0788038
+628
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+26
+-0.790626
+-0.8342
+-0.331095
+-0.174028
+-0.0509808
+629
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+800
+-0.79269
+-0.856834
+-0.332965
+-0.0195997
+0.00861816
+630
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+754
+-0.670926
+-0.887687
+-0.297012
+0.394008
+0.163637
+631
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+277
+-0.631797
+-0.90042
+-0.0557359
+0.0956649
+0.364189
+632
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+826
+-0.429075
+-0.910394
+0.0220871
+-0.464761
+0.260629
+633
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+686
+0.0308706
+-0.956806
+-0.0639448
+-0.0163885
+0.26263
+634
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+597
+-0.810202
+-0.836319
+-0.24878
+-0.0507318
+-0.0113817
+635
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+44
+-0.709044
+-0.882626
+-0.366739
+0.430721
+0.166522
+636
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+147
+-0.360158
+-0.871842
+0.205557
+-0.529683
+0.0915388
+637
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+207
+-0.708231
+-0.87605
+-0.0299087
+-0.0229362
+0.278022
+638
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+389
+-0.560138
+-0.941636
+-0.175783
+-0.112544
+0.427608
+639
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+351
+-0.607029
+-0.908594
+-0.268248
+-0.145707
+0.206418
+640
+NC_006475.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8  Pan_troglodytes-2.1.4
+150000
+390
+-0.772554
+-0.819619
+-0.234134
+-0.0162759
+0.126846
+641
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+115
+-0.947065
+-0.749796
+-0.0855622
+-0.409676
+-0.0778798
+642
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+447
+-0.773468
+-0.779007
+0.115132
+-1.
+-0.0478568
+643
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+305
+-0.765213
+-0.861533
+0.127329
+0.222213
+0.328158
+644
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+174
+-0.9661
+-0.785308
+-0.00522444
+0.476475
+0.117133
+645
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+403
+-0.35665
+-0.818762
+0.6587
+-0.0496971
+-0.0103936
+646
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+334
+-0.308933
+-0.878002
+0.311193
+0.237171
+0.133086
+647
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+55
+-0.877157
+-0.81058
+-0.00392471
+-0.401406
+0.304293
+648
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+251
+-0.837085
+-0.84132
+-0.166631
+0.31697
+0.140185
+649
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+193
+-0.63314
+-0.890617
+0.059375
+0.270841
+0.289798
+650
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+389
+-0.406326
+-0.944232
+-0.147836
+-0.286212
+0.433313
+651
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+532
+-0.292091
+-0.89502
+-0.239601
+0.353427
+-0.115038
+652
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+77
+-0.267767
+-0.903669
+0.00549514
+0.0215886
+0.105846
+653
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+225
+0.0890136
+-0.93817
+-0.409699
+-0.627622
+-0.00928768
+654
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+570
+-0.465559
+-0.890241
+-0.0272762
+0.882852
+0.137376
+655
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+433
+-0.828398
+-0.82753
+-0.100299
+0.34102
+0.036334
+656
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+604
+-0.532039
+-0.90443
+-0.125349
+0.35023
+0.347471
+657
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+381
+-0.000707982
+-0.968161
+-0.416028
+-0.756814
+0.376147
+658
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+499
+-0.682676
+-0.883184
+-0.454065
+0.151759
+0.013012
+659
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+652
+-0.0135768
+-0.946401
+-0.297797
+-0.623767
+0.3926
+660
+NC_006476.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 9  Pan_troglodytes-2.1.4
+150000
+310
+-0.266455
+-0.914783
+-0.0415984
+0.720428
+0.256744
+661
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+663
+0.244013
+-0.969488
+-0.482446
+0.0773308
+0.286339
+662
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+631
+-0.360836
+-0.874219
+0.307509
+0.0336362
+0.101051
+663
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+282
+-0.5989
+-0.926537
+-0.112721
+0.311608
+0.342354
+664
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+560
+-0.643217
+-0.906526
+-0.32747
+-0.00969098
+0.226667
+665
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+261
+0.0759059
+-0.987653
+-0.383901
+-0.39312
+0.425829
+666
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+747
+-0.472749
+-0.894149
+0.060628
+-0.134643
+0.302712
+667
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+822
+-0.584888
+-0.823005
+0.447125
+-0.394479
+0.147898
+668
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+423
+-0.809215
+-0.847308
+0.00489801
+0.317966
+0.124443
+669
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+772
+0.0385139
+-0.916387
+0.112028
+-0.224777
+0.204812
+670
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+346
+-0.440104
+-0.824282
+0.564978
+0.423462
+0.0684589
+671
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+829
+-0.733758
+-0.885546
+-0.242561
+0.455832
+0.207741
+672
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+695
+-0.736791
+-0.859141
+-0.111895
+0.428898
+0.154484
+673
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+742
+-0.23514
+-0.934763
+-0.0426659
+-0.18944
+0.327839
+674
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+48
+-0.450584
+-0.85022
+0.112702
+-0.399887
+-0.0443667
+675
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+754
+-0.458711
+-0.951036
+-0.245521
+-0.0851776
+0.31714
+676
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+619
+-0.235493
+-0.942316
+-0.0994857
+0.258929
+0.316826
+677
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+378
+0.30271
+-0.895845
+0.140308
+-0.0086288
+0.0666021
+678
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+660
+0.179506
+-0.886604
+-0.0718159
+-0.297164
+0.139507
+679
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+532
+0.863542
+-0.805728
+-0.524013
+0.385803
+0.0650398
+680
+NC_006477.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 10  Pan_troglodytes-2.1.4
+150000
+605
+-0.155642
+-0.941755
+-0.00170593
+0.18389
+0.266016
+681
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+215
+-0.484386
+-0.886783
+-0.183948
+0.224454
+-0.126715
+682
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+67
+-0.443692
+-0.916547
+-0.0637692
+-0.361637
+0.0858711
+683
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+466
+-0.472551
+-0.848805
+0.348904
+-0.659516
+0.179446
+684
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+227
+-0.404598
+-0.968109
+-0.383735
+0.0905119
+0.311856
+685
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+290
+-0.754956
+-0.866443
+-0.164904
+-0.393178
+0.205802
+686
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+751
+-0.88202
+-0.812705
+-0.1066
+0.191561
+0.128957
+687
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+363
+-0.810301
+-0.834097
+-0.0913043
+0.241691
+0.0576377
+688
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+248
+0.148342
+-0.987572
+-0.287182
+-0.0528156
+0.351329
+689
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+37
+-0.322558
+-0.913582
+-0.326687
+0.112711
+0.00148449
+690
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+257
+0.452574
+-0.865905
+0.0326944
+0.606053
+0.0982162
+691
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+346
+0.764763
+-0.875861
+-0.131096
+0.207381
+0.0728402
+692
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+239
+-0.270163
+-0.809054
+0.715967
+-0.24828
+-0.0451589
+693
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+63
+-0.82433
+-0.837487
+0.0745171
+0.147446
+0.303349
+694
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+644
+-0.707198
+-0.839289
+-0.119742
+-0.0172459
+0.0819694
+695
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+542
+-0.571722
+-0.909867
+-0.00107764
+-0.435845
+0.403859
+696
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+348
+-0.603423
+-0.91987
+-0.30841
+-0.189825
+0.217045
+697
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+515
+-0.528373
+-0.817121
+0.62114
+-0.0386243
+0.0402924
+698
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+419
+-0.649941
+-0.86925
+-0.228953
+0.0884397
+0.103385
+699
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+804
+-0.429234
+-0.934054
+-0.542937
+0.486114
+0.237462
+700
+NC_006478.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 11  Pan_troglodytes-2.1.4
+150000
+540
+-0.174585
+-0.898417
+0.144326
+-0.305027
+0.192236
+701
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+780
+-0.0974522
+-0.95588
+-0.549674
+-0.415998
+0.195799
+702
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+520
+-0.634926
+-0.881873
+-0.173649
+-0.493326
+0.189091
+703
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+373
+-0.208744
+-0.845965
+0.481583
+0.478193
+0.0636718
+704
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+635
+-0.620654
+-0.917195
+-0.108813
+0.235781
+0.359568
+705
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+776
+-0.010048
+-0.911479
+0.168502
+-0.0682366
+0.137845
+706
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+736
+-0.554809
+-0.882206
+-0.0063531
+0.0138153
+0.0586069
+707
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+10
+-0.878838
+-0.803357
+-0.302809
+0.129743
+-0.189876
+708
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+662
+-0.658903
+-0.876589
+-0.331329
+-0.369691
+0.0636352
+709
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+267
+-0.57187
+-0.865818
+-0.102452
+-0.784235
+0.0794577
+710
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+372
+-0.457489
+-0.952412
+-0.346473
+-0.0270628
+0.232538
+711
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+324
+-0.62856
+-0.906457
+-0.0569386
+0.148948
+0.359023
+712
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+257
+-0.830481
+-0.820628
+-0.266225
+-0.235557
+-0.0810149
+713
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+98
+-0.519231
+-0.920354
+-0.16385
+0.610145
+0.221083
+714
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+160
+-0.615282
+-0.921042
+-0.363456
+-0.340526
+0.327385
+715
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+23
+0.25706
+-0.961324
+-0.301927
+0.0469204
+0.34683
+716
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+396
+-0.214262
+-0.860822
+0.374701
+0.51397
+0.0732702
+717
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+418
+0.00747647
+-0.790671
+0.624243
+-0.0365639
+-0.0660535
+718
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+806
+0.779562
+-0.881659
+-0.54504
+0.726903
+0.246382
+719
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+202
+0.225115
+-0.91766
+-0.279137
+-0.0255631
+0.275817
+720
+NC_006479.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 12  Pan_troglodytes-2.1.4
+150000
+853
+-0.213869
+-0.708143
+1.
+0.353859
+-0.245186
+721
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+34
+-0.370172
+-0.924153
+-0.12485
+-0.120531
+0.211838
+722
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+58
+-0.444106
+-0.900361
+0.000950395
+-0.366179
+0.303406
+723
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+270
+-0.312099
+-0.935261
+-0.337229
+-0.381826
+0.119299
+724
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+333
+-0.210148
+-0.880724
+0.148058
+-0.0903195
+0.184348
+725
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+48
+-0.576156
+-0.929263
+-0.323852
+0.0309427
+0.214272
+726
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+9
+-0.905822
+-0.814494
+-0.011077
+-0.0582917
+0.28924
+727
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+438
+-0.876696
+-0.802393
+0.140778
+0.0759219
+0.263457
+728
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+525
+-0.899721
+-0.790761
+0.201269
+0.110881
+0.226427
+729
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+49
+-0.854028
+-0.813621
+0.124466
+0.043238
+0.236303
+730
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+555
+-0.783406
+-0.822449
+-0.0318096
+0.143775
+0.229181
+731
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+482
+-0.788422
+-0.86693
+-0.0957282
+-0.0852334
+0.228608
+732
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+184
+-0.789064
+-0.84692
+-0.189793
+-0.00306297
+0.136441
+733
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+265
+-0.550323
+-0.873834
+0.053673
+0.224797
+0.23734
+734
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+349
+-0.846748
+-0.815339
+0.088028
+-0.168347
+0.178488
+735
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+331
+-0.873294
+-0.809366
+-0.0826581
+-0.175949
+0.0129477
+736
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+447
+-0.764017
+-0.846865
+0.0671227
+-0.532388
+0.283613
+737
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+298
+-0.196672
+-0.870498
+0.283736
+-0.0115167
+0.138013
+738
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+437
+-0.799062
+-0.837138
+-0.0711756
+0.102867
+0.243311
+739
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+304
+-0.436071
+-0.923603
+-0.266521
+0.293314
+0.366704
+740
+NC_006480.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 13  Pan_troglodytes-2.1.4
+150000
+151
+-0.641415
+-0.872172
+-0.231679
+-0.167786
+0.0367379
+741
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+445
+-0.93941
+-0.791922
+-0.159695
+-0.366767
+0.0618543
+742
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+409
+-0.730458
+-0.876332
+-0.262914
+0.546679
+0.162227
+743
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+546
+-0.870424
+-0.799764
+0.0138426
+-0.0569168
+0.186399
+744
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+309
+-0.949009
+-0.789019
+0.153655
+0.169454
+0.217317
+745
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+290
+-0.317012
+-0.829268
+0.533034
+-0.0977923
+0.0191218
+746
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+213
+-0.474741
+-0.925881
+0.020528
+-0.108992
+0.317369
+747
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+145
+-0.498354
+-0.920292
+-0.143624
+0.30773
+0.225526
+748
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+70
+-0.466425
+-0.829832
+0.511703
+0.659092
+0.0761671
+749
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+344
+-0.0334676
+-0.945779
+0.05733
+-0.226155
+0.263665
+750
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+300
+-0.408047
+-0.947635
+-0.197702
+-0.375165
+0.376584
+751
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+382
+-0.64891
+-0.917664
+-0.347412
+0.663533
+0.233348
+752
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+52
+-0.566755
+-0.882515
+0.0020008
+-0.475581
+0.148572
+753
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+216
+-0.225879
+-0.86897
+0.355554
+0.172082
+0.0926897
+754
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+421
+-0.390506
+-0.915657
+0.0573318
+0.361528
+0.269221
+755
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+569
+-0.853179
+-0.824478
+0.0937155
+-0.0622145
+0.273282
+756
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+15
+-0.776652
+-0.846421
+-0.0779512
+-0.127635
+0.181514
+757
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+305
+0.0400002
+-0.970605
+-0.253563
+0.0618817
+0.331359
+758
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+181
+-0.0480042
+-0.877917
+0.279057
+-0.156911
+0.123787
+759
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+498
+-0.0804253
+-0.904936
+-0.653201
+-0.458745
+0.149632
+760
+NC_006481.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 14  Pan_troglodytes-2.1.4
+150000
+200
+-0.117194
+-0.793786
+-0.446748
+-0.0916555
+0.0860388
+761
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+56
+-0.0914709
+-0.888257
+-0.168537
+0.646446
+0.0259317
+762
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+475
+-0.31069
+-0.886946
+0.192698
+-0.375792
+0.201518
+763
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+140
+-0.122411
+-0.939018
+-0.230642
+0.326509
+0.0876442
+764
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+362
+-0.263326
+-0.939851
+-0.330068
+-0.178661
+-0.00796258
+765
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+377
+-0.807172
+-0.829441
+-0.373721
+0.110158
+0.0119202
+766
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+497
+-0.603496
+-0.921131
+-0.372801
+-0.311531
+0.280826
+767
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+491
+-0.505965
+-0.824383
+0.576027
+0.398875
+0.0628442
+768
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+467
+-0.164781
+-0.965585
+-0.307498
+-0.223431
+0.330245
+769
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+19
+-0.313807
+-0.953005
+-0.213761
+-0.290479
+0.298453
+770
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+193
+-0.00460119
+-0.942559
+-0.382513
+0.393211
+-0.0101587
+771
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+496
+0.0220271
+-0.974437
+-0.32011
+0.246871
+0.292968
+772
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+211
+-0.680178
+-0.88072
+-0.0503843
+-0.033798
+0.292436
+773
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+499
+-0.752016
+-0.850372
+0.00637732
+0.0232551
+0.259624
+774
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+471
+-0.15346
+-0.889818
+-0.0106212
+-0.0600948
+0.214465
+775
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+169
+-0.163477
+-0.917948
+-0.0448297
+-0.916838
+0.347769
+776
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+258
+-0.0724257
+-0.934635
+-0.178666
+-0.421288
+0.384994
+777
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+39
+-0.0928684
+-0.944772
+-0.137868
+-0.0549603
+0.254045
+778
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+314
+-0.684251
+-0.835536
+0.194326
+-0.536262
+0.225081
+779
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+492
+-0.146242
+-0.952768
+-0.277969
+-0.286849
+0.233466
+780
+NC_006482.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 15  Pan_troglodytes-2.1.4
+150000
+44
+0.101147
+-0.883673
+0.0850883
+-0.0473907
+0.0131253
+781
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+165
+-0.573646
+-0.900738
+-0.0457533
+-0.0613279
+0.311054
+782
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+405
+-0.312721
+-0.885071
+-0.00835285
+-0.0412618
+-0.0384839
+783
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+50
+0.150457
+-0.892155
+-0.0255223
+0.245616
+0.136334
+784
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+344
+-0.29411
+-0.895277
+0.147513
+-0.235228
+0.197252
+785
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+345
+-0.31404
+-0.91895
+-0.0689363
+0.00233763
+0.250734
+786
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+257
+-0.463716
+-0.866896
+-0.513199
+-0.231171
+-0.290512
+787
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+244
+-0.366925
+-0.863272
+-0.166042
+0.455437
+-0.0589792
+788
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+466
+-0.601014
+-0.883344
+-0.206604
+-0.337365
+0.0172025
+789
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+312
+-0.498247
+-0.936246
+-0.204188
+0.0605043
+0.375141
+790
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+67
+-0.553389
+-0.880163
+0.174729
+-0.665388
+0.314982
+791
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+342
+-0.825434
+-0.806954
+0.164367
+-0.00755769
+0.269728
+792
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+306
+-0.775886
+-0.847588
+-0.0173846
+-0.310831
+0.210773
+793
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+425
+-0.0651179
+-0.882456
+0.325562
+0.623291
+0.0794397
+794
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+21
+0.294176
+-0.850554
+0.199419
+-0.180384
+0.0250696
+795
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+68
+0.259826
+-0.90035
+0.104272
+-0.319534
+0.0969437
+796
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+90
+-0.761949
+-0.84002
+0.0680165
+-0.218176
+0.248058
+797
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+216
+-0.18159
+-0.959463
+-0.314225
+-0.087174
+0.394489
+798
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+192
+0.838101
+-0.856261
+-0.399477
+-0.555867
+0.196037
+799
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+482
+0.427627
+-0.880194
+-0.261583
+-0.621715
+0.214535
+800
+NC_006483.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 16  Pan_troglodytes-2.1.4
+150000
+195
+0.346015
+-0.763632
+0.279224
+0.695613
+-0.0949167
+801
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+381
+0.710919
+-0.854463
+-0.0328359
+0.197851
+0.0462352
+802
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+348
+0.332385
+-0.932323
+-0.0867932
+-0.0554182
+0.163993
+803
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+179
+0.00606585
+-0.921121
+0.142505
+0.22097
+0.202524
+804
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+411
+-0.527522
+-0.828966
+0.57406
+0.551027
+0.105155
+805
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+481
+-0.319086
+-0.965109
+-0.50173
+-0.26207
+0.292265
+806
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+320
+-0.618819
+-0.819917
+0.28092
+0.644181
+-0.0862038
+807
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+459
+0.0985901
+-0.855371
+0.397069
+-0.312185
+0.0665365
+808
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+442
+0.602871
+-0.889428
+-0.121762
+0.00393422
+0.103225
+809
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+205
+-0.531387
+-0.911165
+-0.0631446
+0.0846613
+0.293097
+810
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+224
+-0.446836
+-0.93166
+-0.1182
+-0.00601171
+0.286529
+811
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+47
+-0.357946
+-0.892431
+0.084644
+-0.066972
+0.23099
+812
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+76
+-0.771115
+-0.847895
+-0.112508
+0.430046
+0.189757
+813
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+135
+-0.206763
+-0.927897
+-0.0415432
+-0.349774
+0.211907
+814
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+5
+-0.431238
+-0.880953
+0.205933
+-0.0360288
+0.178416
+815
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+300
+-0.049969
+-0.947181
+-0.106835
+-0.141847
+0.322744
+816
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+164
+-0.740498
+-0.856697
+0.012556
+0.267704
+0.252646
+817
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+134
+0.526782
+-0.847575
+0.186897
+0.254913
+-0.0399445
+818
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+238
+0.234793
+-0.906475
+-0.108404
+0.390267
+0.184111
+819
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+223
+1.
+-0.795956
+-0.191573
+-0.000581585
+-0.0113557
+820
+NC_006484.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 17  Pan_troglodytes-2.1.4
+150000
+147
+-0.659466
+-0.786821
+-0.099826
+0.764896
+-0.0426955
+821
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+100
+-0.24473
+-0.895789
+0.204104
+0.165098
+0.155157
+822
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+57
+-0.232754
+-0.905162
+-0.0336543
+-0.0828167
+0.0830598
+823
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+217
+-0.549759
+-0.899832
+0.0334426
+0.336563
+0.239214
+824
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+52
+-0.649019
+-0.881891
+-0.0195945
+0.0915294
+0.248601
+825
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+449
+-0.274603
+-0.852543
+0.292883
+0.409099
+-0.0619586
+826
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+189
+-0.453117
+-0.884311
+0.268726
+0.0316488
+0.159202
+827
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+185
+-0.775515
+-0.791063
+0.542173
+0.599182
+0.112871
+828
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+76
+-0.583911
+-0.896394
+0.0874523
+-0.354409
+0.271007
+829
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+36
+-0.884671
+-0.822062
+-0.128664
+0.11417
+0.0953893
+830
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+334
+-0.801377
+-0.833754
+-0.184917
+-0.49299
+0.0441178
+831
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+202
+-0.292228
+-0.969402
+-0.290159
+-0.547706
+0.423156
+832
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+176
+-0.769023
+-0.878865
+-0.0586756
+-0.0822914
+0.302408
+833
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+214
+-0.731935
+-0.87944
+-0.0869925
+0.0870203
+0.391166
+834
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+448
+-0.611596
+-0.89847
+-0.0190309
+0.25056
+0.231084
+835
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+319
+-0.655795
+-0.849827
+-0.140323
+-0.606815
+0.0296243
+836
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+2
+-0.551899
+-0.923734
+-0.21002
+0.245146
+0.367374
+837
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+78
+-0.682174
+-0.879534
+-0.193003
+-0.173627
+0.186339
+838
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+330
+-0.80563
+-0.832008
+-0.194823
+0.0210102
+0.0841841
+839
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+431
+-0.729993
+-0.850733
+-0.149847
+0.246261
+0.170859
+840
+NC_006485.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 18  Pan_troglodytes-2.1.4
+150000
+73
+0.973549
+-0.751223
+-0.142451
+0.110529
+-0.0568058
+841
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+133
+0.554313
+-0.788249
+0.322468
+0.144973
+-0.123154
+842
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+218
+0.934491
+-0.788697
+0.00408981
+0.0131146
+-0.0793138
+843
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+180
+0.529826
+-0.801033
+0.269051
+-0.527508
+-0.0775199
+844
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+138
+0.5841
+-0.815963
+0.1968
+-0.321211
+-0.051216
+845
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+136
+0.393164
+-0.888701
+0.082352
+0.471859
+0.0696712
+846
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+141
+-0.458922
+-0.81149
+0.412096
+0.537791
+-0.0358122
+847
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+102
+-0.543878
+-0.829755
+0.0583043
+0.403883
+-0.116125
+848
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+340
+-0.282405
+-0.935224
+-0.141664
+-0.00845206
+0.173514
+849
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+159
+-0.447946
+-0.844926
+0.149698
+0.0606484
+-0.0966996
+850
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+51
+-0.00434886
+-0.970028
+-0.315614
+0.0373395
+0.310511
+851
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+178
+-0.412887
+-0.927243
+-0.107544
+0.282987
+0.353225
+852
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+67
+-0.190722
+-0.929922
+-0.0817546
+0.509197
+0.18056
+853
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+17
+0.294636
+-0.897148
+0.0611261
+-0.291251
+0.15532
+854
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+318
+0.268344
+-0.882234
+0.189726
+-0.0547241
+0.0717445
+855
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+20
+0.664693
+-0.832477
+0.0827049
+0.0158274
+0.00649736
+856
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+2
+0.666734
+-0.860977
+-0.108646
+0.0085514
+0.06391
+857
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+226
+-0.190652
+-0.798248
+0.408956
+-0.551056
+0.0297598
+858
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+291
+0.207212
+-0.840329
+-0.116155
+-0.000390578
+0.0948442
+859
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+306
+-0.182666
+-0.903877
+0.0532616
+0.0282727
+0.19952
+860
+NC_006486.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 19  Pan_troglodytes-2.1.4
+150000
+282
+-0.315126
+-0.881349
+0.325994
+0.0794079
+0.11047
+861
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+212
+-0.313609
+-0.907529
+0.187154
+-0.0350736
+0.213504
+862
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+116
+-0.700632
+-0.881286
+-0.0656808
+-0.347773
+0.34744
+863
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+71
+-0.502648
+-0.91586
+0.0987604
+-0.00806116
+0.306641
+864
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+213
+-0.665274
+-0.897722
+-0.228231
+-0.168759
+0.340084
+865
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+25
+0.161201
+-0.963991
+-0.301567
+0.0749881
+0.275248
+866
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+128
+-0.192319
+-0.989663
+-0.459824
+-0.0146835
+0.440343
+867
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+287
+-0.316249
+-0.936648
+0.0811769
+0.489071
+0.298543
+868
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+249
+0.176263
+-0.957408
+-0.739299
+0.847747
+0.111467
+869
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+230
+0.519212
+-0.933773
+-0.253762
+0.294784
+0.21855
+870
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+251
+-0.0166649
+-0.958544
+-0.0795901
+-0.213107
+0.297535
+871
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+244
+-0.440852
+-0.916791
+0.0661586
+-0.734576
+0.363054
+872
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+37
+-0.510468
+-0.943562
+-0.171276
+0.32189
+0.41669
+873
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+345
+-0.429726
+-0.951434
+-0.201427
+0.133393
+0.334243
+874
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+179
+-0.206583
+-0.970357
+-0.224459
+0.386492
+0.466781
+875
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+58
+-0.0347655
+-0.919351
+0.150242
+0.0397732
+0.159409
+876
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+136
+-0.361334
+-0.825975
+0.328443
+-0.776234
+-0.106572
+877
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+373
+0.172969
+-0.840371
+0.314527
+-0.221208
+-0.00408255
+878
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+53
+0.104969
+-0.973641
+-0.414929
+-0.424523
+0.395881
+879
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+337
+0.542231
+-0.874384
+-0.156924
+0.393325
+0.0402843
+880
+NC_006487.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 20  Pan_troglodytes-2.1.4
+150000
+164
+-0.708405
+-0.84158
+0.245627
+-0.182979
+0.257368
+881
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+159
+-0.949762
+-0.783506
+-0.0455957
+0.126372
+0.0613434
+882
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+162
+-0.78492
+-0.855767
+-0.0655524
+0.278639
+0.226501
+883
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+33
+-0.836717
+-0.819712
+0.099418
+0.0379373
+0.110909
+884
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+149
+-0.855176
+-0.806653
+0.163604
+0.11742
+0.131491
+885
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+178
+-0.912687
+-0.786951
+-0.0141368
+0.251147
+0.0565297
+886
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+97
+-0.846169
+-0.799737
+0.290694
+0.0543953
+0.239579
+887
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+88
+-0.699925
+-0.867194
+0.00194201
+-0.0823556
+0.310337
+888
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+139
+-0.801886
+-0.852534
+-0.0135898
+0.0402621
+0.299228
+889
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+122
+-0.743944
+-0.852589
+0.0845939
+0.090351
+0.368003
+890
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+67
+-0.278013
+-0.955441
+-0.112293
+0.135813
+0.354864
+891
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+63
+-0.0130589
+-0.953625
+-0.200708
+0.110782
+0.308812
+892
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+15
+-0.12523
+-0.969629
+-0.182445
+0.000821531
+0.375713
+893
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+183
+0.0397072
+-0.855598
+0.283117
+-0.239649
+0.0345761
+894
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+128
+-0.214787
+-0.96339
+-0.332926
+-0.0881289
+0.36735
+895
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+201
+-0.487504
+-0.937956
+-0.210432
+-0.175788
+0.347324
+896
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+61
+-0.481384
+-0.907726
+-0.014617
+0.285773
+0.296186
+897
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+40
+-0.111815
+-0.950976
+-0.378917
+-0.20271
+0.240862
+898
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+108
+0.69827
+-0.857004
+-0.255679
+-0.449396
+0.1176
+899
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+216
+0.501425
+-0.803801
+0.020302
+-0.791474
+0.0152779
+900
+NC_006488.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 21  Pan_troglodytes-2.1.4
+150000
+62
+-0.0975271
+-0.824779
+0.404824
+-0.143955
+-0.0152958
+901
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+186
+-0.198244
+-0.880325
+0.274142
+0.443754
+0.0546189
+902
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+148
+0.698531
+-0.887335
+-0.333105
+0.373408
+0.0780397
+903
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+106
+0.533069
+-0.929452
+-0.20479
+0.29066
+0.233137
+904
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+189
+0.345967
+-0.929774
+-0.0127613
+0.0687986
+0.153588
+905
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+173
+-0.377063
+-0.918723
+-0.0975224
+0.254896
+0.206409
+906
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+209
+-0.203851
+-0.953809
+-0.125486
+0.580077
+0.288426
+907
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+108
+-0.432419
+-0.931532
+0.00274812
+-0.174551
+0.309166
+908
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+174
+-0.557266
+-0.923194
+-0.199138
+-0.396456
+0.322278
+909
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+112
+-0.559577
+-0.882674
+-0.251843
+-0.396589
+0.0192151
+910
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+138
+0.1275
+-0.918706
+-0.0165842
+0.0521376
+0.194668
+911
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+103
+0.314521
+-0.893382
+0.0667613
+-0.0298652
+0.134621
+912
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+84
+-0.31084
+-0.866949
+0.331453
+-0.550791
+0.177374
+913
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+110
+0.107657
+-0.881538
+0.111951
+-0.270445
+0.0853364
+914
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+160
+0.141807
+-0.954666
+-0.035522
+0.636392
+0.254085
+915
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+19
+0.439263
+-0.912989
+-0.2408
+-0.557272
+0.220754
+916
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+9
+0.381622
+-0.950042
+-0.440356
+-0.120859
+0.320046
+917
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+16
+0.51174
+-0.895051
+-0.159659
+-0.142649
+0.160222
+918
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+161
+0.787808
+-0.843681
+-0.222381
+-0.297463
+0.0771651
+919
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+122
+0.447966
+-0.876957
+-0.1917
+0.543277
+0.032813
+920
+NC_006489.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 22  Pan_troglodytes-2.1.4
+150000
+85
+-0.0641617
+-0.928938
+-0.617535
+0.766628
+0.196795
+921
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+1034
+0.100597
+-0.981035
+-0.401634
+-0.206688
+0.340255
+922
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+426
+-0.681491
+-0.862685
+0.160172
+0.282769
+0.117304
+923
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+825
+-0.84453
+-0.832336
+-0.173287
+-0.302842
+0.127716
+924
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+705
+-0.686136
+-0.888679
+-0.334448
+-0.729507
+0.171609
+925
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+475
+-0.856586
+-0.840367
+0.0378993
+0.367621
+0.241468
+926
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+877
+-0.19437
+-0.97436
+-0.231186
+-0.19149
+0.362967
+927
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+229
+-0.419776
+-0.863394
+0.259938
+0.12971
+-0.00261006
+928
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+235
+-0.45086
+-0.940738
+-0.118345
+0.291736
+0.407517
+929
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+1290
+-0.334513
+-0.917119
+0.0781579
+0.439701
+0.294422
+930
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+104
+-0.775687
+-0.872189
+-0.282188
+0.450487
+0.0991958
+931
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+642
+-0.580639
+-0.912335
+0.0540973
+-0.0485411
+0.288042
+932
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+98
+-0.670261
+-0.87189
+-0.000844638
+0.044695
+0.178512
+933
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+756
+-0.737234
+-0.869019
+-0.0604353
+0.11797
+0.334674
+934
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+251
+-0.354533
+-0.947847
+-0.0911584
+-0.0363603
+0.374193
+935
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+138
+0.0952485
+-0.982184
+-0.462101
+-0.296995
+0.411747
+936
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+58
+-0.276998
+-0.953264
+-0.554693
+-0.793354
+0.189503
+937
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+354
+-0.454006
+-0.899258
+0.100633
+-0.464694
+0.245207
+938
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+646
+-0.748737
+-0.841903
+-0.04921
+-0.337324
+0.180115
+939
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+781
+0.10272
+-0.890188
+-0.0835031
+0.261056
+0.109646
+940
+NC_006490.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 3  Pan_troglodytes-2.1.4
+150000
+1184
+-0.0506524
+-0.819008
+0.166144
+0.625657
+-0.0281401
+941
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+4
+-0.686744
+-0.905698
+-0.321675
+-0.0268299
+0.209102
+942
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+76
+-0.714334
+-0.603793
+-0.281614
+-0.5983
+-0.129457
+943
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+881
+-0.613862
+-0.897566
+-0.094558
+-0.0878071
+0.282054
+944
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+334
+-0.834615
+-0.836311
+-0.195865
+0.552616
+0.154211
+945
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+61
+-0.849052
+-0.82081
+0.0691464
+-0.118555
+0.160554
+946
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+152
+-0.831507
+-0.838315
+0.0130357
+-0.263963
+0.239976
+947
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+634
+-0.759263
+-0.839515
+-0.0119675
+-0.168342
+0.155753
+948
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+344
+-0.365141
+-0.885885
+0.0101659
+-0.156182
+-0.0391601
+949
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+811
+-0.759017
+-0.808719
+-0.556105
+-0.280116
+-0.22822
+950
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+888
+-0.767495
+-0.805994
+-0.490649
+0.190657
+-0.101182
+951
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+898
+-0.656748
+-0.800409
+-0.603301
+0.542351
+-0.271254
+952
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+643
+-0.807128
+-0.8414
+-0.540082
+0.135066
+-0.0786661
+953
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+148
+-0.617555
+-0.916495
+-0.367653
+-0.0267807
+0.125909
+954
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+276
+-0.618875
+-0.904296
+-0.294207
+-0.147576
+0.10187
+955
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+624
+-0.64833
+-0.874962
+0.00611132
+-0.013616
+0.298008
+956
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+126
+-0.700646
+-0.883264
+-0.121974
+0.269897
+0.177854
+957
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+722
+-0.557976
+-0.903365
+-0.00331761
+-0.319534
+0.217869
+958
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+209
+-0.276912
+-0.919329
+-0.495835
+-0.241559
+0.218412
+959
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+153
+0.116127
+-0.898544
+-0.59431
+0.135681
+-0.170144
+960
+NC_006491.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome X  Pan_troglodytes-2.1.4
+150000
+329
+-0.0948475
+-0.934527
+-0.517606
+0.327109
+-0.0324616
+961
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+62
+-0.711433
+-0.826359
+-0.586895
+-0.164914
+-0.253575
+962
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+61
+-0.4762
+-0.830454
+-0.868701
+-0.379086
+-0.0142641
+963
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+91
+-0.0538393
+-0.696407
+-0.635448
+-0.398326
+0.321086
+964
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+110
+-0.39285
+-0.884879
+-0.502971
+0.0596716
+0.20614
+965
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+22
+-0.617313
+-0.891544
+-0.00441899
+-0.175946
+0.230782
+966
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+72
+-0.667362
+-0.80019
+-0.868227
+0.0859443
+-0.39607
+967
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+137
+-0.340045
+-0.876839
+-0.336853
+-0.174314
+0.256191
+968
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+39
+-0.667315
+-0.798783
+-0.962852
+-0.204374
+-0.527021
+969
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+57
+-0.457166
+-0.887394
+-0.244608
+-0.216356
+0.140711
+970
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+16
+-0.458428
+-0.823835
+-0.88329
+-0.379041
+-0.0277318
+971
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+152
+-0.141376
+-0.73083
+-0.622911
+-0.342154
+0.32415
+972
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+90
+-0.675671
+-0.792426
+-0.998523
+-0.221938
+-0.542421
+973
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+94
+-0.581278
+-0.826151
+-0.979795
+-0.215531
+-0.450818
+974
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+117
+-0.678789
+-0.864495
+-0.350803
+0.161645
+-0.0549751
+975
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+153
+-0.63038
+-0.880761
+-0.527528
+0.0105479
+-0.110856
+976
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+104
+-0.645522
+-0.867391
+-0.367146
+-0.10474
+-0.00424052
+977
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+40
+-0.628734
+-0.8454
+-0.376461
+0.139959
+-0.150676
+978
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+50
+-0.633373
+-0.871599
+-0.221574
+-0.0799586
+-0.0233907
+979
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+37
+-0.82558
+-0.83428
+-0.0979856
+0.117104
+0.0504484
+980
+NC_006492.3
+Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome Y  Pan_troglodytes-2.1.4
+150000
+122

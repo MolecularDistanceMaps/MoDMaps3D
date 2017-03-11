@@ -1,0 +1,9607 @@
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+H.sapiens (480), G.gorilla (480)
+Composite signature (nuclear + mtDNA); Sampling from H.sapiens and G.gorilla; Number of genomic DNA sequences is 960; FCGR with k=9; Approx. Information
+-0.427943
+-0.488825
+0.662931
+0.527364
+0.0367462
+1
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+249
+-0.299619
+-0.518051
+0.436615
+0.203598
+1.
+2
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+640
+-0.404114
+-0.291549
+0.780354
+0.609425
+-0.16887
+3
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+856
+-0.425049
+-0.385039
+0.717665
+0.485695
+0.151107
+4
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+188
+-0.405108
+-0.293051
+0.793537
+0.620595
+-0.0646084
+5
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+243
+-0.37521
+-0.28192
+0.728635
+0.368716
+0.375091
+6
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1310
+-0.464617
+-0.812822
+0.434214
+0.493117
+-0.201876
+7
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+916
+-0.471513
+-0.83093
+0.411616
+0.475167
+0.23578
+8
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1523
+-0.46562
+-0.686143
+0.515799
+0.438585
+0.181488
+9
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+197
+-0.458397
+-0.871714
+0.378868
+0.481224
+0.0167577
+10
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+869
+-0.439883
+-0.584101
+0.591172
+0.492411
+0.320875
+11
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+936
+-0.467531
+-0.653761
+0.555771
+0.526895
+-0.012619
+12
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+221
+-0.435787
+-0.641735
+0.485177
+0.40534
+0.184089
+13
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+505
+-0.334931
+-0.390612
+0.595423
+0.314166
+0.586507
+14
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+458
+-0.467522
+-0.868663
+0.361356
+0.432101
+0.117972
+15
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+84
+-0.356212
+-0.365663
+0.642889
+0.467965
+0.147407
+16
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1464
+-0.464008
+-0.829705
+0.411353
+0.513331
+0.0222506
+17
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+838
+-0.472017
+-0.78966
+0.460614
+0.511744
+0.112266
+18
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+627
+-0.471938
+-0.78365
+0.462512
+0.49507
+0.0434105
+19
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1336
+-0.40348
+-0.529997
+0.55343
+0.315839
+0.515104
+20
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+955
+-0.408886
+-0.529085
+0.570523
+0.330375
+0.451218
+21
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1600
+-0.480238
+-0.748295
+0.471562
+0.483289
+0.136615
+22
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1051
+-0.487071
+-0.787058
+0.459091
+0.530819
+-0.0354033
+23
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+725
+-0.461928
+-0.94529
+0.287786
+0.420619
+0.0933086
+24
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1231
+-0.444677
+-0.854501
+0.341455
+0.364814
+0.57786
+25
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+771
+-0.47356
+-0.839532
+0.35665
+0.385731
+0.23292
+26
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+496
+-0.417564
+-0.421421
+0.693694
+0.481423
+0.17922
+27
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+336
+0.933299
+0.481428
+-0.946715
+0.96948
+0.394956
+28
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+297
+-0.378923
+-0.425626
+0.650154
+0.415137
+0.358139
+29
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1202
+-0.448632
+-0.49468
+0.657824
+0.520649
+0.0548538
+30
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+660
+-0.469587
+-0.84915
+0.358449
+0.408498
+0.252346
+31
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+836
+-0.4089
+-0.341743
+0.75015
+0.514511
+-0.23026
+32
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+785
+-0.463521
+-0.837453
+0.368006
+0.386328
+0.0755802
+33
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+116
+-0.424895
+-0.460161
+0.660329
+0.423849
+0.258814
+34
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+684
+-0.465726
+-0.752507
+0.49
+0.529414
+-0.0478436
+35
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+272
+-0.433118
+-0.427261
+0.712069
+0.545329
+-0.0339579
+36
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+98
+-0.427259
+-0.52778
+0.622348
+0.465484
+0.312877
+37
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+805
+-0.471555
+-0.892009
+0.345684
+0.457296
+0.219768
+38
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+661
+-0.454876
+-0.899309
+0.296608
+0.338509
+0.11223
+39
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+612
+-0.25906
+0.0723161
+0.873284
+0.315497
+0.27549
+40
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+75
+-0.463988
+-0.840715
+0.381495
+0.422019
+-0.0349886
+41
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+716
+-0.47455
+-0.846623
+0.402942
+0.487225
+0.138666
+42
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+623
+-0.456183
+-0.920813
+0.318217
+0.423055
+-0.00892341
+43
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+783
+-0.454151
+-0.849166
+0.385896
+0.461825
+0.0418408
+44
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+563
+-0.475504
+-0.813364
+0.411698
+0.474199
+0.254025
+45
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+717
+-0.490251
+-0.814526
+0.44769
+0.563275
+0.00136344
+46
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+747
+-0.461604
+-0.593867
+0.615097
+0.55923
+-0.0456768
+47
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+156
+-0.482431
+-0.77883
+0.466609
+0.496871
+0.0905466
+48
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+47
+-0.458362
+-0.803192
+0.428569
+0.516902
+0.127831
+49
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+6
+-0.46096
+-0.659218
+0.51905
+0.393921
+0.263956
+50
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+739
+-0.447875
+-1.
+0.200236
+0.382282
+0.15135
+51
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+366
+0.955985
+0.516695
+-0.966653
+0.957793
+0.400439
+52
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+815
+-0.430504
+-0.922541
+0.296703
+0.456142
+0.0752648
+53
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1313
+-0.46782
+-0.741226
+0.461913
+0.393063
+0.262569
+54
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+166
+-0.449458
+-0.842838
+0.369071
+0.46561
+0.431337
+55
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+192
+-0.488066
+-0.855612
+0.399472
+0.475176
+-0.0510694
+56
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+147
+-0.455474
+-0.70993
+0.517933
+0.569097
+0.0107536
+57
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+646
+-0.475079
+-0.854553
+0.370022
+0.433307
+0.251979
+58
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+452
+-0.454414
+-0.65201
+0.525799
+0.421925
+0.301839
+59
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+419
+-0.355658
+-0.242755
+0.744765
+0.355999
+0.362397
+60
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+460
+-0.479294
+-0.840267
+0.38784
+0.422755
+0.16859
+61
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1237
+-0.481902
+-0.861399
+0.384696
+0.499711
+0.105906
+62
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1066
+-0.458082
+-0.520137
+0.639694
+0.493318
+-0.0688071
+63
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+143
+-0.466405
+-0.884984
+0.326567
+0.42845
+0.190106
+64
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1174
+-0.454645
+-0.982184
+0.254519
+0.426677
+0.0713742
+65
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+897
+-0.48439
+-0.740631
+0.512037
+0.553447
+-0.0645512
+66
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+611
+-0.466969
+-0.890707
+0.326694
+0.397222
+0.1236
+67
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+847
+-0.449527
+-0.801992
+0.419446
+0.457175
+0.0743934
+68
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1090
+-0.449118
+-0.87358
+0.356061
+0.438525
+0.197152
+69
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+498
+-0.475305
+-0.826623
+0.370136
+0.408612
+0.147642
+70
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+234
+-0.443046
+-0.979027
+0.239133
+0.376006
+0.231652
+71
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+910
+-0.454328
+-0.976708
+0.238296
+0.387818
+0.020649
+72
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1112
+-0.465115
+-0.881078
+0.341181
+0.435488
+0.260344
+73
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+166
+-0.46369
+-0.916858
+0.32328
+0.476452
+0.00468156
+74
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+793
+-0.463059
+-0.924134
+0.2877
+0.384834
+0.291365
+75
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+438
+-0.46043
+-0.932256
+0.27569
+0.360651
+0.117851
+76
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1115
+-0.461983
+-0.911428
+0.29516
+0.422406
+0.230408
+77
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+873
+-0.469727
+-0.867086
+0.349734
+0.410497
+0.221555
+78
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1239
+-0.447386
+-0.627599
+0.539519
+0.428518
+0.233104
+79
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+156
+-0.410578
+-0.554414
+0.592161
+0.488468
+0.0354007
+80
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+754
+-0.458727
+-0.879973
+0.338136
+0.393786
+0.178094
+81
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1008
+-0.449262
+-0.857217
+0.339404
+0.350649
+0.313304
+82
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+84
+-0.369983
+-0.525229
+0.533385
+0.339338
+0.617831
+83
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+431
+-0.476563
+-0.915154
+0.320355
+0.435418
+0.263147
+84
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+296
+-0.367143
+-0.499844
+0.569658
+0.350082
+0.534899
+85
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+630
+-0.457692
+-0.923947
+0.31088
+0.408486
+0.294642
+86
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+288
+-0.463312
+-0.663506
+0.541707
+0.474062
+0.242982
+87
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+373
+-0.464302
+-0.631156
+0.552232
+0.464638
+0.193034
+88
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+988
+-0.447038
+-0.94392
+0.271445
+0.396101
+0.382922
+89
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+709
+-0.449906
+-0.857269
+0.318289
+0.352108
+0.370522
+90
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+163
+-0.446971
+-0.941513
+0.27158
+0.378361
+0.0223458
+91
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+433
+-0.451789
+-0.965721
+0.256842
+0.409169
+0.142476
+92
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+554
+-0.453897
+-0.621622
+0.575421
+0.501482
+0.132208
+93
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+795
+-0.483068
+-0.830526
+0.426103
+0.502017
+0.106932
+94
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1084
+-0.476767
+-0.88253
+0.368406
+0.482189
+0.169912
+95
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1080
+-0.476123
+-0.747275
+0.490273
+0.516627
+0.136119
+96
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+957
+-0.473858
+-0.879061
+0.355674
+0.493293
+0.0241586
+97
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+665
+-0.438111
+-0.582131
+0.598739
+0.517058
+0.121143
+98
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+496
+-0.469842
+-0.894571
+0.33048
+0.442187
+0.219503
+99
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+857
+-0.450585
+-0.913881
+0.318874
+0.40199
+0.0683459
+100
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+858
+-0.375096
+-0.404319
+0.621235
+0.301709
+0.511407
+101
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+884
+-0.457458
+-0.545692
+0.647386
+0.545468
+0.062776
+102
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+274
+-0.477975
+-0.88801
+0.359785
+0.455549
+0.156808
+103
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1058
+-0.471246
+-0.897119
+0.340221
+0.439709
+0.0941732
+104
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+838
+-0.472676
+-0.882078
+0.358984
+0.422215
+0.0336835
+105
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+641
+-0.44466
+-0.796081
+0.429712
+0.462538
+0.189384
+106
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+670
+-0.451367
+-0.814594
+0.373087
+0.328762
+0.285172
+107
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+320
+-0.463583
+-0.864805
+0.373976
+0.469546
+0.256977
+108
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+335
+-0.454984
+-0.894886
+0.324995
+0.430768
+0.0473018
+109
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+616
+-0.476393
+-0.886073
+0.342001
+0.427771
+0.0780119
+110
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+979
+-0.480153
+-0.805443
+0.414675
+0.42332
+0.0526671
+111
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+503
+-0.450255
+-0.864021
+0.383499
+0.473955
+-0.0529518
+112
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+790
+-0.445839
+-0.710525
+0.464328
+0.3641
+0.37957
+113
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+480
+-0.451962
+-0.950656
+0.26317
+0.352857
+0.112128
+114
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+909
+-0.469227
+-0.882236
+0.369777
+0.479245
+0.0947236
+115
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+231
+-0.462279
+-0.852145
+0.374334
+0.491134
+0.00610756
+116
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+527
+-0.426924
+-0.668405
+0.504146
+0.433056
+0.26524
+117
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+532
+-0.464847
+-0.841857
+0.370704
+0.400533
+0.302987
+118
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+799
+-0.43998
+-0.510139
+0.660462
+0.554386
+0.0294784
+119
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1127
+-0.407564
+-0.436083
+0.616756
+0.373614
+0.109591
+120
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+539
+-0.223907
+0.134201
+0.893336
+0.383199
+0.261976
+121
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+864
+-0.199603
+0.333027
+0.957689
+0.377959
+-0.10046
+122
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+527
+-0.472743
+-0.787129
+0.445819
+0.491955
+0.247151
+123
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+801
+-0.463395
+-0.599394
+0.585873
+0.482111
+-0.0462053
+124
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+945
+-0.370064
+-0.141462
+0.814078
+0.435304
+0.0119397
+125
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+398
+-0.425026
+-0.638911
+0.539498
+0.601409
+-0.116766
+126
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+315
+0.98997
+0.566409
+-0.99215
+0.980294
+0.402441
+127
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+702
+0.991253
+0.564579
+-0.994339
+0.979375
+0.408502
+128
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+271
+1.
+0.574892
+-1.
+0.985041
+0.39903
+129
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+395
+-0.466218
+-0.88257
+0.350608
+0.428084
+0.165178
+130
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+344
+-0.466987
+-0.825619
+0.387345
+0.441475
+0.354009
+131
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+13
+-0.454581
+-0.780859
+0.4474
+0.481755
+-0.154275
+132
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+631
+-0.446157
+-0.820812
+0.395477
+0.471997
+0.273436
+133
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+393
+-0.382819
+-0.487893
+0.555711
+0.269702
+0.495399
+134
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+6
+-0.334471
+-0.451949
+0.546462
+0.257505
+0.709227
+135
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+897
+-0.468026
+-0.947245
+0.274341
+0.425163
+0.263613
+136
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+533
+-0.459336
+-0.894389
+0.357215
+0.496625
+0.0810454
+137
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+317
+-0.35904
+-0.288724
+0.713657
+0.330564
+0.394685
+138
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+619
+-0.464152
+-0.695372
+0.517712
+0.490722
+0.213016
+139
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+819
+-0.447386
+-0.742447
+0.469997
+0.511924
+-0.0135756
+140
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+659
+-0.437149
+-0.541387
+0.589591
+0.456378
+0.174018
+141
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+957
+-0.442725
+-0.657586
+0.501133
+0.404168
+0.244476
+142
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+495
+-0.429083
+-0.618103
+0.497876
+0.304211
+0.410318
+143
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+675
+-0.411754
+-0.813715
+0.377713
+0.471618
+0.292039
+144
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+18
+-0.392747
+-0.515174
+0.564814
+0.329277
+0.520606
+145
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+579
+-0.0356985
+-0.037259
+0.407141
+0.320603
+-0.376012
+146
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+308
+-0.46544
+-0.861444
+0.362442
+0.408495
+0.0503091
+147
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+493
+-0.453837
+-0.633377
+0.568678
+0.508752
+0.161098
+148
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+280
+-0.446725
+-0.858185
+0.384584
+0.496265
+0.0823481
+149
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+886
+-0.457564
+-0.947155
+0.28145
+0.405589
+0.0667435
+150
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+894
+-0.44932
+-0.847173
+0.365408
+0.450536
+0.354689
+151
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+707
+-0.410555
+-0.687222
+0.418932
+0.243779
+0.303874
+152
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+194
+-0.425115
+-0.577024
+0.576249
+0.406325
+0.223667
+153
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+260
+-0.463884
+-0.83493
+0.391682
+0.427747
+0.298528
+154
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+657
+-0.416839
+-0.748268
+0.392543
+0.427856
+0.162911
+155
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+721
+-0.464445
+-0.829826
+0.392962
+0.422509
+0.275237
+156
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+716
+-0.441893
+-0.755624
+0.420547
+0.349323
+0.429278
+157
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+460
+-0.417013
+-0.328995
+0.769266
+0.60451
+-0.114316
+158
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+513
+-0.483386
+-0.64095
+0.581358
+0.577113
+-0.119628
+159
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+17
+-0.222535
+0.253804
+0.971144
+0.39846
+0.118434
+160
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+809
+-0.478532
+-0.815209
+0.43535
+0.535082
+-0.18655
+161
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+632
+-0.477022
+-0.745023
+0.49954
+0.528809
+-0.0654661
+162
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+676
+-0.437455
+-0.645512
+0.515344
+0.367321
+0.25241
+163
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+20
+-0.47102
+-0.799878
+0.431515
+0.52928
+-0.1261
+164
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+746
+-0.451124
+-0.779898
+0.465312
+0.523105
+0.0884583
+165
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+668
+-0.469826
+-0.865781
+0.355003
+0.36345
+0.201949
+166
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+657
+-0.484516
+-0.873471
+0.338288
+0.405463
+0.128654
+167
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+447
+-0.462319
+-0.679111
+0.501908
+0.433486
+0.0329284
+168
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+504
+-0.327263
+-0.442571
+0.524207
+0.167952
+0.769737
+169
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+175
+-0.0268957
+-0.385765
+0.0743045
+0.39425
+-0.213553
+170
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+357
+-0.465553
+-0.665207
+0.551464
+0.535444
+0.136359
+171
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+694
+-0.462373
+-0.669135
+0.539622
+0.438141
+0.0237155
+172
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+599
+-0.428053
+-0.525197
+0.596715
+0.402476
+0.17586
+173
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+176
+-0.473312
+-0.868617
+0.387536
+0.50735
+0.0936114
+174
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+118
+-0.454659
+-0.792689
+0.388955
+0.350568
+0.118123
+175
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+107
+-0.459604
+-0.614056
+0.592537
+0.567532
+0.0730485
+176
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+30
+-0.467863
+-0.676786
+0.533455
+0.474017
+0.0869563
+177
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+225
+-0.488171
+-0.84233
+0.414978
+0.486434
+0.168255
+178
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+11
+-0.427902
+-0.607378
+0.524449
+0.328511
+0.425172
+179
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+273
+-0.2
+0.168288
+0.898069
+0.392577
+0.347586
+180
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+227
+-0.439452
+-0.545272
+0.598842
+0.455061
+0.105061
+181
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+36
+-0.400325
+-0.299445
+0.760251
+0.520139
+-0.00982857
+182
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+82
+-0.326025
+-0.428823
+0.569866
+0.300459
+0.611272
+183
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+776
+-0.446559
+-0.683328
+0.49662
+0.406002
+0.349266
+184
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+751
+-0.472686
+-0.73889
+0.452981
+0.401219
+0.141281
+185
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+452
+-0.456026
+-0.65389
+0.519086
+0.406026
+0.246616
+186
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+528
+-0.461173
+-0.916597
+0.286679
+0.334106
+0.363621
+187
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+445
+-0.422204
+-0.601069
+0.539327
+0.394151
+0.448048
+188
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+396
+-0.434772
+-0.675764
+0.502768
+0.451569
+0.453211
+189
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+299
+-0.44438
+-0.646062
+0.547737
+0.463373
+-0.0378636
+190
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+497
+-0.424731
+-0.41654
+0.682426
+0.433554
+0.178328
+191
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+685
+-0.390053
+-0.411136
+0.647693
+0.353865
+0.406126
+192
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+708
+-0.395334
+-0.587723
+0.498824
+0.281172
+0.597678
+193
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+737
+-0.479541
+-0.875353
+0.359317
+0.392574
+0.179798
+194
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+333
+-0.467857
+-0.70294
+0.494651
+0.453555
+0.281208
+195
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+763
+-0.442058
+-0.897499
+0.296524
+0.405909
+0.493483
+196
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+835
+-0.40753
+-0.41613
+0.685085
+0.564572
+0.215376
+197
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+666
+-0.424316
+-0.646524
+0.496254
+0.373775
+0.485432
+198
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+76
+-0.4002
+-0.287702
+0.76428
+0.453522
+0.131932
+199
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+634
+-0.437384
+-0.551326
+0.615471
+0.507693
+-0.164828
+200
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+707
+-0.404615
+-0.425107
+0.669335
+0.422087
+0.30214
+201
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+262
+-0.447201
+-0.48009
+0.689534
+0.630842
+-0.277635
+202
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+554
+-0.455151
+-0.900316
+0.340549
+0.453343
+0.0636045
+203
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+757
+-0.48165
+-0.8176
+0.423159
+0.458463
+0.0352794
+204
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+541
+-0.460087
+-0.91934
+0.297315
+0.419798
+0.160743
+205
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+289
+-0.443242
+-0.848847
+0.358786
+0.367366
+0.25217
+206
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+861
+-0.454385
+-0.718563
+0.468295
+0.50854
+-0.0959621
+207
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+649
+-0.439688
+-0.71913
+0.480532
+0.404546
+0.30368
+208
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+458
+-0.483229
+-0.778976
+0.45244
+0.492952
+0.0456626
+209
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+151
+-0.297979
+-0.135184
+0.768977
+0.34408
+0.406281
+210
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+205
+-0.249121
+0.145442
+0.957073
+0.528904
+0.00153215
+211
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+257
+-0.481814
+-0.769627
+0.465431
+0.486932
+0.0643778
+212
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+60
+-0.468756
+-0.931215
+0.302138
+0.451834
+0.0899996
+213
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+288
+-0.486083
+-0.847686
+0.416856
+0.485723
+-0.0610933
+214
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+75
+-0.465883
+-0.894757
+0.333184
+0.422887
+0.259016
+215
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+529
+-0.369517
+-0.205585
+0.805819
+0.51689
+0.155074
+216
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+817
+-0.408295
+-0.337752
+0.767584
+0.645667
+-0.0387824
+217
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+399
+-0.374703
+-0.476359
+0.574695
+0.315491
+0.559236
+218
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+758
+-0.466908
+-0.557432
+0.61767
+0.562798
+-0.0306287
+219
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+844
+-0.448442
+-0.57913
+0.579626
+0.456911
+-0.0452124
+220
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+414
+-0.420586
+-0.494275
+0.651596
+0.517548
+0.0895239
+221
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+78
+-0.437205
+-0.6019
+0.567214
+0.458405
+0.303
+222
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+807
+-0.439862
+-0.818665
+0.342493
+0.320455
+0.0520576
+223
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+494
+-0.41687
+-0.62474
+0.506595
+0.332595
+0.316695
+224
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+299
+-0.416904
+-0.308973
+0.766342
+0.564234
+-0.131126
+225
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+352
+-0.330766
+-0.0979953
+0.841447
+0.467575
+0.0327243
+226
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+55
+-0.458295
+-0.940268
+0.267032
+0.404926
+0.192008
+227
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+502
+-0.454382
+-0.892038
+0.303082
+0.336629
+0.284245
+228
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+339
+-0.449603
+-0.870471
+0.304679
+0.277796
+0.470018
+229
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+734
+-0.45605
+-0.90782
+0.310826
+0.409249
+0.230846
+230
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+532
+-0.432223
+-0.543662
+0.588554
+0.392069
+0.356944
+231
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+351
+-0.389026
+-0.553327
+0.536522
+0.370906
+0.568637
+232
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+728
+-0.455528
+-0.894528
+0.283775
+0.302625
+0.297581
+233
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+789
+-0.486782
+-0.626917
+0.577552
+0.54468
+0.0343566
+234
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+706
+-0.347394
+-0.197052
+0.793042
+0.48941
+0.23107
+235
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+636
+-0.356627
+-0.572813
+0.489218
+0.314544
+0.718833
+236
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+631
+-0.415808
+-0.581242
+0.553777
+0.402621
+0.492688
+237
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+665
+-0.349637
+-0.29361
+0.709836
+0.389427
+0.361844
+238
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+865
+-0.429345
+-0.491942
+0.622713
+0.439657
+-0.0267614
+239
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+885
+-0.21952
+0.10586
+0.821092
+0.231999
+0.369132
+240
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+605
+0.944771
+0.507648
+-0.959279
+1.
+0.402264
+241
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+632
+-0.445336
+-0.596355
+0.587358
+0.445728
+0.111612
+242
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+441
+-0.448805
+-0.745322
+0.429824
+0.398077
+0.252772
+243
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+217
+-0.462858
+-0.608859
+0.606362
+0.554357
+0.0510471
+244
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+344
+-0.465899
+-0.695447
+0.539749
+0.558309
+-0.0815252
+245
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+511
+-0.464114
+-0.90356
+0.318071
+0.426284
+0.246206
+246
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+307
+-0.457591
+-0.866271
+0.339619
+0.371584
+0.324026
+247
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+493
+-0.469039
+-0.952668
+0.296808
+0.453606
+0.0954317
+248
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+462
+-0.365552
+-0.586751
+0.47746
+0.297007
+0.667985
+249
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+17
+-0.473866
+-0.902927
+0.327782
+0.443718
+0.228789
+250
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+44
+-0.448465
+-0.907338
+0.290254
+0.331246
+0.225126
+251
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+380
+-0.458228
+-0.89514
+0.31015
+0.384092
+0.267993
+252
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+278
+-0.477228
+-0.917989
+0.318326
+0.459918
+0.126806
+253
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+414
+-0.452261
+-0.934728
+0.287929
+0.402345
+0.262144
+254
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+602
+-0.466924
+-0.941368
+0.289321
+0.378289
+0.0837915
+255
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+112
+-0.470253
+-0.801974
+0.41049
+0.419088
+0.194027
+256
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+621
+-0.470966
+-0.727514
+0.482422
+0.460429
+0.105736
+257
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+480
+-0.449468
+-0.563962
+0.580674
+0.4663
+0.180908
+258
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+599
+-0.46077
+-0.608308
+0.561579
+0.471484
+0.120702
+259
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+572
+-0.446511
+-0.498177
+0.65181
+0.4692
+0.00709527
+260
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+13
+0.858268
+0.420231
+-0.875222
+0.931998
+0.355995
+261
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+199
+-0.450977
+-0.585182
+0.588
+0.471459
+0.0863011
+262
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+554
+-0.457644
+-0.78845
+0.401496
+0.349735
+0.359701
+263
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+521
+-0.44948
+-0.960185
+0.24736
+0.355467
+0.226243
+264
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+139
+-0.457126
+-0.940501
+0.270965
+0.366206
+0.162038
+265
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+266
+-0.441669
+-0.966343
+0.267516
+0.464789
+0.075091
+266
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+421
+-0.464519
+-0.670125
+0.54111
+0.549192
+0.201049
+267
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+347
+-0.438651
+-0.846462
+0.372884
+0.453268
+0.372777
+268
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+175
+-0.469998
+-0.676698
+0.541864
+0.514533
+0.23818
+269
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+544
+-0.469507
+-0.823403
+0.404895
+0.470414
+0.221828
+270
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+136
+-0.477567
+-0.853534
+0.404425
+0.498454
+0.21983
+271
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+345
+-0.467502
+-0.834345
+0.389326
+0.452745
+0.2669
+272
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+513
+-0.427117
+-0.913382
+0.279089
+0.418287
+0.0420319
+273
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+7
+-0.405542
+-0.349378
+0.757916
+0.570425
+-0.0149798
+274
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+185
+-0.314165
+-0.327737
+0.635083
+0.282265
+0.650544
+275
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+439
+-0.444349
+-0.47978
+0.687743
+0.602571
+-0.00357182
+276
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+549
+-0.459476
+-0.561861
+0.621335
+0.546228
+0.05031
+277
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+455
+-0.467291
+-0.646495
+0.55361
+0.487831
+0.104602
+278
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+584
+-0.372874
+-0.22334
+0.782637
+0.43011
+0.12458
+279
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+507
+-0.289322
+-0.155212
+0.726368
+0.25338
+0.603549
+280
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+466
+-0.421862
+-0.594053
+0.535531
+0.383674
+0.341282
+281
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+267
+-0.272671
+-0.611583
+0.299691
+0.391338
+0.270309
+282
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+62
+-0.465632
+-0.690613
+0.51196
+0.44095
+0.114439
+283
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+430
+-0.395403
+-0.608121
+0.504827
+0.353714
+0.482292
+284
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+340
+-0.418662
+-0.499031
+0.603855
+0.374546
+0.205868
+285
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+115
+-0.400933
+-0.478775
+0.605131
+0.389101
+0.434833
+286
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+370
+-0.374637
+-0.603841
+0.479703
+0.296614
+0.624596
+287
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+511
+-0.477808
+-0.891578
+0.344597
+0.441868
+0.170104
+288
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+168
+-0.429751
+-0.587627
+0.559761
+0.424054
+0.400637
+289
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+319
+-0.374105
+-0.288605
+0.737794
+0.417621
+0.330299
+290
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+399
+-0.303831
+-0.0464804
+0.840126
+0.377481
+0.32306
+291
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+224
+-0.415032
+-0.513165
+0.602496
+0.394408
+0.409983
+292
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+249
+-0.402855
+-0.235108
+0.816182
+0.579991
+-0.107251
+293
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+537
+-0.410618
+-0.485815
+0.635916
+0.439758
+0.384722
+294
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+458
+-0.400694
+-0.300111
+0.778046
+0.513552
+0.10193
+295
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+28
+-0.432696
+-0.70938
+0.457971
+0.458035
+-0.246203
+296
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+519
+-0.437294
+-0.525272
+0.655078
+0.577114
+0.0430665
+297
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+48
+-0.467337
+-0.760388
+0.444485
+0.470269
+0.252137
+298
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+77
+-0.472253
+-0.811006
+0.419064
+0.448116
+0.200559
+299
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+353
+-0.47463
+-0.6929
+0.507687
+0.485644
+0.0705909
+300
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+321
+-0.301774
+-0.154375
+0.731353
+0.236822
+0.510306
+301
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+213
+-0.424826
+-0.473777
+0.655488
+0.524461
+0.200297
+302
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+469
+-0.442354
+-0.656734
+0.528018
+0.500272
+0.201708
+303
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+281
+-0.344842
+-0.342784
+0.654514
+0.376461
+0.336973
+304
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+175
+-0.381481
+-0.388418
+0.656565
+0.360478
+0.378
+305
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+124
+-0.380013
+-0.432927
+0.618996
+0.371757
+0.439986
+306
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+459
+-0.323643
+-0.1863
+0.787542
+0.416786
+0.301813
+307
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+28
+-0.385537
+-0.392569
+0.651758
+0.34609
+0.190183
+308
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+100
+-0.475557
+-0.740793
+0.487467
+0.493661
+0.180475
+309
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+85
+-0.335815
+-0.117483
+0.82492
+0.411535
+0.262922
+310
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+236
+-0.423535
+-0.55304
+0.624632
+0.49747
+-0.146808
+311
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+210
+-0.401805
+-0.600428
+0.537646
+0.456427
+-0.0437767
+312
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+250
+0.983332
+0.555655
+-0.98303
+0.96046
+0.39622
+313
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+425
+-0.331226
+-0.265232
+0.701813
+0.3277
+0.474493
+314
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+42
+-0.385705
+-0.246922
+0.813161
+0.599761
+0.0205133
+315
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+69
+-0.457345
+-0.876944
+0.337534
+0.444502
+0.34883
+316
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+86
+-0.405938
+-0.426445
+0.678782
+0.496432
+0.104411
+317
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+363
+-0.447741
+-0.698006
+0.486022
+0.41043
+0.0972653
+318
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+257
+-0.433883
+-0.595743
+0.568256
+0.477709
+0.202518
+319
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+437
+-0.420787
+-0.477447
+0.650892
+0.506256
+0.250982
+320
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+40
+-0.2755
+-0.051243
+0.795523
+0.386733
+0.182491
+321
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+270
+-0.232166
+-0.211239
+0.578586
+0.118748
+0.824898
+322
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+407
+-0.454492
+-0.71195
+0.491953
+0.420523
+0.275938
+323
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+438
+-0.425732
+-0.432615
+0.679913
+0.462901
+0.138615
+324
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+103
+-0.257384
+0.187199
+0.980136
+0.523475
+-0.00540114
+325
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+292
+0.965852
+0.546133
+-0.96128
+0.96312
+0.358946
+326
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+381
+-0.0882869
+-0.533227
+0.0310494
+0.312172
+-0.0688671
+327
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+118
+0.0655095
+-0.37367
+-0.0920831
+0.150698
+0.214717
+328
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+234
+-0.439926
+-0.635269
+0.560816
+0.449346
+-0.000259281
+329
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+329
+-0.430542
+-0.703801
+0.470391
+0.433211
+0.385203
+330
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+177
+-0.00630209
+-0.0329646
+0.429176
+0.225867
+0.638454
+331
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+178
+-0.287062
+-0.0680179
+0.794456
+0.337054
+0.38263
+332
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+1
+-0.348332
+-0.109804
+0.847641
+0.47226
+0.155078
+333
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+346
+-0.489174
+-0.771855
+0.460386
+0.500034
+0.105288
+334
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+543
+-0.467405
+-0.871009
+0.348336
+0.415539
+0.30027
+335
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+9
+-0.448745
+-0.917289
+0.292256
+0.372496
+0.352569
+336
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+287
+-0.398068
+-0.343925
+0.749092
+0.597662
+0.0997828
+337
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+167
+-0.420581
+-0.616128
+0.527184
+0.418776
+0.456151
+338
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+351
+-0.446351
+-0.765283
+0.406032
+0.333996
+0.328016
+339
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+356
+-0.198738
+0.228258
+0.926211
+0.277539
+0.399694
+340
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+91
+-0.390986
+-0.524613
+0.558654
+0.310955
+0.54756
+341
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+141
+-0.444331
+-0.472592
+0.686228
+0.553477
+-0.0306856
+342
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+526
+0.974339
+0.54747
+-0.977094
+0.968971
+0.389797
+343
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+236
+0.716337
+0.258841
+-0.773996
+0.600482
+0.0076745
+344
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+351
+-0.383839
+-0.616382
+0.465884
+0.309636
+0.682701
+345
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+522
+-0.466928
+-0.904867
+0.306933
+0.400061
+0.231799
+346
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+344
+-0.469008
+-0.861228
+0.380933
+0.46311
+0.146394
+347
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+137
+-0.445467
+-0.562683
+0.618374
+0.485022
+0.152451
+348
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+69
+-0.448081
+-0.524404
+0.676184
+0.584758
+0.0036485
+349
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+394
+-0.470517
+-0.852816
+0.370554
+0.395434
+0.10756
+350
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+497
+-0.384271
+-0.206095
+0.837069
+0.603714
+-0.04686
+351
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+242
+-0.478411
+-0.751783
+0.496306
+0.521736
+-0.157168
+352
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+198
+-0.480781
+-0.795778
+0.441537
+0.510222
+0.19129
+353
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+21
+-0.440262
+-0.510846
+0.632457
+0.447349
+0.119297
+354
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+419
+-0.427547
+-0.632635
+0.541516
+0.4243
+0.203821
+355
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+263
+-0.458664
+-0.864512
+0.329081
+0.371591
+0.300644
+356
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+431
+-0.440449
+-0.704502
+0.481992
+0.502818
+0.298108
+357
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+135
+-0.444251
+-0.859435
+0.353725
+0.491017
+0.160078
+358
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+498
+-0.41233
+-0.442693
+0.642298
+0.469201
+0.0480814
+359
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+230
+-0.336909
+-0.202384
+0.735
+0.379523
+0.213045
+360
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+309
+-0.0934135
+0.43413
+0.918463
+0.303721
+0.156733
+361
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+168
+-0.120552
+0.460356
+1.
+0.325349
+0.295089
+362
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+53
+-0.163874
+0.210465
+0.87446
+0.338982
+0.41283
+363
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+388
+-0.174772
+0.33656
+0.969302
+0.315758
+0.27466
+364
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+354
+-0.257666
+0.0565799
+0.870116
+0.363141
+0.186397
+365
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+116
+-0.276351
+-0.00431143
+0.838808
+0.340351
+0.351898
+366
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+133
+-0.157083
+0.238342
+0.871822
+0.286786
+0.492056
+367
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+3
+-0.399061
+-0.598855
+0.515009
+0.391045
+0.230647
+368
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+235
+-0.360507
+-0.654464
+0.405943
+0.218353
+0.447171
+369
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+103
+-0.055848
+-0.55808
+-0.0204816
+0.303485
+-0.483268
+370
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+327
+0.859134
+0.422746
+-0.87925
+0.900784
+0.355224
+371
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+158
+-0.426971
+-0.409977
+0.690758
+0.498605
+-0.0000118287
+372
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+111
+-0.350537
+-0.11917
+0.838895
+0.452515
+0.0790801
+373
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+223
+-0.285126
+-0.0130739
+0.842885
+0.38203
+0.24186
+374
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+213
+-0.134984
+-0.182463
+0.498297
+0.190976
+0.699789
+375
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+292
+-0.44445
+-0.755597
+0.434919
+0.391264
+0.279524
+376
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+22
+-0.173932
+0.1698
+0.850318
+0.279431
+0.442288
+377
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+241
+-0.194849
+0.165612
+0.856714
+0.354017
+0.402732
+378
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+162
+-0.361223
+-0.501311
+0.539325
+0.281226
+0.440339
+379
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+298
+-0.306989
+-0.13198
+0.789392
+0.386742
+0.382584
+380
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+9
+-0.347378
+-0.268291
+0.72613
+0.395926
+0.422792
+381
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+305
+-0.369481
+-0.348813
+0.66668
+0.31341
+0.420059
+382
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+308
+-0.464323
+-0.782638
+0.467239
+0.544394
+-0.0152978
+383
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+262
+-0.440707
+-0.662507
+0.523091
+0.474079
+0.376595
+384
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+42
+-0.481753
+-0.775214
+0.459014
+0.484774
+-0.135053
+385
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+130
+-0.483915
+-0.761819
+0.463859
+0.490232
+0.131087
+386
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+70
+-0.41412
+-0.708505
+0.414747
+0.269696
+0.396609
+387
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+375
+-0.445236
+-0.580381
+0.605369
+0.479277
+0.219147
+388
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+202
+-0.461252
+-0.505617
+0.681666
+0.618277
+-0.144556
+389
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+311
+0.991543
+0.564127
+-0.990169
+0.969377
+0.382634
+390
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+91
+-0.286159
+-0.478314
+0.40808
+0.234492
+-0.208097
+391
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+85
+-0.35019
+-0.530618
+0.47712
+0.27035
+0.141826
+392
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+111
+-0.384057
+-0.494814
+0.575173
+0.317559
+0.573098
+393
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+263
+-0.479396
+-0.701394
+0.526612
+0.527491
+0.0133906
+394
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+230
+-0.481531
+-0.784326
+0.476773
+0.538907
+-0.0628027
+395
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+183
+-0.375817
+-0.202792
+0.815325
+0.489178
+0.165014
+396
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+198
+-0.450529
+-0.522977
+0.641438
+0.50451
+0.174571
+397
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+33
+-0.42478
+-0.403027
+0.721744
+0.550174
+0.100183
+398
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+87
+-0.474287
+-0.806901
+0.406625
+0.411869
+-0.0241946
+399
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+370
+-0.302652
+-0.222174
+0.712987
+0.3503
+0.506262
+400
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+19
+-0.350029
+-0.598622
+0.451506
+0.349667
+-0.113199
+401
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+108
+-0.283794
+-0.55531
+0.350095
+0.262458
+-0.0819221
+402
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+227
+-0.295757
+-0.582186
+0.371514
+0.420536
+-0.261229
+403
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+16
+-0.299937
+-0.327091
+0.581881
+0.290926
+0.052314
+404
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+41
+-0.407868
+-0.610787
+0.529345
+0.448761
+0.139007
+405
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+121
+-0.449005
+-0.821914
+0.394143
+0.396226
+0.0521645
+406
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+48
+0.922257
+0.473301
+-0.94776
+0.977145
+0.407994
+407
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+4
+0.933974
+0.493607
+-0.951695
+0.988066
+0.410083
+408
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+198
+-0.449643
+-0.626344
+0.56604
+0.454143
+0.0598461
+409
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+40
+-0.430213
+-0.692923
+0.474573
+0.385321
+0.458416
+410
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+11
+-0.451661
+-0.949182
+0.264291
+0.366669
+0.203938
+411
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+160
+-0.468118
+-0.933158
+0.296909
+0.417954
+0.19413
+412
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+80
+-0.453469
+-0.915708
+0.300749
+0.376775
+0.285801
+413
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+19
+-0.452256
+-0.896597
+0.305457
+0.356803
+0.395853
+414
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+235
+-0.459313
+-0.896277
+0.324128
+0.406814
+0.299514
+415
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+123
+-0.460218
+-0.898192
+0.317431
+0.400648
+0.298537
+416
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+74
+-0.306875
+-0.23814
+0.706256
+0.360088
+0.490871
+417
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+101
+-0.470779
+-0.676634
+0.535449
+0.555077
+0.0316657
+418
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+21
+-0.453458
+-0.648306
+0.515279
+0.427334
+0.221521
+419
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+12
+-0.34631
+-0.0535318
+0.861093
+0.466254
+-0.00842226
+420
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+211
+-0.334054
+-0.515009
+0.480597
+0.304803
+-0.296078
+421
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+85
+-0.424646
+-0.630336
+0.522958
+0.397216
+0.0573127
+422
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+51
+-0.399959
+-0.80207
+0.333418
+0.238372
+0.193531
+423
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+59
+-0.360129
+-0.214762
+0.760071
+0.354873
+0.184236
+424
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+98
+-0.34186
+-0.177087
+0.783984
+0.354314
+0.325575
+425
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+90
+-0.299939
+-0.0784883
+0.810578
+0.366183
+0.261336
+426
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+180
+-0.288408
+-0.0155821
+0.881633
+0.485494
+0.203334
+427
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+8
+-0.408136
+-0.52242
+0.615281
+0.41829
+0.365176
+428
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+103
+-0.318118
+-0.186719
+0.768321
+0.463951
+0.328832
+429
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+60
+-0.33005
+-0.174469
+0.814645
+0.525602
+0.206361
+430
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+130
+-0.465317
+-0.578576
+0.618485
+0.545299
+0.0079613
+431
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+4
+-0.434464
+-0.447758
+0.693434
+0.575149
+-0.00879873
+432
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+106
+-0.438248
+-0.434874
+0.698688
+0.609729
+-0.0631487
+433
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+161
+-0.372694
+-0.1568
+0.839647
+0.551562
+-0.0694896
+434
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+32
+-0.291414
+-0.0598119
+0.839197
+0.417231
+0.25965
+435
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+160
+-0.326062
+-0.0717537
+0.86053
+0.509231
+0.0434932
+436
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+97
+-0.410204
+-0.576981
+0.537918
+0.394416
+0.29931
+437
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+244
+-0.343947
+-0.433664
+0.570932
+0.273015
+0.642344
+438
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+44
+-0.234831
+0.141735
+0.910756
+0.365889
+0.303582
+439
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+207
+-0.397513
+-0.291666
+0.762687
+0.50593
+-0.0423493
+440
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+89
+-0.0670148
+0.219249
+0.737032
+0.169152
+0.428615
+441
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+714
+-0.47269
+-0.804166
+0.416214
+0.464287
+0.0942772
+442
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+421
+-0.464789
+-0.665875
+0.536035
+0.479059
+0.0789298
+443
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+88
+-0.454123
+-0.697412
+0.52054
+0.521618
+0.245761
+444
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+320
+-0.462546
+-0.930147
+0.26408
+0.33793
+0.343418
+445
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+215
+-0.330123
+-0.25592
+0.700476
+0.35862
+0.16118
+446
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+731
+-0.439141
+-0.726934
+0.458709
+0.468233
+-0.255933
+447
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+665
+-0.44743
+-0.919586
+0.286425
+0.400175
+-0.00686435
+448
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+848
+-0.465255
+-0.884399
+0.362134
+0.471938
+-0.108935
+449
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+796
+-0.473227
+-0.900792
+0.325864
+0.433672
+0.218003
+450
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+112
+-0.464343
+-0.783544
+0.427482
+0.413023
+0.0178613
+451
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+667
+-0.442854
+-0.712764
+0.480039
+0.461799
+0.172281
+452
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+909
+-0.412482
+-0.455594
+0.669628
+0.530987
+0.1226
+453
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+9
+-0.46255
+-0.725635
+0.509258
+0.522353
+0.0576625
+454
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+624
+-0.474714
+-0.665691
+0.559219
+0.572811
+-0.0375645
+455
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+1004
+-0.473131
+-0.709862
+0.519511
+0.495585
+-0.0580969
+456
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+897
+-0.451329
+-0.940509
+0.248309
+0.358399
+0.0461711
+457
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+621
+-0.462179
+-0.698538
+0.502225
+0.481375
+0.238706
+458
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+712
+-0.469041
+-0.703635
+0.511326
+0.497813
+0.105311
+459
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+48
+-0.444792
+-0.558127
+0.618519
+0.57961
+-0.0383059
+460
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+576
+-0.247985
+-0.255772
+0.582268
+0.281165
+0.39022
+461
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+104
+-0.139878
+-0.100384
+0.575382
+0.190719
+0.578103
+462
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+24
+-0.0670148
+0.219249
+0.737032
+0.169152
+0.428615
+463
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+132
+-0.145841
+0.019654
+0.684353
+0.248458
+0.44261
+464
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+10
+-0.470218
+-0.86597
+0.366962
+0.450439
+0.158999
+465
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+169
+-0.459358
+-0.906671
+0.323395
+0.425654
+0.121664
+466
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+7
+-0.437691
+-0.733472
+0.453292
+0.48091
+-0.102504
+467
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+168
+-0.451033
+-0.711476
+0.507462
+0.473304
+0.0321243
+468
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+5
+-0.279891
+-0.390842
+0.500387
+0.431296
+0.011468
+469
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+69
+0.428888
+0.158458
+-0.339527
+0.430403
+0.192892
+470
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+33
+-0.181633
+-0.211945
+0.511098
+0.375436
+0.0730437
+471
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+108
+-0.422057
+-0.721523
+0.461136
+0.431574
+-0.12475
+472
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+49
+-0.462006
+-0.793307
+0.440843
+0.466069
+0.0614971
+473
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+135
+-0.441753
+-0.860038
+0.356493
+0.398437
+0.0618511
+474
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+60
+-0.45164
+-0.876284
+0.352355
+0.465708
+-0.214038
+475
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+40
+-0.417279
+-0.816347
+0.365473
+0.497097
+-0.214432
+476
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+89
+-0.442932
+-0.738503
+0.443466
+0.430238
+-0.0346789
+477
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+70
+-0.463164
+-0.842761
+0.391677
+0.460515
+-0.0579117
+478
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+9
+-0.447104
+-0.813248
+0.405729
+0.486867
+-0.0874958
+479
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+142
+-0.437507
+-0.619263
+0.578592
+0.565964
+0.00177561
+480
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+176
+-0.925838
+-0.0896793
+0.512405
+0.624816
+0.093486
+481
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+826
+-0.911514
+-0.0975264
+0.298203
+0.280015
+0.939979
+482
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+188
+-0.913877
+0.0170599
+0.56212
+0.636889
+-0.206353
+483
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+176
+-0.911564
+-0.0767695
+0.490033
+0.469131
+0.28306
+484
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+565
+-0.942176
+-0.310096
+0.208774
+0.351643
+0.767826
+485
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+952
+-0.874242
+0.206116
+0.61429
+0.520547
+0.151836
+486
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+1238
+-0.969325
+-0.421342
+0.276476
+0.527143
+0.290847
+487
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+501
+-0.980464
+-0.527884
+0.162694
+0.488856
+0.0935591
+488
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+380
+-0.964993
+-0.399032
+0.252675
+0.501476
+0.247912
+489
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+423
+-0.992178
+-0.619643
+0.0204947
+0.396792
+0.456446
+490
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+90
+-0.987374
+-0.598947
+0.0650838
+0.449925
+0.269415
+491
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+217
+-0.972023
+-0.468908
+0.236695
+0.544355
+-0.0609797
+492
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+1353
+-0.95812
+-0.353424
+0.285464
+0.455563
+0.482457
+493
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+839
+-0.848637
+0.351148
+0.651104
+0.503938
+0.234311
+494
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+219
+-0.949683
+-0.267278
+0.376773
+0.578194
+0.0799691
+495
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+1293
+-0.969283
+-0.484462
+0.153675
+0.380214
+0.448784
+496
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+360
+-0.989421
+-0.591886
+0.112248
+0.509908
+0.198334
+497
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+1018
+-0.964225
+-0.425346
+0.268014
+0.491244
+0.303285
+498
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+454
+-0.939105
+-0.194304
+0.408314
+0.507453
+0.321107
+499
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+234
+-0.98502
+-0.568733
+0.0729188
+0.433863
+0.321045
+500
+NC_012591.1
+Pongo abelii isolate ISIS 71 chromosome 1  P_pygmaeus_2.0.2
+150000
+588
+-0.892811
+0.0706681
+0.545881
+0.550719
+0.196797
+501
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+412
+-0.914162
+-0.00936941
+0.535654
+0.588753
+0.175915
+502
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+669
+-0.861526
+0.210149
+0.61125
+0.486487
+0.248876
+503
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+340
+-0.974818
+-0.502071
+0.0545481
+0.368546
+0.763183
+504
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+286
+-0.881297
+0.165706
+0.603213
+0.571581
+-0.10434
+505
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+176
+-0.988405
+-0.546145
+0.127361
+0.432096
+0.537962
+506
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+431
+-0.961134
+-0.371763
+0.308146
+0.502227
+0.292981
+507
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+276
+-0.989841
+-0.586932
+0.100862
+0.460292
+0.219819
+508
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+463
+-0.968916
+-0.444342
+0.198256
+0.411479
+0.576805
+509
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+571
+-0.985415
+-0.53072
+0.185215
+0.550144
+0.167426
+510
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+479
+-0.936674
+-0.211749
+0.412487
+0.56715
+-0.101443
+511
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+310
+-0.902332
+0.00881312
+0.540699
+0.535033
+0.296014
+512
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+559
+-0.961343
+-0.333872
+0.333361
+0.546716
+0.117601
+513
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+491
+-0.985338
+-0.54277
+0.13773
+0.513304
+0.244076
+514
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+76
+-0.958845
+-0.308664
+0.301998
+0.537793
+0.236353
+515
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+602
+-0.939226
+-0.277175
+0.206928
+0.465738
+-0.0286836
+516
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+662
+-0.962821
+-0.486095
+0.117501
+0.345422
+0.374653
+517
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+650
+-0.934467
+-0.187092
+0.396702
+0.495309
+0.374601
+518
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+485
+-0.957499
+-0.317344
+0.376348
+0.565257
+0.113203
+519
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+210
+-0.920703
+0.0192796
+0.572811
+0.678813
+-0.0460761
+520
+NC_012592.1
+Pongo abelii isolate ISIS 71 chromosome 2A  P_pygmaeus_2.0.2
+150000
+24
+-0.919059
+-0.107982
+0.476082
+0.532455
+0.205708
+521
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+736
+-0.962179
+-0.27953
+0.393534
+0.682427
+-0.0578355
+522
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+513
+-0.989836
+-0.63618
+0.0282602
+0.436147
+0.312099
+523
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+470
+-0.993006
+-0.604281
+0.042327
+0.424581
+0.41749
+524
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+400
+-0.988083
+-0.512685
+0.178404
+0.565557
+0.225792
+525
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+172
+-0.976197
+-0.396859
+0.273388
+0.592297
+0.194467
+526
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+121
+-0.990698
+-0.583566
+0.111016
+0.487363
+0.215745
+527
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+182
+-0.969536
+-0.428279
+0.233308
+0.479979
+0.115146
+528
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+307
+-0.983148
+-0.433438
+0.286312
+0.614671
+0.167232
+529
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+502
+-0.980549
+-0.428439
+0.284516
+0.60217
+0.148331
+530
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+402
+-0.964882
+-0.419691
+0.257745
+0.528231
+-0.0934659
+531
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+93
+-0.988155
+-0.623783
+0.0563591
+0.444906
+0.267626
+532
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+693
+-0.983642
+-0.608459
+0.0661937
+0.408454
+0.291823
+533
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+469
+-0.969606
+-0.481437
+0.178779
+0.456924
+0.0904169
+534
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+230
+-0.994473
+-0.631982
+0.0178107
+0.439519
+0.375468
+535
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+706
+-0.973577
+-0.511457
+0.147007
+0.430222
+0.387777
+536
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+200
+-0.981958
+-0.506455
+0.19515
+0.534757
+0.262268
+537
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+718
+-0.951565
+-0.280395
+0.323889
+0.471399
+0.411423
+538
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+532
+-0.950358
+-0.420023
+0.205847
+0.357238
+0.485932
+539
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+275
+-0.966553
+-0.378371
+0.257269
+0.461173
+0.463068
+540
+NC_012593.1
+Pongo abelii isolate ISIS 71 chromosome 2B  P_pygmaeus_2.0.2
+150000
+367
+-0.98233
+-0.503508
+0.145856
+0.560524
+0.0222294
+541
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+1245
+-0.97356
+-0.47756
+0.199303
+0.495261
+0.23827
+542
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+669
+-0.886407
+0.0765462
+0.515034
+0.445357
+0.428947
+543
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+425
+-0.985608
+-0.421076
+0.279409
+0.606058
+0.158961
+544
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+943
+-0.912282
+-0.00497932
+0.569457
+0.650425
+-0.0688179
+545
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+40
+-0.90297
+-0.0588101
+0.459488
+0.413639
+0.173526
+546
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+353
+-0.962375
+-0.30795
+0.357113
+0.645324
+-0.0479115
+547
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+440
+-0.973902
+-0.369026
+0.335146
+0.616963
+-0.0120184
+548
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+617
+-0.952709
+-0.366307
+0.287999
+0.447827
+0.372825
+549
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+813
+-0.986825
+-0.516698
+0.202659
+0.594568
+0.132849
+550
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+46
+-0.984785
+-0.564661
+0.11607
+0.497972
+0.263408
+551
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+1137
+-0.966212
+-0.393269
+0.225892
+0.441422
+0.396503
+552
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+358
+-0.98409
+-0.48183
+0.223738
+0.561564
+0.189572
+553
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+748
+-0.980641
+-0.545564
+0.127097
+0.447262
+0.253358
+554
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+252
+-0.972603
+-0.440545
+0.258565
+0.523942
+0.20468
+555
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+562
+-0.884663
+0.093577
+0.501299
+0.384884
+0.499453
+556
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+639
+-0.976258
+-0.515367
+0.177961
+0.493338
+0.184961
+557
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+333
+-0.991406
+-0.590683
+0.0608106
+0.486618
+0.332809
+558
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+223
+-0.985889
+-0.506532
+0.206532
+0.531355
+0.0969477
+559
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+1034
+-0.931752
+-0.305678
+0.219822
+0.274881
+0.685833
+560
+NC_012594.1
+Pongo abelii isolate ISIS 71 chromosome 3  P_pygmaeus_2.0.2
+150000
+66
+-0.971235
+-0.390245
+0.315001
+0.561643
+0.102116
+561
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+225
+-0.99387
+-0.59113
+0.0620165
+0.453602
+0.334491
+562
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+431
+-0.988154
+-0.628482
+0.0142822
+0.422652
+0.337396
+563
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+278
+-0.967756
+-0.381664
+0.286987
+0.556574
+0.198126
+564
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+455
+-0.985175
+-0.585924
+0.0955797
+0.471289
+0.206736
+565
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+238
+-0.991375
+-0.584539
+0.126295
+0.527039
+0.106579
+566
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+617
+-0.994277
+-0.628968
+0.00365679
+0.426364
+0.21945
+567
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+885
+-1.
+-0.670251
+-0.0115083
+0.447135
+0.238803
+568
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+595
+-0.976374
+-0.568828
+0.0975929
+0.46323
+0.160255
+569
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+931
+-0.994291
+-0.607301
+0.0540457
+0.507013
+0.285325
+570
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+610
+-0.986634
+-0.520149
+0.198216
+0.54687
+0.194318
+571
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+781
+-0.980035
+-0.479174
+0.226765
+0.516229
+0.0926344
+572
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+183
+-0.976537
+-0.496023
+0.18648
+0.447557
+0.280539
+573
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+477
+-0.962583
+-0.456573
+0.222131
+0.435033
+0.274573
+574
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+80
+-0.987456
+-0.544771
+0.140394
+0.52196
+0.187056
+575
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+286
+-0.983461
+-0.547549
+0.13628
+0.470958
+0.118279
+576
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+805
+-0.994849
+-0.619226
+0.053966
+0.453534
+0.288814
+577
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+556
+-0.980539
+-0.533985
+0.0926587
+0.447254
+0.319537
+578
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+1161
+-0.986183
+-0.575066
+0.098304
+0.448389
+0.313602
+579
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+1100
+-0.939194
+-0.218926
+0.393486
+0.513962
+0.312519
+580
+NC_012595.1
+Pongo abelii isolate ISIS 71 chromosome 4  P_pygmaeus_2.0.2
+150000
+707
+-0.837826
+0.282151
+0.645156
+0.452094
+0.168802
+581
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+802
+-0.982122
+-0.475749
+0.211859
+0.52057
+0.170782
+582
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+231
+-0.972939
+-0.491035
+0.129861
+0.443309
+0.251593
+583
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+221
+-0.902237
+0.0619662
+0.571127
+0.573409
+0.208782
+584
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+914
+-0.944043
+-0.27388
+0.365089
+0.552652
+0.261882
+585
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+157
+-0.864094
+0.286911
+0.651216
+0.524358
+0.152235
+586
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+457
+-0.879827
+0.1763
+0.603203
+0.541934
+0.110761
+587
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+371
+-0.893066
+0.0812819
+0.506017
+0.444321
+0.419736
+588
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+173
+-0.948128
+-0.247216
+0.302434
+0.395773
+0.649197
+589
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+317
+-0.939351
+-0.12557
+0.508806
+0.663845
+0.0232279
+590
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+73
+-0.849328
+0.308676
+0.664187
+0.495844
+0.145571
+591
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+1008
+-0.858081
+0.302691
+0.677404
+0.559466
+0.0551021
+592
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+89
+-0.983946
+-0.588822
+0.0675719
+0.376061
+0.419941
+593
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+680
+-0.987922
+-0.593979
+0.109734
+0.507644
+0.233381
+594
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+967
+-0.978516
+-0.442803
+0.254845
+0.539241
+0.235316
+595
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+280
+-0.983231
+-0.570246
+0.0924111
+0.490147
+0.211207
+596
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+307
+-0.972332
+-0.444749
+0.253073
+0.527886
+0.272496
+597
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+382
+-0.987923
+-0.573473
+0.116292
+0.510107
+0.257131
+598
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+17
+-0.906097
+-0.0275974
+0.458442
+0.399768
+0.449727
+599
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+694
+-0.918457
+-0.0773387
+0.449042
+0.47041
+0.33322
+600
+NC_012596.1
+Pongo abelii isolate ISIS 71 chromosome 5  P_pygmaeus_2.0.2
+150000
+252
+-0.938771
+-0.321346
+0.280441
+0.408843
+0.321765
+601
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+290
+-0.942919
+-0.252589
+0.314124
+0.430914
+0.478589
+602
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+311
+-0.978939
+-0.479477
+0.214139
+0.486902
+0.10003
+603
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+610
+-0.943694
+-0.260293
+0.350429
+0.455893
+0.394749
+604
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+946
+-0.882207
+0.135703
+0.572424
+0.476759
+0.296259
+605
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+133
+-0.894695
+0.144475
+0.631805
+0.688975
+-0.188506
+606
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+126
+-0.966364
+-0.54844
+0.0814801
+0.340648
+0.423492
+607
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+843
+-0.987797
+-0.574004
+0.11315
+0.512919
+0.22937
+608
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+693
+-0.990085
+-0.631784
+0.0398551
+0.460049
+0.138342
+609
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+490
+-0.990784
+-0.672307
+-0.0395033
+0.391654
+0.248498
+610
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+911
+-0.975756
+-0.509812
+0.149644
+0.472639
+-0.0625266
+611
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+110
+-0.980554
+-0.441253
+0.257022
+0.540046
+0.291561
+612
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+404
+-0.965863
+-0.532273
+0.0745573
+0.309617
+0.402712
+613
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+201
+-0.988514
+-0.570963
+0.123724
+0.53986
+0.14511
+614
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+119
+-0.998262
+-0.643878
+0.0234465
+0.475178
+0.307659
+615
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+601
+-0.946736
+-0.259161
+0.376508
+0.504169
+0.2903
+616
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+380
+-0.945379
+-0.361082
+0.183289
+0.278802
+0.660561
+617
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+554
+-0.98059
+-0.4852
+0.161286
+0.478308
+0.284969
+618
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+692
+-0.957037
+-0.335243
+0.312731
+0.525037
+0.351789
+619
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+282
+-0.931734
+-0.27136
+0.216596
+0.268093
+0.774451
+620
+NC_012597.1
+Pongo abelii isolate ISIS 71 chromosome 6  P_pygmaeus_2.0.2
+150000
+550
+-0.990597
+-0.587595
+0.083701
+0.488407
+0.289796
+621
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+940
+-0.955786
+-0.319072
+0.326362
+0.570151
+0.0738375
+622
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+642
+-0.962763
+-0.388557
+0.276185
+0.507232
+0.298744
+623
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+427
+-0.978526
+-0.474874
+0.19591
+0.525011
+0.10642
+624
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+172
+-0.98172
+-0.459529
+0.243712
+0.593668
+0.108513
+625
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+269
+-0.959415
+-0.324671
+0.340444
+0.550066
+-0.0144659
+626
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+723
+-0.910097
+-0.115915
+0.333243
+0.318898
+0.668943
+627
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+963
+-0.975714
+-0.485273
+0.152715
+0.453723
+0.295782
+628
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+771
+-0.987561
+-0.516757
+0.203159
+0.570729
+0.0984021
+629
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+199
+-0.954978
+-0.378619
+0.249619
+0.402191
+0.284627
+630
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+160
+-0.950923
+-0.322987
+0.311472
+0.474192
+0.457035
+631
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+288
+-0.989782
+-0.638581
+0.0531088
+0.486374
+0.277765
+632
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+793
+-0.974812
+-0.522261
+0.158119
+0.507195
+0.337924
+633
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+54
+-0.995368
+-0.575896
+0.106896
+0.50675
+0.27151
+634
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+769
+-0.960081
+-0.453312
+0.181532
+0.437902
+0.0897429
+635
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+727
+-0.97487
+-0.410391
+0.26775
+0.627521
+0.335327
+636
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+611
+-0.97244
+-0.426822
+0.208821
+0.468793
+0.567954
+637
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+531
+-0.925138
+-0.141833
+0.444841
+0.52045
+0.205442
+638
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+536
+-0.881726
+0.107688
+0.609779
+0.600123
+0.00193476
+639
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+728
+-0.838117
+0.304471
+0.625322
+0.49069
+-0.0613648
+640
+NC_012598.1
+Pongo abelii isolate ISIS 71 chromosome 7  P_pygmaeus_2.0.2
+150000
+901
+-0.923277
+-0.103661
+0.406811
+0.541227
+0.116458
+641
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+555
+-0.972477
+-0.507889
+0.146223
+0.425518
+0.433641
+642
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+116
+-0.933
+-0.264554
+0.324235
+0.468907
+0.168958
+643
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+763
+-0.889261
+0.0639709
+0.53624
+0.486269
+0.340098
+644
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+397
+-0.952008
+-0.316737
+0.34438
+0.522489
+0.285151
+645
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+456
+-0.950175
+-0.249166
+0.368814
+0.526932
+0.363051
+646
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+756
+-0.98138
+-0.467353
+0.191459
+0.486735
+0.458367
+647
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+302
+-0.976945
+-0.419514
+0.285637
+0.589087
+0.074437
+648
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+660
+-0.990232
+-0.565116
+0.113389
+0.466267
+0.231715
+649
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+354
+-0.980144
+-0.484351
+0.220874
+0.53788
+0.040516
+650
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+288
+-0.978585
+-0.503938
+0.182115
+0.51002
+0.293698
+651
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+877
+-0.950185
+-0.380263
+0.220886
+0.374674
+0.634648
+652
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+43
+-0.97171
+-0.43855
+0.230595
+0.524748
+0.211431
+653
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+409
+-0.984733
+-0.537023
+0.141276
+0.504785
+0.286562
+654
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+154
+-0.981584
+-0.532994
+0.152194
+0.474982
+0.285824
+655
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+152
+-0.98082
+-0.544949
+0.131268
+0.48066
+-0.0110397
+656
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+133
+-0.926574
+-0.250809
+0.0111649
+0.371307
+-0.0326689
+657
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+344
+-0.971359
+-0.403667
+0.303888
+0.560262
+0.161911
+658
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+753
+-0.979746
+-0.515354
+0.147048
+0.482283
+0.291077
+659
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+200
+-0.951036
+-0.253389
+0.393346
+0.564114
+0.12923
+660
+NC_012599.1
+Pongo abelii isolate ISIS 71 chromosome 8  P_pygmaeus_2.0.2
+150000
+87
+-0.992853
+-0.596185
+0.0861314
+0.442348
+0.266243
+661
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+192
+-0.963386
+-0.37118
+0.338927
+0.626777
+-0.128799
+662
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+168
+-0.960815
+-0.419112
+0.256983
+0.571564
+0.100409
+663
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+116
+-0.983443
+-0.568095
+0.118507
+0.483438
+0.287846
+664
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+198
+-0.986494
+-0.488736
+0.229122
+0.616244
+0.0341155
+665
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+249
+-0.992318
+-0.610662
+0.0297925
+0.433389
+0.301733
+666
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+215
+-0.989199
+-0.617394
+0.0454963
+0.425267
+0.180313
+667
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+536
+-0.908645
+-0.0886994
+0.479009
+0.460329
+0.18945
+668
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+370
+-0.931954
+-0.172318
+0.387851
+0.492661
+0.212735
+669
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+587
+-0.959254
+-0.305787
+0.366111
+0.58288
+0.201731
+670
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+104
+-0.980512
+-0.429039
+0.250196
+0.617192
+0.052312
+671
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+563
+-0.988577
+-0.595528
+0.0852449
+0.469433
+0.162832
+672
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+421
+-0.973013
+-0.416147
+0.287697
+0.601205
+0.0417385
+673
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+180
+-0.939453
+-0.170845
+0.454102
+0.586146
+-0.0388701
+674
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+427
+-0.941302
+-0.139435
+0.492642
+0.657776
+-0.0137835
+675
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+65
+-0.957143
+-0.284526
+0.405314
+0.601075
+0.103636
+676
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+303
+-0.97386
+-0.499174
+0.173222
+0.435055
+0.250561
+677
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+394
+-0.968367
+-0.394426
+0.245491
+0.468577
+0.552826
+678
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+334
+-0.969845
+-0.334153
+0.363198
+0.627114
+0.168053
+679
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+571
+-0.910669
+0.0162185
+0.558144
+0.598489
+0.154392
+680
+NC_012600.1
+Pongo abelii isolate ISIS 71 chromosome 9  P_pygmaeus_2.0.2
+150000
+629
+-0.969856
+-0.456223
+0.223024
+0.532154
+-0.039215
+681
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+652
+-0.975923
+-0.471244
+0.215816
+0.513004
+0.310714
+682
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+772
+-0.927297
+-0.161341
+0.409703
+0.472232
+0.30319
+683
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+332
+-0.636516
+0.881059
+-0.951826
+-0.973488
+-0.949408
+684
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+340
+-0.627732
+0.920459
+-0.996059
+-0.985332
+-0.98545
+685
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+296
+-0.645144
+0.853136
+-0.959199
+-0.990778
+-0.998737
+686
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+278
+-0.630442
+0.895515
+-0.981254
+-1.
+-1.
+687
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+575
+-0.953743
+-0.316149
+0.306874
+0.500352
+0.194981
+688
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+404
+-0.990558
+-0.600057
+0.0570645
+0.47051
+0.251838
+689
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+204
+-0.971885
+-0.412286
+0.272782
+0.551454
+0.294186
+690
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+310
+-0.992525
+-0.56318
+0.106431
+0.497071
+0.265997
+691
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+916
+-0.924647
+-0.014635
+0.575746
+0.68851
+-0.156184
+692
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+476
+-0.891972
+0.0895246
+0.576979
+0.520087
+0.192281
+693
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+459
+-0.968827
+-0.375687
+0.332293
+0.599281
+0.0696629
+694
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+787
+-0.937119
+-0.298277
+0.214395
+0.319463
+0.757945
+695
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+67
+-0.976022
+-0.477537
+0.218829
+0.551374
+0.132011
+696
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+644
+-0.943836
+-0.155559
+0.478284
+0.640454
+0.164351
+697
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+848
+-0.925672
+-0.0853486
+0.479877
+0.617202
+0.229848
+698
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+762
+-0.905179
+0.117343
+0.536867
+0.658243
+-0.0930442
+699
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+564
+-0.824235
+0.4166
+0.662266
+0.469215
+0.0692966
+700
+NC_012601.1
+Pongo abelii isolate ISIS 71 chromosome 10  P_pygmaeus_2.0.2
+150000
+33
+-0.948519
+-0.240581
+0.299731
+0.453905
+0.569826
+701
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+664
+-0.964515
+-0.314362
+0.368532
+0.591459
+0.149517
+702
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+151
+-0.994274
+-0.588723
+0.0904688
+0.476921
+0.336586
+703
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+261
+-0.970332
+-0.478373
+0.213631
+0.502209
+0.189002
+704
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+790
+-0.993503
+-0.581448
+0.138613
+0.564073
+0.151436
+705
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+194
+-0.975527
+-0.555501
+0.104431
+0.412827
+0.141974
+706
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+744
+-0.987799
+-0.589214
+0.110036
+0.481083
+0.18997
+707
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+768
+-0.868183
+0.23617
+0.650778
+0.548129
+0.0872337
+708
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+680
+-0.977792
+-0.408643
+0.313765
+0.618773
+0.0612622
+709
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+556
+-0.944485
+-0.240374
+0.417739
+0.548689
+0.164073
+710
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+695
+-0.948199
+-0.363802
+0.272716
+0.439644
+0.320925
+711
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+671
+-0.962703
+-0.392565
+0.268828
+0.509514
+0.235535
+712
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+254
+-0.962581
+-0.274645
+0.421794
+0.669466
+0.0317944
+713
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+519
+-0.949379
+-0.239375
+0.431684
+0.647276
+0.0159272
+714
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+236
+-0.967888
+-0.325008
+0.366163
+0.625326
+-0.117134
+715
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+755
+-0.983734
+-0.428684
+0.265311
+0.546779
+0.178853
+716
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+60
+-0.932669
+-0.193471
+0.368918
+0.447507
+0.361887
+717
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+740
+-0.977057
+-0.504609
+0.111907
+0.476844
+0.257848
+718
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+684
+-0.90275
+-0.00417828
+0.499982
+0.493091
+0.406748
+719
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+443
+-0.923397
+-0.212279
+0.397869
+0.493494
+-0.0513315
+720
+NC_012602.1
+Pongo abelii isolate ISIS 71 chromosome 11  P_pygmaeus_2.0.2
+150000
+83
+-0.983255
+-0.567153
+0.104401
+0.439826
+0.295114
+721
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+153
+-0.992803
+-0.579152
+0.0953828
+0.477166
+0.343651
+722
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+203
+-0.97573
+-0.516047
+0.143637
+0.436108
+0.43505
+723
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+245
+-0.919112
+-0.129648
+0.443968
+0.519945
+-0.0154794
+724
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+783
+-0.956095
+-0.323546
+0.272855
+0.4435
+0.479174
+725
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+606
+-0.867891
+-0.0217687
+-0.00865935
+0.267521
+0.279834
+726
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+764
+-0.979934
+-0.485237
+0.216911
+0.529221
+0.104261
+727
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+655
+-0.973215
+-0.400901
+0.262695
+0.54304
+0.32722
+728
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+359
+-0.866384
+0.192495
+0.615505
+0.574166
+0.0115042
+729
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+308
+-0.977321
+-0.426998
+0.2334
+0.570937
+0.11001
+730
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+455
+-0.987068
+-0.5863
+0.103805
+0.464047
+0.148039
+731
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+667
+-0.982996
+-0.569158
+0.100952
+0.471154
+0.232644
+732
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+467
+-0.996471
+-0.627752
+0.051922
+0.464812
+0.225975
+733
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+451
+-0.968035
+-0.354974
+0.301343
+0.504137
+0.403562
+734
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+130
+-0.977152
+-0.44137
+0.261102
+0.560636
+0.161818
+735
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+323
+-0.968135
+-0.330951
+0.380646
+0.664634
+-0.0163547
+736
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+218
+-0.93618
+-0.060062
+0.538216
+0.687013
+-0.0665643
+737
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+197
+-0.846318
+0.295014
+0.565125
+0.383102
+0.38435
+738
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+817
+-0.963616
+-0.310045
+0.348672
+0.56891
+0.199711
+739
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+114
+-0.869647
+0.245591
+0.611954
+0.619756
+-0.0539434
+740
+NC_012603.1
+Pongo abelii isolate ISIS 71 chromosome 12  P_pygmaeus_2.0.2
+150000
+329
+-0.918699
+-0.0780096
+0.492022
+0.504876
+0.197844
+741
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+303
+-0.946629
+-0.27771
+0.351378
+0.478225
+0.315233
+742
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+153
+-0.892611
+-0.0292251
+0.453802
+0.391289
+0.427966
+743
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+83
+-0.976558
+-0.468562
+0.225681
+0.505718
+0.0998967
+744
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+264
+-0.948803
+-0.263132
+0.38194
+0.569924
+0.190836
+745
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+59
+-0.976402
+-0.436608
+0.266285
+0.549649
+0.108594
+746
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+418
+-0.975244
+-0.415273
+0.287275
+0.558629
+0.0410094
+747
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+357
+-0.978139
+-0.575127
+0.100345
+0.435951
+0.375473
+748
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+10
+-0.993629
+-0.574717
+0.0964671
+0.492503
+0.303961
+749
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+468
+-0.990004
+-0.596323
+0.040286
+0.404476
+0.411317
+750
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+568
+-0.984109
+-0.579607
+0.0717376
+0.44904
+0.341598
+751
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+288
+-0.959757
+-0.442169
+0.184143
+0.388863
+0.426615
+752
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+529
+-0.991044
+-0.618075
+0.046247
+0.451027
+0.222489
+753
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+519
+-0.986485
+-0.595477
+0.0550506
+0.424443
+0.440516
+754
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+277
+-0.973321
+-0.472439
+0.188522
+0.470919
+0.301582
+755
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+137
+-0.973131
+-0.521636
+0.136813
+0.434039
+0.227684
+756
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+506
+-0.97288
+-0.418424
+0.281179
+0.572028
+0.132706
+757
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+47
+-0.939256
+-0.214915
+0.366874
+0.489523
+0.318962
+758
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+459
+-0.919328
+-0.125984
+0.403627
+0.496252
+0.192973
+759
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+498
+-0.957327
+-0.327909
+0.340362
+0.584982
+0.147959
+760
+NC_012604.1
+Pongo abelii isolate ISIS 71 chromosome 13  P_pygmaeus_2.0.2
+150000
+109
+-0.994606
+-0.61303
+0.0513223
+0.460057
+0.257678
+761
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+378
+-0.98558
+-0.612348
+0.0408389
+0.425509
+0.344373
+762
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+264
+-0.97615
+-0.537214
+0.177711
+0.533769
+-0.0315122
+763
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+349
+-0.956154
+-0.301929
+0.350544
+0.518862
+0.296529
+764
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+416
+-0.976741
+-0.415458
+0.308172
+0.632103
+0.0310319
+765
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+283
+-0.948238
+-0.209309
+0.426792
+0.60919
+0.149593
+766
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+317
+-0.944568
+-0.273156
+0.31891
+0.425355
+0.54779
+767
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+341
+-0.980023
+-0.531748
+0.146738
+0.504144
+0.129553
+768
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+185
+-0.905983
+-0.00239737
+0.519872
+0.502946
+0.259398
+769
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+425
+-0.936544
+-0.169087
+0.427271
+0.5485
+0.270668
+770
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+312
+-0.937717
+-0.146706
+0.449312
+0.56548
+0.277357
+771
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+296
+-0.896275
+-0.0435905
+0.402315
+0.333496
+0.650941
+772
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+179
+-0.939985
+-0.183411
+0.405351
+0.526413
+0.446997
+773
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+197
+-0.970496
+-0.436109
+0.20294
+0.542795
+0.220841
+774
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+150
+-0.988193
+-0.559565
+0.135444
+0.483623
+0.314234
+775
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+468
+-0.977376
+-0.48797
+0.185504
+0.49416
+0.289573
+776
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+227
+-0.99382
+-0.609963
+0.0515734
+0.47068
+0.172464
+777
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+418
+-0.972355
+-0.385095
+0.280546
+0.513881
+0.385426
+778
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+440
+-0.829636
+0.398596
+0.687615
+0.465905
+0.134174
+779
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+550
+-0.953059
+-0.320994
+0.285866
+0.560843
+-0.141005
+780
+NC_012605.1
+Pongo abelii isolate ISIS 71 chromosome 14  P_pygmaeus_2.0.2
+150000
+315
+-0.89919
+-0.0400224
+0.0791306
+0.272925
+0.181419
+781
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+398
+-0.935813
+-0.24989
+0.277442
+0.478137
+0.0141879
+782
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+27
+-0.944783
+-0.213883
+0.405807
+0.553275
+0.256148
+783
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+374
+-0.952086
+-0.267705
+0.365815
+0.560203
+0.0688124
+784
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+407
+-0.964828
+-0.424743
+0.221521
+0.481405
+0.346749
+785
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+3
+-0.919361
+-0.0661199
+0.492055
+0.5546
+0.271389
+786
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+278
+-0.99364
+-0.560389
+0.147133
+0.531911
+0.0921204
+787
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+467
+-0.953776
+-0.192668
+0.444058
+0.659076
+0.131085
+788
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+440
+-0.951726
+-0.262552
+0.349045
+0.472408
+0.424795
+789
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+169
+-0.919425
+-0.12571
+0.32165
+0.375736
+0.6496
+790
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+466
+-0.842983
+0.424559
+0.725692
+0.621964
+-0.143715
+791
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+90
+-0.835334
+0.449185
+0.720126
+0.58198
+-0.176148
+792
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+142
+-0.966276
+-0.33643
+0.339378
+0.573608
+0.226225
+793
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+221
+-0.928123
+-0.148178
+0.448045
+0.511095
+0.291825
+794
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+51
+-0.968205
+-0.38386
+0.249039
+0.519699
+0.480473
+795
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+459
+-0.97915
+-0.497248
+0.202431
+0.517176
+0.142589
+796
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+351
+-0.952797
+-0.335787
+0.326537
+0.566222
+0.0517849
+797
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+383
+-0.986753
+-0.529775
+0.18239
+0.525864
+0.199721
+798
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+273
+-0.95244
+-0.324615
+0.309344
+0.474741
+0.308096
+799
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+22
+-0.903013
+-0.10776
+0.442237
+0.496016
+0.249836
+800
+NC_012606.1
+Pongo abelii isolate ISIS 71 chromosome 15  P_pygmaeus_2.0.2
+150000
+329
+-0.703943
+1.
+0.822683
+0.375672
+0.0523233
+801
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+472
+-0.867425
+0.0971843
+0.442321
+0.243575
+0.548376
+802
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+79
+-0.947021
+-0.285347
+0.338071
+0.557411
+0.144257
+803
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+218
+-0.954971
+-0.34122
+0.246984
+0.412474
+0.518982
+804
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+5
+-0.911244
+-0.00982902
+0.532769
+0.642246
+0.059913
+805
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+346
+-0.944151
+-0.274317
+0.376407
+0.533585
+0.237749
+806
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+66
+-0.92796
+-0.0887718
+0.515673
+0.641752
+-0.117943
+807
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+230
+-0.871991
+0.180174
+0.612673
+0.483722
+0.174176
+808
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+365
+-0.980556
+-0.552626
+0.0888105
+0.451577
+0.380689
+809
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+26
+-0.986015
+-0.549273
+0.14607
+0.482941
+0.288674
+810
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+439
+-0.968306
+-0.412496
+0.296144
+0.582108
+0.116597
+811
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+359
+-0.853195
+0.262419
+0.623468
+0.442801
+0.320477
+812
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+304
+-0.940085
+-0.251689
+0.26119
+0.374035
+0.738812
+813
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+112
+-0.879015
+0.100737
+0.496201
+0.384604
+0.521479
+814
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+430
+-0.864002
+0.201951
+0.491183
+0.333771
+0.548383
+815
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+356
+-0.971039
+-0.433856
+0.266531
+0.534441
+0.240932
+816
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+360
+-0.925757
+-0.130953
+0.42223
+0.490327
+0.312164
+817
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+53
+-0.964788
+-0.271359
+0.405454
+0.643254
+0.0867013
+818
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+329
+-0.956759
+-0.251662
+0.425308
+0.654958
+0.0929033
+819
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+310
+-0.804729
+0.534094
+0.718673
+0.392185
+0.188282
+820
+NC_012607.1
+Pongo abelii isolate ISIS 71 chromosome 16  P_pygmaeus_2.0.2
+150000
+438
+-0.950705
+-0.221418
+0.428035
+0.622907
+0.113056
+821
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+233
+-0.942322
+-0.251943
+0.407002
+0.581481
+0.188229
+822
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+383
+-0.968009
+-0.370267
+0.284688
+0.52456
+0.1358
+823
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+134
+-0.985225
+-0.553485
+0.0948726
+0.472112
+0.234117
+824
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+580
+-0.968369
+-0.444869
+0.200903
+0.445008
+0.265741
+825
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+363
+-0.984116
+-0.456809
+0.247241
+0.51888
+0.194512
+826
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+241
+-0.965393
+-0.444553
+0.266134
+0.550486
+0.0517332
+827
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+469
+-0.942085
+-0.319972
+0.247828
+0.365233
+0.555509
+828
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+243
+-0.957957
+-0.252016
+0.39067
+0.599838
+0.127224
+829
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+271
+-0.985163
+-0.535245
+0.1443
+0.462484
+0.265856
+830
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+69
+-0.95937
+-0.372427
+0.273907
+0.498671
+0.356801
+831
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+118
+-0.956164
+-0.234288
+0.419097
+0.60342
+0.142717
+832
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+430
+-0.975302
+-0.409129
+0.272862
+0.549462
+0.301587
+833
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+113
+-0.990358
+-0.564481
+0.101817
+0.473486
+0.323761
+834
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+71
+-0.993648
+-0.597969
+0.0793329
+0.446373
+0.256443
+835
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+390
+-0.980649
+-0.542362
+0.0171086
+0.380711
+0.183982
+836
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+422
+-0.950616
+-0.338611
+0.312757
+0.467198
+0.234808
+837
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+248
+-0.968433
+-0.347191
+0.310489
+0.641478
+-0.142741
+838
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+517
+-0.948804
+-0.319299
+0.265565
+0.474341
+0.060544
+839
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+535
+-0.85634
+0.217438
+0.591747
+0.431538
+0.14002
+840
+NC_012608.1
+Pongo abelii isolate ISIS 71 chromosome 17  P_pygmaeus_2.0.2
+150000
+361
+-0.987662
+-0.570514
+0.119982
+0.501457
+0.113097
+841
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+116
+-0.665085
+0.728454
+-0.914412
+-0.64415
+-0.620582
+842
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+322
+-0.965793
+-0.397971
+0.219917
+0.44099
+0.601906
+843
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+456
+-0.926983
+-0.247924
+0.217816
+0.24984
+0.832833
+844
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+140
+-0.965075
+-0.386001
+0.301632
+0.528354
+0.252874
+845
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+404
+-0.964377
+-0.402214
+0.267015
+0.499795
+0.3189
+846
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+138
+-0.96094
+-0.34146
+0.331516
+0.545249
+0.213795
+847
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+408
+-0.952834
+-0.267725
+0.366958
+0.556734
+-0.0167076
+848
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+294
+-0.995587
+-0.546371
+0.131497
+0.484362
+0.343216
+849
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+256
+-0.986143
+-0.552757
+0.143829
+0.492492
+0.2687
+850
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+244
+-0.874883
+0.249156
+0.67439
+0.638355
+-0.0421423
+851
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+29
+-0.920877
+-0.072875
+0.540947
+0.642568
+-0.0608203
+852
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+109
+-0.994929
+-0.574766
+0.111888
+0.499412
+0.302788
+853
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+398
+-0.935809
+-0.240202
+0.390086
+0.526275
+0.158083
+854
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+114
+-0.986662
+-0.555592
+0.139726
+0.514682
+0.205758
+855
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+204
+-0.993087
+-0.625999
+0.0102592
+0.419269
+0.321623
+856
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+301
+-0.985778
+-0.585717
+0.0649339
+0.4373
+0.378315
+857
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+484
+-0.980064
+-0.540739
+0.137361
+0.485169
+0.167702
+858
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+458
+-0.95764
+-0.369881
+0.312184
+0.546644
+0.100312
+859
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+208
+-0.955812
+-0.323038
+0.285834
+0.552407
+0.135852
+860
+NC_012609.1
+Pongo abelii isolate ISIS 71 chromosome 18  P_pygmaeus_2.0.2
+150000
+351
+-0.839898
+0.306853
+0.558595
+0.375337
+0.440026
+861
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+24
+-0.786275
+0.5796
+0.623803
+0.246284
+0.491872
+862
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+54
+-0.781178
+0.673786
+0.676658
+0.329443
+0.382593
+863
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+16
+-0.915398
+-0.142816
+0.349575
+0.377733
+0.48677
+864
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+242
+-0.822489
+0.415428
+0.624769
+0.421628
+0.41268
+865
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+210
+-0.880343
+0.114626
+0.43299
+0.339251
+0.524071
+866
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+60
+-0.789251
+0.59429
+0.669417
+0.313629
+0.444472
+867
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+274
+-0.81114
+0.473323
+0.656492
+0.384066
+0.343876
+868
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+183
+-0.819888
+0.421813
+0.638072
+0.404874
+0.294538
+869
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+211
+-0.926738
+-0.0826471
+0.498156
+0.568541
+-0.0822593
+870
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+97
+-0.917273
+-0.0214025
+0.523764
+0.652595
+0.0316078
+871
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+312
+-0.899961
+0.0855565
+0.489996
+0.464167
+0.538399
+872
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+155
+-0.934148
+-0.238543
+0.348839
+0.505502
+-0.0597691
+873
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+147
+-0.849695
+0.350893
+0.619456
+0.428901
+0.357388
+874
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+251
+-0.832003
+0.365893
+0.665045
+0.470229
+0.296305
+875
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+78
+-0.811039
+0.529658
+0.65688
+0.383731
+0.381142
+876
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+316
+-0.865795
+0.152831
+0.518904
+0.374866
+0.450004
+877
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+181
+-0.804477
+0.535065
+0.675681
+0.393042
+0.248822
+878
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+100
+-0.90117
+-0.0286288
+0.450976
+0.428933
+0.338469
+879
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+22
+-0.912009
+-0.125654
+0.403127
+0.433157
+0.353185
+880
+NC_012610.1
+Pongo abelii isolate ISIS 71 chromosome 19  P_pygmaeus_2.0.2
+150000
+77
+-0.950046
+-0.286497
+0.374563
+0.544643
+0.181114
+881
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+235
+-0.984631
+-0.518062
+0.183245
+0.555673
+0.199065
+882
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+199
+-0.986365
+-0.515457
+0.188238
+0.548287
+0.235552
+883
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+219
+-0.947849
+-0.242557
+0.411467
+0.581089
+0.17266
+884
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+69
+-0.992988
+-0.495143
+0.193476
+0.553688
+0.2201
+885
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+349
+-0.880633
+0.165567
+0.643275
+0.586153
+0.0212864
+886
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+382
+-0.935402
+-0.189857
+0.44052
+0.579057
+0.140128
+887
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+147
+-0.918832
+-0.137671
+0.372029
+0.362283
+0.565883
+888
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+271
+-0.880047
+0.175941
+0.592403
+0.549053
+0.0472711
+889
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+365
+-0.96908
+-0.375755
+0.314578
+0.551647
+0.173593
+890
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+324
+-0.916103
+0.0267892
+0.584099
+0.671419
+-0.0180911
+891
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+337
+-0.886537
+0.0359576
+0.503226
+0.434248
+0.280928
+892
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+294
+-0.922931
+-0.040696
+0.49773
+0.596927
+0.0406593
+893
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+115
+-0.902039
+0.0578236
+0.57835
+0.561719
+0.13682
+894
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+52
+-0.938464
+-0.215348
+0.36845
+0.510757
+0.380409
+895
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+285
+-0.957687
+-0.349114
+0.329068
+0.53502
+0.188079
+896
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+102
+-0.936077
+-0.207353
+0.410528
+0.523597
+0.076762
+897
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+311
+-0.904995
+0.00386234
+0.545485
+0.536727
+0.0776946
+898
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+29
+-0.950596
+-0.259828
+0.407759
+0.618779
+0.026793
+899
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+259
+-0.756827
+0.798297
+0.791261
+0.508619
+-0.194612
+900
+NC_012611.1
+Pongo abelii isolate ISIS 71 chromosome 20  P_pygmaeus_2.0.2
+150000
+54
+-0.742697
+0.536617
+-0.564769
+-0.196127
+-0.24215
+901
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+187
+-0.979398
+-0.577209
+0.0620245
+0.408785
+0.318642
+902
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+103
+-0.990762
+-0.610446
+0.0511405
+0.453472
+0.344968
+903
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+85
+-0.985168
+-0.607518
+0.0382084
+0.428112
+0.371676
+904
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+76
+-0.992138
+-0.589465
+0.0771417
+0.445024
+0.393669
+905
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+102
+-0.985348
+-0.566712
+0.117086
+0.471655
+0.291919
+906
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+83
+-0.982382
+-0.574801
+0.0818217
+0.434941
+0.272935
+907
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+107
+-0.958924
+-0.42334
+0.236472
+0.452035
+0.340728
+908
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+100
+-0.975952
+-0.509341
+0.155352
+0.5024
+0.312369
+909
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+109
+-0.989983
+-0.543128
+0.139286
+0.505948
+0.253344
+910
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+139
+-0.979501
+-0.519886
+0.18232
+0.498728
+0.275097
+911
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+2
+-0.966119
+-0.384163
+0.257616
+0.489291
+0.498377
+912
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+80
+-0.96506
+-0.360102
+0.300147
+0.565777
+0.227898
+913
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+81
+-0.984676
+-0.550775
+0.11288
+0.479199
+0.176684
+914
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+165
+-0.902966
+-0.0237147
+0.429262
+0.402996
+0.461964
+915
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+61
+-0.916712
+-0.0712624
+0.48157
+0.515357
+0.241225
+916
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+133
+-0.951757
+-0.262064
+0.378575
+0.572941
+0.200226
+917
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+181
+-0.965002
+-0.35769
+0.340287
+0.609216
+0.10098
+918
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+123
+-0.963813
+-0.369303
+0.290938
+0.497111
+0.252969
+919
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+117
+-0.900587
+0.046464
+0.567991
+0.571058
+0.0775948
+920
+NC_012612.1
+Pongo abelii isolate ISIS 71 chromosome 21  P_pygmaeus_2.0.2
+150000
+49
+-0.848294
+0.076638
+-0.189431
+-0.0019107
+-0.0220468
+921
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+69
+-0.921891
+-0.202966
+0.165959
+0.346021
+0.143644
+922
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+81
+-0.867346
+0.214122
+0.617058
+0.47609
+0.242729
+923
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+206
+-0.897511
+0.0840073
+0.503051
+0.54195
+0.0187717
+924
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+100
+-0.910096
+0.0670631
+0.57041
+0.637686
+0.188577
+925
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+154
+-0.914821
+-0.0732478
+0.493119
+0.552146
+0.176765
+926
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+45
+-0.936939
+-0.082092
+0.512434
+0.640304
+0.0851135
+927
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+196
+-0.857785
+0.228583
+0.649642
+0.549345
+0.0484193
+928
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+133
+-0.923751
+-0.0841197
+0.484523
+0.549924
+0.361054
+929
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+108
+-0.879176
+0.228239
+0.638553
+0.568154
+0.182229
+930
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+36
+-0.958637
+-0.271473
+0.316323
+0.488133
+0.454281
+931
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+77
+-0.900404
+0.0726752
+0.542805
+0.523659
+0.321838
+932
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+9
+-0.926895
+-0.0912091
+0.521312
+0.639212
+0.0530822
+933
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+2
+-0.963993
+-0.331003
+0.328459
+0.56781
+0.285733
+934
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+3
+-0.962859
+-0.369819
+0.328735
+0.596812
+-0.16666
+935
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+63
+-0.903491
+-0.00170989
+0.490726
+0.564975
+0.0506097
+936
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+60
+-0.830487
+0.506701
+0.711995
+0.509412
+0.158299
+937
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+113
+-0.871183
+0.179115
+0.547382
+0.430118
+0.468917
+938
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+122
+-0.877845
+0.197017
+0.627805
+0.55894
+-0.0867445
+939
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+83
+-0.838419
+0.349555
+0.660646
+0.482693
+-0.0587264
+940
+NC_012613.1
+Pongo abelii isolate ISIS 71 chromosome 22  P_pygmaeus_2.0.2
+150000
+91
+-0.9837
+-0.502194
+0.194296
+0.525383
+0.144639
+941
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+638
+-0.987941
+-0.517919
+0.177181
+0.508958
+0.303821
+942
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+746
+-0.986634
+-0.533039
+0.168315
+0.571513
+0.049491
+943
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+908
+-0.967698
+-0.442952
+0.227045
+0.468984
+0.399893
+944
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+919
+-0.977803
+-0.423611
+0.237617
+0.517359
+0.270013
+945
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+43
+-0.976041
+-0.472458
+0.188761
+0.51949
+0.171721
+946
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+530
+-0.98183
+-0.574374
+0.08597
+0.459488
+0.0541178
+947
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+673
+-0.987182
+-0.588036
+0.0843607
+0.490962
+0.234314
+948
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+234
+-0.998467
+-0.624047
+0.0641736
+0.522382
+0.223322
+949
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+669
+-0.972382
+-0.450086
+0.205149
+0.56672
+-0.00108928
+950
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+141
+-0.972787
+-0.478566
+0.162669
+0.56404
+-0.158664
+951
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+692
+-0.964475
+-0.418578
+0.220065
+0.514862
+0.125089
+952
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+834
+-0.978992
+-0.476123
+0.246759
+0.547138
+0.16149
+953
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+634
+-0.985932
+-0.603033
+0.062033
+0.441169
+0.337602
+954
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+901
+-0.978987
+-0.504974
+0.221006
+0.572181
+0.0698897
+955
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+866
+-0.982808
+-0.475324
+0.253685
+0.581034
+-0.0454847
+956
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+659
+-0.973206
+-0.45537
+0.211575
+0.558733
+0.0151444
+957
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+327
+-0.975865
+-0.517598
+0.126347
+0.457703
+0.199424
+958
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+564
+-0.990243
+-0.503905
+0.211759
+0.626982
+0.103624
+959
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+294
+-0.941076
+-0.187674
+0.447265
+0.681605
+-0.109619
+960
+NC_012614.1
+Pongo abelii isolate ISIS 71 chromosome X  P_pygmaeus_2.0.2
+150000
+243

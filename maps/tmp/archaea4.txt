@@ -1,0 +1,237 @@
+12,11
+blue,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+P.furiosus (12), P.yayanosii (11)
+Sampling from P.furiosus and P.yayanosii; Number of genomic DNA sequences is 23; FCGR with k=9; Approx. Information
+0.834827
+-0.411048
+-0.194745
+-0.0587646
+-0.158639
+1
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+2
+0.926429
+-0.371608
+-0.144962
+0.076448
+0.105923
+2
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+1
+0.894701
+-0.446093
+-0.159607
+0.026403
+0.251525
+3
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+10
+0.495525
+-0.309565
+0.0786113
+-0.0971089
+0.501213
+4
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+9
+0.811026
+-0.393822
+-0.428489
+0.109179
+0.115947
+5
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+6
+0.860811
+-0.226307
+-0.439532
+0.157936
+0.0383072
+6
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+7
+0.90732
+-0.309456
+-0.329967
+0.106152
+0.115987
+7
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+12
+0.901938
+-0.222765
+-0.588684
+0.0338863
+-0.10832
+8
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+8
+1.
+-0.189752
+-0.321616
+-0.00837625
+0.0700541
+9
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+5
+0.794048
+-0.146457
+-0.471535
+0.172699
+0.0537229
+10
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+4
+0.847537
+-0.475845
+-0.202821
+0.285005
+0.00237963
+11
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+11
+0.959658
+-0.431375
+-0.196291
+0.298243
+-0.160563
+12
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+3
+-0.819723
+-0.632972
+0.392024
+0.832166
+-0.919583
+13
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+4
+-1.
+-0.983499
+-0.484753
+0.37113
+-0.0520554
+14
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+5
+-0.979266
+-0.429812
+-0.472048
+-0.0211898
+0.0134702
+15
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+8
+-0.834407
+-0.0847901
+-0.00438083
+-1.
+0.888531
+16
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+6
+-0.681265
+-0.184649
+1.
+0.396177
+0.816352
+17
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+10
+-0.770822
+-0.19629
+-0.716938
+0.332775
+0.654142
+18
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+7
+-0.901037
+-0.0686626
+-1.
+-0.298332
+-0.304941
+19
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+2
+-0.721706
+-1.
+-0.100976
+-0.654708
+-0.357224
+20
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+3
+-0.482684
+1.
+0.0576238
+-0.0231421
+-1.
+21
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+1
+-0.972022
+-0.460199
+-0.685805
+0.20985
+-0.240342
+22
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+9
+-0.694729
+0.102708
+-0.763163
+1.
+1.
+23
+NC_015680.1
+Pyrococcus yayanosii CH1  complete genome
+150000
+11

@@ -1,0 +1,407 @@
+20,20
+blue,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+E.coli (20), A.baumannii (20)
+Sampling from E.coli and A.baumannii; Number of genomic DNA sequences is 40; FCGR with k=9; Approx. Information
+0.93823
+0.470076
+0.525025
+-1.
+-0.903856
+1
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+4
+0.865392
+-0.0793594
+-0.695517
+0.315304
+-0.0714037
+2
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+29
+0.993967
+-0.290565
+-0.83908
+0.147207
+-0.187471
+3
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+5
+0.924722
+-0.0641741
+-0.352975
+0.415935
+-0.306284
+4
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+11
+0.841208
+-0.140002
+-0.640751
+0.264974
+-0.324086
+5
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+12
+0.643104
+-0.567225
+-0.967914
+0.117827
+0.313833
+6
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+23
+0.847186
+-0.572661
+-0.318486
+-0.273209
+0.277754
+7
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+8
+0.820934
+-0.632028
+-0.258457
+-0.22312
+0.213956
+8
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+19
+0.793896
+-0.684305
+-0.413448
+0.0378146
+0.363329
+9
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+21
+0.875138
+-0.686142
+-0.297389
+-0.189543
+0.310672
+10
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+15
+0.989238
+-0.730591
+-0.299433
+-0.105517
+0.288493
+11
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+28
+0.789895
+-0.669658
+-0.303857
+-0.0133903
+-0.00742254
+12
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+16
+0.816792
+-0.849621
+0.973765
+0.807262
+-0.133257
+13
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+25
+1.
+-0.653861
+-0.218776
+-0.0439567
+0.00280772
+14
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+30
+0.916795
+-0.563163
+-0.32876
+0.00756593
+-0.24746
+15
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+2
+0.889648
+-0.807899
+1.
+1.
+-0.107745
+16
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+17
+0.934557
+-0.54571
+-0.749588
+0.0837886
+-0.0208767
+17
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+14
+0.994553
+0.409887
+0.445869
+-0.749495
+-1.
+18
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+22
+0.997058
+0.352386
+0.0826379
+-0.744296
+-0.974345
+19
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+13
+0.894413
+-0.123499
+-0.543709
+0.229348
+-0.406136
+20
+NC_000913.3
+Escherichia coli str. K-12 substr. MG1655  complete genome
+150000
+7
+-0.778012
+0.866494
+0.225269
+0.0553602
+0.592586
+21
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+9
+-0.555393
+1.
+0.620465
+-0.0558928
+1.
+22
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+8
+-0.746871
+0.179101
+-0.585444
+0.531959
+-0.578258
+23
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+4
+-0.7923
+0.928429
+0.28792
+-0.00450058
+0.639455
+24
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+15
+-0.88024
+0.149395
+-0.742452
+0.445024
+-0.660708
+25
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+24
+-0.87008
+0.230455
+-0.763291
+0.602193
+-0.569313
+26
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+2
+-0.830493
+0.110635
+-1.
+0.675869
+-0.445451
+27
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+25
+-0.800803
+0.0662471
+-0.741083
+0.376265
+-0.560297
+28
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+19
+-0.873568
+-0.73577
+-0.533063
+-0.324996
+0.107381
+29
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+5
+-0.939606
+-0.84554
+-0.249623
+-0.242976
+-0.238484
+30
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+23
+-1.
+-0.850341
+-0.328537
+-0.56103
+-0.129106
+31
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+18
+-0.882328
+-0.728013
+-0.278245
+-0.359794
+-0.00641735
+32
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+22
+-0.862957
+-0.800483
+-0.152789
+-0.434643
+-0.180191
+33
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+11
+-0.891811
+-0.920651
+-0.302348
+-0.407972
+-0.0565773
+34
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+1
+-0.841683
+-0.759778
+-0.126703
+-0.486124
+-0.202584
+35
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+6
+-0.885915
+-0.615433
+-0.213733
+-0.157339
+-0.151021
+36
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+17
+-0.836685
+-0.990146
+0.972822
+0.560358
+-0.525573
+37
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+16
+-0.822612
+-0.811824
+-0.261851
+-0.312256
+-0.414757
+38
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+14
+-0.757343
+-0.788026
+-0.167492
+-0.414941
+0.0217927
+39
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+26
+-0.760847
+-1.
+0.815343
+0.526162
+-0.607992
+40
+NC_010611.1
+Acinetobacter baumannii ACICU  complete genome
+150000
+20

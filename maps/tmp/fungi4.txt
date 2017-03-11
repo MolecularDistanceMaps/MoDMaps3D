@@ -1,0 +1,1667 @@
+1,5,2,10,3,1,7,3,2,4,4,7,6,5,7,6,20,15,12,10,8,7,6,15
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+S.cerevisiae (73), C.dubliniensis (93)
+Sampling from S.cerevisiae and C.dubliniensis; Number of genomic DNA sequences is 166; FCGR with k=9; Approx. Information
+-0.839615
+0.720527
+0.102305
+0.575149
+0.715177
+1
+NC_001133.9
+Saccharomyces cerevisiae S288c chromosome I  complete sequence
+150000
+1
+-0.931416
+0.491793
+-0.735487
+-0.228165
+0.882844
+2
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+1
+-0.81173
+-0.19097
+0.413361
+-0.0984007
+0.409034
+3
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+4
+-0.717466
+0.487891
+0.351084
+0.889779
+0.72016
+4
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+3
+-0.737247
+0.540849
+0.318727
+0.744312
+0.696349
+5
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+5
+-0.832526
+0.593139
+0.361104
+0.745203
+0.54906
+6
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+2
+-0.85154
+0.249458
+0.143462
+0.322996
+0.855034
+7
+NC_001135.5
+Saccharomyces cerevisiae S288c chromosome III  complete sequence
+150000
+1
+-0.771597
+0.444482
+0.311937
+0.857729
+0.629625
+8
+NC_001135.5
+Saccharomyces cerevisiae S288c chromosome III  complete sequence
+150000
+2
+-0.774905
+0.649011
+0.0880333
+0.540342
+0.758382
+9
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+5
+-0.709547
+0.50952
+0.296143
+0.694627
+0.72875
+10
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+6
+-0.73666
+0.451854
+0.235645
+0.955437
+0.717706
+11
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+7
+-0.695187
+0.0947792
+0.277441
+0.847129
+0.740129
+12
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+2
+-0.738483
+-0.223714
+0.329325
+0.663254
+0.812919
+13
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+4
+-0.779215
+-0.599031
+0.198692
+0.0933442
+0.837498
+14
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+10
+-0.773725
+-0.328251
+0.17972
+0.316269
+1.
+15
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+8
+-0.767594
+-0.236166
+0.34569
+-0.0267493
+0.440115
+16
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+3
+-0.810914
+-0.156029
+0.450721
+-0.118824
+0.405074
+17
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+1
+-0.741798
+0.459991
+0.280588
+0.735329
+0.614569
+18
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+9
+-0.856688
+0.709692
+-0.593966
+-0.0865872
+0.66238
+19
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+3
+-0.76774
+0.499049
+0.259404
+0.879928
+0.640799
+20
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+2
+-0.766232
+-0.149781
+0.278344
+0.635142
+0.774323
+21
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+1
+-0.905352
+0.441088
+-0.798567
+-0.425667
+0.907061
+22
+NC_001138.5
+Saccharomyces cerevisiae S288c chromosome VI  complete sequence
+150000
+1
+-0.682887
+0.498369
+0.180137
+0.731746
+0.750353
+23
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+3
+-0.750138
+0.535065
+0.301509
+0.824066
+0.643478
+24
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+2
+-0.718004
+0.462886
+0.314915
+0.863518
+0.673614
+25
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+7
+-0.861773
+-0.730342
+0.539205
+-0.230368
+0.538963
+26
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+6
+-0.722865
+0.350653
+0.335296
+0.905259
+0.697657
+27
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+4
+-0.82163
+-0.393581
+0.0677766
+0.38531
+0.960915
+28
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+1
+-0.773279
+0.482653
+0.35807
+0.642963
+0.718994
+29
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+5
+-0.865406
+0.694507
+-0.651245
+-0.0144938
+0.80098
+30
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+3
+-0.78496
+0.515749
+0.282952
+0.819673
+0.592723
+31
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+1
+-0.739673
+0.461059
+0.253464
+0.887678
+0.681146
+32
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+2
+-0.909106
+0.968663
+-1.
+-0.456981
+0.503654
+33
+NC_001141.2
+Saccharomyces cerevisiae S288c chromosome IX  complete sequence
+150000
+2
+-0.806829
+0.482815
+0.36049
+0.7954
+0.628653
+34
+NC_001141.2
+Saccharomyces cerevisiae S288c chromosome IX  complete sequence
+150000
+1
+-0.89608
+1.
+-0.964409
+-0.443951
+0.514589
+35
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+2
+-0.731562
+0.469824
+0.273122
+0.775099
+0.703643
+36
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+3
+-0.746207
+0.380749
+0.345
+0.920932
+0.673604
+37
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+4
+-0.839895
+-0.226824
+0.433222
+-0.301454
+0.380756
+38
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+1
+-0.728615
+0.56059
+0.115844
+0.706382
+0.647349
+39
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+4
+-0.763459
+0.496266
+0.305878
+0.879461
+0.673593
+40
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+1
+-0.715085
+0.418002
+0.223981
+0.838974
+0.713235
+41
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+2
+-0.78049
+0.558631
+0.279742
+0.790627
+0.686263
+42
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+3
+-0.864069
+0.767455
+-0.928557
+-0.0232499
+0.691312
+43
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+1
+-0.771731
+0.0212384
+0.321027
+0.553253
+0.772191
+44
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+4
+-0.800759
+0.430005
+0.333859
+0.864838
+0.696998
+45
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+7
+-0.855957
+-1.
+0.421273
+-0.701662
+0.502362
+46
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+3
+-0.778884
+-0.144508
+0.468405
+0.00504631
+0.483737
+47
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+2
+-0.776312
+0.457533
+0.223862
+0.803959
+0.681864
+48
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+6
+-0.799369
+-0.0586454
+0.229589
+0.361034
+0.922576
+49
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+5
+-0.877903
+0.786856
+-0.666486
+-0.134749
+0.700125
+50
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+5
+-0.771191
+-0.242993
+0.408731
+-0.278777
+0.376493
+51
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+4
+-0.792308
+-0.209476
+0.201952
+0.619077
+0.756685
+52
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+2
+-0.66579
+0.438606
+0.303645
+0.859848
+0.703621
+53
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+3
+-0.729071
+0.490823
+0.292244
+0.998383
+0.700324
+54
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+1
+-0.761045
+0.513645
+0.314932
+0.770155
+0.710957
+55
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+6
+-1.
+0.410292
+-0.829335
+-0.484513
+0.773753
+56
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+5
+-0.737284
+0.463988
+0.33349
+0.940477
+0.669404
+57
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+2
+-0.753395
+0.522136
+0.364154
+0.780945
+0.655505
+58
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+4
+-0.856194
+-0.261282
+0.387799
+-0.0843564
+0.504242
+59
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+1
+-0.827148
+0.476933
+0.363276
+0.640526
+0.639155
+60
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+3
+-0.817079
+0.0115039
+0.0543472
+-0.381215
+0.322078
+61
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+4
+-0.808626
+0.520069
+0.348877
+0.774804
+0.690841
+62
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+5
+-0.748611
+0.432428
+0.241233
+0.95899
+0.646843
+63
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+7
+-0.807579
+0.00937006
+0.486342
+-0.158704
+0.467459
+64
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+2
+-0.674813
+0.0930001
+0.341877
+0.675791
+0.717288
+65
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+1
+-0.741221
+0.43924
+0.290287
+0.898436
+0.598982
+66
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+3
+-0.82833
+0.142639
+0.167944
+0.411557
+0.938571
+67
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+6
+-0.947292
+0.228764
+-0.511703
+-1.
+0.454735
+68
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+4
+-0.701741
+0.471817
+0.247556
+1.
+0.671603
+69
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+5
+-0.660149
+0.435879
+0.348324
+0.904748
+0.705182
+70
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+1
+-0.732833
+0.434575
+0.323217
+0.959897
+0.639283
+71
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+2
+-0.737502
+0.469226
+0.35928
+0.760346
+0.756178
+72
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+3
+-0.832439
+-0.86971
+0.406018
+-0.269503
+0.555858
+73
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+6
+0.0462633
+0.860209
+0.979834
+-0.760505
+0.636159
+74
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+19
+0.385278
+0.385397
+0.269816
+0.240033
+0.869433
+75
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+16
+0.79691
+0.210235
+0.0383599
+0.438196
+0.807874
+76
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+6
+0.111558
+0.497824
+0.349001
+0.254571
+0.778125
+77
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+15
+0.709914
+0.173662
+0.0329232
+0.575948
+0.759504
+78
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+9
+0.367072
+0.412738
+0.261093
+0.283342
+0.759185
+79
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+18
+0.281076
+0.391479
+0.266673
+0.352217
+0.796059
+80
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+5
+0.764312
+0.196882
+0.0351501
+0.537989
+0.721305
+81
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+4
+0.637453
+0.28607
+0.144448
+0.379518
+0.819601
+82
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+11
+0.168375
+0.520372
+0.356938
+0.230495
+0.711963
+83
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+1
+0.781651
+0.208479
+-0.0756005
+0.768065
+-0.604415
+84
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+21
+0.0208339
+0.646112
+0.439555
+0.124525
+0.653127
+85
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+14
+0.691191
+0.233611
+0.0919643
+0.441669
+0.7851
+86
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+20
+0.292328
+0.407409
+0.373855
+0.393432
+0.738839
+87
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+2
+0.643092
+0.238002
+0.0865916
+0.413857
+0.759654
+88
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+13
+0.186687
+0.483626
+0.351102
+0.311071
+0.712323
+89
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+7
+0.648175
+0.287658
+0.224918
+0.42621
+0.767811
+90
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+17
+0.813412
+0.109906
+0.0268134
+0.495253
+0.788801
+91
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+8
+0.839264
+0.18612
+-0.0104291
+0.349665
+0.793857
+92
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+10
+0.443161
+0.35535
+0.213799
+0.31447
+0.729806
+93
+NC_012860.1
+Candida dubliniensis CD36 chromosome 1  complete sequence
+150000
+12
+-0.0648027
+0.808657
+0.828926
+-0.439538
+0.609247
+94
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+10
+0.391832
+0.358612
+0.271947
+0.3386
+0.754731
+95
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+13
+1.
+0.0523411
+-0.0137296
+0.51985
+0.784152
+96
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+12
+0.123029
+0.573631
+0.442258
+0.291594
+0.673807
+97
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+15
+0.0396794
+0.591605
+0.448272
+0.317863
+0.765252
+98
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+6
+0.325234
+0.398072
+0.253942
+0.410031
+0.786705
+99
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+4
+0.83808
+0.123679
+-0.00908044
+0.551816
+0.768395
+100
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+8
+0.448423
+0.275242
+0.204888
+0.321593
+0.741672
+101
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+9
+0.349707
+0.462898
+0.292134
+0.229612
+0.722216
+102
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+3
+0.583211
+0.289579
+0.146561
+0.427242
+0.766789
+103
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+5
+0.0468721
+0.510834
+0.433154
+0.256003
+0.683847
+104
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+14
+0.963685
+0.05072
+-0.105147
+0.465642
+0.847956
+105
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+7
+0.403616
+0.388994
+0.242592
+0.346962
+0.605226
+106
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+11
+0.697595
+0.253046
+0.0615421
+0.439854
+0.707193
+107
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+2
+0.566843
+0.317757
+-0.0153807
+0.771756
+-1.
+108
+NC_012861.1
+Candida dubliniensis CD36 chromosome 2  complete sequence
+150000
+1
+0.077724
+0.881377
+0.991997
+-0.828582
+0.650265
+109
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+10
+0.76755
+0.21108
+0.0537474
+0.452464
+0.803341
+110
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+8
+0.602144
+0.280794
+0.104907
+0.425675
+0.769756
+111
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+2
+0.715243
+0.169699
+-0.0242281
+0.424684
+0.930242
+112
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+12
+0.385314
+0.431213
+0.288299
+0.367057
+0.64056
+113
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+6
+0.233966
+0.4466
+0.342562
+0.0908939
+0.756584
+114
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+9
+0.276673
+0.506965
+0.269737
+0.210371
+0.705885
+115
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+4
+0.451367
+0.454036
+0.283815
+0.271526
+0.781742
+116
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+3
+0.965399
+0.114836
+-0.049271
+0.465405
+0.860629
+117
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+5
+0.317698
+0.430754
+0.333886
+0.34053
+0.686241
+118
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+7
+0.45466
+0.422374
+0.284263
+0.250423
+0.758705
+119
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+1
+0.705226
+0.232995
+0.0801257
+0.438684
+0.784467
+120
+NC_012862.1
+Candida dubliniensis CD36 chromosome 3  complete sequence
+150000
+11
+-0.0579037
+0.911211
+0.889517
+-0.727953
+0.631127
+121
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+7
+0.753078
+0.144609
+0.0664092
+0.42903
+0.775338
+122
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+8
+0.527874
+0.339591
+0.220762
+0.379701
+0.745626
+123
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+2
+0.740534
+0.186344
+0.0230812
+0.40151
+0.774653
+124
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+5
+0.273896
+0.444932
+0.348397
+0.471025
+0.744425
+125
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+1
+0.866989
+0.0277369
+-0.110857
+0.55173
+0.944685
+126
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+3
+0.348954
+0.394005
+0.266415
+0.194707
+0.779357
+127
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+4
+0.723167
+0.189
+0.108724
+0.44364
+0.745252
+128
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+9
+0.533008
+0.354918
+0.0560375
+0.585177
+-0.455104
+129
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+10
+0.524901
+0.216407
+0.112735
+0.378139
+0.776907
+130
+NC_012863.1
+Candida dubliniensis CD36 chromosome 4  complete sequence
+150000
+6
+0.222575
+0.789412
+0.867092
+-0.61282
+0.692504
+131
+NC_012864.1
+Candida dubliniensis CD36 chromosome 5  complete sequence
+150000
+8
+0.530316
+0.32455
+0.151891
+0.476803
+0.733241
+132
+NC_012864.1
+Candida dubliniensis CD36 chromosome 5  complete sequence
+150000
+4
+0.730784
+0.173108
+0.0610805
+0.508999
+0.77334
+133
+NC_012864.1
+Candida dubliniensis CD36 chromosome 5  complete sequence
+150000
+2
+0.229821
+0.511884
+0.400752
+0.289155
+0.72237
+134
+NC_012864.1
+Candida dubliniensis CD36 chromosome 5  complete sequence
+150000
+7
+0.780449
+0.223068
+0.0607599
+0.600617
+0.812176
+135
+NC_012864.1
+Candida dubliniensis CD36 chromosome 5  complete sequence
+150000
+5
+0.494882
+0.40229
+0.0667575
+0.625624
+-0.668575
+136
+NC_012864.1
+Candida dubliniensis CD36 chromosome 5  complete sequence
+150000
+1
+0.654071
+0.296327
+0.113443
+0.364018
+0.829847
+137
+NC_012864.1
+Candida dubliniensis CD36 chromosome 5  complete sequence
+150000
+6
+0.464541
+0.366696
+0.217746
+0.2067
+0.747154
+138
+NC_012864.1
+Candida dubliniensis CD36 chromosome 5  complete sequence
+150000
+3
+0.0572275
+0.898648
+1.
+-0.780628
+0.644562
+139
+NC_012865.1
+Candida dubliniensis CD36 chromosome 6  complete sequence
+150000
+3
+0.668938
+0.249826
+0.106
+0.39772
+0.750807
+140
+NC_012865.1
+Candida dubliniensis CD36 chromosome 6  complete sequence
+150000
+4
+0.548738
+0.298086
+0.244793
+0.313789
+0.764984
+141
+NC_012865.1
+Candida dubliniensis CD36 chromosome 6  complete sequence
+150000
+7
+0.657527
+0.250337
+0.102937
+0.406953
+0.705762
+142
+NC_012865.1
+Candida dubliniensis CD36 chromosome 6  complete sequence
+150000
+2
+0.759326
+0.254388
+0.104684
+0.397025
+0.770416
+143
+NC_012865.1
+Candida dubliniensis CD36 chromosome 6  complete sequence
+150000
+6
+0.65177
+0.202017
+0.0697461
+0.322097
+0.955745
+144
+NC_012865.1
+Candida dubliniensis CD36 chromosome 6  complete sequence
+150000
+1
+0.436499
+0.422123
+0.259472
+-0.0129436
+0.730318
+145
+NC_012865.1
+Candida dubliniensis CD36 chromosome 6  complete sequence
+150000
+5
+-0.00370295
+0.739959
+0.68328
+-0.331113
+0.732841
+146
+NC_012866.1
+Candida dubliniensis CD36 chromosome 7  complete sequence
+150000
+2
+0.945468
+0.0723559
+-0.123542
+0.525819
+0.917042
+147
+NC_012866.1
+Candida dubliniensis CD36 chromosome 7  complete sequence
+150000
+6
+0.424121
+0.334288
+0.267035
+0.36206
+0.697445
+148
+NC_012866.1
+Candida dubliniensis CD36 chromosome 7  complete sequence
+150000
+5
+0.974115
+0.0736866
+-0.14366
+0.72596
+-0.206855
+149
+NC_012866.1
+Candida dubliniensis CD36 chromosome 7  complete sequence
+150000
+3
+0.302295
+0.533297
+0.197834
+0.447056
+-0.610275
+150
+NC_012866.1
+Candida dubliniensis CD36 chromosome 7  complete sequence
+150000
+1
+0.725405
+0.189042
+0.0431733
+0.493348
+0.742226
+151
+NC_012866.1
+Candida dubliniensis CD36 chromosome 7  complete sequence
+150000
+4
+0.226978
+0.779192
+0.801862
+-0.577888
+0.672202
+152
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+6
+0.473795
+0.320104
+0.226609
+0.347668
+0.763725
+153
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+5
+0.455442
+0.391317
+0.222961
+0.292891
+0.726837
+154
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+10
+0.731199
+0.186244
+0.0455696
+0.371306
+0.720251
+155
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+12
+0.42778
+0.324244
+0.226714
+0.341647
+0.724871
+156
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+14
+0.134755
+0.539107
+0.402291
+0.237714
+0.709459
+157
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+4
+0.424281
+0.376249
+0.234091
+0.411562
+0.814765
+158
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+7
+0.494948
+0.352947
+0.248309
+0.426566
+0.724076
+159
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+2
+0.400324
+0.369177
+0.199757
+0.276736
+0.729549
+160
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+1
+0.743006
+0.197636
+0.0293217
+0.416821
+0.735157
+161
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+9
+0.253981
+0.491768
+0.367951
+0.173459
+0.658487
+162
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+8
+-0.0593908
+0.71667
+0.565271
+0.0385351
+0.577253
+163
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+13
+-0.0254818
+0.596494
+0.516376
+0.0696492
+0.624941
+164
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+15
+0.947075
+0.0634455
+-0.0676664
+0.499922
+0.819024
+165
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+11
+0.115811
+0.60297
+0.451899
+0.0920039
+0.66606
+166
+NC_012867.1
+Candida dubliniensis CD36 chromosome R  complete sequence
+150000
+3

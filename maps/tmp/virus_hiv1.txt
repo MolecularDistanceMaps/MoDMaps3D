@@ -1,0 +1,397 @@
+7,8,8,8,8
+blue,red,green,orange,magenta
+5
+Index,Acc,Name,Length,Taxa
+blue,red,green,orange,magenta
+SetA (7),SetB (8),SetC (8),SetD (8),SetG (8)
+SetA, SetB, SetC, SetD, SetG. Number of sequences is 39
+0.5466252964477999
+0.6956871314027155
+-1
+-0.3761636120358654
+-1
+0
+AY521630
+HIV-1 isolate DDJ360 from Senegal gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; rev protein-like gene, complete sequence; and vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8777
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.5311416428741256
+0.5701773165759993
+-0.4037841090838186
+-0.22244621861953717
+0.8666901127392758
+1
+AM000053
+Human immunodeficiency virus type 1 complete genome, subtype A4, isolate 97CD.KCC2
+9740
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.5634821386218783
+0.5478025166916423
+-0.4395803772734845
+-0.17704779084269978
+0.9480085359990088
+2
+AM000054
+Human immunodeficiency virus type 1 partial genome, subtype A4, isolate 97CD.KTB13
+9073
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.5390151256553244
+0.6718890941479561
+-0.9801254408451361
+-0.34643126650188333
+-0.9976330750050767
+3
+AY521629
+HIV-1 isolate DDI579 from Senegal gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; rev protein-like gene, complete sequence; and vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8801
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.4974358358649465
+0.6192253617021498
+-0.8576225583694346
+-0.30416736767338565
+-0.8495189583784992
+4
+AY521631
+HIV-1 isolate DDJ369 from Senegal gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; rev protein-like gene, complete sequence; vpu protein (vpu) gene, complete cds; envelope glycoprotein-like gene, complete sequence; and nef protein (nef) gene, complete cds
+8861
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.4522425488808263
+0.5087525441086492
+-0.35139364722199057
+-0.16903771699330608
+1
+5
+AM000055
+Human immunodeficiency virus type 1 complete genome, subtype A4, isolate 02CD.KTB035
+9740
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.46388675404114693
+0.5438080095408208
+-0.39404557933501283
+-0.23491454735017908
+-0.07164552694403528
+6
+DQ396400
+HIV-1 isolate 04ZASK162B1 from South Africa, complete genome
+9109
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.9837062470857411
+0.4983987125479766
+0.5682861293777266
+-0.9633685383960745
+-0.18619573498130684
+7
+AF004394
+HIV-1 strain ADA clone AD8, complete genome
+9715
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-1
+0.5389823158699343
+0.5230685972276381
+-0.9781177191164732
+-0.20274825746480582
+8
+AF042101
+HIV-1 isolate MBC925 from Australia, complete genome
+9739
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.9618727638300393
+0.4899782226479381
+0.558234267562267
+-1
+-0.16765361384777774
+9
+AF256204
+HIV-1 clone S61I1 from Spain, partial genome
+9107
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.8259148242967183
+0.4805341168160801
+0.580294687868918
+-0.9338170213651631
+-0.18608724019761666
+10
+AF086817
+HIV-1 strain LM49 isolate TWCYS from Taiwan, complete genome
+9694
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.923926296967537
+0.4892681307579185
+0.532607835434508
+-0.9254145250553055
+-0.17868253913402407
+11
+AF042103
+HIV-1 isolate MBCC54 from Australia, complete genome
+8709
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.7159264811433614
+0.4316051208097135
+0.5185994867680422
+-0.6410235413584459
+-0.2594109890321388
+12
+AB428555
+Human immunodeficiency virus 1 genomic RNA, complete genome, isolate: #227
+8723
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.8293082908251709
+0.47701330251671975
+0.5492035392685093
+-0.8323806307788265
+-0.19409272008960043
+13
+AB287363
+Human immunodeficiency virus 1 proviral DNA, complete genome, clone: p05JPDR6538B29
+9667
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.7228116894021405
+0.4224602310534394
+0.4850293238141875
+-0.8220800567102361
+-0.18794290627964919
+14
+EU786678
+HIV-1 isolate ES X2149 (B) from Spain, complete genome
+8977
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.40579601476864785
+-0.7696020882235519
+0.4688008855600008
+-0.22117430437160585
+-0.21981841689353673
+15
+U46016
+HIVU46016 Human immunodeficiency virus type 1 subtype C complete proviral genome
+9031
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.4813668833711711
+-1
+0.46396182032715166
+-0.13116752729086062
+-0.250107857550235
+16
+AY713415
+HIV-1 isolate 89SM_145 from Somalia gag and pol genes, partial sequence; and vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8822
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.4679131701587345
+-0.9804841889090047
+0.47599133373972546
+-0.14771326507854982
+-0.26546412465459773
+17
+AY713416
+HIV-1 isolate 90SE_364 from Senegal gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), and tat protein (tat) genes, complete cds; rev gene, complete sequence; and vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8720
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.41764010444426186
+-0.7859180015070082
+0.41856132949295755
+-0.17611195417220585
+-0.3124006072002339
+18
+AY255826
+HIV-1 isolate 99ET17 from Ethiopia gag polyprotein precursor (gag) and gag-pol fusion polyprotein precursor, genes, partial cds; and vif protein (vif), vpr protein (vpr), tat protein (tat), truncated rev protein (rev), vpu protein (vpu), envelope glycoprotein precursor (env), and nef protein (nef) genes, complete cds
+8808
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.46377729702926634
+-0.8758084105957437
+0.5264578288832846
+-0.15228195936858438
+-0.19895571928568573
+19
+EF514713
+HIV-1 isolate CTL 015 from Denmark, complete genome
+8857
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.424649623193606
+-0.8812591832697857
+0.3925462916626502
+-0.04601837221972506
+-0.2706682694400405
+20
+DQ207941
+HIV-1 isolate 03GEMZ033 from Georgia gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif) and vpr protein (vpr) genes, complete cds; nonfunctional tat protein (tat) gene, complete sequence; rev protein (rev) gene, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds
+8835
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.423768500514492
+-0.7928969845904152
+0.4654065748968476
+-0.17362183919810473
+-0.1918248294189155
+21
+DQ369994
+HIV-1 isolate 05ZASK247B1 from South Africa, complete genome
+9052
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.419032599730983
+-0.8059638094843169
+0.49063784639994396
+-0.22638819952214911
+-0.12595124594972595
+22
+EU786673
+HIV-1 isolate ES X1936 (C) from Spain, complete genome
+9016
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.8725472507553258
+0.38546628366779606
+0.4055633100719287
+0.9440822455909095
+-0.21456311819393675
+23
+AY773338
+HIV-1 isolate D.ZA.84.R2 from South Africa, complete genome
+8700
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.8004666373779574
+0.3875034512905008
+0.3651143172585645
+0.9399023320598696
+-0.15316388920670682
+24
+AY773341
+HIV-1 isolate D.ZA.86.R482 from South Africa, complete genome
+8640
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.8029037509629379
+0.3769029502592052
+0.3875298539459871
+0.8506475973037196
+-0.1692652608521574
+25
+EF633445
+HIV-1 isolate R1 from South Africa, complete genome
+8916
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.4944808562168048
+0.3728514706631935
+0.27163477643124917
+0.533343817748128
+0.01321733553604094
+26
+AY322189
+HIV-1 isolate ML415-2-1997 from Kenya, complete genome
+9087
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.660824632793286
+0.36073163419778653
+0.2951559185394395
+0.7425332341252834
+-0.16318020920609266
+27
+AF484516
+HIV-1 isolate 99UGJ32228 from Uganda, partial genome
+8802
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.6447351331648359
+0.3699854793368446
+0.2126278016243721
+1
+-0.27226838456900826
+28
+AJ488927
+Human immunodeficiency virus type 1 partial proviral genome, patient 99TCD.MN012
+8850
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.5682556626565725
+0.33681028056429385
+0.27487856707529346
+0.9467432566994067
+-0.30958280471990324
+29
+AY371157
+HIV-1 isolate 01CM.4412HAL from Cameroon gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8379
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+-0.6627597303729708
+0.37419843803635044
+0.19176763506158997
+0.9506390657008835
+-0.34690626402759117
+30
+AY795907
+HIV-1 isolate 02YE516 from Yemen gag protein (gag) gene, partial cds; and pol protein (pol), vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), envelope glycoprotein (env), and nef protein (nef) genes, complete cds
+8797
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.9999999999999998
+1
+1
+0.03871903815813406
+-0.32946679529034306
+31
+U88826
+HIV-1 isolate 92NG083 from Nigeria complete genome
+8987
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.9457590090158262
+0.9702714892128154
+0.9839611241936919
+-0.015710372607290333
+-0.31155584042988244
+32
+AF061642
+HIV-1 isolate SE6165 from Sweden, complete genome
+9074
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.9134949246517604
+0.9153634533364262
+0.897688304189165
+-0.03360776588180922
+-0.20177902497841516
+33
+AY772535
+HIV-1 isolate 96CMABB55 from Cameroon, complete genome
+9071
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.9390093851646945
+0.957310544095449
+0.9276106716784652
+-0.0821267718672252
+-0.19205634436532903
+34
+AY586549
+HIV-1 isolate Cu87 from Cuba, complete genome
+9185
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.9478286749244866
+0.9438751104306938
+0.9305247298333683
+0.016621479686397406
+-0.2947448199964563
+35
+AF423760
+HIV-1 isolate X558 from Spain, complete genome
+8950
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.8931132784068093
+0.9344597935877127
+0.878488278755404
+0.0211283619165578
+-0.3610385368521144
+36
+AY371121
+HIV-1 isolate 01CM.4049HAN from Cameroon gag protein (gag) and pol protein (pol) genes, partial cds; vif protein (vif), vpr protein (vpr), tat protein (tat), rev protein (rev), vpu protein (vpu), and envelope glycoprotein (env) genes, complete cds; and nef protein (nef) gene, partial cds
+8367
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.8989028010739663
+0.9200612777775585
+0.9284335637006347
+-0.07363719682058653
+-0.2257675566583094
+37
+AB231893
+Human immunodeficiency virus 1 proviral DNA, complete genome, isolate: GHNJ175
+9724
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group
+0.8153670937985458
+0.8294363702438717
+0.8758004520961289
+0.015463119842235184
+-0.18523349480325726
+38
+EU786670
+HIV-1 isolate ES P962 (G) from Spain, complete genome
+9041
+Viruses; Retro-transcribing viruses; Retroviridae; Orthoretrovirinae; Lentivirus; Primate lentivirus group

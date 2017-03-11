@@ -1,0 +1,257 @@
+12,13
+blue,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+P.furiosus (12), Thermococcus (13)
+Sampling from P.furiosus and Thermococcus; Number of genomic DNA sequences is 25; FCGR with k=9; Approx. Information
+0.87116
+0.296478
+-0.0895456
+-0.153823
+-0.248989
+1
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+2
+0.932983
+0.29805
+-0.202361
+-0.0457819
+-0.068411
+2
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+1
+0.908963
+0.225157
+-0.167118
+-0.157836
+-0.181445
+3
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+10
+0.584934
+0.684037
+-0.897817
+0.311383
+0.480789
+4
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+9
+0.853132
+0.0534767
+-0.0226568
+-0.168107
+-0.303641
+5
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+6
+0.893885
+-0.20409
+-0.0505853
+-0.324389
+-0.173965
+6
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+7
+0.922508
+-0.110817
+-0.151095
+-0.2318
+-0.15302
+7
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+12
+0.932117
+-0.32824
+-0.0758124
+-0.129854
+-0.232264
+8
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+8
+1.
+-0.177228
+-0.178627
+-0.200424
+-0.0682398
+9
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+5
+0.822401
+-0.478692
+-0.217921
+-0.614453
+0.276924
+10
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+4
+0.880955
+0.144092
+-0.105197
+-0.195638
+-0.277795
+11
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+11
+0.972249
+0.038698
+0.127259
+-0.235052
+-0.156672
+12
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+3
+-0.978026
+0.108588
+-0.193085
+-0.387252
+-0.085802
+13
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+4
+-0.80245
+1.
+-1.
+-0.160583
+-0.441802
+14
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+11
+-0.905079
+-0.0148132
+0.12986
+-0.37659
+-0.145565
+15
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+5
+-0.901787
+0.0550748
+-0.0672923
+-0.178785
+-0.0282516
+16
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+10
+-1.
+-0.0517881
+-0.193321
+-0.383416
+-0.294208
+17
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+8
+-0.812212
+-0.64515
+-0.697837
+-0.0725693
+0.285626
+18
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+6
+-0.995475
+0.174213
+-0.342568
+-0.218528
+-0.271939
+19
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+12
+-0.929963
+-0.529016
+0.627895
+-0.41301
+-0.205542
+20
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+7
+-0.883799
+-0.297424
+-0.445075
+-1.
+0.497449
+21
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+2
+-0.675522
+-1.
+-0.922467
+1.
+-0.285005
+22
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+3
+-0.915605
+0.683496
+-0.408139
+-0.465216
+-0.356746
+23
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+1
+-0.715068
+0.107453
+0.730549
+0.279161
+-1.
+24
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+9
+-0.679721
+0.573677
+1.
+0.554666
+1.
+25
+NC_016051.1
+Thermococcus sp. AM4  complete genome
+150000
+13

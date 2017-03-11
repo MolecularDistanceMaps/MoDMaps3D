@@ -1,0 +1,167 @@
+{"maps": [
+	
+	
+	["Kingdoms", 
+	["Animalia_mtDNA_Vertebrata.txt",
+	"Animalia_mtDNA_Ins_Mam_Amph.txt",
+	"Animalia_mtDNA_ClassMammalia.txt",
+	"Animalia_mtDNA_ClassAmphibia.txt",
+	"Animalia_mtDNA_ClassInsecta.txt",
+	"Animalia_mtDNA_OrderPrimates.txt",
+	"Fungi_mtDNA.txt",
+	"Plants_mtDNA.txt",
+	"Protists_mtDNA.txt",
+	"Protists_ptDNA.txt",
+	"Archaea_nDNA.txt",
+	"Bacteria_nDNA.txt"
+	]],
+
+
+	["Closely Related Species - Composite Genomic Signatures", 
+	["H.sapiens_P.troglodytes_nDNA+mtDNA.txt",
+	"B.oleracea_B.napus_nDNA+cpDNA.txt",
+	"E.coli_E.fergusonii_nDNA+pDNA.txt"
+	]],
+
+	["Viruses",
+	["Viruses_HIV1.txt",
+	"Vir1_NCBI.txt",
+	"Vir2_subsetOf_Vir1.txt",
+	"Vir3_subsetOf_Vir2.txt",
+	"Vir4_subsetOf_Vir3.txt"
+	]],
+
+	["Human Mitochondrial Haplogroups",
+	["Haplogroups_All.txt",
+	"Haplogroups_African.txt"
+	]]	
+
+],
+
+"tmpmaps":[
+
+		["Representatives",
+		["Representatives_3Kingdoms_1.txt",
+		"Representatives_3Kingdoms_2.txt"
+		]],
+
+		["MitoMap",
+		["mitomap_2k.txt",
+		"mitomap_5k.txt",
+		"mitomap_10k.txt",
+		"mitomap_23k.txt"
+		]],
+
+		["mtDNA_various",
+		["mtDNA_Hominidae_Hylobatidae.txt"
+		]],
+
+		["Haplogroups (Human mtDNA)",
+		["Haplogroups_1_k=6.txt",
+		"Haplogroups_1_k=9.txt",
+		"Haplogroups_2_AllHaplogroups.txt",
+		"Haplogroups_3_L0-L6.txt",
+		"Haplogroups_4_AsianBranch.txt",
+		"Haplogroups_5_L2-L3-L4-L6.txt",
+		"Haplogroups_6_L3-L4-L6.txt",
+		"Haplogroups_7_L4-L6.txt",
+		"Haplogroups_8_M-D-E-G.txt",
+		"Haplogroups_8_M-E-G.txt",
+		"Haplogroups_9_EurasiaBranch_1.txt",
+		"Haplogroups_9_EurasiaBranch_2.txt",
+		"Haplogroups_9_EurasiaBranch_3.txt",
+		"Haplogroups_9_EurasiaBranch_4.txt",
+		"Haplogroups_9_EurasiaBranch_5.txt",
+		"Haplogroups_9_EurasiaBranch_6.txt",
+		"Haplogroups_9_EurasiaBranch_7.txt",
+		"Haplogroups_10_Hsubgroups.txt",
+		"Haplogroups_11_Human_Chimp.txt",
+		"Haplogroups_11_Human_k=8.txt"
+		]],
+
+		["Six Kingdoms",
+		["six_kingdoms_one_chrom.txt",
+		"six_kingdoms_sampling.txt"
+		]],
+
+		["Viruses",
+		["virus_hiv1.txt",
+		"hiv_tempmap1.txt",
+		"hiv_tempmap3.txt",
+		"hiv_tempmap4.txt",
+		"hiv_tempmap5.txt",
+		"hiv_tempmap6.txt"
+		]],
+
+		["Animalia Kingdom",
+		["animalia01.txt",
+		"animalia02.txt",
+		"animalia03.txt",
+		"animalia04.txt",
+		"animalia05.txt",
+		"animalia06.txt",
+		"animalia06_comp.txt",
+		"animalia07.txt",
+		"animalia07_comp.txt",
+		"animalia08.txt",
+		"animalia08_comp.txt",
+		"animalia09.txt",
+		"animalia09_comp.txt",
+		"animalia10.txt",
+		"animalia10_comp.txt",
+		"animalia10_comp_asm.txt",
+		"animalia11.txt",
+		"animalia11_comp.txt",
+		"animalia11_comp_asm.txt"
+		]],
+
+		["Archaea Kingdom",	
+		["archaea1.txt",
+		"archaea2.txt",
+		"archaea3.txt",
+		"archaea4.txt"
+		]],
+
+		["Bacteria Kingdom",
+		["bacteria1.txt",
+		"bacteria2.txt",
+		"bacteria3.txt",
+		"bacteria4.txt",
+		"bacteria5.txt",
+		"bacteria5_comp.txt"
+		]],
+
+		["Fungi Kingdom",
+		["fungi1.txt",
+		"fungi2.txt",
+		"fungi3.txt",
+		"fungi4.txt",
+		"fungi5.txt",
+		"fungi5_comp.txt"
+		]],
+
+		["Plantae Kingdom",	
+		["plants1.txt",
+		"plants2.txt",
+		"plants3.txt",
+		"plants4.txt",
+		"plants5.txt",
+		"plants6.txt",
+		"plants7.txt",
+		"plants7_comp_cp.txt",
+		"plants8.txt",
+		"plants8_comp_cp.txt",
+		"plants8_comp_cp_mt.txt",
+		"plants8_comp_mt.txt"
+		]],
+
+		["Protists Kingdom",
+		["protists1.txt",
+		"protists2.txt",
+		"protists3.txt",
+		"protists4.txt"
+		]]
+
+
+]
+}

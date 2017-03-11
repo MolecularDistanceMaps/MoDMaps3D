@@ -1,0 +1,247 @@
+12,12
+blue,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+P.furiosus (12), M.smithii (12)
+Sampling from P.furiosus and M.smithii; Number of genomic DNA sequences is 24; FCGR with k=9; Approx. Information
+0.96757
+0.0429637
+-0.627244
+-0.854295
+0.206043
+1
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+2
+0.902153
+0.372198
+-0.589734
+-1.
+0.787714
+2
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+1
+0.95114
+0.331219
+-0.575137
+-0.538672
+0.578412
+3
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+10
+1.
+0.678414
+1.
+-0.21272
+-0.041323
+4
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+9
+0.956108
+0.310925
+-0.782135
+-0.541546
+-0.468641
+5
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+6
+0.891813
+0.569717
+-0.933244
+0.0294819
+0.0774539
+6
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+7
+0.892657
+0.425761
+-0.798687
+-0.318567
+0.563054
+7
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+12
+0.815363
+0.47313
+-1.
+-0.116186
+-1.
+8
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+8
+0.751476
+0.889492
+-0.894599
+-0.514065
+0.206857
+9
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+5
+0.891399
+0.770018
+-0.80138
+1.
+1.
+10
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+4
+0.919067
+0.25369
+-0.779115
+-0.988019
+0.617558
+11
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+11
+0.843168
+0.183213
+-0.897209
+-0.517338
+0.191676
+12
+NC_018092.1
+Pyrococcus furiosus COM1  complete genome
+150000
+3
+-0.975109
+0.814684
+-0.614601
+-0.596757
+0.344538
+13
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+4
+-1.
+0.869293
+-0.58512
+-0.652058
+0.325694
+14
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+11
+-0.858949
+1.
+-0.604368
+0.0281538
+0.160143
+15
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+5
+-0.890116
+0.880895
+-0.635825
+0.0158646
+0.0814307
+16
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+8
+-0.853602
+0.919464
+-0.655973
+-0.591497
+0.336421
+17
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+6
+-0.896984
+0.994591
+-0.613237
+-0.637857
+0.259899
+18
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+10
+-0.882381
+0.812532
+-0.704179
+-0.561024
+0.166661
+19
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+7
+-0.992303
+0.996724
+-0.672874
+-0.51445
+0.138222
+20
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+2
+-0.881206
+0.0109626
+-0.609211
+-0.475327
+0.258491
+21
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+3
+-0.733616
+-0.629658
+-0.524299
+-0.307763
+0.27135
+22
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+1
+-0.878989
+-1.
+-0.549674
+-0.106952
+0.324822
+23
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+9
+-0.868852
+-0.809799
+-0.617526
+-0.13833
+0.113429
+24
+NC_009515.1
+Methanobrevibacter smithii ATCC 35061  complete genome
+150000
+12

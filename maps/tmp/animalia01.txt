@@ -1,0 +1,6087 @@
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,8,20,20,20,20,20,20
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+H.sapiens (480), D.melanogaster (128)
+Sampling from H.sapiens and D.melanogaster; Number of genomic DNA sequences is 608; FCGR with k=9; Approx. Information
+0.90806
+-0.210636
+-0.33408
+0.444202
+0.142705
+1
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+249
+0.778832
+-0.213258
+-0.123631
+0.134277
+0.129208
+2
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+640
+0.834107
+-0.0610906
+-0.509183
+0.473912
+0.140705
+3
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+856
+0.834526
+-0.16149
+-0.42898
+0.434217
+0.133225
+4
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+188
+0.85075
+-0.0437592
+-0.51262
+0.480358
+0.137877
+5
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+243
+0.764172
+-0.0715279
+-0.482177
+0.32711
+0.132037
+6
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1310
+0.988674
+-0.492764
+-0.0221717
+0.486543
+0.147583
+7
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+916
+0.978676
+-0.515438
+-0.00497943
+0.429506
+0.132571
+8
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1523
+0.948099
+-0.40858
+-0.152285
+0.42289
+0.134618
+9
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+197
+0.963782
+-0.563029
+0.0377797
+0.470794
+0.137866
+10
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+869
+0.887127
+-0.315657
+-0.24819
+0.411082
+0.134616
+11
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+936
+0.936074
+-0.381164
+-0.194748
+0.496465
+0.141772
+12
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+221
+0.900902
+-0.369193
+-0.144642
+0.375222
+0.12999
+13
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+505
+0.746744
+-0.140092
+-0.317982
+0.235623
+0.13243
+14
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+458
+0.951181
+-0.569828
+0.0423296
+0.431103
+0.138692
+15
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+84
+0.711103
+-0.157717
+-0.376466
+0.379207
+0.137601
+16
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1464
+0.951892
+-0.529249
+-0.00900087
+0.474283
+0.142881
+17
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+838
+0.957107
+-0.496901
+-0.0652344
+0.476533
+0.135427
+18
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+627
+0.940865
+-0.499872
+-0.0702019
+0.473774
+0.140651
+19
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1336
+0.775116
+-0.3193
+-0.255251
+0.302217
+0.129453
+20
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+955
+0.811489
+-0.310066
+-0.266341
+0.32336
+0.1339
+21
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1600
+0.930288
+-0.477117
+-0.101358
+0.455202
+0.133889
+22
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1051
+0.982152
+-0.488676
+-0.0666773
+0.501134
+0.136568
+23
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+725
+0.923488
+-0.656594
+0.130654
+0.437283
+0.136044
+24
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1231
+0.930376
+-0.544914
+0.0580144
+0.36239
+0.132373
+25
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+771
+0.89582
+-0.586067
+0.0181846
+0.409618
+0.134773
+26
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+496
+0.922501
+-0.134639
+-0.380365
+0.395699
+0.140256
+27
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+336
+-0.895048
+0.905024
+0.925825
+0.757534
+0.578599
+28
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+297
+0.843776
+-0.153229
+-0.355008
+0.350044
+0.139248
+29
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1202
+0.886474
+-0.245652
+-0.342736
+0.451375
+0.13654
+30
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+660
+0.907234
+-0.588329
+0.0209468
+0.428129
+0.1305
+31
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+836
+0.81994
+-0.118125
+-0.468929
+0.467714
+0.151607
+32
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+785
+0.948262
+-0.5444
+0.0260378
+0.412513
+0.13918
+33
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+116
+0.834351
+-0.236805
+-0.364877
+0.399109
+0.137532
+34
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+684
+0.967233
+-0.456263
+-0.0953552
+0.493094
+0.141602
+35
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+272
+0.869897
+-0.184524
+-0.413191
+0.470287
+0.143333
+36
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+98
+0.851128
+-0.286598
+-0.302138
+0.426415
+0.132171
+37
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+805
+0.94116
+-0.592786
+0.0662309
+0.433729
+0.137469
+38
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+661
+0.952585
+-0.593718
+0.10386
+0.377847
+0.137701
+39
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+612
+0.525532
+0.202909
+-0.738878
+0.236584
+0.143615
+40
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+75
+0.944448
+-0.550499
+0.0193619
+0.441526
+0.137659
+41
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+716
+0.943485
+-0.555808
+-0.00593652
+0.470986
+0.136928
+42
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+623
+0.943365
+-0.621944
+0.105459
+0.448868
+0.145848
+43
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+783
+0.949556
+-0.53935
+0.0320456
+0.453945
+0.147555
+44
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+563
+0.914349
+-0.546071
+-0.0277835
+0.454747
+0.133749
+45
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+717
+0.983385
+-0.509428
+-0.040381
+0.525011
+0.137528
+46
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+747
+0.928064
+-0.322541
+-0.263294
+0.503343
+0.138556
+47
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+156
+0.975811
+-0.485312
+-0.073167
+0.476057
+0.138844
+48
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+47
+0.947547
+-0.501489
+-0.0350421
+0.479975
+0.139035
+49
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+6
+0.893829
+-0.412366
+-0.180232
+0.407466
+0.132149
+50
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+739
+0.897107
+-0.713735
+0.222515
+0.376847
+0.140854
+51
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+366
+-0.914618
+0.87496
+0.867697
+0.724318
+-0.239286
+52
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+815
+0.920506
+-0.607272
+0.127343
+0.427579
+0.142778
+53
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1313
+0.919733
+-0.473749
+-0.0943316
+0.401208
+0.1323
+54
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+166
+0.896511
+-0.555553
+0.0315062
+0.402021
+0.131629
+55
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+192
+0.992718
+-0.549586
+0.0125392
+0.478115
+0.144379
+56
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+147
+0.936906
+-0.414625
+-0.130203
+0.495839
+0.142226
+57
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+646
+0.949536
+-0.565162
+0.0279719
+0.431884
+0.133539
+58
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+452
+0.919852
+-0.377699
+-0.181097
+0.396634
+0.132385
+59
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+419
+0.65635
+-0.0916449
+-0.519657
+0.331574
+0.134735
+60
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+460
+0.963105
+-0.550667
+0.00779589
+0.429894
+0.14004
+61
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1237
+0.958915
+-0.567808
+0.0174266
+0.469907
+0.135257
+62
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1066
+0.891243
+-0.278056
+-0.323307
+0.494974
+0.14183
+63
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+143
+0.895311
+-0.623033
+0.0651176
+0.431428
+0.134404
+64
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1174
+0.931292
+-0.679138
+0.178629
+0.425535
+0.142729
+65
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+897
+0.995166
+-0.433649
+-0.12554
+0.522548
+0.141571
+66
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+611
+0.947744
+-0.598682
+0.0850679
+0.388671
+0.136433
+67
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+847
+0.921938
+-0.517334
+-0.02972
+0.451233
+0.142475
+68
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1090
+0.936938
+-0.568406
+0.0558464
+0.440867
+0.139183
+69
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+498
+0.942589
+-0.547512
+0.0097729
+0.415533
+0.134273
+70
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+234
+0.919475
+-0.678214
+0.185296
+0.38146
+0.138872
+71
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+910
+0.924213
+-0.685488
+0.188476
+0.411859
+0.145469
+72
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1112
+0.919434
+-0.605674
+0.059674
+0.417872
+0.133869
+73
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+166
+0.946705
+-0.617213
+0.095401
+0.457294
+0.141976
+74
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+793
+0.91131
+-0.641692
+0.11357
+0.392128
+0.138056
+75
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+438
+0.93996
+-0.637455
+0.131962
+0.398086
+0.135987
+76
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1115
+0.938943
+-0.614593
+0.116684
+0.404871
+0.138711
+77
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+873
+0.92425
+-0.592896
+0.0438241
+0.418644
+0.132145
+78
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1239
+0.836177
+-0.403411
+-0.212844
+0.426735
+0.133862
+79
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+156
+0.778614
+-0.336371
+-0.271
+0.459837
+0.143048
+80
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+754
+0.944833
+-0.586545
+0.0664899
+0.403227
+0.131257
+81
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1008
+0.903632
+-0.584538
+0.0516618
+0.368598
+0.131583
+82
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+84
+0.793079
+-0.266766
+-0.221081
+0.286578
+0.132446
+83
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+431
+0.936131
+-0.631093
+0.0901763
+0.439208
+0.134235
+84
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+296
+0.848364
+-0.21045
+-0.246995
+0.281274
+0.128746
+85
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+630
+0.939734
+-0.618011
+0.110257
+0.399385
+0.133207
+86
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+288
+0.937582
+-0.381441
+-0.182941
+0.431454
+0.136162
+87
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+373
+0.932425
+-0.357485
+-0.209924
+0.429689
+0.137293
+88
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+988
+0.921997
+-0.641106
+0.149006
+0.386893
+0.13204
+89
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+709
+0.90122
+-0.57973
+0.0659114
+0.364419
+0.13217
+90
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+163
+0.919712
+-0.649816
+0.141372
+0.423112
+0.148181
+91
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+433
+0.935116
+-0.665305
+0.163925
+0.418092
+0.142366
+92
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+554
+0.904965
+-0.351451
+-0.221489
+0.464193
+0.139501
+93
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+795
+0.984783
+-0.52874
+-0.0257303
+0.478306
+0.132354
+94
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1084
+0.977537
+-0.571843
+0.0460779
+0.434427
+0.135493
+95
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1080
+0.953489
+-0.462903
+-0.109291
+0.489264
+0.136546
+96
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+957
+0.961581
+-0.577037
+0.0557743
+0.475429
+0.137665
+97
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+665
+0.929612
+-0.294156
+-0.246679
+0.456661
+0.139591
+98
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+496
+0.924659
+-0.614099
+0.0687018
+0.438186
+0.135435
+99
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+857
+0.959813
+-0.596271
+0.104068
+0.42544
+0.144132
+100
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+858
+0.830384
+-0.151559
+-0.337734
+0.260214
+0.130315
+101
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+884
+0.93877
+-0.262181
+-0.304346
+0.473168
+0.136858
+102
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+274
+0.960623
+-0.590268
+0.0519011
+0.431115
+0.138032
+103
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1058
+0.956731
+-0.599978
+0.0714188
+0.451501
+0.139848
+104
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+838
+0.976462
+-0.57376
+0.0515636
+0.446577
+0.141521
+105
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+641
+0.94909
+-0.488487
+-0.028499
+0.430554
+0.141635
+106
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+670
+0.91291
+-0.540727
+0.00729968
+0.368466
+0.131362
+107
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+320
+0.938308
+-0.564216
+0.0308114
+0.432131
+0.130418
+108
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+335
+0.939943
+-0.59675
+0.0872061
+0.422465
+0.139676
+109
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+616
+0.979253
+-0.580034
+0.0692646
+0.426211
+0.138714
+110
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+979
+0.982607
+-0.508688
+-0.0261127
+0.435941
+0.137287
+111
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+503
+0.974281
+-0.541296
+0.0402183
+0.473083
+0.149885
+112
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+790
+0.905542
+-0.435628
+-0.104515
+0.371556
+0.130552
+113
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+480
+0.949238
+-0.646898
+0.156066
+0.406183
+0.142026
+114
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+909
+0.971252
+-0.571498
+0.0500651
+0.45876
+0.140061
+115
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+231
+0.936816
+-0.564379
+0.029626
+0.475058
+0.143439
+116
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+527
+0.872976
+-0.399741
+-0.148427
+0.429943
+0.141342
+117
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+532
+0.930337
+-0.557195
+0.0202062
+0.388111
+0.132275
+118
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+799
+0.82917
+-0.288333
+-0.345925
+0.513282
+0.139699
+119
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1127
+0.72417
+-0.273662
+-0.351644
+0.37904
+0.140013
+120
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+539
+0.368056
+0.205073
+-0.78818
+0.303487
+0.150193
+121
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+864
+0.290939
+0.345264
+-0.91569
+0.296937
+0.146756
+122
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+527
+0.925694
+-0.506061
+-0.0619364
+0.454103
+0.132834
+123
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+801
+0.934201
+-0.335243
+-0.242256
+0.434992
+0.136486
+124
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+945
+0.705172
+0.0233923
+-0.61468
+0.394209
+0.139375
+125
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+398
+0.9099
+-0.341439
+-0.172848
+0.513372
+0.147707
+126
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+315
+-0.995494
+0.992654
+0.935526
+0.996356
+-0.972888
+127
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+702
+-1.
+1.
+0.947728
+1.
+-0.977587
+128
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+271
+-0.999507
+0.995551
+0.932528
+0.992385
+-1.
+129
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+395
+0.950329
+-0.588645
+0.0596176
+0.427221
+0.136914
+130
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+344
+0.892615
+-0.562636
+-0.00859492
+0.43621
+0.130898
+131
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+13
+0.971705
+-0.471284
+-0.0453652
+0.474709
+0.149704
+132
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+631
+0.933656
+-0.513867
+0.00703632
+0.409538
+0.135614
+133
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+393
+0.759814
+-0.27589
+-0.269833
+0.283212
+0.13493
+134
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+6
+0.743882
+-0.211234
+-0.263784
+0.210119
+0.127263
+135
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+897
+0.931314
+-0.650456
+0.131492
+0.412903
+0.13269
+136
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+533
+0.978911
+-0.569178
+0.0666864
+0.456594
+0.138988
+137
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+317
+0.730433
+-0.0866192
+-0.465334
+0.300781
+0.136659
+138
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+619
+0.936359
+-0.411124
+-0.152049
+0.441481
+0.129267
+139
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+819
+0.929347
+-0.449114
+-0.0807242
+0.468378
+0.144712
+140
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+659
+0.782509
+-0.352499
+-0.289763
+0.43393
+0.137533
+141
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+957
+0.807253
+-0.44797
+-0.174157
+0.398505
+0.131866
+142
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+495
+0.839942
+-0.382683
+-0.179013
+0.321748
+0.127278
+143
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+675
+0.920611
+-0.485917
+0.0323592
+0.39816
+0.135229
+144
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+18
+0.809162
+-0.26958
+-0.262739
+0.308179
+0.131961
+145
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+579
+0.342272
+0.187802
+-0.26188
+0.145739
+0.18449
+146
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+308
+0.952041
+-0.564676
+0.0352303
+0.428561
+0.142345
+147
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+493
+0.942313
+-0.343671
+-0.207158
+0.444347
+0.134625
+148
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+280
+0.943267
+-0.549844
+0.0335999
+0.460317
+0.141456
+149
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+886
+0.937251
+-0.648083
+0.138594
+0.436977
+0.146802
+150
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+894
+0.951203
+-0.539008
+0.0434507
+0.378838
+0.133947
+151
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+707
+0.890002
+-0.408306
+-0.0662958
+0.283368
+0.137771
+152
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+194
+0.899655
+-0.303475
+-0.237686
+0.400806
+0.137996
+153
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+260
+0.90139
+-0.566153
+-0.00566375
+0.433402
+0.135474
+154
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+657
+0.874766
+-0.464404
+-0.0206206
+0.365912
+0.143566
+155
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+721
+0.964857
+-0.527756
+0.00447563
+0.413598
+0.133202
+156
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+716
+0.909179
+-0.475987
+-0.0513947
+0.347736
+0.129835
+157
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+460
+0.853988
+-0.0854986
+-0.48837
+0.501448
+0.138077
+158
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+513
+0.980911
+-0.3547
+-0.226037
+0.529344
+0.139409
+159
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+17
+0.386624
+0.323449
+-0.891109
+0.297631
+0.146575
+160
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+809
+0.959695
+-0.523927
+-0.0308904
+0.51731
+0.146692
+161
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+632
+0.944412
+-0.466801
+-0.120459
+0.498443
+0.136476
+162
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+676
+0.913828
+-0.368991
+-0.163033
+0.368389
+0.130129
+163
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+20
+0.944693
+-0.50901
+-0.0373104
+0.490666
+0.144067
+164
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+746
+0.929537
+-0.479401
+-0.0644279
+0.482038
+0.143013
+165
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+668
+0.955524
+-0.567275
+0.0449461
+0.393273
+0.133665
+166
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+657
+0.94271
+-0.596504
+0.0492556
+0.423438
+0.134185
+167
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+447
+0.910734
+-0.420249
+-0.147064
+0.420407
+0.141828
+168
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+504
+0.745896
+-0.200933
+-0.246958
+0.161176
+0.126497
+169
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+175
+0.373809
+-0.0601145
+0.217062
+0.227033
+0.243977
+170
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+357
+0.946353
+-0.381377
+-0.185834
+0.469268
+0.138878
+171
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+694
+0.94231
+-0.396276
+-0.187021
+0.455575
+0.134582
+172
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+599
+0.868772
+-0.279744
+-0.277151
+0.389951
+0.141102
+173
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+176
+0.98317
+-0.553361
+0.031265
+0.474669
+0.136184
+174
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+118
+0.959439
+-0.491166
+-0.00701951
+0.397109
+0.146093
+175
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+107
+0.932422
+-0.331823
+-0.233944
+0.483853
+0.137148
+176
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+30
+0.983723
+-0.374508
+-0.157706
+0.453027
+0.134603
+177
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+225
+0.968653
+-0.547031
+-0.016896
+0.46137
+0.128033
+178
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+11
+0.897082
+-0.332441
+-0.193567
+0.323406
+0.130134
+179
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+273
+0.555936
+0.385717
+-0.760159
+0.245525
+0.139753
+180
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+227
+0.865084
+-0.308657
+-0.283578
+0.432321
+0.139044
+181
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+36
+0.747673
+-0.113962
+-0.51081
+0.464558
+0.141988
+182
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+82
+0.719732
+-0.184289
+-0.289757
+0.244846
+0.138598
+183
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+776
+0.876782
+-0.435059
+-0.150351
+0.401787
+0.13461
+184
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+751
+0.931441
+-0.469089
+-0.0870484
+0.420374
+0.136594
+185
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+452
+0.921652
+-0.382529
+-0.166906
+0.396333
+0.135386
+186
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+528
+0.947587
+-0.61821
+0.124184
+0.352388
+0.133422
+187
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+445
+0.880465
+-0.329037
+-0.203527
+0.36306
+0.132808
+188
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+396
+0.900477
+-0.395349
+-0.14463
+0.401395
+0.127604
+189
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+299
+0.949281
+-0.357385
+-0.179538
+0.420807
+0.1429
+190
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+497
+0.865948
+-0.176286
+-0.390242
+0.399134
+0.135
+191
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+685
+0.823918
+-0.161073
+-0.363575
+0.318653
+0.134298
+192
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+708
+0.852833
+-0.320259
+-0.176364
+0.274452
+0.130262
+193
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+737
+0.963694
+-0.577364
+0.0401717
+0.415988
+0.132148
+194
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+333
+0.921891
+-0.432056
+-0.13764
+0.436921
+0.131657
+195
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+763
+0.870258
+-0.616468
+0.108221
+0.368958
+0.131514
+196
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+835
+0.776811
+-0.206438
+-0.389865
+0.461957
+0.138694
+197
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+666
+0.873455
+-0.374646
+-0.153988
+0.346735
+0.129832
+198
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+76
+0.765118
+-0.101947
+-0.518606
+0.425026
+0.134051
+199
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+634
+0.890774
+-0.294742
+-0.28156
+0.485449
+0.146617
+200
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+707
+0.851858
+-0.17022
+-0.369536
+0.366068
+0.132599
+201
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+262
+0.932796
+-0.205806
+-0.357148
+0.535571
+0.144947
+202
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+554
+0.943509
+-0.596476
+0.0811759
+0.452623
+0.146597
+203
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+757
+0.966944
+-0.528061
+-0.0272608
+0.445411
+0.13727
+204
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+541
+0.909846
+-0.64124
+0.103929
+0.429213
+0.13799
+205
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+289
+0.931363
+-0.551218
+0.0381836
+0.38497
+0.137986
+206
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+861
+0.953434
+-0.417012
+-0.0945184
+0.475617
+0.142495
+207
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+649
+0.908647
+-0.435862
+-0.107818
+0.39711
+0.13858
+208
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+458
+0.974263
+-0.484108
+-0.0654069
+0.466261
+0.137745
+209
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+151
+0.677957
+0.072147
+-0.565972
+0.250282
+0.135543
+210
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+205
+0.51566
+0.286844
+-0.817639
+0.382754
+0.144286
+211
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+257
+0.98415
+-0.469369
+-0.0740398
+0.452062
+0.134201
+212
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+60
+0.95014
+-0.633106
+0.114965
+0.451376
+0.136919
+213
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+288
+0.998754
+-0.535768
+0.00112336
+0.482048
+0.14043
+214
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+75
+0.942016
+-0.604298
+0.0761984
+0.40191
+0.133412
+215
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+529
+0.768576
+0.0146578
+-0.561481
+0.419522
+0.138653
+216
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+817
+0.804035
+-0.109175
+-0.478343
+0.520132
+0.137937
+217
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+399
+0.75158
+-0.254687
+-0.288567
+0.297042
+0.130929
+218
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+758
+0.877245
+-0.325563
+-0.29522
+0.514397
+0.134201
+219
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+844
+0.909859
+-0.316344
+-0.243553
+0.4339
+0.138491
+220
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+414
+0.832377
+-0.25691
+-0.333543
+0.453003
+0.143355
+221
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+78
+0.866119
+-0.34727
+-0.224144
+0.41621
+0.134751
+222
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+807
+0.895044
+-0.550235
+0.03543
+0.374349
+0.138015
+223
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+494
+0.92072
+-0.329507
+-0.157995
+0.327716
+0.137374
+224
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+299
+0.848338
+-0.0747744
+-0.497526
+0.47312
+0.138285
+225
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+352
+0.768186
+0.145012
+-0.624264
+0.377201
+0.141598
+226
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+55
+0.936533
+-0.64049
+0.142475
+0.39923
+0.138237
+227
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+502
+0.911815
+-0.613798
+0.0851276
+0.366593
+0.13089
+228
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+339
+0.932433
+-0.578678
+0.0874194
+0.305499
+0.129306
+229
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+734
+0.917956
+-0.620502
+0.0917515
+0.426289
+0.136087
+230
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+532
+0.857461
+-0.301066
+-0.279077
+0.397581
+0.131796
+231
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+351
+0.822763
+-0.287684
+-0.214193
+0.307384
+0.131251
+232
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+728
+0.944428
+-0.598023
+0.111119
+0.349653
+0.136461
+233
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+789
+0.959007
+-0.357674
+-0.231718
+0.502018
+0.128478
+234
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+706
+0.726027
+0.0163955
+-0.559475
+0.389293
+0.141625
+235
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+636
+0.829247
+-0.279342
+-0.163019
+0.262574
+0.129971
+236
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+631
+0.838224
+-0.325406
+-0.225264
+0.361515
+0.133173
+237
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+665
+0.767917
+-0.0579769
+-0.453014
+0.318036
+0.135961
+238
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+865
+0.807312
+-0.285226
+-0.329307
+0.445571
+0.139441
+239
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+885
+0.406014
+0.192145
+-0.718848
+0.191042
+0.139861
+240
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+605
+-0.967467
+0.981049
+0.983813
+0.96819
+1.
+241
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+632
+0.87485
+-0.353919
+-0.251713
+0.443803
+0.140943
+242
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+441
+0.855602
+-0.505819
+-0.0764225
+0.401463
+0.132311
+243
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+217
+0.935941
+-0.333596
+-0.25226
+0.49048
+0.137332
+244
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+344
+0.993593
+-0.380317
+-0.152948
+0.492797
+0.144875
+245
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+511
+0.921848
+-0.621364
+0.0876336
+0.417704
+0.131207
+246
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+307
+0.92349
+-0.58599
+0.050746
+0.384182
+0.129256
+247
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+493
+0.940286
+-0.657416
+0.126013
+0.453171
+0.138095
+248
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+462
+0.787599
+-0.327906
+-0.15664
+0.27038
+0.132703
+249
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+17
+0.9401
+-0.612968
+0.0758796
+0.429818
+0.134196
+250
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+44
+0.914716
+-0.622932
+0.113295
+0.351013
+0.138936
+251
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+380
+0.904655
+-0.621213
+0.0818099
+0.395007
+0.133508
+252
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+278
+0.928712
+-0.639768
+0.0917995
+0.464132
+0.136521
+253
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+414
+0.920364
+-0.643862
+0.125234
+0.409728
+0.136755
+254
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+602
+0.952903
+-0.640638
+0.129957
+0.406322
+0.139587
+255
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+112
+0.907184
+-0.543139
+-0.0333458
+0.433465
+0.135009
+256
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+621
+0.897233
+-0.477859
+-0.127289
+0.460779
+0.136884
+257
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+480
+0.797183
+-0.370645
+-0.279914
+0.463797
+0.131526
+258
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+599
+0.887409
+-0.364263
+-0.231196
+0.442568
+0.135375
+259
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+572
+0.824389
+-0.297193
+-0.349526
+0.456005
+0.139229
+260
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+13
+-0.841758
+0.848432
+0.89897
+0.705493
+0.592636
+261
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+199
+0.814994
+-0.381047
+-0.270435
+0.492569
+0.138363
+262
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+554
+0.924058
+-0.512995
+-0.0239704
+0.357227
+0.129871
+263
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+521
+0.902867
+-0.681339
+0.163557
+0.389305
+0.136559
+264
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+139
+0.94067
+-0.640048
+0.142675
+0.401342
+0.137379
+265
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+266
+0.941423
+-0.649891
+0.170208
+0.44224
+0.141273
+266
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+421
+0.895871
+-0.410784
+-0.180719
+0.497531
+0.134014
+267
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+347
+0.949542
+-0.520868
+0.0393007
+0.404819
+0.136056
+268
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+175
+0.950836
+-0.389994
+-0.175193
+0.460688
+0.134634
+269
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+544
+0.941654
+-0.532728
+-0.0100177
+0.446648
+0.132239
+270
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+136
+0.970704
+-0.551399
+0.00528057
+0.474658
+0.134849
+271
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+345
+0.928812
+-0.554361
+0.00440861
+0.427708
+0.131109
+272
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+513
+0.900366
+-0.614489
+0.133583
+0.406489
+0.146543
+273
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+7
+0.831931
+-0.108358
+-0.468819
+0.493117
+0.143872
+274
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+185
+0.694985
+-0.101345
+-0.378407
+0.218636
+0.136348
+275
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+439
+0.901577
+-0.219191
+-0.367568
+0.486682
+0.140091
+276
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+549
+0.907675
+-0.306033
+-0.28928
+0.48706
+0.139209
+277
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+455
+0.916154
+-0.391564
+-0.209438
+0.443098
+0.133189
+278
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+584
+0.679046
+-0.0771863
+-0.566239
+0.38686
+0.139746
+279
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+507
+0.667476
+0.0466128
+-0.51974
+0.18214
+0.133769
+280
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+466
+0.824612
+-0.368202
+-0.213516
+0.366842
+0.133741
+281
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+267
+0.711484
+-0.324746
+0.0235594
+0.255793
+0.136906
+282
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+62
+0.917483
+-0.428072
+-0.15386
+0.429991
+0.135782
+283
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+430
+0.777033
+-0.378407
+-0.186873
+0.342846
+0.133908
+284
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+340
+0.757002
+-0.316751
+-0.321799
+0.391281
+0.137789
+285
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+115
+0.855147
+-0.219345
+-0.294737
+0.319295
+0.130116
+286
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+370
+0.841785
+-0.321515
+-0.145438
+0.25512
+0.131077
+287
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+511
+0.944007
+-0.603711
+0.0589352
+0.445143
+0.136199
+288
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+168
+0.846091
+-0.342396
+-0.229577
+0.375113
+0.132388
+289
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+319
+0.781446
+-0.0668848
+-0.477547
+0.354807
+0.136652
+290
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+399
+0.641417
+0.13504
+-0.658139
+0.291564
+0.135418
+291
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+224
+0.825773
+-0.277398
+-0.296165
+0.36824
+0.13637
+292
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+249
+0.785497
+-0.033327
+-0.570756
+0.498904
+0.138641
+293
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+537
+0.871283
+-0.21832
+-0.315964
+0.361188
+0.134104
+294
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+458
+0.820261
+-0.0770329
+-0.507994
+0.41834
+0.136824
+295
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+28
+0.900376
+-0.431657
+-0.0899548
+0.454285
+0.152753
+296
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+519
+0.942603
+-0.226068
+-0.310501
+0.491859
+0.135221
+297
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+48
+0.906307
+-0.49862
+-0.0700155
+0.44128
+0.13758
+298
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+77
+0.933203
+-0.524743
+-0.0372935
+0.431462
+0.138051
+299
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+353
+0.89981
+-0.448496
+-0.158069
+0.461065
+0.13811
+300
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+321
+0.633854
+0.0150242
+-0.531909
+0.213907
+0.132255
+301
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+213
+0.855031
+-0.217524
+-0.343343
+0.450419
+0.137445
+302
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+469
+0.85922
+-0.399501
+-0.180709
+0.453146
+0.136486
+303
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+281
+0.797667
+-0.0766602
+-0.379078
+0.309595
+0.140316
+304
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+175
+0.776349
+-0.163629
+-0.381622
+0.322148
+0.131733
+305
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+124
+0.793289
+-0.194481
+-0.336631
+0.340605
+0.133545
+306
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+459
+0.608178
+-0.0261964
+-0.575346
+0.376872
+0.141832
+307
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+28
+0.797336
+-0.160831
+-0.373309
+0.334092
+0.140806
+308
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+100
+0.965026
+-0.446436
+-0.10553
+0.453699
+0.131606
+309
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+85
+0.656064
+0.0516138
+-0.620694
+0.339582
+0.137114
+310
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+236
+0.91947
+-0.268863
+-0.268062
+0.438049
+0.149091
+311
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+210
+0.916102
+-0.293164
+-0.176001
+0.407876
+0.152282
+312
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+250
+-0.926092
+0.892804
+0.844227
+0.726519
+-0.434533
+313
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+425
+0.718968
+-0.0525726
+-0.462393
+0.275058
+0.13629
+314
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+42
+0.810255
+-0.00968885
+-0.551762
+0.47012
+0.138903
+315
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+69
+0.899897
+-0.598005
+0.058448
+0.413544
+0.132857
+316
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+86
+0.829757
+-0.18242
+-0.375828
+0.41397
+0.139927
+317
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+363
+0.872584
+-0.444192
+-0.135226
+0.435545
+0.143614
+318
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+257
+0.874575
+-0.333622
+-0.23168
+0.436927
+0.139116
+319
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+437
+0.815042
+-0.244312
+-0.347239
+0.432437
+0.136342
+320
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+40
+0.625254
+0.134165
+-0.612453
+0.269725
+0.141084
+321
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+270
+0.570414
+-0.00836726
+-0.380765
+0.0606106
+0.132154
+322
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+407
+0.925854
+-0.435311
+-0.124784
+0.394966
+0.136364
+323
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+438
+0.845081
+-0.204051
+-0.389291
+0.419358
+0.137345
+324
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+103
+0.523213
+0.326715
+-0.859264
+0.407824
+0.146314
+325
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+292
+-0.899799
+0.88282
+0.828032
+0.685991
+0.247789
+326
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+381
+0.409619
+-0.240974
+0.277312
+0.18704
+0.219348
+327
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+118
+0.189234
+-0.192225
+0.252018
+-0.0853473
+0.161799
+328
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+234
+0.92305
+-0.351653
+-0.203946
+0.42845
+0.144417
+329
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+329
+0.864942
+-0.440331
+-0.111541
+0.389268
+0.133921
+330
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+177
+0.437147
+0.267768
+-0.282788
+-0.0358911
+0.141483
+331
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+178
+0.641603
+0.125452
+-0.609994
+0.260317
+0.13518
+332
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+1
+0.713719
+0.0778439
+-0.638219
+0.379873
+0.137589
+333
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+346
+0.951461
+-0.497068
+-0.0835717
+0.480732
+0.134171
+334
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+543
+0.913796
+-0.594802
+0.0466254
+0.411436
+0.13138
+335
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+9
+0.921336
+-0.619555
+0.116383
+0.375393
+0.136927
+336
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+287
+0.784919
+-0.121421
+-0.46913
+0.480005
+0.142572
+337
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+167
+0.867469
+-0.339722
+-0.187562
+0.365231
+0.129119
+338
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+351
+0.89865
+-0.503553
+-0.0446757
+0.357136
+0.134941
+339
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+356
+0.414407
+0.330625
+-0.838549
+0.201184
+0.137321
+340
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+91
+0.797108
+-0.284243
+-0.25718
+0.305559
+0.130147
+341
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+141
+0.860587
+-0.242121
+-0.377812
+0.498214
+0.140336
+342
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+526
+-0.925504
+0.90228
+0.864574
+0.701148
+0.57305
+343
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+236
+-0.606833
+0.594207
+0.772944
+0.397902
+0.575221
+344
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+351
+0.818803
+-0.351142
+-0.140093
+0.284767
+0.132178
+345
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+522
+0.929183
+-0.62416
+0.0968572
+0.400296
+0.131605
+346
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+344
+0.944288
+-0.569453
+0.0224228
+0.46801
+0.141023
+347
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+137
+0.927527
+-0.290468
+-0.278491
+0.426309
+0.133927
+348
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+69
+0.921695
+-0.251658
+-0.338979
+0.511369
+0.139668
+349
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+394
+0.967246
+-0.554423
+0.0303141
+0.41958
+0.137433
+350
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+497
+0.811456
+0.0295657
+-0.579009
+0.475097
+0.142651
+351
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+242
+0.970943
+-0.459439
+-0.108765
+0.5056
+0.144863
+352
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+198
+0.946805
+-0.511475
+-0.0533736
+0.464437
+0.130033
+353
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+21
+0.844009
+-0.280716
+-0.31951
+0.445529
+0.143744
+354
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+419
+0.884663
+-0.361385
+-0.189162
+0.41295
+0.140593
+355
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+263
+0.878482
+-0.605796
+0.0518637
+0.386177
+0.131766
+356
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+431
+0.814279
+-0.475541
+-0.127942
+0.459027
+0.134078
+357
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+135
+0.866829
+-0.583699
+0.0458361
+0.44896
+0.142512
+358
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+498
+0.734707
+-0.271651
+-0.372934
+0.4391
+0.139715
+359
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+230
+0.482628
+-0.141427
+-0.564769
+0.39704
+0.138423
+360
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+309
+0.204571
+0.49395
+-0.911363
+0.174659
+0.144202
+361
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+168
+0.172778
+0.471544
+-1.
+0.212902
+0.148102
+362
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+53
+0.474887
+0.395896
+-0.773281
+0.187051
+0.14241
+363
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+388
+0.330235
+0.410425
+-0.91886
+0.229724
+0.144659
+364
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+354
+0.564971
+0.217511
+-0.715814
+0.276444
+0.144869
+365
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+116
+0.624495
+0.187755
+-0.669334
+0.278102
+0.138354
+366
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+133
+0.413154
+0.384192
+-0.788162
+0.148527
+0.136749
+367
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+3
+0.878224
+-0.311538
+-0.173587
+0.343822
+0.140651
+368
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+235
+0.838758
+-0.369964
+-0.0629777
+0.237813
+0.140653
+369
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+103
+0.464302
+-0.235098
+0.333947
+0.220973
+0.224518
+370
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+327
+-0.845419
+0.826718
+0.88102
+0.70566
+-0.298758
+371
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+158
+0.83568
+-0.189122
+-0.414727
+0.447929
+0.135084
+372
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+111
+0.732369
+0.0730226
+-0.633111
+0.369372
+0.139284
+373
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+223
+0.615328
+0.162155
+-0.672337
+0.29897
+0.142525
+374
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+213
+0.518754
+0.0717889
+-0.299211
+0.0301079
+0.132678
+375
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+292
+0.908906
+-0.476775
+-0.0563806
+0.390492
+0.138724
+376
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+22
+0.534727
+0.3772
+-0.729768
+0.139699
+0.137143
+377
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+241
+0.439072
+0.312091
+-0.745024
+0.217457
+0.137399
+378
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+162
+0.768709
+-0.264448
+-0.24083
+0.275866
+0.136028
+379
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+298
+0.639597
+0.0584644
+-0.582688
+0.318003
+0.136895
+380
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+9
+0.708073
+-0.0647396
+-0.488276
+0.333944
+0.13687
+381
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+305
+0.772178
+-0.130227
+-0.404235
+0.264426
+0.130112
+382
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+308
+0.960767
+-0.478223
+-0.0660558
+0.493365
+0.142885
+383
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+262
+0.88998
+-0.39001
+-0.166422
+0.421423
+0.13323
+384
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+42
+0.966597
+-0.488807
+-0.0711939
+0.499217
+0.143679
+385
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+130
+0.947639
+-0.487343
+-0.0898492
+0.456079
+0.131345
+386
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+70
+0.893822
+-0.429219
+-0.0600219
+0.29143
+0.133451
+387
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+375
+0.92091
+-0.303265
+-0.265569
+0.43696
+0.13364
+388
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+202
+0.916838
+-0.247088
+-0.354049
+0.533173
+0.141066
+389
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+311
+-0.939086
+0.916644
+0.860772
+0.731857
+0.530104
+390
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+91
+0.66004
+-0.238244
+-0.120364
+0.296053
+0.182013
+391
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+85
+0.721781
+-0.305905
+-0.183956
+0.313613
+0.157058
+392
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+111
+0.858074
+-0.219656
+-0.262199
+0.261383
+0.13003
+393
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+263
+0.965223
+-0.417621
+-0.152198
+0.48388
+0.138895
+394
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+230
+1.
+-0.474253
+-0.0705043
+0.49227
+0.139077
+395
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+183
+0.723823
+-0.014688
+-0.58038
+0.407641
+0.134414
+396
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+198
+0.887505
+-0.276746
+-0.319995
+0.43168
+0.132701
+397
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+33
+0.820143
+-0.179198
+-0.430911
+0.474183
+0.139924
+398
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+87
+0.951447
+-0.522129
+-0.0222705
+0.437916
+0.141068
+399
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+370
+0.669187
+-0.00672628
+-0.488717
+0.279133
+0.139246
+400
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+19
+0.794752
+-0.322502
+-0.119778
+0.317655
+0.157616
+401
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+108
+0.679481
+-0.29355
+-0.042619
+0.282402
+0.175941
+402
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+227
+0.75558
+-0.270553
+-0.0177754
+0.369027
+0.190814
+403
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+16
+0.50215
+-0.201299
+-0.35969
+0.301705
+0.154872
+404
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+41
+0.851373
+-0.344167
+-0.183187
+0.387302
+0.142363
+405
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+121
+0.940499
+-0.52066
+0.00169307
+0.431733
+0.145507
+406
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+48
+-0.955882
+0.957606
+1.
+0.946656
+0.990151
+407
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+4
+-0.963423
+0.974097
+0.991797
+0.957949
+0.993498
+408
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+198
+0.883441
+-0.383675
+-0.224554
+0.465632
+0.138143
+409
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+40
+0.859348
+-0.428337
+-0.119669
+0.37185
+0.131653
+410
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+11
+0.91054
+-0.661551
+0.15061
+0.402583
+0.139089
+411
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+160
+0.943623
+-0.633556
+0.11233
+0.424642
+0.139311
+412
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+80
+0.947792
+-0.609256
+0.111544
+0.390887
+0.136205
+413
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+19
+0.906368
+-0.614212
+0.0907444
+0.364691
+0.133471
+414
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+235
+0.939764
+-0.592282
+0.0776715
+0.398754
+0.132308
+415
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+123
+0.916723
+-0.611267
+0.0812717
+0.399162
+0.134998
+416
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+74
+0.671455
+-0.0228751
+-0.474638
+0.277234
+0.139533
+417
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+101
+0.940407
+-0.401195
+-0.175365
+0.500155
+0.139612
+418
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+21
+0.886139
+-0.401621
+-0.174302
+0.39846
+0.131049
+419
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+12
+0.580109
+0.0510843
+-0.697225
+0.411875
+0.14234
+420
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+211
+0.739841
+-0.265886
+-0.167659
+0.361213
+0.184541
+421
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+85
+0.865023
+-0.374335
+-0.173118
+0.404483
+0.144489
+422
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+51
+0.892284
+-0.508467
+0.0472374
+0.310393
+0.147101
+423
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+59
+0.732583
+-0.0136306
+-0.534837
+0.342272
+0.142183
+424
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+98
+0.699111
+0.0163824
+-0.569872
+0.31351
+0.137662
+425
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+90
+0.611677
+0.0888734
+-0.631631
+0.304654
+0.145731
+426
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+180
+0.695095
+0.215997
+-0.679962
+0.325881
+0.141052
+427
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+8
+0.83641
+-0.270363
+-0.292601
+0.382419
+0.132648
+428
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+103
+0.731897
+0.0551631
+-0.529897
+0.333254
+0.140751
+429
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+60
+0.746845
+0.0675078
+-0.57582
+0.396824
+0.139075
+430
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+130
+0.933307
+-0.311028
+-0.280443
+0.508411
+0.137739
+431
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+4
+0.877811
+-0.198558
+-0.386605
+0.499551
+0.135937
+432
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+106
+0.878709
+-0.183798
+-0.393702
+0.529729
+0.138595
+433
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+161
+0.764078
+0.051067
+-0.611219
+0.443051
+0.136312
+434
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+32
+0.711889
+0.181273
+-0.629732
+0.298687
+0.135452
+435
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+160
+0.70276
+0.133439
+-0.656184
+0.40607
+0.142009
+436
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+97
+0.832657
+-0.328257
+-0.214756
+0.364487
+0.139091
+437
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+244
+0.769348
+-0.188374
+-0.28057
+0.223194
+0.131227
+438
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+44
+0.543696
+0.3113
+-0.7827
+0.256816
+0.136024
+439
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+207
+0.756049
+-0.111405
+-0.515484
+0.442421
+0.141618
+440
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+89
+0.364513
+0.439431
+-0.675813
+-0.110461
+0.148089
+441
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+714
+0.9506
+-0.508519
+-0.0304276
+0.453935
+0.135948
+442
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+421
+0.943189
+-0.383594
+-0.17635
+0.463119
+0.136595
+443
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+88
+0.955756
+-0.389277
+-0.13934
+0.453468
+0.130233
+444
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+320
+0.873384
+-0.675533
+0.127938
+0.373449
+0.136015
+445
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+215
+0.712663
+-0.0365011
+-0.457911
+0.311147
+0.145892
+446
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+731
+0.986526
+-0.397245
+-0.0672573
+0.452966
+0.151371
+447
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+665
+0.92309
+-0.626291
+0.124597
+0.401944
+0.145359
+448
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+848
+0.974911
+-0.570941
+0.057141
+0.473211
+0.146078
+449
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+796
+0.938458
+-0.610488
+0.0781087
+0.421585
+0.133543
+450
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+112
+0.977463
+-0.474076
+-0.0389238
+0.428908
+0.139443
+451
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+667
+0.918703
+-0.422968
+-0.105552
+0.438377
+0.144484
+452
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+909
+0.900824
+-0.166356
+-0.352618
+0.45586
+0.13759
+453
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+9
+0.951897
+-0.431166
+-0.124226
+0.496971
+0.139684
+454
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+624
+0.96092
+-0.37837
+-0.189429
+0.524412
+0.14026
+455
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+1004
+0.963102
+-0.419768
+-0.140667
+0.48713
+0.144448
+456
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+897
+0.921028
+-0.651982
+0.158987
+0.380057
+0.138138
+457
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+621
+0.894577
+-0.433333
+-0.145543
+0.445047
+0.1342
+458
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+712
+0.926534
+-0.428392
+-0.146479
+0.469262
+0.13914
+459
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+48
+0.895787
+-0.295258
+-0.281279
+0.499975
+0.141681
+460
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+576
+0.601819
+-0.0372929
+-0.361018
+0.179952
+0.13809
+461
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+104
+0.467635
+0.116445
+-0.407098
+0.0528418
+0.139242
+462
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+24
+0.364513
+0.439431
+-0.675813
+-0.110461
+0.148089
+463
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+132
+0.47888
+0.234602
+-0.540449
+0.090779
+0.146016
+464
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+10
+0.953207
+-0.576186
+0.0383396
+0.421319
+0.134981
+465
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+169
+0.952467
+-0.598187
+0.0877242
+0.436792
+0.141205
+466
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+7
+0.889098
+-0.459926
+-0.0827383
+0.472114
+0.146545
+467
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+168
+0.918894
+-0.432402
+-0.135516
+0.467794
+0.139251
+468
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+5
+0.671174
+-0.157751
+-0.23984
+0.322769
+0.143348
+469
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+69
+-0.245477
+0.289539
+0.24045
+-0.0590133
+0.111714
+470
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+33
+0.598418
+0.0570505
+-0.299034
+0.200515
+0.145278
+471
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+108
+0.912339
+-0.4262
+-0.0775973
+0.42892
+0.154231
+472
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+49
+0.96828
+-0.488405
+-0.0397067
+0.456014
+0.140056
+473
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+135
+0.974663
+-0.533063
+0.0558212
+0.410951
+0.145603
+474
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+60
+0.982108
+-0.552157
+0.0732601
+0.459567
+0.15446
+475
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+40
+0.948176
+-0.486275
+0.0465355
+0.454687
+0.147855
+476
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+89
+0.885511
+-0.476758
+-0.0734596
+0.436331
+0.146722
+477
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+70
+0.962146
+-0.543212
+0.0159313
+0.463834
+0.143787
+478
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+9
+0.93912
+-0.516538
+-0.00250697
+0.461268
+0.145806
+479
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+142
+0.903776
+-0.337898
+-0.211598
+0.481105
+0.142437
+480
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+176
+-0.072318
+-0.918054
+0.116807
+0.124343
+0.128882
+481
+NC_004353.4
+Drosophila melanogaster chromosome 4
+150000
+4
+-0.0238764
+-1.
+0.115381
+0.176358
+0.133262
+482
+NC_004353.4
+Drosophila melanogaster chromosome 4
+150000
+2
+-0.0747213
+-0.940337
+-0.00825658
+0.249962
+0.12717
+483
+NC_004353.4
+Drosophila melanogaster chromosome 4
+150000
+3
+-0.0780841
+-0.917614
+-0.0622091
+0.313218
+0.133759
+484
+NC_004353.4
+Drosophila melanogaster chromosome 4
+150000
+7
+-0.0736285
+-0.939823
+-0.0332048
+0.314195
+0.131954
+485
+NC_004353.4
+Drosophila melanogaster chromosome 4
+150000
+5
+-0.0860444
+-0.923881
+-0.0762304
+0.294174
+0.132552
+486
+NC_004353.4
+Drosophila melanogaster chromosome 4
+150000
+8
+-0.0958104
+-0.957921
+0.0221264
+0.23125
+0.135877
+487
+NC_004353.4
+Drosophila melanogaster chromosome 4
+150000
+6
+-0.0523318
+-0.98524
+0.0709498
+0.197716
+0.134147
+488
+NC_004353.4
+Drosophila melanogaster chromosome 4
+150000
+1
+-0.264023
+-0.879294
+-0.312063
+0.539508
+0.142742
+489
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+22
+-0.261948
+-0.887111
+-0.259719
+0.540343
+0.141072
+490
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+137
+-0.185299
+-0.878663
+-0.215491
+0.484509
+0.14142
+491
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+124
+-0.290863
+-0.726821
+-0.470282
+0.621691
+0.143337
+492
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+149
+-0.195821
+-0.82809
+-0.33755
+0.592937
+0.14284
+493
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+63
+-0.389443
+-0.736107
+-0.521061
+0.646941
+0.149623
+494
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+134
+-0.261581
+-0.743057
+-0.462299
+0.641171
+0.142511
+495
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+116
+-0.255508
+-0.804683
+-0.414848
+0.617867
+0.142304
+496
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+23
+-0.35123
+-0.733069
+-0.510629
+0.624657
+0.144431
+497
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+71
+-0.227367
+-0.856538
+-0.313247
+0.580477
+0.142861
+498
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+73
+-0.258172
+-0.820997
+-0.392032
+0.617841
+0.138435
+499
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+110
+-0.301757
+-0.825225
+-0.377648
+0.592607
+0.143187
+500
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+27
+-0.313965
+-0.863793
+-0.362445
+0.600896
+0.141679
+501
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+142
+-0.27266
+-0.84046
+-0.383698
+0.604991
+0.142755
+502
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+25
+-0.314382
+-0.707263
+-0.549139
+0.685641
+0.147509
+503
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+90
+-0.415193
+-0.653225
+-0.591954
+0.588762
+0.144403
+504
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+132
+-0.263145
+-0.760354
+-0.462228
+0.650173
+0.142521
+505
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+113
+-0.32469
+-0.731318
+-0.50363
+0.600856
+0.146548
+506
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+77
+-0.258417
+-0.771669
+-0.408632
+0.56545
+0.142594
+507
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+55
+-0.317855
+-0.399531
+0.00262898
+-0.285312
+0.130036
+508
+NC_004354.4
+Drosophila melanogaster chromosome X
+150000
+51
+-0.11173
+-0.795841
+0.00509035
+-0.201451
+0.12571
+509
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+20
+-0.12201
+-0.756119
+0.0159503
+-0.1822
+0.126232
+510
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+18
+-0.0697025
+-0.865878
+-0.0192686
+-0.0979756
+0.129374
+511
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+11
+-0.143921
+-0.799968
+-0.0916263
+-0.209695
+0.124228
+512
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+15
+-0.33293
+-0.521379
+0.0854773
+-0.810794
+0.119529
+513
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+21
+-0.25442
+-0.72556
+-0.131097
+-0.439655
+0.119524
+514
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+4
+-0.319843
+-0.447866
+0.301368
+-0.823356
+0.12417
+515
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+12
+-0.422888
+-0.36066
+0.0856588
+-0.850499
+0.11762
+516
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+10
+-0.219592
+-0.673631
+-0.0451366
+-0.557333
+0.120293
+517
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+2
+-0.266623
+-0.672943
+-0.102986
+-0.515899
+0.118234
+518
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+6
+-0.19962
+-0.71138
+-0.0266749
+-0.567871
+0.121844
+519
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+8
+-0.186659
+-0.762077
+0.0956786
+-0.747347
+0.123695
+520
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+7
+-0.261109
+-0.698573
+-0.0364957
+-0.643786
+0.119747
+521
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+1
+-0.168105
+-0.728619
+-0.10375
+-0.222748
+0.119105
+522
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+9
+-0.190137
+-0.6254
+0.190357
+-0.476815
+0.128084
+523
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+5
+-0.460256
+-0.31752
+0.165471
+-1.
+0.12115
+524
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+22
+-0.233615
+-0.708392
+0.0057515
+-0.597307
+0.12067
+525
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+14
+-0.277777
+-0.696394
+-0.120117
+-0.43005
+0.121173
+526
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+16
+-0.282228
+-0.655588
+-0.0981767
+-0.227625
+0.126684
+527
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+13
+-0.351044
+-0.292218
+0.202325
+-0.676435
+0.128607
+528
+NC_024512.1
+Drosophila melanogaster chromosome Y
+150000
+17
+-0.230422
+-0.729624
+-0.000446009
+-0.277627
+0.124556
+529
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+60
+-0.269527
+-0.571338
+0.0787578
+-0.605585
+0.124897
+530
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+202
+-0.215203
+-0.755965
+-0.444413
+0.586432
+0.136705
+531
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+173
+-0.22834
+-0.802712
+-0.402015
+0.580663
+0.144583
+532
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+94
+-0.22835
+-0.786597
+-0.411112
+0.577578
+0.143515
+533
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+62
+-0.207344
+-0.828209
+-0.361009
+0.529853
+0.141234
+534
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+90
+-0.180872
+-0.857168
+-0.336076
+0.540677
+0.141893
+535
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+49
+-0.201593
+-0.748595
+-0.435243
+0.561406
+0.145105
+536
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+152
+-0.234935
+-0.781366
+-0.456876
+0.653166
+0.14576
+537
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+45
+-0.241275
+-0.861057
+-0.340035
+0.574803
+0.144385
+538
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+211
+-0.17331
+-0.861863
+-0.310208
+0.551118
+0.141185
+539
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+186
+-0.263394
+-0.798476
+-0.429994
+0.634087
+0.145918
+540
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+12
+-0.297561
+-0.73103
+-0.515984
+0.650049
+0.14526
+541
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+69
+-0.276814
+-0.806339
+-0.435606
+0.628293
+0.146236
+542
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+189
+-0.208586
+-0.836981
+-0.358484
+0.636802
+0.146774
+543
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+135
+-0.187938
+-0.862841
+-0.335533
+0.594649
+0.142252
+544
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+137
+-0.288167
+-0.751042
+-0.483584
+0.599909
+0.144667
+545
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+48
+-0.300167
+-0.767314
+-0.463967
+0.648306
+0.146319
+546
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+164
+-0.212729
+-0.786276
+-0.425363
+0.586093
+0.144836
+547
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+4
+-0.289366
+-0.685108
+-0.564698
+0.657803
+0.144227
+548
+NT_033777.3
+Drosophila melanogaster chromosome 3R
+150000
+171
+-0.0876217
+-0.846784
+-0.0790116
+0.0414786
+0.123707
+549
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+150
+-0.236699
+-0.776574
+-0.390668
+0.541787
+0.138127
+550
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+100
+-0.321229
+-0.656853
+-0.591479
+0.633307
+0.148036
+551
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+108
+-0.263168
+-0.751855
+-0.488413
+0.645052
+0.145447
+552
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+39
+-0.265217
+-0.716019
+-0.48241
+0.598264
+0.14499
+553
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+95
+-0.246162
+-0.770882
+-0.459651
+0.637556
+0.146067
+554
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+116
+-0.288597
+-0.734506
+-0.477245
+0.607461
+0.145856
+555
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+140
+-0.272381
+-0.803935
+-0.41323
+0.588588
+0.147451
+556
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+168
+-0.270059
+-0.767952
+-0.466016
+0.640541
+0.141915
+557
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+115
+-0.189504
+-0.812084
+-0.395335
+0.642408
+0.142577
+558
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+165
+-0.189796
+-0.797671
+-0.396236
+0.582984
+0.141728
+559
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+62
+-0.205221
+-0.823619
+-0.364389
+0.624248
+0.143618
+560
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+156
+-0.241651
+-0.820901
+-0.394615
+0.613029
+0.139194
+561
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+10
+-0.25071
+-0.781232
+-0.453494
+0.661964
+0.146851
+562
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+76
+-0.269569
+-0.768608
+-0.462149
+0.554417
+0.143548
+563
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+118
+-0.311327
+-0.730722
+-0.534062
+0.701035
+0.148774
+564
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+125
+-0.254096
+-0.695333
+-0.543177
+0.66949
+0.146044
+565
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+139
+-0.324348
+-0.645936
+-0.615113
+0.688229
+0.151844
+566
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+113
+-0.314492
+-0.678239
+-0.555172
+0.555452
+0.142317
+567
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+59
+-0.123315
+-0.823462
+-0.223965
+0.43511
+0.136213
+568
+NT_033778.4
+Drosophila melanogaster chromosome 2R
+150000
+80
+-0.189121
+-0.72725
+-0.443829
+0.550994
+0.145582
+569
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+62
+-0.273812
+-0.626781
+-0.598043
+0.635681
+0.149284
+570
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+150
+-0.217533
+-0.729165
+-0.485959
+0.605266
+0.138208
+571
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+4
+-0.272694
+-0.707012
+-0.552282
+0.662683
+0.147055
+572
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+45
+-0.212226
+-0.805762
+-0.412232
+0.664096
+0.141571
+573
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+7
+-0.232662
+-0.659598
+-0.425154
+0.557418
+0.142988
+574
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+103
+-0.235771
+-0.736037
+-0.485886
+0.660288
+0.14365
+575
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+2
+-0.280168
+-0.758827
+-0.492394
+0.634402
+0.145525
+576
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+111
+-0.188385
+-0.772301
+-0.418662
+0.635745
+0.149475
+577
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+117
+-0.197311
+-0.86622
+-0.305288
+0.544224
+0.142221
+578
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+143
+-0.259802
+-0.787243
+-0.396055
+0.617287
+0.138112
+579
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+31
+-0.201996
+-0.788034
+-0.410405
+0.632087
+0.144578
+580
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+137
+-0.171774
+-0.882279
+-0.283731
+0.509915
+0.140291
+581
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+23
+-0.216448
+-0.797427
+-0.408811
+0.608499
+0.144969
+582
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+91
+-0.166236
+-0.894182
+-0.248965
+0.539476
+0.14363
+583
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+5
+-0.219717
+-0.808371
+-0.401726
+0.61987
+0.142971
+584
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+145
+-0.277482
+-0.765862
+-0.414195
+0.612283
+0.145281
+585
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+71
+-0.103487
+-0.847924
+-0.0481811
+0.204526
+0.135759
+586
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+53
+-0.138494
+-0.908265
+-0.125971
+0.313664
+0.132399
+587
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+42
+-0.339586
+-0.471129
+-0.0225744
+-0.547656
+0.125384
+588
+NT_033779.5
+Drosophila melanogaster chromosome 2L
+150000
+64
+-0.334554
+-0.548486
+-0.670138
+0.630265
+0.144109
+589
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+21
+-0.161123
+-0.705039
+-0.415782
+0.59739
+0.14545
+590
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+56
+-0.256075
+-0.778724
+-0.429699
+0.591074
+0.137925
+591
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+161
+-0.15319
+-0.806054
+-0.377983
+0.656882
+0.141709
+592
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+73
+-0.240849
+-0.735544
+-0.483723
+0.605407
+0.14563
+593
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+66
+-0.228447
+-0.759194
+-0.460126
+0.624561
+0.145132
+594
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+29
+-0.230453
+-0.764479
+-0.479635
+0.690471
+0.144914
+595
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+24
+-0.228993
+-0.737755
+-0.394989
+0.538727
+0.147783
+596
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+181
+-0.293937
+-0.771831
+-0.488588
+0.670791
+0.14817
+597
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+116
+-0.259222
+-0.745634
+-0.490008
+0.644091
+0.144449
+598
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+99
+-0.301006
+-0.813045
+-0.438835
+0.647036
+0.14551
+599
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+43
+-0.188315
+-0.899105
+-0.264567
+0.564838
+0.140119
+600
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+114
+-0.213592
+-0.779642
+-0.426125
+0.631736
+0.147162
+601
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+49
+-0.221066
+-0.826828
+-0.336152
+0.567116
+0.142746
+602
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+78
+-0.216923
+-0.848227
+-0.360347
+0.619612
+0.142962
+603
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+14
+-0.184023
+-0.836877
+-0.349276
+0.522586
+0.138423
+604
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+81
+-0.278304
+-0.799422
+-0.441226
+0.602773
+0.146804
+605
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+38
+-0.288202
+-0.744299
+-0.494806
+0.654437
+0.146775
+606
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+40
+-0.144048
+-0.832327
+-0.210115
+0.0215732
+0.123724
+607
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+70
+-0.185255
+-0.77306
+-0.0394249
+-0.230502
+0.120855
+608
+NT_037436.4
+Drosophila melanogaster chromosome 3L
+150000
+12

@@ -1,0 +1,10427 @@
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,2,20,20,20,20,20,20,20,20,13,20,20,20,0,7,20
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+H.sapiens (480), G.gallus (562)
+Sampling from H.sapiens and G.gallus; Number of genomic DNA sequences is 1042; FCGR with k=9; Approx. Information
+0.359967
+0.823983
+0.505611
+-0.263402
+-0.421851
+1
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+249
+0.568869
+0.581452
+0.607106
+-0.248585
+-0.581486
+2
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+640
+0.101872
+0.869896
+0.477028
+-0.132568
+-0.595449
+3
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+856
+0.238645
+0.850755
+0.431981
+0.15503
+-0.546058
+4
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+188
+0.114591
+0.860535
+0.520867
+-0.229564
+-0.725159
+5
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+243
+0.180116
+0.776708
+0.603546
+0.400446
+-0.697601
+6
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1310
+0.724948
+0.803473
+0.273607
+-0.106983
+0.229731
+7
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+916
+0.788769
+0.79518
+0.229134
+-0.189359
+-0.216242
+8
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1523
+0.624657
+0.812717
+0.363387
+0.10564
+-0.248546
+9
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+197
+0.815472
+0.777497
+0.232309
+-0.317341
+0.147342
+10
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+869
+0.499139
+0.808971
+0.392594
+-0.364287
+-0.592699
+11
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+936
+0.543633
+0.837673
+0.340799
+-0.159791
+-0.178048
+12
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+221
+0.591168
+0.789835
+0.299071
+0.549894
+-0.326393
+13
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+505
+0.349811
+0.679719
+0.597029
+0.0164448
+-0.669399
+14
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+458
+0.823109
+0.787293
+0.159886
+0.1126
+0.0169418
+15
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+84
+0.231679
+0.756682
+0.429224
+-0.106864
+-0.452032
+16
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1464
+0.758579
+0.795445
+0.222981
+-0.512201
+-0.00623487
+17
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+838
+0.722087
+0.818445
+0.236544
+-0.259496
+-0.220452
+18
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+627
+0.704546
+0.806615
+0.280807
+-0.364055
+-0.0372048
+19
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1336
+0.473728
+0.758229
+0.395967
+0.310814
+-0.475934
+20
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+955
+0.467185
+0.766099
+0.455404
+0.38848
+-0.336649
+21
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1600
+0.66658
+0.835228
+0.194463
+0.107369
+-0.236088
+22
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1051
+0.699673
+0.846594
+0.185428
+0.0852712
+-0.14996
+23
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+725
+0.915758
+0.759297
+0.0895826
+-0.0536221
+0.204085
+24
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1231
+0.867606
+0.726727
+0.252518
+-0.301799
+-0.275543
+25
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+771
+0.807782
+0.789549
+0.118175
+0.357989
+-0.0753762
+26
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+496
+0.325319
+0.821916
+0.547782
+0.300339
+-0.69227
+27
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+336
+-0.113911
+-0.90854
+-0.926359
+-0.0407212
+-0.412071
+28
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+297
+0.331665
+0.76919
+0.557647
+0.0356482
+-0.58943
+29
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1202
+0.374455
+0.848345
+0.419318
+0.254472
+-0.520202
+30
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+660
+0.818996
+0.786658
+0.141421
+0.107133
+-0.102162
+31
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+836
+0.150314
+0.840667
+0.532666
+0.165232
+-0.157494
+32
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+785
+0.800086
+0.768424
+0.247467
+0.254375
+0.165996
+33
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+116
+0.346749
+0.827979
+0.437382
+0.361409
+-0.507171
+34
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+684
+0.657245
+0.823361
+0.28951
+-0.323809
+-0.027714
+35
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+272
+0.259825
+0.861745
+0.463466
+0.0199931
+-0.426459
+36
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+98
+0.424908
+0.829351
+0.347808
+-0.164118
+-0.617121
+37
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+805
+0.859805
+0.778265
+0.126778
+-0.376425
+-0.0959436
+38
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+661
+0.884824
+0.743009
+0.211275
+0.513432
+0.30331
+39
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+612
+-0.261106
+0.71815
+0.747658
+0.461063
+-0.588027
+40
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+75
+0.780466
+0.781017
+0.228103
+0.218469
+0.251583
+41
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+716
+0.78722
+0.80304
+0.18699
+-0.344398
+-0.128269
+42
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+623
+0.879865
+0.749355
+0.208152
+-0.0269896
+0.397568
+43
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+783
+0.792296
+0.765451
+0.241333
+-0.505138
+0.179976
+44
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+563
+0.760842
+0.806413
+0.154385
+-0.276855
+-0.253603
+45
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+717
+0.735787
+0.835357
+0.177098
+-0.400959
+-0.195601
+46
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+747
+0.458266
+0.867688
+0.317038
+-0.172301
+-0.36329
+47
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+156
+0.716921
+0.824696
+0.261246
+-0.0858869
+-0.196734
+48
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+47
+0.734478
+0.794026
+0.246157
+-0.526965
+-0.151077
+49
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+6
+0.586552
+0.823863
+0.295258
+0.583889
+-0.321111
+50
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+739
+1.
+0.712324
+0.0593481
+-0.189029
+0.35365
+51
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+366
+-0.135925
+-0.882716
+-0.869018
+-0.0488578
+-0.541945
+52
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+815
+0.884733
+0.724274
+0.178078
+-0.726267
+0.249388
+53
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1313
+0.693305
+0.798744
+0.282372
+0.280231
+-0.174498
+54
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+166
+0.820063
+0.758814
+0.149694
+-0.677558
+-0.340121
+55
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+192
+0.796048
+0.815764
+0.18957
+0.0534065
+0.0728857
+56
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+147
+0.613369
+0.811221
+0.311439
+-0.661417
+-0.22463
+57
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+646
+0.827707
+0.795317
+0.139707
+0.111651
+-0.187006
+58
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+452
+0.595105
+0.800086
+0.387501
+0.239396
+-0.386512
+59
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+419
+0.0996992
+0.76216
+0.583787
+0.00858828
+-0.426782
+60
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+460
+0.806425
+0.797033
+0.208162
+0.194678
+-0.0660627
+61
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1237
+0.809596
+0.810718
+0.142079
+-0.183863
+-0.146211
+62
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1066
+0.385683
+0.858493
+0.385301
+0.382074
+-0.298678
+63
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+143
+0.846117
+0.781837
+0.0745828
+0.0439047
+0.00557084
+64
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1174
+0.964351
+0.732654
+0.11649
+-0.337721
+0.316372
+65
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+897
+0.633686
+0.859603
+0.247813
+-0.0365141
+-0.182041
+66
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+611
+0.873045
+0.753827
+0.213723
+0.141789
+0.204497
+67
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+847
+0.736581
+0.787236
+0.232883
+-0.247483
+-0.00392513
+68
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1090
+0.841402
+0.745188
+0.250634
+-0.527287
+0.090325
+69
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+498
+0.78967
+0.800876
+0.149351
+0.633789
+-0.056514
+70
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+234
+0.977818
+0.717702
+0.12424
+-0.141988
+0.244538
+71
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+910
+0.959978
+0.735384
+0.0830088
+0.0154704
+0.431614
+72
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1112
+0.85947
+0.76731
+0.16382
+-0.253642
+-0.0331928
+73
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+166
+0.865746
+0.775967
+0.126468
+-0.339237
+0.195518
+74
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+793
+0.914902
+0.751454
+0.111231
+0.135374
+0.0240656
+75
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+438
+0.915114
+0.755707
+0.113281
+0.393142
+0.255608
+76
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1115
+0.897651
+0.749102
+0.14317
+-0.239182
+0.0817981
+77
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+873
+0.836031
+0.776832
+0.166457
+-0.00282456
+-0.00204937
+78
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1239
+0.535416
+0.817965
+0.277561
+0.16576
+-0.3648
+79
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+156
+0.40513
+0.793393
+0.358838
+-0.58575
+-0.0803433
+80
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+754
+0.852211
+0.758339
+0.221246
+0.0841642
+0.153334
+81
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1008
+0.850034
+0.740114
+0.234709
+0.0480892
+0.0333143
+82
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+84
+0.489445
+0.70664
+0.473052
+-0.189295
+-0.554917
+83
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+431
+0.896569
+0.787333
+0.0589992
+0.0210608
+-0.125273
+84
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+296
+0.465444
+0.718284
+0.534514
+-0.0425006
+-0.620002
+85
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+630
+0.915598
+0.743035
+0.175843
+-0.234162
+0.0258428
+86
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+288
+0.583274
+0.829967
+0.321542
+-0.0472329
+-0.446988
+87
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+373
+0.547681
+0.835465
+0.338632
+0.271738
+-0.427433
+88
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+988
+0.953031
+0.722852
+0.141517
+-0.396205
+-0.0287034
+89
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+709
+0.862299
+0.725369
+0.237158
+-0.143469
+-0.00468416
+90
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+163
+0.905799
+0.743659
+0.120901
+0.0827822
+0.443093
+91
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+433
+0.949542
+0.736512
+0.127726
+-0.185432
+0.280938
+92
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+554
+0.519333
+0.825605
+0.346808
+-0.245337
+-0.381482
+93
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+795
+0.770859
+0.8202
+0.22116
+-0.160349
+-0.151978
+94
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1084
+0.843903
+0.792612
+0.179159
+-0.229899
+-0.103581
+95
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1080
+0.673293
+0.835753
+0.232768
+-0.178088
+-0.349136
+96
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+957
+0.831988
+0.790794
+0.140644
+-0.219861
+0.0425288
+97
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+665
+0.487282
+0.807216
+0.468235
+-0.370532
+-0.392764
+98
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+496
+0.865122
+0.78013
+0.108001
+-0.0885675
+-0.0602644
+99
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+857
+0.882678
+0.738055
+0.250305
+-0.0587622
+0.336846
+100
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+858
+0.367918
+0.743059
+0.572272
+0.687832
+-0.653325
+101
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+884
+0.431548
+0.844681
+0.446644
+-0.163418
+-0.496134
+102
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+274
+0.849325
+0.798369
+0.132536
+-0.0547726
+-0.0717613
+103
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1058
+0.859244
+0.777144
+0.171739
+-0.138185
+0.126243
+104
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+838
+0.837644
+0.778999
+0.228793
+0.0734103
+0.205267
+105
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+641
+0.740633
+0.771659
+0.306507
+-0.538599
+-0.0420275
+106
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+670
+0.801387
+0.757673
+0.245737
+0.382058
+-0.0397932
+107
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+320
+0.821947
+0.781904
+0.166305
+-0.431826
+-0.158221
+108
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+335
+0.85507
+0.763082
+0.161037
+0.0350674
+0.201208
+109
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+616
+0.855864
+0.785337
+0.167519
+0.185917
+0.0996759
+110
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+979
+0.756731
+0.812442
+0.229292
+0.457327
+-0.0142923
+111
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+503
+0.79922
+0.775761
+0.236363
+-0.366691
+0.211547
+112
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+790
+0.674806
+0.774595
+0.3248
+0.338284
+-0.297618
+113
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+480
+0.940676
+0.72953
+0.183231
+0.153906
+0.390889
+114
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+909
+0.836711
+0.78075
+0.20668
+-0.445845
+0.0479999
+115
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+231
+0.796002
+0.792043
+0.146662
+-0.316035
+0.0326416
+116
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+527
+0.594515
+0.760738
+0.400506
+-0.521914
+-0.150357
+117
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+532
+0.816052
+0.771089
+0.216517
+0.0166738
+-0.0877425
+118
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+799
+0.351988
+0.84914
+0.363857
+-0.462009
+-0.370625
+119
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1127
+0.302248
+0.805087
+0.349023
+0.62012
+-0.153492
+120
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+539
+-0.386639
+0.684747
+0.705684
+-0.61949
+-0.417885
+121
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+864
+-0.639836
+0.722108
+0.625065
+0.636146
+-0.306288
+122
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+527
+0.721835
+0.815692
+0.183823
+-0.384732
+-0.334802
+123
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+801
+0.484823
+0.85348
+0.35365
+0.34065
+-0.196554
+124
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+945
+-0.0481945
+0.838591
+0.518652
+0.891437
+-0.578219
+125
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+398
+0.50875
+0.802192
+0.33563
+-0.835805
+-0.132074
+126
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+315
+-0.186275
+-0.989341
+-0.956149
+0.0879024
+-0.834195
+127
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+702
+-0.181723
+-1.
+-0.967035
+0.113466
+-0.841387
+128
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+271
+-0.189784
+-0.99165
+-0.950393
+0.113885
+-0.836951
+129
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+395
+0.857653
+0.77425
+0.18266
+-0.00439266
+0.018651
+130
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+344
+0.786921
+0.791873
+0.124483
+-0.298258
+-0.299457
+131
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+13
+0.696735
+0.798796
+0.288999
+-0.0814545
+0.177802
+132
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+631
+0.787369
+0.753264
+0.272005
+-0.617416
+-0.156826
+133
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+393
+0.446419
+0.723605
+0.48781
+0.585197
+-0.389722
+134
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+6
+0.428668
+0.671039
+0.561736
+0.0287502
+-0.549431
+135
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+897
+0.933938
+0.757033
+0.0908373
+-0.205201
+0.0039049
+136
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+533
+0.842914
+0.781155
+0.179114
+-0.390686
+0.0206705
+137
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+317
+0.186229
+0.749992
+0.619572
+0.447711
+-0.537422
+138
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+619
+0.619114
+0.824796
+0.293517
+-0.0706291
+-0.430331
+139
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+819
+0.660776
+0.788572
+0.301375
+-0.459665
+-0.055243
+140
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+659
+0.412456
+0.831015
+0.278737
+0.00942411
+-0.328317
+141
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+957
+0.565245
+0.804167
+0.236887
+0.180094
+-0.207463
+142
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+495
+0.578482
+0.772504
+0.345445
+0.749423
+-0.359082
+143
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+675
+0.787165
+0.707735
+0.326637
+-0.985551
+-0.100341
+144
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+18
+0.457185
+0.737596
+0.4979
+0.120585
+-0.434432
+145
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+579
+-0.0819638
+0.440543
+0.315908
+-0.069791
+0.120566
+146
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+308
+0.813437
+0.778592
+0.213131
+0.164714
+0.174787
+147
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+493
+0.538715
+0.829101
+0.363106
+-0.201653
+-0.397263
+148
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+280
+0.809161
+0.76093
+0.247257
+-0.630306
+0.0354564
+149
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+886
+0.922182
+0.745299
+0.140607
+-0.148703
+0.323177
+150
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+894
+0.833571
+0.758435
+0.221278
+-0.387479
+-0.199186
+151
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+707
+0.681933
+0.720279
+0.394808
+0.989997
+0.0185108
+152
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+194
+0.502566
+0.788364
+0.46093
+0.00555779
+-0.317028
+153
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+260
+0.787881
+0.782572
+0.188409
+-0.166896
+-0.132429
+154
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+657
+0.699979
+0.736787
+0.261062
+-0.184669
+-0.0359882
+155
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+721
+0.80507
+0.775148
+0.269982
+-0.0785515
+-0.12968
+156
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+716
+0.739402
+0.747402
+0.352094
+0.176758
+-0.191618
+157
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+460
+0.143947
+0.880683
+0.434238
+0.0399262
+-0.690505
+158
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+513
+0.510722
+0.890913
+0.273457
+0.146151
+-0.33651
+159
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+17
+-0.52801
+0.70514
+0.80257
+-0.071038
+-0.401081
+160
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+809
+0.725331
+0.814616
+0.226471
+-0.326226
+0.145504
+161
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+632
+0.634676
+0.847531
+0.233811
+-0.0189327
+-0.090367
+162
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+676
+0.595045
+0.774518
+0.433185
+0.315456
+-0.200666
+163
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+20
+0.71289
+0.810472
+0.205369
+-0.338846
+0.0548046
+164
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+746
+0.691351
+0.79609
+0.255402
+-0.738429
+-0.124222
+165
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+668
+0.84674
+0.774713
+0.197022
+0.417118
+0.0173041
+166
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+657
+0.838575
+0.798063
+0.118233
+0.407755
+0.0160771
+167
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+447
+0.590222
+0.818562
+0.292401
+0.299192
+-0.0593556
+168
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+504
+0.453328
+0.655831
+0.564422
+0.786633
+-0.563739
+169
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+175
+0.395535
+0.281596
+0.0191143
+0.1283
+0.618121
+170
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+357
+0.57152
+0.845358
+0.292691
+-0.219969
+-0.472491
+171
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+694
+0.576278
+0.83213
+0.365721
+0.507275
+-0.130976
+172
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+599
+0.442156
+0.788557
+0.486458
+0.198147
+-0.240713
+173
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+176
+0.818075
+0.792403
+0.208011
+-0.426665
+-0.0441837
+174
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+118
+0.76551
+0.750414
+0.362425
+0.42703
+0.171799
+175
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+107
+0.503873
+0.848273
+0.320806
+-0.23445
+-0.473397
+176
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+30
+0.605665
+0.827952
+0.350477
+0.244957
+-0.292602
+177
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+225
+0.787818
+0.821053
+0.180527
+-0.0321506
+-0.20799
+178
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+11
+0.567865
+0.772436
+0.429376
+0.573732
+-0.408596
+179
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+273
+-0.33071
+0.647319
+0.899034
+-0.085708
+-1.
+180
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+227
+0.431241
+0.836954
+0.345517
+0.335135
+-0.365446
+181
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+36
+0.0978492
+0.858504
+0.415828
+0.0436489
+-0.504122
+182
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+82
+0.381438
+0.668097
+0.56679
+-0.313722
+-0.541742
+183
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+776
+0.619368
+0.800091
+0.293754
+0.0862439
+-0.313194
+184
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+751
+0.68187
+0.813389
+0.23888
+0.576483
+-0.143672
+185
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+452
+0.596313
+0.804639
+0.35197
+0.358301
+-0.326648
+186
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+528
+0.934994
+0.744434
+0.149206
+0.441059
+-0.0111021
+187
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+445
+0.551795
+0.773834
+0.408008
+0.0384369
+-0.521073
+188
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+396
+0.624781
+0.785656
+0.321543
+-0.5107
+-0.549047
+189
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+299
+0.555035
+0.807794
+0.420913
+0.0390893
+-0.0425758
+190
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+497
+0.305749
+0.843896
+0.435435
+0.7349
+-0.635662
+191
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+685
+0.33341
+0.765009
+0.560661
+0.36055
+-0.606304
+192
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+708
+0.572851
+0.7262
+0.458566
+0.515497
+-0.434437
+193
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+737
+0.841046
+0.784885
+0.208453
+0.231488
+0.0399158
+194
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+333
+0.642829
+0.822059
+0.254992
+0.142043
+-0.457299
+195
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+763
+0.904512
+0.714161
+0.14631
+-0.562504
+-0.155447
+196
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+835
+0.279549
+0.812557
+0.418885
+-0.722238
+-0.665809
+197
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+666
+0.60636
+0.759315
+0.375778
+-0.0371677
+-0.440026
+198
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+76
+0.126305
+0.84154
+0.504571
+0.371727
+-0.582878
+199
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+634
+0.414477
+0.823162
+0.450626
+-0.113579
+-0.038259
+200
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+707
+0.32824
+0.797932
+0.51717
+0.162888
+-0.604791
+201
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+262
+0.31104
+0.884599
+0.384157
+-0.170076
+-0.378298
+202
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+554
+0.855182
+0.752305
+0.219324
+-0.437279
+0.249271
+203
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+757
+0.756739
+0.815298
+0.222108
+0.141644
+-0.0123685
+204
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+541
+0.891648
+0.756033
+0.125155
+-0.0522675
+0.140897
+205
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+289
+0.827545
+0.738524
+0.294652
+0.0812701
+0.109589
+206
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+861
+0.6248
+0.808728
+0.278442
+0.0289447
+-0.0113578
+207
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+649
+0.664069
+0.766767
+0.383127
+-0.135167
+-0.147769
+208
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+458
+0.708541
+0.823627
+0.244466
+0.0000472279
+-0.11578
+209
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+151
+0.0206549
+0.720414
+0.720621
+0.377343
+-0.796726
+210
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+205
+-0.413305
+0.751663
+0.719036
+-0.551738
+-0.691234
+211
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+257
+0.703933
+0.831502
+0.23785
+0.103819
+-0.194667
+212
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+60
+0.905704
+0.767102
+0.121791
+-0.108135
+0.122689
+213
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+288
+0.781256
+0.819511
+0.203323
+-0.00178388
+0.0751584
+214
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+75
+0.879178
+0.765254
+0.172395
+-0.157064
+-0.0294325
+215
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+529
+0.0385095
+0.816449
+0.581086
+-0.163599
+-0.789731
+216
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+817
+0.139398
+0.867336
+0.389759
+-0.662236
+-0.729611
+217
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+399
+0.420863
+0.723873
+0.488161
+0.0995381
+-0.533263
+218
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+758
+0.409968
+0.882452
+0.25076
+0.022979
+-0.43158
+219
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+844
+0.466451
+0.832793
+0.368684
+0.482026
+-0.18996
+220
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+414
+0.358067
+0.809173
+0.460145
+-0.473781
+-0.318852
+221
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+78
+0.521482
+0.792834
+0.391448
+-0.276176
+-0.436484
+222
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+807
+0.786817
+0.74693
+0.221093
+0.742352
+0.294426
+223
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+494
+0.594034
+0.741178
+0.516637
+0.504463
+-0.201971
+224
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+299
+0.128894
+0.883308
+0.429451
+0.436339
+-0.650269
+225
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+352
+-0.0734301
+0.790607
+0.701465
+0.506499
+-0.738328
+226
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+55
+0.926707
+0.740214
+0.139423
+-0.0928681
+0.200157
+227
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+502
+0.888619
+0.73592
+0.216381
+0.256585
+0.116774
+228
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+339
+0.899928
+0.731259
+0.215679
+0.592434
+-0.0627197
+229
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+734
+0.88483
+0.748661
+0.17085
+-0.161143
+0.0917034
+230
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+532
+0.461434
+0.809569
+0.393982
+0.38135
+-0.518239
+231
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+351
+0.519462
+0.720989
+0.48056
+-0.25565
+-0.601344
+232
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+728
+0.912782
+0.730205
+0.215568
+0.622524
+0.113351
+233
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+789
+0.520104
+0.884614
+0.259961
+0.310756
+-0.50332
+234
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+706
+0.0343334
+0.777203
+0.642917
+-0.238089
+-0.691377
+235
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+636
+0.581232
+0.671379
+0.52458
+-0.19758
+-0.624146
+236
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+631
+0.521858
+0.760297
+0.43046
+-0.220931
+-0.518997
+237
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+665
+0.19938
+0.744803
+0.647744
+0.141399
+-0.690578
+238
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+865
+0.348401
+0.826689
+0.38551
+0.378121
+-0.1424
+239
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+885
+-0.284498
+0.674655
+0.641519
+0.735047
+-0.535864
+240
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+605
+-0.146513
+-0.992327
+-1.
+-0.0340857
+-0.519181
+241
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+632
+0.480124
+0.825121
+0.375221
+0.0277281
+-0.150282
+242
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+441
+0.688546
+0.776464
+0.24803
+-0.0542297
+-0.100285
+243
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+217
+0.493896
+0.848501
+0.381585
+-0.330194
+-0.406468
+244
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+344
+0.59297
+0.831085
+0.371051
+-0.351944
+-0.158542
+245
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+511
+0.880384
+0.772503
+0.095205
+-0.0651017
+-0.0369146
+246
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+307
+0.853361
+0.753197
+0.225109
+0.0852706
+0.00943481
+247
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+493
+0.91697
+0.771385
+0.0896799
+-0.217663
+0.157355
+248
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+462
+0.579422
+0.679964
+0.461217
+-0.154467
+-0.487485
+249
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+17
+0.876572
+0.782724
+0.110088
+-0.121964
+-0.0972483
+250
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+44
+0.902878
+0.730851
+0.189178
+0.291025
+0.238354
+251
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+380
+0.876222
+0.751744
+0.158638
+-0.024295
+0.0748014
+252
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+278
+0.883137
+0.785506
+0.0703005
+-0.191929
+0.0233104
+253
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+414
+0.91869
+0.74328
+0.136935
+-0.170676
+0.113072
+254
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+602
+0.923314
+0.755143
+0.149199
+0.200298
+0.280249
+255
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+112
+0.737308
+0.811921
+0.14489
+0.162216
+-0.068925
+256
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+621
+0.638388
+0.829409
+0.227191
+0.151086
+-0.151917
+257
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+480
+0.43672
+0.843902
+0.246348
+0.153834
+-0.360446
+258
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+599
+0.503336
+0.840677
+0.301337
+0.308632
+-0.32127
+259
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+572
+0.349505
+0.85194
+0.377495
+0.198327
+-0.226655
+260
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+13
+-0.0853222
+-0.846416
+-0.919407
+-0.0194673
+-0.35161
+261
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+199
+0.450789
+0.820535
+0.363987
+-0.202353
+-0.0930306
+262
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+554
+0.778086
+0.771913
+0.257096
+0.487341
+-0.194703
+263
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+521
+0.951267
+0.733268
+0.0942588
+0.0390013
+0.27557
+264
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+139
+0.93069
+0.736415
+0.162077
+0.212837
+0.275075
+265
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+266
+0.939513
+0.72893
+0.139456
+-0.569723
+0.289347
+266
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+421
+0.560375
+0.84579
+0.206572
+-0.573653
+-0.440456
+267
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+347
+0.829952
+0.737488
+0.278004
+-0.727043
+-0.209944
+268
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+175
+0.601628
+0.835728
+0.304169
+-0.194269
+-0.515652
+269
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+544
+0.775833
+0.790931
+0.211454
+-0.266184
+-0.157869
+270
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+136
+0.803933
+0.811797
+0.159921
+-0.356682
+-0.236273
+271
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+345
+0.797741
+0.795803
+0.146701
+-0.152102
+-0.237821
+272
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+513
+0.881042
+0.708169
+0.206375
+-0.368749
+0.400162
+273
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+7
+0.175749
+0.833754
+0.548673
+-0.409375
+-0.516092
+274
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+185
+0.278088
+0.675647
+0.61416
+0.0448835
+-0.69714
+275
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+439
+0.321018
+0.876308
+0.385305
+-0.30298
+-0.574672
+276
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+549
+0.441037
+0.856761
+0.356897
+0.00268343
+-0.454163
+277
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+455
+0.545289
+0.858912
+0.260574
+0.262513
+-0.401246
+278
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+584
+0.0412917
+0.811845
+0.562827
+0.373353
+-0.404244
+279
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+507
+0.0843519
+0.680782
+0.747801
+0.450858
+-0.690837
+280
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+466
+0.523779
+0.770933
+0.398835
+0.0634642
+-0.224764
+281
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+267
+0.60278
+0.590378
+0.238505
+-0.479984
+-0.130892
+282
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+62
+0.609226
+0.826835
+0.28603
+0.294244
+-0.218825
+283
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+430
+0.548972
+0.730296
+0.391994
+-0.250923
+-0.319282
+284
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+340
+0.381495
+0.790041
+0.425672
+0.304557
+-0.14375
+285
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+115
+0.421934
+0.772595
+0.481591
+0.192113
+-0.655067
+286
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+370
+0.606408
+0.68818
+0.503704
+-0.0053864
+-0.483768
+287
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+511
+0.855088
+0.794591
+0.106457
+0.0671098
+-0.0416773
+288
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+168
+0.513026
+0.790444
+0.367747
+-0.305237
+-0.478527
+289
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+319
+0.179758
+0.777033
+0.61835
+0.207797
+-0.66492
+290
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+399
+-0.106759
+0.737077
+0.749614
+0.265436
+-0.743577
+291
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+224
+0.427473
+0.781477
+0.459201
+-0.0771201
+-0.446474
+292
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+249
+0.027775
+0.867052
+0.514211
+-0.0618513
+-0.582732
+293
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+537
+0.40665
+0.795025
+0.472738
+-0.141953
+-0.673748
+294
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+458
+0.139622
+0.849597
+0.519993
+0.0422413
+-0.654346
+295
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+28
+0.603465
+0.777089
+0.32535
+0.0447247
+0.358079
+296
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+519
+0.401862
+0.842677
+0.439866
+-0.392499
+-0.563171
+297
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+48
+0.705314
+0.803674
+0.208794
+-0.12872
+-0.267289
+298
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+77
+0.755861
+0.792236
+0.253778
+-0.0609723
+-0.132215
+299
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+353
+0.592243
+0.850079
+0.205786
+0.33529
+-0.244443
+300
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+321
+0.0614659
+0.700742
+0.686245
+0.656353
+-0.598551
+301
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+213
+0.353351
+0.818436
+0.436411
+-0.327439
+-0.637816
+302
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+469
+0.54888
+0.808081
+0.284143
+-0.452785
+-0.349683
+303
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+281
+0.273864
+0.708491
+0.683503
+0.105934
+-0.543922
+304
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+175
+0.299251
+0.767083
+0.518578
+0.3695
+-0.618661
+305
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+124
+0.356552
+0.748423
+0.536764
+0.105197
+-0.547961
+306
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+459
+-0.0000905211
+0.743705
+0.636936
+-0.643471
+-0.476702
+307
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+28
+0.29625
+0.76326
+0.565139
+0.690429
+-0.337365
+308
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+100
+0.677169
+0.824907
+0.268003
+-0.0447944
+-0.350898
+309
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+85
+-0.0463249
+0.759704
+0.692337
+0.0211368
+-0.58266
+310
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+236
+0.420733
+0.802229
+0.524215
+-0.238442
+0.0713099
+311
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+210
+0.516292
+0.757759
+0.465664
+-0.140611
+-0.0337069
+312
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+250
+-0.1684
+-0.880548
+-0.85924
+0.0761111
+-0.578483
+313
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+425
+0.176996
+0.723283
+0.654692
+0.116613
+-0.658597
+314
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+42
+0.0569716
+0.845669
+0.55715
+-0.358336
+-0.725595
+315
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+69
+0.84984
+0.769221
+0.104793
+-0.282034
+-0.183674
+316
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+86
+0.292782
+0.805595
+0.497684
+-0.129906
+-0.460225
+317
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+363
+0.616603
+0.783295
+0.34611
+0.199812
+-0.00731453
+318
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+257
+0.506905
+0.783721
+0.453596
+-0.363402
+-0.30442
+319
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+437
+0.351295
+0.817891
+0.404181
+-0.336155
+-0.631931
+320
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+40
+-0.101862
+0.725636
+0.660203
+0.376618
+-0.65887
+321
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+270
+0.196043
+0.577909
+0.665188
+0.69596
+-0.640798
+322
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+407
+0.652367
+0.800466
+0.330162
+0.0576956
+-0.274225
+323
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+438
+0.300373
+0.842783
+0.440937
+0.353792
+-0.525943
+324
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+103
+-0.451872
+0.761773
+0.744087
+-0.204968
+-0.77293
+325
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+292
+-0.168077
+-0.855708
+-0.848752
+0.0444178
+-0.419946
+326
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+381
+0.564645
+0.313079
+0.00618928
+0.0742937
+0.786343
+327
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+118
+0.482495
+0.210551
+-0.00798334
+-0.15452
+0.337725
+328
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+234
+0.528829
+0.79491
+0.481025
+-0.0365694
+0.0131161
+329
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+329
+0.6504
+0.767136
+0.30455
+-0.35262
+-0.345847
+330
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+177
+0.0340639
+0.354012
+0.73061
+-0.149669
+-0.556263
+331
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+178
+-0.0499663
+0.70302
+0.7611
+0.421475
+-0.767182
+332
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+1
+-0.0665691
+0.797354
+0.677544
+0.115151
+-0.66401
+333
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+346
+0.694234
+0.846113
+0.168823
+0.168623
+-0.236376
+334
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+543
+0.845828
+0.770539
+0.160402
+-0.0781348
+-0.0880949
+335
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+9
+0.918338
+0.7274
+0.188762
+-0.0201044
+0.0349149
+336
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+287
+0.170034
+0.836195
+0.456775
+-0.800051
+-0.741656
+337
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+167
+0.563537
+0.765975
+0.385135
+-0.273042
+-0.573034
+338
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+351
+0.743652
+0.765309
+0.280238
+0.601401
+-0.0959422
+339
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+356
+-0.427976
+0.666051
+0.838326
+0.32764
+-0.689177
+340
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+91
+0.476153
+0.735827
+0.479448
+0.172961
+-0.503054
+341
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+141
+0.311236
+0.87208
+0.373102
+-0.137464
+-0.460026
+342
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+526
+-0.158723
+-0.89452
+-0.874125
+0.040346
+-0.400556
+343
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+236
+0.052028
+-0.611268
+-0.695588
+-0.130244
+0.12568
+344
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+351
+0.609199
+0.688885
+0.469958
+-0.223185
+-0.391507
+345
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+522
+0.887995
+0.759655
+0.149111
+0.012802
+0.0822255
+346
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+344
+0.805985
+0.788032
+0.19113
+-0.358765
+0.0252487
+347
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+137
+0.465455
+0.837959
+0.419679
+0.103031
+-0.481674
+348
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+69
+0.374319
+0.868399
+0.405892
+-0.521163
+-0.500495
+349
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+394
+0.819737
+0.784851
+0.215141
+0.330499
+0.0802001
+350
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+497
+0.0131737
+0.851257
+0.565394
+-0.253281
+-0.771573
+351
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+242
+0.643876
+0.841147
+0.27205
+-0.100247
+0.0345901
+352
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+198
+0.733299
+0.828828
+0.157887
+-0.235829
+-0.341962
+353
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+21
+0.383033
+0.817378
+0.442932
+0.0260228
+-0.22304
+354
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+419
+0.543899
+0.779746
+0.417968
+-0.217376
+-0.126251
+355
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+263
+0.839833
+0.754251
+0.157571
+0.0852597
+0.0299867
+356
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+431
+0.612637
+0.805352
+0.141661
+-0.72408
+-0.397363
+357
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+135
+0.798124
+0.760514
+0.107597
+-0.806983
+-0.0197845
+358
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+498
+0.267158
+0.830902
+0.328155
+-0.0249229
+-0.176858
+359
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+230
+-0.0171914
+0.770568
+0.412654
+0.0505815
+-0.161165
+360
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+309
+-0.697227
+0.57243
+0.827159
+0.13229
+-0.385826
+361
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+168
+-0.743386
+0.599293
+0.906536
+-0.381761
+-0.454824
+362
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+53
+-0.370893
+0.599015
+0.960169
+-0.179079
+-0.820411
+363
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+388
+-0.567595
+0.640935
+0.893978
+0.206843
+-0.642304
+364
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+354
+-0.233082
+0.685098
+0.878757
+0.158943
+-0.443965
+365
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+116
+-0.145292
+0.725579
+0.725089
+0.523265
+-0.841252
+366
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+133
+-0.380564
+0.570781
+0.999116
+-0.0329008
+-0.781817
+367
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+3
+0.541364
+0.737331
+0.475475
+-0.131674
+-0.195848
+368
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+235
+0.662552
+0.651649
+0.505023
+0.272885
+0.0453269
+369
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+103
+0.566838
+0.32992
+-0.0581397
+-0.21446
+1.
+370
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+327
+-0.0825224
+-0.833214
+-0.901757
+-0.0321132
+-0.517752
+371
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+158
+0.248234
+0.867319
+0.387091
+0.471694
+-0.488957
+372
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+111
+-0.0553818
+0.806941
+0.682146
+0.402841
+-0.639698
+373
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+223
+-0.162695
+0.736275
+0.718008
+0.0880874
+-0.662387
+374
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+213
+0.174289
+0.469833
+0.691966
+-0.011124
+-0.538423
+375
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+292
+0.718783
+0.757094
+0.334636
+-0.0229249
+-0.0751404
+376
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+22
+-0.290226
+0.594131
+1.
+0.276782
+-0.818179
+377
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+241
+-0.327268
+0.607734
+0.880591
+-0.337904
+-0.73885
+378
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+162
+0.449284
+0.695005
+0.533276
+0.150977
+-0.195755
+379
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+298
+-0.0102823
+0.727243
+0.666214
+-0.0116952
+-0.734436
+380
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+9
+0.152052
+0.737881
+0.651926
+-0.113827
+-0.608682
+381
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+305
+0.25991
+0.769678
+0.530324
+0.745291
+-0.593886
+382
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+308
+0.686242
+0.816741
+0.250428
+-0.533372
+-0.0595371
+383
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+262
+0.599121
+0.793577
+0.324623
+-0.499622
+-0.520589
+384
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+42
+0.686929
+0.819699
+0.283921
+0.07522
+0.154225
+385
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+130
+0.692134
+0.844661
+0.171479
+0.168913
+-0.32548
+386
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+70
+0.7103
+0.713654
+0.430566
+0.603798
+-0.0754025
+387
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+375
+0.488751
+0.82848
+0.41402
+-0.0104187
+-0.519329
+388
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+202
+0.335763
+0.901591
+0.318775
+-0.0989402
+-0.492011
+389
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+311
+-0.176195
+-0.902359
+-0.876266
+0.050214
+-0.433989
+390
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+91
+0.404088
+0.613238
+0.344627
+0.350628
+0.500744
+391
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+85
+0.454623
+0.677102
+0.436014
+0.0885667
+0.178216
+392
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+111
+0.465152
+0.724419
+0.586128
+0.222019
+-0.541913
+393
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+263
+0.609798
+0.85517
+0.253763
+0.0553965
+-0.324385
+394
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+230
+0.702205
+0.836786
+0.252692
+-0.180367
+-0.104487
+395
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+183
+0.0264164
+0.808722
+0.607073
+-0.132452
+-0.634715
+396
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+198
+0.413255
+0.845482
+0.403465
+0.0662284
+-0.570204
+397
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+33
+0.242778
+0.850848
+0.435031
+-0.187645
+-0.612684
+398
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+87
+0.745845
+0.791632
+0.272929
+0.335578
+0.201622
+399
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+370
+0.11572
+0.697352
+0.670574
+-0.18982
+-0.714096
+400
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+19
+0.522105
+0.694871
+0.369866
+0.0282071
+0.307448
+401
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+108
+0.517899
+0.610804
+0.237019
+0.177545
+0.161496
+402
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+227
+0.51831
+0.626659
+0.245298
+-0.254114
+0.290015
+403
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+16
+0.179515
+0.637785
+0.512571
+-0.326889
+0.405044
+404
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+41
+0.529668
+0.748189
+0.447304
+-0.486644
+-0.136351
+405
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+121
+0.773387
+0.754436
+0.32103
+-0.0353358
+0.228455
+406
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+48
+-0.114613
+-0.991055
+-0.995451
+-0.0887581
+-0.48769
+407
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+4
+-0.129746
+-0.995984
+-0.991417
+-0.0192671
+-0.5167
+408
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+198
+0.506217
+0.831838
+0.334116
+-0.108191
+-0.0871533
+409
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+40
+0.64884
+0.747907
+0.367641
+-0.274136
+-0.290456
+410
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+11
+0.942644
+0.729094
+0.130897
+0.0101094
+0.222388
+411
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+160
+0.905574
+0.760385
+0.142958
+-0.0901646
+0.132804
+412
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+80
+0.910658
+0.737397
+0.206101
+-0.0141575
+0.105836
+413
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+19
+0.900944
+0.733622
+0.191228
+0.0447229
+-0.0303222
+414
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+235
+0.86774
+0.757132
+0.187158
+-0.105592
+0.0192221
+415
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+123
+0.883312
+0.74891
+0.177561
+-0.0870581
+-0.00954799
+416
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+74
+0.130166
+0.705385
+0.627262
+-0.247881
+-0.711724
+417
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+101
+0.575607
+0.840437
+0.299661
+-0.180431
+-0.268473
+418
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+21
+0.57125
+0.814991
+0.295081
+0.322794
+-0.282717
+419
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+12
+-0.178368
+0.813698
+0.566772
+0.291287
+-0.462221
+420
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+211
+0.410799
+0.669983
+0.43865
+0.0866846
+0.590862
+421
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+85
+0.544155
+0.757085
+0.461577
+-0.115436
+0.100769
+422
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+51
+0.801675
+0.688076
+0.351813
+0.24358
+0.277854
+423
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+59
+0.0717153
+0.784931
+0.601205
+0.761101
+-0.511773
+424
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+98
+0.0307349
+0.772175
+0.632056
+0.46911
+-0.627892
+425
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+90
+-0.0924653
+0.728701
+0.718701
+0.083467
+-0.515638
+426
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+180
+-0.158162
+0.759372
+0.732012
+-0.14272
+-0.97928
+427
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+8
+0.432763
+0.769667
+0.507591
+-0.342903
+-0.392193
+428
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+103
+0.0653308
+0.73381
+0.689071
+-0.312289
+-0.855564
+429
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+60
+0.0158207
+0.77633
+0.660261
+-0.476733
+-0.893953
+430
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+130
+0.452333
+0.869277
+0.342175
+0.0725421
+-0.452482
+431
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+4
+0.297943
+0.858127
+0.428193
+0.00650882
+-0.554085
+432
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+106
+0.275646
+0.87137
+0.380203
+-0.0924778
+-0.626889
+433
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+161
+-0.0351694
+0.839522
+0.587151
+0.209476
+-0.735172
+434
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+32
+-0.0752173
+0.712518
+0.850611
+0.124649
+-0.763419
+435
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+160
+-0.121783
+0.79651
+0.649898
+0.0529046
+-0.77682
+436
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+97
+0.500812
+0.766115
+0.397027
+0.0690238
+-0.321784
+437
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+244
+0.417846
+0.68237
+0.583733
+0.224353
+-0.61121
+438
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+44
+-0.320699
+0.690776
+0.863312
+0.227476
+-0.829184
+439
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+207
+0.0983266
+0.852913
+0.469848
+0.131783
+-0.409635
+440
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+89
+-0.346445
+0.4676
+0.964932
+0.181287
+-0.511064
+441
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+714
+0.743118
+0.795936
+0.243905
+-0.0106747
+-0.0461079
+442
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+421
+0.583755
+0.820333
+0.3679
+0.172908
+-0.273413
+443
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+88
+0.628667
+0.804122
+0.34599
+-0.563485
+-0.433682
+444
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+320
+0.928601
+0.743564
+0.0756686
+0.329984
+0.0658702
+445
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+215
+0.145845
+0.703265
+0.710866
+0.20103
+-0.320186
+446
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+731
+0.646482
+0.78288
+0.361842
+0.376252
+0.211036
+447
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+665
+0.883669
+0.748493
+0.13117
+0.122631
+0.357544
+448
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+848
+0.820143
+0.779019
+0.220593
+-0.237836
+0.312117
+449
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+796
+0.875342
+0.771973
+0.143311
+-0.128344
+-0.0151882
+450
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+112
+0.727511
+0.774592
+0.376135
+0.281551
+0.177
+451
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+667
+0.642249
+0.776279
+0.355755
+-0.245455
+-0.15143
+452
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+909
+0.345979
+0.800885
+0.554464
+-0.364013
+-0.569297
+453
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+9
+0.635596
+0.809328
+0.34465
+-0.516408
+-0.145955
+454
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+624
+0.557514
+0.852658
+0.30401
+-0.212077
+-0.330521
+455
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+1004
+0.619607
+0.821899
+0.356019
+-0.0237349
+-0.0542128
+456
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+897
+0.923109
+0.738712
+0.104643
+0.476814
+0.389414
+457
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+621
+0.62533
+0.804344
+0.298678
+-0.241053
+-0.365471
+458
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+712
+0.615787
+0.826944
+0.278684
+0.0169718
+-0.273008
+459
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+48
+0.428983
+0.842652
+0.358035
+-0.468927
+-0.407619
+460
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+576
+0.176152
+0.603906
+0.640175
+0.00385361
+-0.316501
+461
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+104
+0.0370314
+0.497509
+0.728124
+0.0651359
+-0.433251
+462
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+24
+-0.346445
+0.4676
+0.964932
+0.181287
+-0.511064
+463
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+132
+-0.125307
+0.528768
+0.840134
+-0.16042
+-0.485259
+464
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+10
+0.828399
+0.791536
+0.167936
+0.0135072
+-0.0486951
+465
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+169
+0.871393
+0.752516
+0.215885
+-0.143593
+0.212914
+466
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+7
+0.639341
+0.784464
+0.259349
+-0.296851
+0.0979897
+467
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+168
+0.612231
+0.815541
+0.293512
+-0.110855
+-0.0905131
+468
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+5
+0.295409
+0.688973
+0.274386
+0.090386
+-0.356983
+469
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+69
+0.00571148
+-0.081403
+-0.25349
+0.707544
+0.000574813
+470
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+33
+0.136676
+0.564056
+0.520283
+0.280998
+-0.314221
+471
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+108
+0.63167
+0.759822
+0.366017
+-0.0156708
+0.317354
+472
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+49
+0.736773
+0.79175
+0.289811
+-0.160341
+-0.0411749
+473
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+135
+0.829448
+0.743535
+0.305581
+-0.133181
+0.216725
+474
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+60
+0.811589
+0.781353
+0.171984
+-0.14199
+0.341335
+475
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+40
+0.74047
+0.747485
+0.239549
+-0.3344
+0.350614
+476
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+89
+0.661866
+0.793862
+0.212251
+0.0950252
+0.0248949
+477
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+70
+0.77828
+0.812595
+0.129937
+0.0438907
+0.0727556
+478
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+9
+0.738572
+0.791207
+0.197887
+-0.351294
+0.12134
+479
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+142
+0.505945
+0.802465
+0.406694
+-0.739349
+-0.237736
+480
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+176
+0.500825
+0.922816
+-0.339033
+0.225227
+-0.275083
+481
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+826
+0.563092
+0.933663
+-0.306129
+0.156377
+-0.399652
+482
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+188
+0.614476
+0.920736
+-0.307798
+0.222246
+-0.418911
+483
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+176
+0.617369
+0.917772
+-0.327194
+0.393974
+-0.346974
+484
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+565
+0.355304
+0.963492
+-0.252386
+0.672288
+-0.472939
+485
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+952
+0.366092
+0.934358
+-0.299117
+-0.342084
+-0.436108
+486
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1238
+0.490775
+0.940275
+-0.327242
+0.00252018
+-0.408168
+487
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+501
+0.251079
+0.969212
+-0.176676
+-0.339649
+-0.581276
+488
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+380
+0.683883
+0.912619
+-0.274002
+-0.0639957
+-0.458355
+489
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+423
+0.440414
+0.917922
+-0.328968
+0.752704
+-0.300173
+490
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+90
+0.367124
+0.946147
+-0.115731
+0.019661
+-0.730889
+491
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+217
+0.702736
+0.905862
+-0.348763
+-0.372682
+-0.497967
+492
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+839
+0.630041
+0.9121
+-0.348065
+-0.414923
+-0.474544
+493
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+219
+0.758435
+0.881957
+-0.349143
+-0.206638
+-0.387559
+494
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+360
+0.822748
+0.858083
+-0.306937
+-0.0171122
+-0.399924
+495
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1018
+0.727772
+0.895746
+-0.318543
+0.151627
+-0.460205
+496
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+454
+0.304527
+0.963814
+-0.196911
+0.178132
+-0.537311
+497
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+234
+0.537675
+0.939283
+-0.222505
+-0.132135
+-0.594521
+498
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+588
+0.764401
+0.868018
+-0.284918
+0.0271327
+-0.499663
+499
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+824
+0.575122
+0.936359
+-0.286952
+0.384337
+-0.415952
+500
+NC_006088.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 1  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1075
+0.66896
+0.903028
+-0.296255
+-0.0608845
+-0.385993
+501
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+626
+0.713399
+0.899298
+-0.352467
+-0.624123
+-0.457585
+502
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+335
+0.655892
+0.910279
+-0.374843
+-0.363191
+-0.389814
+503
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+914
+0.679583
+0.905955
+-0.304667
+0.324836
+-0.379722
+504
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+120
+0.428283
+0.952548
+-0.264638
+0.397739
+-0.361902
+505
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+241
+0.814914
+0.865747
+-0.403498
+0.502269
+-0.302808
+506
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+702
+0.781651
+0.894475
+-0.363413
+-0.211808
+-0.414516
+507
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+700
+0.51938
+0.951299
+-0.291467
+-0.302216
+-0.533868
+508
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+450
+0.525656
+0.952622
+-0.282942
+-0.25515
+-0.517383
+509
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+78
+0.765587
+0.885561
+-0.366709
+-0.589129
+-0.457343
+510
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+827
+0.674924
+0.90055
+-0.284933
+-0.108421
+-0.536673
+511
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+234
+0.406191
+0.936521
+-0.33576
+0.889928
+-0.408998
+512
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+890
+0.267876
+0.942621
+-0.259024
+-0.47279
+-0.379252
+513
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+215
+0.716363
+0.891528
+-0.332709
+-0.106335
+-0.34929
+514
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+188
+0.642094
+0.919624
+-0.314785
+0.462883
+-0.373828
+515
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+940
+0.411721
+0.950373
+-0.293177
+0.660685
+-0.460245
+516
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+153
+0.587489
+0.928728
+-0.289159
+0.39778
+-0.420355
+517
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+303
+0.375477
+0.955777
+-0.267803
+0.206996
+-0.465272
+518
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+359
+0.355841
+0.952969
+-0.308507
+-0.54701
+-0.509669
+519
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+600
+0.431567
+0.932159
+-0.249639
+0.0628897
+-0.529409
+520
+NC_006089.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 2  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+256
+0.430159
+0.950329
+-0.303448
+0.173989
+-0.417684
+521
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+23
+-0.124434
+0.934243
+-0.0426415
+-0.049562
+-0.0897506
+522
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+550
+0.410594
+0.959814
+-0.276182
+0.653422
+-0.434573
+523
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+96
+0.667568
+0.901127
+-0.35653
+-0.487946
+-0.457971
+524
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+287
+0.189874
+0.970753
+-0.150501
+0.10072
+-0.513882
+525
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+0.394414
+0.936853
+-0.323707
+0.948897
+-0.341279
+526
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+573
+0.208865
+0.972484
+-0.183063
+-0.541424
+-0.579405
+527
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+685
+0.550382
+0.924883
+-0.31389
+0.624475
+-0.357037
+528
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+481
+0.477567
+0.931016
+-0.32739
+-0.143136
+-0.453797
+529
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+728
+0.549702
+0.951929
+-0.224562
+0.178945
+-0.53391
+530
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+204
+0.422693
+0.95436
+-0.199396
+0.361802
+-0.456539
+531
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+581
+0.682348
+0.89794
+-0.335063
+0.53826
+-0.337417
+532
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+371
+0.423061
+0.94328
+-0.295227
+0.353842
+-0.373688
+533
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+722
+0.753435
+0.899295
+-0.349396
+0.00354888
+-0.438829
+534
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+78
+0.788916
+0.884914
+-0.335926
+0.207799
+-0.396528
+535
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+74
+0.409545
+0.93912
+-0.297336
+0.38764
+-0.404827
+536
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+443
+0.625059
+0.925345
+-0.315853
+0.494048
+-0.411064
+537
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+221
+0.532728
+0.936373
+-0.240022
+0.15892
+-0.436544
+538
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+335
+0.545651
+0.919521
+-0.299055
+0.592846
+-0.352175
+539
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+107
+0.21338
+0.963227
+-0.271574
+-0.51746
+-0.463049
+540
+NC_006090.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 3  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+118
+-0.213449
+0.966911
+-0.144586
+0.48125
+-0.108776
+541
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+507
+-0.18993
+0.969712
+-0.132771
+0.741513
+-0.0783115
+542
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+26
+0.158695
+0.98178
+-0.243837
+0.733259
+-0.279882
+543
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+385
+0.78647
+0.886162
+-0.38052
+-0.472407
+-0.389514
+544
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+102
+0.659404
+0.912246
+-0.352823
+-0.429178
+-0.409555
+545
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+515
+0.388628
+0.961567
+-0.260772
+0.338571
+-0.371631
+546
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+294
+0.906717
+0.830093
+-0.418461
+0.481576
+-0.218952
+547
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+65
+0.121773
+0.956135
+-0.20434
+-0.241333
+-0.435678
+548
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+259
+0.881144
+0.842887
+-0.382095
+-0.243628
+-0.294759
+549
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+374
+0.32074
+0.964959
+-0.308606
+-0.455876
+-0.563915
+550
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+288
+0.379958
+0.962247
+-0.273745
+-0.743871
+-0.667028
+551
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+420
+0.498731
+0.947312
+-0.253168
+-0.139671
+-0.580302
+552
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+105
+0.720275
+0.894649
+-0.410575
+-0.413875
+-0.446809
+553
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+330
+0.630655
+0.92662
+-0.339571
+-0.479025
+-0.459404
+554
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+446
+0.884429
+0.849579
+-0.413772
+0.221463
+-0.274788
+555
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+0.795413
+0.894474
+-0.342187
+0.136249
+-0.383719
+556
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+33
+0.465359
+0.951684
+-0.29648
+0.317738
+-0.409256
+557
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+569
+0.676786
+0.909091
+-0.317082
+0.320634
+-0.385017
+558
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+185
+0.0135789
+0.980352
+-0.0206443
+-0.141075
+-0.498405
+559
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+340
+0.330574
+0.971432
+-0.231278
+-0.095147
+-0.529537
+560
+NC_006091.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 4  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+568
+0.356152
+0.948213
+-0.241937
+0.627313
+-0.325076
+561
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+205
+0.835196
+0.855325
+-0.351776
+-0.208833
+-0.376917
+562
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+119
+0.635385
+0.918859
+-0.401888
+-0.011909
+-0.396859
+563
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+334
+0.243755
+0.959831
+-0.274617
+-0.644241
+-0.511468
+564
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+28
+0.303216
+0.94984
+-0.216752
+-0.355755
+-0.377218
+565
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+130
+0.469763
+0.962387
+-0.272459
+0.645097
+-0.504284
+566
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+83
+0.514054
+0.933218
+-0.318543
+0.307837
+-0.390965
+567
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+233
+0.97111
+0.813349
+-0.429554
+-0.195145
+-0.238581
+568
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+375
+0.608337
+0.926104
+-0.318469
+-0.0611922
+-0.433356
+569
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+268
+0.88337
+0.848825
+-0.406857
+-0.194038
+-0.261369
+570
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+25
+0.547382
+0.944658
+-0.246351
+0.491081
+-0.456812
+571
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+92
+0.730793
+0.912968
+-0.367457
+-0.456667
+-0.538087
+572
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+60
+0.878272
+0.846782
+-0.354563
+0.0357487
+-0.34505
+573
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+303
+0.43922
+0.950688
+-0.315616
+-0.14102
+-0.391824
+574
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+385
+0.673661
+0.923498
+-0.371075
+0.510748
+-0.423408
+575
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+317
+0.182625
+0.950058
+-0.159032
+0.413931
+-0.265117
+576
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+286
+0.114932
+0.968492
+-0.215101
+-0.270215
+-0.360951
+577
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+51
+0.222473
+0.975153
+-0.209306
+0.679126
+-0.411052
+578
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+137
+0.141917
+0.981775
+-0.200979
+-0.493402
+-0.480705
+579
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+349
+-0.359073
+0.946341
+-0.00600291
+-0.0287607
+-0.2668
+580
+NC_006092.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 5  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+274
+0.623187
+0.923698
+-0.352108
+0.576807
+-0.453118
+581
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+19
+0.751958
+0.879655
+-0.397185
+0.599491
+-0.330682
+582
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+215
+0.494286
+0.933473
+-0.340383
+0.705505
+-0.35207
+583
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+23
+0.368905
+0.935209
+-0.29017
+-0.831682
+-0.55952
+584
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+67
+0.576532
+0.936072
+-0.30811
+0.609827
+-0.472488
+585
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+116
+0.372991
+0.934394
+-0.317228
+-0.586674
+-0.444238
+586
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+28
+0.503208
+0.904292
+-0.337636
+0.100685
+-0.242131
+587
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+157
+0.146454
+0.869738
+-0.165098
+-0.221291
+-0.488025
+588
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+138
+0.435878
+0.965381
+-0.252709
+0.440775
+-0.386989
+589
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+57
+0.580626
+0.936999
+-0.37069
+0.0465323
+-0.465389
+590
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+229
+0.60966
+0.935156
+-0.313028
+-0.295406
+-0.523296
+591
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+47
+0.488265
+0.960349
+-0.229485
+0.112424
+-0.528231
+592
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+70
+0.577052
+0.935565
+-0.343678
+-0.358844
+-0.434983
+593
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+99
+0.680563
+0.883136
+-0.35733
+0.0162241
+-0.209496
+594
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+121
+0.44944
+0.967065
+-0.285472
+-0.449149
+-0.538879
+595
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+37
+0.576442
+0.938616
+-0.379086
+-0.448793
+-0.40839
+596
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+126
+0.299539
+0.953721
+-0.320128
+-0.612053
+-0.303662
+597
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+227
+-0.343268
+0.952751
+-0.155403
+-0.00887139
+-0.0193557
+598
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+198
+-0.239672
+0.94329
+-0.145863
+-0.826244
+-0.306494
+599
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+80
+0.248401
+0.940546
+-0.280987
+-0.719344
+-0.358811
+600
+NC_006093.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 6  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+228
+0.585449
+0.900258
+-0.384379
+0.665923
+-0.207208
+601
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+35
+0.309667
+0.955465
+-0.316508
+-0.77106
+-0.538939
+602
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+234
+0.0305757
+0.968787
+-0.135594
+0.46491
+-0.328987
+603
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+147
+0.186219
+0.959532
+-0.237508
+0.690719
+-0.280285
+604
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+9
+0.368319
+0.967935
+-0.250437
+-0.545068
+-0.697361
+605
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+87
+0.356497
+0.952896
+-0.226989
+-0.621805
+-0.61051
+606
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+168
+0.634931
+0.909321
+-0.350173
+-0.33719
+-0.466336
+607
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+218
+0.260844
+0.957205
+-0.185453
+0.603127
+-0.421797
+608
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+34
+0.503252
+0.933761
+-0.282424
+-0.40495
+-0.484044
+609
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+140
+0.441638
+0.890696
+-0.332185
+-0.565442
+-0.381234
+610
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+229
+0.233308
+0.926299
+-0.239301
+0.156928
+-0.248754
+611
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+49
+0.493326
+0.907798
+-0.316327
+0.164542
+-0.249521
+612
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+111
+0.665185
+0.884978
+-0.358833
+-0.0345786
+-0.26624
+613
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+121
+-0.65568
+0.851708
+0.210016
+-0.374033
+-0.0571552
+614
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+237
+0.397689
+0.94065
+-0.266146
+-0.487335
+-0.411931
+615
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+69
+0.724547
+0.917119
+-0.379893
+-0.526439
+-0.470284
+616
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+37
+0.392534
+0.938406
+-0.334501
+0.686014
+-0.231718
+617
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+16
+0.133073
+0.973623
+-0.240452
+-0.419239
+-0.302914
+618
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+190
+-0.102231
+0.960457
+-0.213573
+-0.719382
+-0.266881
+619
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+112
+-0.24154
+0.929589
+-0.15674
+-0.510494
+0.0404243
+620
+NC_006094.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 7  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+61
+0.808529
+0.866505
+-0.397465
+0.663881
+-0.298011
+621
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+53
+0.51262
+0.930005
+-0.324932
+1.
+-0.329741
+622
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+171
+-0.689579
+0.870838
+0.0820285
+0.425242
+0.093489
+623
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+71
+-0.459322
+0.936452
+0.0646736
+0.11093
+-0.253945
+624
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+174
+-0.0339065
+0.991813
+-0.174798
+0.0863182
+-0.480231
+625
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+52
+0.235894
+0.986601
+-0.257541
+0.0622453
+-0.444821
+626
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+26
+0.667662
+0.907627
+-0.290083
+-0.110993
+-0.459698
+627
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+143
+0.602636
+0.909732
+-0.285494
+-0.156845
+-0.495401
+628
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+59
+0.75471
+0.874234
+-0.336753
+0.47277
+-0.338919
+629
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+122
+0.690033
+0.891959
+-0.394372
+-0.0982424
+-0.32199
+630
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+76
+0.330079
+0.959475
+-0.182181
+-0.429455
+-0.423745
+631
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+58
+0.163347
+0.95171
+-0.284404
+-0.652259
+-0.394868
+632
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+102
+0.299426
+0.94184
+-0.290208
+-0.449731
+-0.390804
+633
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+4
+0.786963
+0.885998
+-0.369842
+-0.431901
+-0.408849
+634
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+106
+0.632395
+0.896307
+-0.35677
+0.590584
+-0.19624
+635
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+148
+0.606153
+0.92876
+-0.345548
+0.597042
+-0.311096
+636
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+69
+0.328105
+0.969221
+-0.19543
+0.345445
+-0.413179
+637
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+101
+0.856163
+0.85962
+-0.396439
+0.512802
+-0.263754
+638
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+8
+0.55795
+0.955056
+-0.298518
+0.161831
+-0.461383
+639
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+109
+0.314134
+0.938139
+-0.256171
+-0.455673
+-0.264205
+640
+NC_006095.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 8  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+38
+0.282921
+0.964302
+-0.257247
+0.534642
+-0.446657
+641
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+147
+0.0865204
+0.978316
+-0.206705
+0.168009
+-0.372059
+642
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+48
+-0.0253195
+0.972166
+-0.0501883
+0.32208
+-0.346681
+643
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+105
+0.666075
+0.926205
+-0.346657
+0.437241
+-0.435382
+644
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+90
+0.153628
+0.961715
+-0.222985
+0.669771
+-0.215847
+645
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+146
+0.302172
+0.960274
+-0.306495
+-0.536648
+-0.434305
+646
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+149
+0.530144
+0.904797
+-0.384453
+-0.261216
+-0.311413
+647
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+76
+0.392817
+0.926713
+-0.31765
+-0.675904
+-0.351365
+648
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+46
+0.357896
+0.918584
+-0.226556
+-0.275125
+-0.225642
+649
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+88
+0.643194
+0.917142
+-0.313247
+0.249064
+-0.325434
+650
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+86
+0.203156
+0.988904
+-0.190566
+0.00312338
+-0.533067
+651
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+134
+0.251145
+0.982042
+-0.200465
+0.582351
+-0.465724
+652
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+130
+0.0193004
+0.972819
+-0.133594
+0.841151
+-0.457787
+653
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+25
+-0.429747
+0.937359
+0.0239864
+-0.222139
+-0.267077
+654
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+64
+0.470928
+0.950483
+-0.357778
+-0.11625
+-0.382655
+655
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+0.332712
+0.956198
+-0.183443
+-0.36758
+-0.363978
+656
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+0.742298
+0.89458
+-0.400474
+-0.508456
+-0.407725
+657
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+50
+0.159561
+0.955438
+-0.288421
+0.683468
+0.0300358
+658
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+67
+-0.161905
+0.962846
+-0.178355
+-0.223004
+-0.101377
+659
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+95
+0.102678
+0.96707
+-0.298538
+-0.596323
+-0.328149
+660
+NC_006096.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 9  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+77
+-0.120868
+0.946895
+-0.0131517
+0.29138
+-0.567625
+661
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+48
+-0.548345
+0.899605
+0.0609058
+0.121826
+-0.013675
+662
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+108
+0.344165
+0.953633
+-0.319886
+0.709584
+-0.305261
+663
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+121
+0.423815
+0.948518
+-0.318455
+-0.0841956
+-0.389433
+664
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+37
+0.369425
+0.927016
+-0.273638
+-0.6413
+-0.340992
+665
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+43
+0.44784
+0.935085
+-0.331086
+0.135747
+-0.277639
+666
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+15
+0.603522
+0.901837
+-0.411286
+0.00669734
+-0.283836
+667
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+60
+0.587665
+0.938682
+-0.348925
+-0.342861
+-0.46278
+668
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+117
+0.578048
+0.891659
+-0.37503
+0.600706
+-0.188408
+669
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+100
+0.500424
+0.922456
+-0.3405
+-0.705703
+-0.433001
+670
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+125
+0.670355
+0.924002
+-0.344351
+-0.324854
+-0.419362
+671
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+31
+0.601922
+0.926903
+-0.313467
+0.53987
+-0.361271
+672
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+83
+-0.314062
+0.942642
+0.0266924
+-0.192312
+-0.244718
+673
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+110
+-0.089363
+0.962256
+-0.141476
+-0.519439
+-0.333142
+674
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+20
+0.45295
+0.944346
+-0.205537
+0.306124
+-0.32451
+675
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+45
+0.260745
+0.953694
+-0.265658
+0.0422243
+-0.230337
+676
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+21
+0.569188
+0.953558
+-0.307329
+0.546571
+-0.521961
+677
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+64
+0.213392
+0.980443
+-0.260795
+0.184299
+-0.279324
+678
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+92
+0.0724382
+0.975989
+-0.228171
+-0.514772
+-0.344192
+679
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+-0.575311
+0.90433
+-0.00258115
+-0.29914
+0.256449
+680
+NC_006097.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 10  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+42
+-0.519342
+0.928977
+0.0653203
+0.460459
+-0.168144
+681
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+77
+-0.17179
+0.959341
+-0.0870784
+0.536273
+-0.312487
+682
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+0.616314
+0.92789
+-0.37386
+0.0444126
+-0.463755
+683
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+80
+0.409281
+0.966401
+-0.263908
+-0.443075
+-0.448357
+684
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+123
+0.73502
+0.879186
+-0.443378
+-0.0554908
+-0.25921
+685
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+19
+0.0740046
+0.954695
+-0.169528
+-0.613247
+-0.297874
+686
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+115
+0.508348
+0.913569
+-0.303543
+-0.608099
+-0.391477
+687
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+9
+0.0226811
+0.967958
+-0.172374
+-0.124735
+-0.375042
+688
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+86
+0.462344
+0.944522
+-0.324051
+-0.12108
+-0.449562
+689
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+120
+0.534984
+0.922717
+-0.369647
+-0.591965
+-0.302246
+690
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+65
+0.906002
+0.846143
+-0.435468
+0.443422
+-0.226428
+691
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+100
+0.735933
+0.904138
+-0.372817
+0.302469
+-0.319553
+692
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+70
+0.332996
+0.962508
+-0.227322
+0.438959
+-0.343017
+693
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+55
+0.427297
+0.944509
+-0.353039
+0.115076
+-0.274186
+694
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+30
+0.165989
+0.953248
+-0.250026
+-0.736744
+-0.432863
+695
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+24
+-0.533277
+0.914752
+-0.0111033
+0.383434
+0.138188
+696
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+95
+-0.450287
+0.923479
+0.0303005
+-0.352815
+-0.0707666
+697
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+42
+-0.804064
+0.838025
+0.0893503
+-0.00780077
+0.331557
+698
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+118
+-0.146997
+0.936033
+-0.0831609
+-0.705767
+-0.172589
+699
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+128
+0.404635
+0.949967
+-0.262102
+-0.631783
+-0.713493
+700
+NC_006098.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 11  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+99
+0.242891
+0.978646
+-0.283093
+0.644909
+-0.391578
+701
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+38
+0.458333
+0.906322
+-0.381143
+-0.670168
+-0.50217
+702
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+13
+0.466209
+0.926111
+-0.397528
+0.319508
+-0.218612
+703
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+121
+0.611642
+0.93433
+-0.344849
+-0.134937
+-0.488238
+704
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+101
+0.549974
+0.945745
+-0.316986
+-0.441839
+-0.51365
+705
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+106
+0.379979
+0.949638
+-0.326932
+-0.513494
+-0.354664
+706
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+-0.289272
+0.936676
+-0.127736
+-0.783792
+-0.331131
+707
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+80
+-0.217068
+0.952278
+0.0122382
+-0.60765
+-0.437695
+708
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+58
+0.161692
+0.960675
+-0.259986
+-0.654632
+-0.336913
+709
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+27
+0.45137
+0.952232
+-0.310747
+0.662671
+-0.336045
+710
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+81
+0.660228
+0.920129
+-0.373615
+0.652931
+-0.289441
+711
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+65
+0.0357255
+0.999906
+-0.185268
+0.327449
+-0.36094
+712
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+130
+-0.0182791
+0.928592
+-0.156728
+0.941181
+-0.00448318
+713
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+110
+0.186539
+0.971306
+-0.282004
+0.133161
+-0.209326
+714
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+125
+0.427929
+0.964727
+-0.325852
+-0.488829
+-0.416391
+715
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+108
+0.360209
+0.9746
+-0.337489
+0.405965
+-0.277959
+716
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+77
+0.313639
+0.968206
+-0.295911
+-0.548972
+-0.380895
+717
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+40
+0.125666
+0.980043
+-0.285487
+-0.436259
+-0.42116
+718
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+111
+0.163799
+0.984742
+-0.221524
+-0.395129
+-0.365995
+719
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+21
+0.582932
+0.924561
+-0.299969
+0.185613
+-0.461376
+720
+NC_006099.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 12  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+113
+-0.219344
+0.974157
+-0.0975016
+-0.47576
+-0.328674
+721
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+45
+0.116687
+0.984419
+-0.19684
+-0.549467
+-0.559535
+722
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+72
+0.0123214
+0.990111
+-0.233302
+0.682384
+-0.325786
+723
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+42
+0.143615
+0.973075
+-0.264151
+-0.0599418
+-0.422742
+724
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+106
+0.820871
+0.864979
+-0.434126
+0.509814
+-0.295778
+725
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+35
+0.700596
+0.908565
+-0.37787
+0.498487
+-0.336539
+726
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+14
+0.592592
+0.931188
+-0.385294
+0.356663
+-0.375566
+727
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+38
+0.720164
+0.898368
+-0.404955
+-0.437206
+-0.392728
+728
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+86
+0.608287
+0.896671
+-0.357154
+-0.428261
+-0.259767
+729
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+27
+0.79484
+0.87376
+-0.439662
+-0.47526
+-0.331837
+730
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+40
+0.368489
+0.954558
+-0.314872
+-0.00520257
+-0.351026
+731
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+115
+-0.240904
+0.97822
+-0.0758367
+-0.10764
+-0.354113
+732
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+53
+0.327741
+0.936596
+-0.190705
+-0.000562714
+-0.24862
+733
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+44
+0.314616
+0.979359
+-0.241973
+0.458558
+-0.375762
+734
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+16
+0.0118167
+0.980049
+-0.129005
+0.0579729
+-0.309692
+735
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+77
+-0.295192
+0.956743
+-0.0803395
+-0.486028
+-0.305087
+736
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+103
+0.376987
+0.961517
+-0.293543
+-0.499614
+-0.367259
+737
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+84
+0.186736
+0.981984
+-0.256786
+-0.644643
+-0.377612
+738
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+48
+-0.101929
+0.973656
+-0.174398
+0.574804
+-0.166725
+739
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+20
+-0.0948337
+0.968128
+-0.195388
+-0.0481918
+-0.0581979
+740
+NC_006100.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 13  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+60
+0.0200313
+0.978722
+-0.163289
+0.144042
+-0.252834
+741
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+56
+-0.181929
+0.968861
+-0.0242673
+0.364114
+-0.267861
+742
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+22
+-0.194818
+0.972538
+-0.0615441
+0.374682
+-0.244743
+743
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+69
+0.187231
+0.973701
+-0.265801
+0.454232
+-0.275801
+744
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+67
+-0.0971266
+0.95432
+-0.172142
+-0.874505
+-0.221585
+745
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+12
+-0.419749
+0.926294
+-0.00276129
+0.0872516
+0.0185371
+746
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+41
+-0.253002
+0.964951
+-0.0473225
+0.0357811
+-0.239966
+747
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+31
+-0.260235
+0.965368
+-0.0575628
+-0.0971296
+-0.354411
+748
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+80
+-0.530869
+0.927674
+0.0139824
+-0.0571466
+-0.116821
+749
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+93
+0.360507
+0.940338
+-0.295287
+-0.622803
+-0.403414
+750
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+54
+0.15412
+0.97879
+-0.249606
+-0.626867
+-0.447091
+751
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+77
+0.123635
+0.962598
+-0.208542
+0.815418
+-0.166462
+752
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+17
+0.343798
+0.941806
+-0.316598
+-0.5649
+-0.329084
+753
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+42
+0.177775
+0.980456
+-0.288152
+0.0300149
+-0.361411
+754
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+58
+0.571032
+0.938553
+-0.308709
+0.534293
+-0.36775
+755
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+23
+0.572228
+0.920603
+-0.384331
+0.781816
+-0.258809
+756
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+33
+-0.0120425
+0.991304
+-0.174952
+0.311687
+-0.421752
+757
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+89
+-0.441378
+0.932455
+-0.0497872
+-0.666557
+-0.30132
+758
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+43
+-0.658516
+0.890011
+0.122616
+-0.00530504
+-0.0565182
+759
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+49
+0.184499
+0.966212
+-0.281511
+0.439341
+-0.382402
+760
+NC_006101.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 14  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+99
+0.344282
+0.980531
+-0.304187
+-0.389136
+-0.457846
+761
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+31
+0.460629
+0.955827
+-0.295574
+-0.135438
+-0.376364
+762
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+61
+0.686702
+0.92926
+-0.375387
+0.136232
+-0.377817
+763
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+44
+-0.0637349
+0.967899
+-0.206265
+0.461743
+-0.127893
+764
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+81
+-0.582979
+0.892143
+-0.0188851
+-1.
+-0.0302328
+765
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+64
+0.146849
+0.951587
+-0.260484
+-0.633353
+-0.284875
+766
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+49
+0.329196
+0.960111
+-0.322503
+-0.0554482
+-0.396897
+767
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+25
+-0.252839
+0.952953
+-0.0930506
+0.529992
+-0.0958422
+768
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+17
+-0.347643
+0.935163
+-0.0453249
+0.592793
+-0.000315155
+769
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+60
+0.21586
+0.977083
+-0.22125
+0.647324
+-0.304605
+770
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+59
+0.355882
+0.961754
+-0.280636
+0.736445
+-0.395309
+771
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+67
+0.426817
+0.950679
+-0.299925
+0.270989
+-0.410464
+772
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+62
+0.063811
+0.958149
+-0.21316
+-0.284491
+-0.272458
+773
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+34
+-0.115313
+0.95382
+-0.175102
+0.115623
+-0.206429
+774
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+82
+-0.153924
+0.941499
+-0.105966
+-0.850183
+-0.46368
+775
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+30
+0.0839648
+0.979241
+-0.179348
+0.171007
+-0.211266
+776
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+39
+-0.320971
+0.957212
+0.0261664
+-0.105234
+-0.291741
+777
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+71
+-0.578473
+0.917802
+0.0819263
+0.424707
+-0.128948
+778
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+27
+-0.303229
+0.895734
+0.0325123
+-0.483174
+-0.0930359
+779
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+57
+-0.175492
+0.971149
+-0.0149441
+-0.399823
+-0.493963
+780
+NC_006102.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 15  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+56
+-0.730743
+0.786148
+0.30857
+0.00854286
+0.329832
+781
+NC_006103.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 16  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+-0.568611
+0.596466
+0.118396
+-0.198066
+0.478339
+782
+NC_006103.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 16  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1
+-0.451065
+0.536478
+0.0696384
+0.440674
+-0.500946
+783
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+36
+-0.164789
+0.957365
+-0.00807879
+0.324927
+-0.501073
+784
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+39
+-0.589118
+0.899214
+0.138541
+0.216061
+-0.240793
+785
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+18
+-0.169895
+0.976679
+-0.0654687
+0.382779
+-0.398859
+786
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+-0.334711
+0.950011
+-0.0438202
+-0.725794
+-0.399769
+787
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+41
+-0.454866
+0.938038
+-0.0053056
+-0.0780638
+-0.114131
+788
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+67
+0.212722
+0.979417
+-0.197282
+0.286643
+-0.404909
+789
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+45
+-0.670568
+0.874947
+0.120227
+0.00910515
+0.0568968
+790
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+68
+-0.158987
+0.836634
+-0.159119
+-0.607178
+-0.460742
+791
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+-0.35108
+0.941319
+-0.0372805
+-0.723656
+-0.352186
+792
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+62
+-0.478755
+0.920598
+0.0279193
+-0.0752219
+-0.00726879
+793
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1
+-0.0493542
+0.979255
+-0.200636
+0.0598571
+-0.140347
+794
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+57
+-0.302352
+0.945795
+-0.0528646
+-0.726963
+-0.237947
+795
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+43
+0.0230518
+0.969678
+-0.205195
+0.616146
+-0.118612
+796
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+17
+0.131029
+0.973315
+-0.202047
+0.507071
+-0.280081
+797
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+38
+-0.233645
+0.960759
+-0.0985775
+-0.702073
+-0.298494
+798
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+50
+-0.235778
+0.952123
+-0.162335
+-0.665682
+-0.110791
+799
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+13
+-0.106592
+0.940757
+-0.16592
+-0.657766
+-0.104932
+800
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+3
+-0.0554148
+0.941182
+-0.174922
+-0.661189
+-0.149828
+801
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+37
+0.503781
+0.949735
+-0.304268
+-0.107437
+-0.472924
+802
+NC_006104.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 17  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+33
+0.164914
+0.982317
+-0.175422
+-0.400747
+-0.658593
+803
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+44
+-0.0598644
+0.985057
+-0.0269169
+0.0776034
+-0.643848
+804
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+17
+-0.258531
+0.970514
+0.0107004
+-0.0671221
+-0.511345
+805
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+5
+-0.267294
+0.970483
+-0.0444803
+-0.371182
+-0.316351
+806
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+32
+-0.0575013
+0.982622
+-0.0735222
+0.10172
+-0.311538
+807
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+64
+-0.179083
+0.961508
+-0.140118
+0.642697
+-0.0366373
+808
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+71
+0.451992
+0.931682
+-0.338855
+0.427595
+-0.259253
+809
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+72
+-0.348126
+0.940698
+-0.0254386
+-0.291893
+-0.0522139
+810
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+28
+0.119409
+0.96367
+-0.227931
+-0.391058
+-0.398715
+811
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+60
+0.580129
+0.946291
+-0.3827
+-0.246963
+-0.381156
+812
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+54
+0.556815
+0.949785
+-0.322974
+-0.312395
+-0.396546
+813
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+0.386191
+0.945407
+-0.302024
+-0.492447
+-0.421046
+814
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+35
+0.390644
+0.943873
+-0.347188
+-0.111249
+-0.15134
+815
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+34
+-0.108789
+0.97384
+-0.102943
+-0.00608411
+-0.206159
+816
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+68
+-0.0121809
+0.976608
+-0.118724
+-0.198211
+-0.274531
+817
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+16
+-0.389801
+0.93683
+0.0080642
+0.517249
+-0.0446048
+818
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+51
+-0.15404
+0.961653
+-0.187644
+0.697243
+-0.00252753
+819
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+-0.0448525
+0.947159
+-0.207988
+-0.553886
+-0.123883
+820
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+55
+-0.551686
+0.922596
+0.0737533
+-0.0684471
+-0.127897
+821
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+22
+0.0113671
+0.961284
+-0.131222
+0.576352
+-0.309325
+822
+NC_006105.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 18  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+15
+-0.385901
+0.934956
+0.022971
+-0.0302675
+-0.334084
+823
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+21
+-0.0284624
+0.963407
+-0.180199
+0.555153
+-0.14697
+824
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+63
+-0.101817
+0.972892
+-0.210441
+0.93213
+-0.164375
+825
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+15
+-0.00814286
+0.982702
+-0.123481
+0.293748
+-0.276355
+826
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+45
+0.0624324
+0.99187
+-0.176325
+0.362942
+-0.386007
+827
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+0.347422
+0.979545
+-0.284832
+0.544474
+-0.413649
+828
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+53
+0.0163711
+0.966885
+-0.150018
+-0.617171
+-0.287713
+829
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+14
+0.00731314
+0.998084
+-0.166074
+0.196875
+-0.436577
+830
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+38
+-0.247338
+0.956467
+-0.0535012
+0.0762273
+-0.19666
+831
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+29
+-0.578473
+0.893951
+0.0686973
+0.0697402
+-0.0258092
+832
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+51
+-0.532043
+0.887089
+0.0468091
+-0.272304
+0.138613
+833
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+48
+-0.23235
+0.955109
+-0.0491263
+-0.532881
+-0.228697
+834
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+16
+0.258004
+0.965674
+-0.244202
+-0.400377
+-0.310779
+835
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+61
+-0.289467
+0.949131
+-0.0894182
+-0.651481
+-0.21852
+836
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+41
+0.22654
+0.944999
+-0.300435
+-0.711185
+-0.31336
+837
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+62
+0.190324
+0.939058
+-0.302408
+0.739186
+-0.0444844
+838
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+44
+0.299075
+0.932582
+-0.328083
+-0.803965
+-0.267731
+839
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+39
+0.135775
+0.955506
+-0.253911
+-0.310317
+-0.219453
+840
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+-0.167149
+0.956973
+-0.135288
+-0.188537
+-0.106963
+841
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+13
+-0.208017
+0.965592
+-0.140131
+0.194498
+-0.0889019
+842
+NC_006106.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 19  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+35
+-0.268322
+0.947234
+-0.0527921
+0.704978
+-0.270299
+843
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+27
+0.0993259
+0.978612
+-0.207516
+0.27124
+-0.43209
+844
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+40
+-0.129116
+0.945627
+-0.136016
+-0.234367
+-0.22194
+845
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+76
+-0.152069
+0.970475
+-0.0789617
+-0.32285
+-0.345679
+846
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+0.263924
+0.970436
+-0.273277
+-0.659672
+-0.484999
+847
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+86
+0.00544504
+0.960484
+-0.186913
+-0.745592
+-0.347118
+848
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+0.655129
+0.914812
+-0.374959
+-0.0022997
+-0.373286
+849
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+70
+0.637463
+0.917892
+-0.388925
+0.233577
+-0.274124
+850
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+54
+-0.222899
+0.979984
+-0.0898143
+0.512027
+-0.240477
+851
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+78
+-0.142232
+0.958357
+-0.0424489
+-0.0460482
+-0.0589811
+852
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+5
+-0.366134
+0.954203
+-0.0415811
+0.435551
+-0.0473017
+853
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+74
+-0.47677
+0.904609
+0.00826093
+0.524737
+0.114841
+854
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+91
+-0.0274878
+0.97267
+-0.137727
+0.249721
+-0.249495
+855
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+63
+0.115504
+0.963653
+-0.243049
+0.471854
+-0.150765
+856
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+72
+0.463092
+0.954619
+-0.348459
+-0.315144
+-0.394405
+857
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+23
+-0.160603
+0.960566
+-0.140064
+-0.32941
+-0.147723
+858
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+47
+0.0397118
+0.970846
+-0.20801
+0.140893
+-0.151026
+859
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+55
+0.385935
+0.960103
+-0.320534
+-0.564332
+-0.374232
+860
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+89
+0.13673
+0.986471
+-0.248754
+0.288522
+-0.278204
+861
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+20
+0.602422
+0.938052
+-0.330317
+-0.0457424
+-0.488773
+862
+NC_006107.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 20  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+77
+0.165232
+0.83333
+-0.243412
+0.535715
+-0.288328
+863
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+9
+-0.0779799
+0.968366
+-0.243098
+0.700432
+-0.0700616
+864
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+31
+-0.436677
+0.929261
+-0.0873712
+0.234709
+0.250272
+865
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+33
+-0.308399
+0.955707
+-0.12773
+-0.298735
+-0.0964209
+866
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+18
+-0.177517
+0.957075
+-0.165397
+0.406994
+0.0332739
+867
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+11
+0.456947
+0.947972
+-0.308161
+-0.127292
+-0.330693
+868
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+14
+0.20226
+0.957327
+-0.236083
+0.662058
+-0.222286
+869
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+3
+0.488634
+0.933761
+-0.389101
+-0.173661
+-0.251735
+870
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+13
+0.244775
+0.966536
+-0.291931
+-0.328656
+-0.43323
+871
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+12
+-0.129425
+0.970538
+-0.144524
+-0.323872
+-0.350079
+872
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+0.0776754
+0.972919
+-0.179292
+-0.556468
+-0.500494
+873
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+23
+-0.290855
+0.939851
+-0.0767087
+0.235264
+-0.119582
+874
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+39
+-0.104838
+0.985447
+-0.172469
+0.539983
+-0.337358
+875
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+0.187292
+0.974163
+-0.222391
+-0.634337
+-0.612412
+876
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+22
+0.40881
+0.955758
+-0.33346
+0.279538
+-0.324901
+877
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+15
+-0.0604982
+0.964919
+-0.165375
+0.65341
+-0.245455
+878
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+24
+0.0922346
+0.988134
+-0.193365
+0.132287
+-0.384316
+879
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+-0.596427
+0.873738
+0.0682334
+0.0185737
+0.0913415
+880
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+17
+0.177571
+0.972649
+-0.136222
+0.209528
+-0.470401
+881
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+32
+-0.675505
+0.858206
+0.125203
+-0.656797
+-0.0311811
+882
+NC_006108.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 21  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+44
+-0.00193308
+0.958255
+-0.186851
+-0.644503
+-0.404048
+883
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+22
+0.302885
+0.976697
+-0.201544
+0.205868
+-0.467622
+884
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+0.0403694
+0.976075
+-0.151769
+-0.322843
+-0.255857
+885
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+23
+0.247311
+0.954256
+-0.251515
+-0.394251
+-0.293438
+886
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+11
+0.417239
+0.969787
+-0.316738
+0.553783
+-0.372193
+887
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+8
+0.084759
+0.963566
+-0.159327
+-0.120225
+-0.210024
+888
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+9
+-0.566748
+0.879586
+-0.00266354
+-0.111413
+0.217265
+889
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+19
+-0.552704
+0.894879
+-0.0132707
+0.146083
+0.3339
+890
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+21
+-0.348047
+0.955536
+-0.0635214
+0.292945
+0.0195584
+891
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+17
+0.354409
+0.984907
+-0.334571
+-0.303393
+-0.354083
+892
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+13
+0.229025
+0.991171
+-0.324127
+-0.238616
+-0.270511
+893
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+12
+-0.100246
+0.981917
+-0.158117
+-0.300355
+-0.172427
+894
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+-0.660433
+0.878493
+0.00384548
+0.121466
+0.306496
+895
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+25
+-0.373206
+0.952269
+-0.124195
+0.0626797
+0.0494141
+896
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+14
+-0.347563
+0.934754
+-0.0206612
+-0.232913
+-0.119091
+897
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+16
+0.154568
+0.960367
+-0.186095
+0.464843
+-0.339756
+898
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+5
+0.294958
+0.97264
+-0.274111
+0.630467
+-0.318188
+899
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+24
+0.444205
+0.952493
+-0.296966
+0.640145
+-0.350921
+900
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1
+0.486799
+0.949266
+-0.316467
+0.690383
+-0.326644
+901
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+0.527703
+0.947847
+-0.333832
+0.606777
+-0.333121
+902
+NC_006109.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 22  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+3
+-0.124742
+0.963823
+-0.0809904
+0.491868
+-0.200374
+903
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+36
+-0.0539145
+0.972749
+-0.126343
+-0.560465
+-0.349656
+904
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+33
+-0.0336547
+0.988906
+-0.0975467
+-0.0905807
+-0.4554
+905
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+20
+-0.672498
+0.88042
+0.129154
+0.0474724
+0.0709762
+906
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+22
+-0.0788453
+0.98365
+-0.125904
+0.0594875
+-0.350907
+907
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+37
+-0.89162
+0.824768
+0.148394
+-0.25742
+0.253789
+908
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+24
+-0.560169
+0.86307
+-0.0598809
+-0.029573
+0.411526
+909
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+-0.252897
+0.97114
+-0.0719553
+0.0339348
+-0.165548
+910
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+23
+-0.143474
+0.982332
+-0.124939
+0.277362
+-0.228621
+911
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+25
+-0.0476341
+0.993406
+-0.200252
+0.561805
+-0.256535
+912
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+4
+0.109201
+0.977636
+-0.239386
+-0.532841
+-0.350814
+913
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+8
+-0.276116
+0.941641
+-0.106652
+-0.687422
+-0.141676
+914
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+14
+-0.348694
+0.947356
+-0.0557439
+-0.352765
+-0.105571
+915
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+34
+-0.447439
+0.927916
+-0.114717
+0.152742
+0.190832
+916
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+35
+-0.709726
+0.867081
+0.0405389
+-0.593908
+0.236257
+917
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+-0.834022
+0.817779
+0.11622
+0.156026
+0.455966
+918
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+16
+-0.57155
+0.883154
+0.0524045
+0.120794
+0.0894506
+919
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+-0.871994
+0.836209
+0.112136
+-0.45723
+0.138767
+920
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+32
+-0.732592
+0.855982
+0.117328
+0.0187859
+0.104183
+921
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+18
+0.0702455
+0.967091
+-0.115006
+-0.167062
+-0.401693
+922
+NC_006110.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 23  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+19
+0.13081
+0.959988
+-0.165466
+0.379623
+-0.443823
+923
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+14
+-0.746569
+0.86995
+0.0656069
+0.064691
+0.211562
+924
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+30
+-0.210412
+0.975201
+-0.0725894
+0.472444
+-0.109787
+925
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+40
+-0.187678
+0.970001
+-0.0254025
+0.259653
+-0.154427
+926
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+3
+-0.000891091
+1.
+-0.25847
+0.557187
+-0.159178
+927
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+22
+0.190131
+0.985469
+-0.220243
+-0.0236602
+-0.492876
+928
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+37
+-0.504121
+0.939233
+0.0142413
+0.233422
+-0.0583595
+929
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+20
+-0.487257
+0.89822
+0.00542291
+-0.71056
+0.0570176
+930
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+12
+-0.539485
+0.902492
+0.0299323
+0.632533
+0.15623
+931
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+21
+-0.404256
+0.92356
+-0.030688
+0.82782
+0.125107
+932
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+16
+-0.43499
+0.932259
+-0.0219523
+0.324249
+-0.0330838
+933
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1
+0.0096038
+0.985279
+-0.157869
+0.49559
+-0.402568
+934
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+39
+0.113775
+0.978585
+-0.21491
+-0.288443
+-0.405151
+935
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+9
+-0.0542297
+0.964185
+-0.157296
+-0.608783
+-0.315501
+936
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+32
+-0.380139
+0.935774
+-0.0450853
+0.583758
+-0.109346
+937
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+-0.290164
+0.94566
+-0.0978003
+0.640359
+0.019533
+938
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+11
+0.00507025
+0.960788
+-0.264161
+0.929999
+-0.096227
+939
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+15
+-0.108338
+0.966616
+-0.125335
+0.324341
+-0.182327
+940
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+17
+-0.0496795
+0.972556
+-0.186917
+0.542159
+-0.30912
+941
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+5
+-0.0315489
+0.964388
+-0.160963
+0.137791
+-0.356341
+942
+NC_006111.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 24  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+29
+-0.338051
+0.906751
+-0.00724092
+0.201705
+-0.0749332
+943
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+4
+-0.730569
+0.698434
+0.0834173
+-0.199799
+0.27659
+944
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+11
+-1.
+0.740625
+0.358806
+-0.143052
+0.286983
+945
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+-0.859136
+0.788879
+0.192874
+0.280397
+0.471243
+946
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+9
+-0.606932
+0.871523
+0.0691746
+-0.15706
+0.20558
+947
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+12
+0.100736
+0.837783
+-0.109836
+-0.371044
+-0.382322
+948
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+13
+0.0484068
+0.948803
+-0.0621269
+0.228141
+-0.379461
+949
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+-0.683519
+0.839925
+0.158673
+0.110175
+0.102713
+950
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+-0.47263
+0.918326
+-0.0774921
+0.0369499
+-0.044227
+951
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+8
+-0.543219
+0.897116
+0.0424841
+0.0521067
+0.104648
+952
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+-0.969973
+0.784811
+0.179046
+-0.0765749
+0.50633
+953
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1
+-0.945588
+0.756017
+0.168142
+-0.365432
+0.726871
+954
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+5
+-0.886476
+0.779877
+0.150538
+-0.416395
+0.659774
+955
+NC_006112.2
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 25  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+3
+-0.238441
+0.935845
+0.0208356
+0.258803
+-0.214865
+956
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+9
+-0.43733
+0.921393
+0.0774027
+-0.365248
+-0.281119
+957
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+29
+-0.573852
+0.880176
+-0.0533459
+-0.890836
+0.0392761
+958
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1
+-0.686447
+0.899738
+0.0180585
+0.287338
+0.155027
+959
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+18
+-0.396603
+0.950546
+0.0135891
+0.301855
+-0.121794
+960
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+24
+-0.447524
+0.951588
+0.066133
+0.176709
+-0.185459
+961
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+5
+-0.622325
+0.903568
+0.0649214
+-0.030536
+0.104636
+962
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+-0.346911
+0.948551
+-0.0388138
+-0.395771
+-0.179596
+963
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+33
+-0.53699
+0.916402
+-0.0235456
+0.435535
+0.131078
+964
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+-0.343486
+0.955179
+-0.108382
+-0.277499
+-0.115432
+965
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+15
+-0.471615
+0.926135
+-0.0568045
+0.427345
+0.167705
+966
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+26
+-0.123502
+0.968332
+-0.183284
+0.486548
+-0.0154661
+967
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+21
+-0.341948
+0.954102
+-0.112701
+0.414336
+-0.0184329
+968
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+-0.233644
+0.956793
+-0.183541
+-0.424027
+-0.11077
+969
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+4
+-0.0500633
+0.974618
+-0.278168
+-0.315898
+-0.232681
+970
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+20
+0.233924
+0.96737
+-0.234572
+0.147014
+-0.296375
+971
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+-0.585022
+0.896315
+0.0518843
+-0.541331
+0.0720828
+972
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+19
+-0.367447
+0.904908
+0.00324423
+-0.442183
+0.154451
+973
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+13
+-0.914484
+0.590845
+0.133227
+-0.423496
+0.581974
+974
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+32
+-0.480397
+0.905757
+0.0213765
+0.519422
+0.00432618
+975
+NC_006113.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 26  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+31
+0.0506753
+0.557933
+-0.110493
+0.345403
+-0.35888
+976
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+-0.264033
+0.490845
+-0.0499993
+0.111472
+-0.424618
+977
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+13
+-0.0607175
+0.701056
+-0.00664158
+0.12532
+-0.608344
+978
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+23
+0.279574
+0.95117
+-0.0793277
+0.183452
+-0.666141
+979
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+17
+-0.0986803
+0.959391
+-0.075949
+0.381593
+-0.101798
+980
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+15
+-0.834006
+0.833775
+0.177297
+-0.00477818
+0.141119
+981
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+27
+-0.580216
+0.901216
+0.125429
+-0.0903043
+-0.11666
+982
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+28
+-0.15451
+0.976734
+-0.0975517
+0.344931
+-0.210991
+983
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+16
+0.130695
+0.997312
+-0.190231
+0.382901
+-0.428378
+984
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+4
+0.120677
+0.998641
+-0.161937
+0.110248
+-0.442877
+985
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+21
+-0.250501
+0.956596
+-0.157747
+-0.675681
+-0.195254
+986
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+12
+-0.531968
+0.924302
+-0.0186731
+-0.441123
+-0.109706
+987
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+-0.074228
+0.967078
+-0.112378
+-0.320776
+-0.300797
+988
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+18
+-0.610372
+0.906438
+-0.0770643
+-0.530804
+0.116215
+989
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+8
+-0.561094
+0.909312
+0.0228203
+-0.187904
+0.125015
+990
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+-0.110195
+0.96964
+-0.0884548
+-0.00712909
+-0.153113
+991
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+26
+-0.246745
+0.88204
+-0.0703321
+-0.249272
+0.0882789
+992
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+5
+-0.799875
+0.828313
+0.141857
+-0.111141
+0.273181
+993
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+11
+-0.918361
+0.793906
+0.139694
+-0.105091
+0.375385
+994
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+19
+-0.156297
+0.933689
+-0.181099
+-0.31667
+-0.120453
+995
+NC_006114.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 27  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+0.145881
+0.963411
+-0.0740368
+0.148362
+-0.535166
+996
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+17
+0.15294
+0.971627
+-0.186102
+0.239886
+-0.403299
+997
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+-0.727129
+0.858745
+0.0753157
+0.453916
+0.293634
+998
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+26
+-0.998414
+0.775284
+0.260201
+-0.160929
+0.235811
+999
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+18
+-0.728503
+0.84321
+0.0751312
+-0.305775
+0.160768
+1000
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+21
+-0.0835404
+0.986014
+-0.126155
+0.254454
+-0.244414
+1001
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+12
+-0.357335
+0.946786
+-0.0287904
+-0.0388078
+-0.120678
+1002
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+-0.734764
+0.828886
+0.0227652
+-0.0998412
+0.348077
+1003
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+13
+-0.639316
+0.849749
+0.13779
+-0.383346
+0.22329
+1004
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+8
+-0.840655
+0.832383
+0.207726
+-0.422374
+0.0701907
+1005
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+23
+-0.55727
+0.9016
+0.0719873
+-0.370878
+0.00984096
+1006
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+16
+-0.548082
+0.923858
+0.0371336
+0.0753642
+-0.0956193
+1007
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1
+-0.681056
+0.875051
+0.0089765
+-0.117535
+0.259785
+1008
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+4
+-0.543304
+0.884713
+0.0469851
+-0.27333
+0.234809
+1009
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+20
+-0.976159
+0.789901
+0.13594
+-0.0834224
+0.457062
+1010
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+27
+-0.156547
+0.941877
+-0.18292
+0.623695
+0.0534857
+1011
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+25
+0.0495642
+0.948156
+-0.23173
+-0.6035
+-0.213585
+1012
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+24
+-0.0056076
+0.962702
+-0.173215
+-0.108931
+-0.147126
+1013
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+14
+-0.505159
+0.920901
+0.00192053
+-0.0946212
+0.1015
+1014
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+10
+0.174002
+0.965094
+-0.126782
+0.124156
+-0.457945
+1015
+NC_006115.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome 28  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+29
+0.352121
+0.853591
+-0.11219
+-0.214103
+-0.637206
+1016
+NC_006126.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome W  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+1
+0.240195
+0.84082
+-0.0609651
+0.202317
+-0.601352
+1017
+NC_006126.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome W  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+5
+0.280355
+0.859413
+-0.075205
+-0.00339143
+-0.553211
+1018
+NC_006126.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome W  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+6
+0.12321
+0.794064
+0.0216226
+0.0070599
+-0.519588
+1019
+NC_006126.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome W  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+2
+0.201774
+0.828438
+-0.0398334
+0.0317618
+-0.556261
+1020
+NC_006126.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome W  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+7
+0.167171
+0.798327
+-0.00235273
+-0.15091
+-0.585684
+1021
+NC_006126.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome W  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+3
+0.215311
+0.829105
+-0.0141478
+-0.141258
+-0.608847
+1022
+NC_006126.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome W  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+4
+0.548891
+0.940874
+-0.303625
+0.371704
+-0.518392
+1023
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+178
+0.496602
+0.92491
+-0.296235
+-0.117335
+-0.454287
+1024
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+110
+0.49645
+0.939579
+-0.285437
+0.179835
+-0.473227
+1025
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+402
+0.45552
+0.954377
+-0.329347
+0.556076
+-0.493535
+1026
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+194
+0.721229
+0.867644
+-0.338159
+0.50747
+-0.293077
+1027
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+443
+0.718432
+0.900126
+-0.329012
+0.14612
+-0.547059
+1028
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+428
+0.848549
+0.85442
+-0.323095
+0.0587948
+-0.393993
+1029
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+177
+0.602645
+0.929569
+-0.294594
+0.279876
+-0.513474
+1030
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+235
+0.776265
+0.86938
+-0.30453
+-0.0231307
+-0.438326
+1031
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+126
+0.672645
+0.901837
+-0.325599
+0.460279
+-0.402529
+1032
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+433
+0.526818
+0.949385
+-0.279075
+0.0868836
+-0.550059
+1033
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+156
+0.552002
+0.920666
+-0.312348
+-0.242576
+-0.430665
+1034
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+239
+0.505892
+0.93522
+-0.248725
+0.233573
+-0.499425
+1035
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+308
+0.392743
+0.962634
+-0.22317
+0.492219
+-0.494953
+1036
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+469
+0.27937
+0.789781
+-0.227242
+-0.0022632
+-0.494052
+1037
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+432
+0.276405
+0.972633
+-0.221439
+-0.0609636
+-0.597324
+1038
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+300
+0.203075
+0.973741
+-0.172624
+0.369362
+-0.530359
+1039
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+452
+0.503499
+0.930412
+-0.274614
+-0.0112089
+-0.458775
+1040
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+147
+0.0298223
+0.958128
+-0.190008
+0.280859
+-0.462126
+1041
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+542
+-0.201326
+0.94406
+-0.106649
+-0.378608
+-0.389578
+1042
+NC_006127.3
+Gallus gallus isolate #256 breed Red Jungle fowl  inbred line UCD001 chromosome Z  Gallus_gallus-4.0  whole genome shotgun sequence
+150000
+436

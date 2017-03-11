@@ -1,0 +1,1217 @@
+16,22,51,32
+blue,red,green,orange
+5
+Index,Acc,Name,Length,Taxa
+blue,red,green,orange
+Aquificae (16),Fusobacteria (22),Spirochaetes (51),Thermotogae (32)
+Bacteria#nDNA, complete genome#121 sequences#Approx.Inf.Dist.(k=9)#2,017,111
+-0.42094118967332006
+-0.2133063445219348
+-0.39245576214866557
+-0.05011188338527253
+0.2724897473015745
+0
+NC_000918.1
+Aquifex aeolicus VF5 chromosome, complete genome
+1551335
+Bacteria; Aquificae; Aquificales; Aquificaceae; Aquifex
+-0.04746473814571641
+-0.3691211196397686
+-0.38505817776239243
+-0.1196693137321645
+0.22166271150210623
+1
+NC_012440.1
+Persephonella marina EX-H1, complete genome
+1930284
+Bacteria; Aquificae; Aquificales; Hydrogenothermaceae; Persephonella
+0.2813547533826615
+-0.4702088274848057
+-0.308761497601371
+-0.2285518517706587
+0.0038857546143068445
+2
+NC_012438.1
+Sulfurihydrogenibium azorense Az-Fu1, complete genome
+1640877
+Bacteria; Aquificae; Aquificales; Hydrogenothermaceae; Sulfurihydrogenibium
+-0.27640899137169206
+-0.30327997107926935
+-0.5085557214598686
+-0.15310368605872723
+0.1291985990473106
+3
+NC_013799.1
+Hydrogenobacter thermophilus TK-6 DNA, complete genome
+1743135
+Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobacter
+-0.42868809782284795
+-0.2819748743840615
+-0.44913480902080427
+-0.1374208342108453
+0.169647593731054
+4
+NC_013894.1
+Thermocrinis albus DSM 14484, complete genome
+1500577
+Bacteria; Aquificae; Aquificales; Aquificaceae; Thermocrinis
+-0.5949941984625945
+-0.11880839633149394
+-0.4681117976477089
+-0.04090574384522035
+0.27118714578336195
+5
+NC_014926.1
+Thermovibrio ammonificans HB-1, complete genome
+1682965
+Bacteria; Aquificae; Desulfurobacteriales; Desulfurobacteriaceae; Thermovibrio
+0.11224692158122972
+-0.3100272756107325
+-0.28953587314095675
+-0.06134783024725027
+0.23886658737247024
+6
+NC_015185.1
+Desulfurobacterium thermolithotrophum DSM 11699, complete genome
+1541968
+Bacteria; Aquificae; Desulfurobacteriales; Desulfurobacteriaceae; Desulfurobacterium
+-0.27712294091565154
+-0.25995842570975125
+-0.4423785719604169
+-0.1628752562363714
+0.12031274163000925
+7
+NZ_CP007028.1
+Thermocrinis ruber strain DSM 23557, complete genome
+1521037
+Bacteria; Aquificae; Aquificales; Aquificaceae; Thermocrinis
+0.11746657002148721
+-0.2994085133692317
+-0.21518057948519118
+-0.21136666383305935
+-0.008369008286346485
+8
+NC_010730.1
+Sulfurihydrogenibium sp. YO3AOP1, complete genome
+1838442
+Bacteria; Aquificae; Aquificales; Hydrogenothermaceae; Sulfurihydrogenibium
+0.025887309196289697
+-0.24334515392466036
+-0.15872306946885598
+-0.594171475091722
+-0.664057551032476
+9
+NC_011126.1
+Hydrogenobaculum sp. Y04AAS1, complete genome
+1559514
+Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum
+-0.3423660680067867
+-0.1720553619078615
+-0.3626264190026802
+-0.10062884658315839
+0.2229120410388212
+10
+AP013035.1
+Thermosulfidibacter takaii ABI70S6 DNA, complete genome
+1816670
+Bacteria; Aquificae; Aquificales
+0.05373350795892335
+-0.26796996011286506
+-0.09509760260276062
+-0.7696929517624044
+-1
+11
+NC_015557.1
+Hydrogenobaculum sp. 3684, complete genome
+1552775
+Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum
+-0.27646076688833854
+-0.3031604810153836
+-0.5085435860288492
+-0.15320133841227027
+0.12909971519378707
+12
+NC_017161.1
+Hydrogenobacter thermophilus TK-6, complete genome
+1742932
+Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobacter
+0.05376209620326038
+-0.2680858550273193
+-0.0952183592004615
+-0.769586955348107
+-0.9999886124493603
+13
+NC_015587.1
+Hydrogenobaculum sp. SHO, complete genome
+1552607
+Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum
+0.05329861654460075
+-0.26776862236866633
+-0.09511483016546106
+-0.7694455642826273
+-0.9996355959364979
+14
+NC_020411.1
+Hydrogenobaculum sp. HO, complete genome
+1552931
+Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum
+0.053682085562350636
+-0.26800833311087685
+-0.095213288923366
+-0.7694533883271302
+-0.9999373229418129
+15
+NC_020814.1
+Hydrogenobaculum sp. SN, complete genome
+1552931
+Bacteria; Aquificae; Aquificales; Aquificaceae; Hydrogenobaculum
+0.8874157500322034
+-0.9393861035734197
+-0.8565106433795725
+0.12091938133023483
+0.5673629682053155
+16
+NC_003454.1
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586 chromosome, complete genome
+2174500
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+-0.05912121464916303
+-0.34601421790979675
+-0.404907836207106
+-0.05776495699682399
+0.2918071450354925
+17
+NC_014632.1
+Ilyobacter polytropus DSM 2926, complete genome
+2046464
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Ilyobacter
+0.9271943536056114
+-0.6557047767703091
+-0.30111725824422053
+-0.12988851281421887
+0.1559612722298218
+18
+NC_013515.1
+Streptobacillus moniliformis DSM 12112, complete genome
+1662578
+Bacteria; Fusobacteria; Fusobacteriales; Leptotrichiaceae; Streptobacillus
+-0.31940530337961026
+-0.1996104230133144
+-0.33016632174353405
+-0.06915113928460416
+0.264711224475717
+19
+NC_013517.1
+Sebaldella termitidis ATCC 33386, complete genome
+4418842
+Bacteria; Fusobacteria; Fusobacteriales; Leptotrichiaceae; Sebaldella
+0.06908867275464999
+-0.3407405365004652
+-0.30233675975446883
+-0.07952010849863644
+0.22243904040842455
+20
+NC_013192.1
+Leptotrichia buccalis DSM 1135, complete genome
+2465610
+Bacteria; Fusobacteria; Fusobacteriales; Leptotrichiaceae; Leptotrichia
+0.050423498469220784
+-0.3570501647111455
+-0.33703779791241095
+-0.05227720552033023
+0.27616923293502715
+21
+NZ_CP012410.1
+Leptotrichia sp. oral taxon 212 strain W10393, complete genome
+2444904
+Bacteria; Fusobacteria; Fusobacteriales; Leptotrichiaceae; Leptotrichia
+0.8775467460472691
+-0.8769067302599985
+-0.7232627051193729
+0.04687896685006457
+0.452447735445506
+22
+NZ_CP013336.1
+Fusobacterium hwasookii ChDC F206, complete genome
+2424685
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.7958192546375666
+-0.6346773942763079
+-0.17616914406197381
+-0.15987632871864071
+0.07611389193851763
+23
+NZ_CP011280.1
+Sneathia sp. Sn35, complete genome
+1330224
+Bacteria; Fusobacteria; Fusobacteriales; Leptotrichiaceae; Sneathia
+0.8477382699527662
+-0.8756654499192366
+-0.7254566193595876
+0.06550768847301616
+0.4688647182997501
+24
+NZ_CP013334.1
+Fusobacterium hwasookii ChDC F300, complete genome
+2521574
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.04278709052375078
+-0.302130087128757
+-0.3113941273733692
+-0.052090178142003105
+0.26921134958687326
+25
+CP014231.1
+Leptotrichia sp. oral taxon 847, complete genome
+2194935
+Bacteria; Fusobacteria; Fusobacteriales; Leptotrichiaceae; Leptotrichia
+0.8742347060908209
+-0.9360806845487526
+-0.8214339202970036
+0.08751603934959545
+0.49340710181717184
+26
+NC_022196.1
+Fusobacterium nucleatum subsp. vincentii 3_1_36A2, complete genome
+2268272
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.8260471751886131
+-0.9189499279080517
+-0.7853622359758644
+0.026580477213891143
+0.44111904922073214
+27
+NZ_CP007062.1
+Fusobacterium nucleatum subsp. animalis 7_1, complete genome
+2507720
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.865497502816737
+-0.8991744433647713
+-0.7658231837660423
+0.06837967001365873
+0.4823250408537143
+28
+NZ_CP013331.1
+Fusobacterium hwasookii ChDC F174, complete genome
+2463707
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+1
+-0.9958931283806072
+-0.8939764542133489
+0.12517457228990297
+0.5472165312412236
+29
+NZ_CP007064.1
+Fusobacterium nucleatum subsp. vincentii 3_1_27 chromosome 1, complete sequence
+1801686
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.8762156395393639
+-0.9619578615257945
+-0.8822980263478754
+0.04453483806911806
+0.4723768732178309
+30
+NC_021281.1
+Fusobacterium sp. 4_8, complete genome
+2261267
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.8087576101136265
+-0.9000570540393409
+-0.8342535832322943
+0.03442837914207891
+0.4369580452763901
+31
+NZ_CP012713.1
+Fusobacterium nucleatum subsp. animalis strain KCOM 1279, complete genome
+2549353
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.8626220862224036
+-0.9534735643818889
+-0.8564123275463702
+0.03567226666001696
+0.4601397332573952
+32
+NZ_CP012715.1
+Fusobacterium nucleatum subsp. animalis strain KCOM 1325, complete genome
+2310804
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.861247037272699
+-0.9428763185696488
+-0.8549985393227365
+0.12575713875595876
+0.5682332759189077
+33
+NZ_CP012716.1
+Fusobacterium nucleatum subsp. nucleatum ChDC F316 strain KCOM 1322, complete genome
+2227266
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.8523065305163064
+-0.897929414833363
+-0.7575327247059171
+0.06037891456096899
+0.48407667156079026
+34
+NZ_CP013121.1
+Fusobacterium nucleatum subsp. polymorphum strain ChDC F306, complete genome
+2600840
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.8597405181878153
+-0.9103778079124962
+-0.7525330363862844
+0.05076979855647111
+0.45808138133426585
+35
+NZ_LN831027.1
+Fusobacterium nucleatum subsp. polymorphum genome assembly NCTC10562, chromosome : 1
+2443126
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.9564482581736949
+-1
+-0.9055019219656496
+0.1030729009768915
+0.5376309577649221
+36
+CP012714.1
+Fusobacterium nucleatum subsp. vincentii ChDC F8 strain KCOM 1231, complete genome
+2038535
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.8665323169581515
+-0.9426365741041997
+-0.869859194086205
+0.12574277847502677
+0.574103913139805
+37
+CP012717.1
+Fusobacterium nucleatum subsp. nucleatum strain KCOM 1250, complete genome
+2290405
+Bacteria; Fusobacteria; Fusobacteriales; Fusobacteriaceae; Fusobacterium
+0.8650980800950426
+0.854966246508121
+-0.6015794241069357
+0.9912205397509904
+-0.4455429632191157
+38
+NC_018887.1
+Borrelia afzelii HLJ01, complete genome
+905471
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+0.8385547381891292
+0.9998887976245561
+-1
+-0.9984330218460904
+0.9999999999999999
+39
+NC_001318.1
+Borrelia burgdorferi B31 chromosome, complete genome
+910724
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+-0.6656971223332556
+-0.08025018444007723
+-0.3747800548101684
+0.021092415370596373
+0.42266297302178857
+40
+NC_000919.1
+Treponema pallidum subsp. pallidum str. Nichols complete genome
+1138011
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+0.8305111570268072
+0.7655346597137628
+-0.49484086499909613
+0.4376206572193891
+-0.056458469018417626
+41
+NC_018747.1
+Borrelia garinii NMJW1, complete genome
+902789
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+-0.4376399418519728
+-0.08900863648962316
+-0.30216141764616916
+-0.05278513066665123
+0.280076554237547
+42
+NC_002967.9
+Treponema denticola ATCC 35405 chromosome, complete genome
+2843201
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+0.9080680219284313
+-0.15219188955523713
+0.8293053935730016
+0.010906731592271344
+0.8409170295605557
+43
+NC_011229.1
+Borrelia duttonii Ly, complete genome
+931674
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borrelia
+0.9157132055260083
+-0.15114299584413166
+0.8203054069560269
+0.011752876883063037
+0.8427957870418268
+44
+NC_011244.1
+Borrelia recurrentis A1, complete genome
+930981
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borrelia
+0.8227137807815493
+0.6343699912176223
+-0.4180447946338765
+0.2139758311404941
+0.14026064725290485
+45
+NZ_CP009117.1
+Borrelia valaisiana Tom4006, complete genome
+912160
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+0.7421442064152245
+-0.10394613773302648
+0.9590189635005086
+0.016502089794529242
+0.8700020912039935
+46
+NC_008710.1
+Borrelia turicatae 91E135, complete genome
+917330
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borrelia
+-0.5156394299888628
+-0.11326352829436682
+-0.3654626934982105
+-0.05852809501388576
+0.27304680155461936
+47
+NC_015578.1
+Treponema primitia ZAS-2, complete genome
+4059867
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+-0.5417140164395325
+-0.09563052901791137
+-0.353292060672755
+-0.041253390196039
+0.3004452985672071
+48
+NC_015577.1
+Treponema azotonutricium ZAS-9, complete genome
+3855671
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+-0.6631321504580803
+-0.08097512471911736
+-0.37744219737390683
+0.024364449475263852
+0.4192860961038165
+49
+NC_015714.1
+Treponema paraluiscuniculi Cuniculi A, complete genome
+1133390
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+-0.5470232998213851
+-0.11013427011939894
+-0.34967309302237776
+-0.04697186224715665
+0.2994188678574469
+50
+NC_014364.1
+Spirochaeta smaragdinae DSM 11293, complete genome
+4653970
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta
+-0.9223748432481995
+-0.06709311643347136
+-0.520356821410439
+0.17890922461413403
+0.6935133863628924
+51
+NC_017583.1
+Spirochaeta thermophila DSM 6578, complete genome
+2560222
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta
+0.8443894602101788
+0.7558415192261903
+-0.47327493819992167
+0.4267974302270808
+-0.04621059187353327
+52
+NC_006156.1
+Borrelia garinii PBi, complete genome
+904246
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+-0.4933258544176478
+-0.1270082877114493
+-0.35753238888900923
+-0.05702697008439627
+0.28553351671021954
+53
+NC_015732.1
+Treponema caldarium DSM 7334, complete genome
+3239340
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+-0.5413010159414438
+-0.12360048882427167
+-0.35828338791402004
+-0.040864590052538174
+0.30729368288368286
+54
+NC_015152.1
+Sphaerochaeta globosa str. Buddy, complete genome
+3316466
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Sphaerochaeta
+-0.6024936524510685
+-0.10322434634254189
+-0.3796518040974886
+-0.00009207924912757555
+0.39612704550414424
+55
+NC_015436.1
+Sphaerochaeta coccoides DSM 17374, complete genome
+2227296
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Sphaerochaeta
+0.33296098232466764
+-0.39925651768077686
+-0.1472922094059992
+-0.39687079006340825
+-0.33843828086709465
+56
+NC_019908.1
+Brachyspira pilosicoli P43/6/78, complete genome
+2555556
+Bacteria; Spirochaetes; Brachyspirales; Brachyspiraceae; Brachyspira
+-0.4349850011639203
+-0.10358135488601754
+-0.3304879452435957
+-0.011856816035483695
+0.352332731771785
+57
+NC_015385.1
+Treponema succinifaciens DSM 2489, complete genome
+2731853
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+-0.6386475638074173
+-0.029234638679894006
+-0.3172763187313399
+0.04049725668890724
+0.4432626914736677
+58
+NC_015500.1
+Treponema brennaborense DSM 12168, complete genome
+3055580
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+0.17239558844689942
+-0.34480540549184374
+-0.17743329510682374
+-0.3261154245995777
+-0.17097161618791573
+59
+NC_014150.1
+Brachyspira murdochii DSM 12563, complete genome
+3241804
+Bacteria; Spirochaetes; Brachyspirales; Brachyspiraceae; Brachyspira
+0.22548803930657102
+-0.33638805961664464
+-0.16324356346551394
+-0.2972401793341823
+-0.15949368313944123
+60
+NC_017243.1
+Brachyspira intermedia PWS/A, complete genome
+3304788
+Bacteria; Spirochaetes; Brachyspirales; Brachyspiraceae; Brachyspira
+0.7789996405888535
+0.7310729626600109
+-0.5791245345028088
+-0.2858437214030459
+0.4506289209422379
+61
+NC_015921.1
+Borrelia bissettii DN127, complete genome
+900755
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+-0.5235168042105631
+-0.12655480852839085
+-0.35809534511958985
+-0.04413848235168959
+0.2954751408382101
+62
+NC_016633.1
+Sphaerochaeta pleomorpha str. Grapes, complete genome
+3590853
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Sphaerochaeta
+-0.5673768764090387
+-0.08210904494407092
+-0.3521223805521142
+-0.048122650374174784
+0.3084893144755584
+63
+NC_018020.1
+Turneriella parva DSM 21527, complete genome
+4384015
+Bacteria; Spirochaetes; Leptospirales; Leptospiraceae; Turneriella
+-0.676335657583143
+-0.08399567802816668
+-0.40280442953456685
+0.011580454784451773
+0.4248334663233105
+64
+NC_017098.1
+Spirochaeta africana DSM 8902, complete genome
+3285855
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta
+-0.44798603897767364
+-0.07730523136787025
+-0.2896656195165198
+-0.06079804740895844
+0.2386451847554274
+65
+NC_022097.1
+Treponema pedis str. T A4, complete genome
+2889325
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+0.8280191085521825
+-0.14256865633704532
+0.8584874812575509
+0.003139982176976892
+0.8202014270504778
+66
+NC_022079.2
+Borrelia miyamotoi LB-2001, complete genome
+907293
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borrelia
+-0.41849909161140403
+-0.08985457503412922
+-0.2793132161957788
+-0.055340039581751904
+0.26646210909229595
+67
+NZ_CP009228.1
+Treponema putidum strain OMZ 758, complete genome
+2796913
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+0.8260149146031791
+0.3955912755850864
+-0.22386317661659305
+0.1085279954539083
+0.2100640963806245
+68
+CP009910.1
+Borrelia chilensis strain VA1, complete genome
+900694
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+-0.5780274428953435
+-0.0937041530593906
+-0.3621938885459359
+-0.017546428406957713
+0.35652240725515566
+69
+NC_023035.1
+Salinispira pacifica strain L21-RPul-D2, complete genome
+3782798
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Salinispira
+0.7807911139197328
+-0.1169306962815513
+0.9777367058088093
+0.023957899677356058
+0.8656537618245691
+70
+NZ_CP007022.1
+Borrelia parkeri HR1, complete genome
+916945
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borrelia
+0.8279554556621918
+-0.1426652780205632
+0.8583667290437454
+0.003341706811683277
+0.8201216437769895
+71
+NZ_CP010308.1
+Borrelia miyamotoi strain CT14D4, complete genome
+907293
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borrelia
+0.3272005385415281
+-0.39414698905223233
+-0.17188570225291666
+-0.39090879468791073
+-0.31680991590478075
+72
+NC_014330.1
+Brachyspira pilosicoli 95/1000, complete genome
+2586443
+Bacteria; Spirochaetes; Brachyspirales; Brachyspiraceae; Brachyspira
+-1
+-0.05724607029054688
+-0.5520230554508115
+0.2325413693682246
+0.7785371744965564
+73
+NC_014484.1
+Spirochaeta thermophila DSM 6192, complete genome
+2472645
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Spirochaeta
+0.29016320196138107
+-0.3369338436157712
+-0.10413022670238227
+-0.31528847461677173
+-0.24076807373698644
+74
+NC_012225.1
+Brachyspira hyodysenteriae WA1, complete genome
+3000694
+Bacteria; Spirochaetes; Brachyspirales; Brachyspiraceae; Brachyspira
+0.6899839942748611
+-0.07591244750924629
+1.0000000000000002
+-0.0025561827143794295
+0.8532191789755462
+75
+NZ_CP011060.1
+Borrelia hermsii CC1, complete genome
+922280
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borrelia
+0.8305511165106509
+0.7638626514339047
+-0.48809007445287395
+0.43945914805597086
+-0.05255451470828924
+76
+NC_017717.1
+Borrelia garinii BgVir chromosome linear, complete sequence
+905534
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+-0.6654080082220346
+-0.08054102856142273
+-0.37542432929191155
+0.020357386846676526
+0.42136415857987186
+77
+NZ_CP003679.1
+Treponema pallidum subsp. pallidum str. Sea 81-4, complete genome
+1139203
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+0.8404002930887193
+0.9991561741688656
+-0.9938316974405578
+-0.9873921213486141
+0.9961317104909474
+78
+NC_011728.1
+Borrelia burgdorferi ZS7, complete genome
+906707
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+0.8710011639090102
+0.8613551876251807
+-0.6108523802226256
+0.9995549061919037
+-0.4486592375179443
+79
+NC_017238.1
+Borrelia afzelii PKo, complete genome
+903609
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+0.8669217524193641
+0.8607204333972522
+-0.6097039801238524
+1
+-0.44655987963281457
+80
+NZ_CP009212.1
+Borrelia afzelii Tom3107, complete genome
+905861
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+0.841471731859705
+0.9973756370604393
+-0.9902794219572797
+-0.9799625380893403
+0.9991095570471152
+81
+NC_017418.1
+Borrelia burgdorferi N40, complete genome
+902191
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+0.6971221213386293
+-0.07830209356999944
+0.022553960699882393
+-0.12120274361463844
+0.1623972286719158
+82
+NZ_CP007564.1
+Borrelia garinii SZ, complete genome
+902487
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+0.6902173484274609
+-0.07653389003653148
+0.9992281202307371
+-0.0018724841362187659
+0.8549536081848252
+83
+NZ_CP014349.1
+Borrelia hermsii HS1 isolate Browne Mountain, complete genome
+922500
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borrelia
+0.29631202518271926
+-0.3980208065258995
+-0.15642516031319717
+-0.40252526900656715
+-0.33936504505353954
+84
+NC_018607.1
+Brachyspira pilosicoli B2904, complete genome
+2765477
+Bacteria; Spirochaetes; Brachyspirales; Brachyspiraceae; Brachyspira
+-0.5201871726096069
+-0.08723958494993694
+-0.31396616575539055
+-0.029917313378492214
+0.31740917759714
+85
+NZ_CP009227.1
+Treponema sp. OMZ 838, complete genome
+2708067
+Bacteria; Spirochaetes; Spirochaetales; Spirochaetaceae; Treponema
+0.8309473360325457
+0.9817991222718708
+-0.9843678466343742
+-0.99163618656773
+0.9984885088104383
+86
+NC_017403.1
+Borrelia burgdorferi JD1, complete genome
+922801
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+0.8693273777157804
+0.8582338602916652
+-0.6076493561992795
+0.994330073247694
+-0.44699802684292683
+87
+NZ_CP009058.1
+Borrelia afzelii K78, complete genome
+905949
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+0.8379595234748968
+0.9999999999999998
+-0.9971523669718036
+-1
+0.9988275579835445
+88
+NC_022048.1
+Borrelia burgdorferi CA382, complete genome
+910736
+Bacteria; Spirochaetes; Spirochaetales; Borreliaceae; Borreliella
+-0.6272707407465123
+-0.12871954683704778
+-0.4195878404819907
+0.08652461236539835
+0.5482816602380038
+89
+NC_011978.1
+Thermotoga neapolitana DSM 4359, complete genome
+1884562
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.6243434408550076
+-0.1194681733545558
+-0.42432916294684125
+0.09320473636305725
+0.5574803631326609
+90
+NC_000853.1
+Thermotoga maritima MSB8 chromosome, complete genome
+1860725
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.4294936008699892
+-0.11739363823932786
+-0.34978101762459884
+-0.011461816243253795
+0.3766744603053896
+91
+NC_009828.1
+Thermotoga lettingae TMO, complete genome
+2135342
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Pseudothermotoga
+-0.2573829503567278
+-0.17030751024837965
+-0.27683350745001706
+-0.040553750623488774
+0.3027554139398332
+92
+NC_009718.1
+Fervidobacterium nodosum Rt17-B1, complete genome
+1948941
+Bacteria; Thermotogae; Thermotogales; Fervidobacteriaceae; Fervidobacterium
+-0.6203331471552791
+-0.12128580379163134
+-0.4311909593140628
+0.09899140982929404
+0.5622996698086166
+93
+NC_009486.1
+Thermotoga petrophila RKU-1, complete genome
+1823511
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+0.06451135952546262
+-0.22742650525847044
+-0.20696910505594285
+-0.09229984566567487
+0.20535908626311214
+94
+NC_009616.1
+Thermosipho melanesiensis BI429, complete genome
+1915238
+Bacteria; Thermotogae; Thermotogales; Fervidobacteriaceae; Thermosipho
+-0.20176764366259378
+-0.18601165517626106
+-0.30318403273753225
+-0.06253440687355276
+0.24823572977332464
+95
+NC_010003.1
+Petrotoga mobilis SJ95, complete genome
+2169548
+Bacteria; Thermotogae; Petrotogales; Petrotogaceae; Petrotoga
+0.09265228522082965
+-0.21793882676766224
+-0.23214250203110995
+-0.0807406198128697
+0.2599853173324058
+96
+NC_016751.1
+Marinitoga piezophila KA3, complete genome
+2231407
+Bacteria; Thermotogae; Petrotogales; Petrotogaceae; Marinitoga
+0.08998194187935935
+-0.2474065588556214
+-0.23193303222300568
+-0.08649135294813479
+0.23503398124463307
+97
+NC_011653.1
+Thermosipho africanus TCF52B, complete genome
+2016657
+Bacteria; Thermotogae; Thermotogales; Fervidobacteriaceae; Thermosipho
+-0.47376581248383826
+-0.116084881193202
+-0.33937154177662476
+-0.032940192169542415
+0.31468844850374134
+98
+NC_012785.1
+Kosmotoga olearia TBF 19.5.1, complete genome
+2302126
+Bacteria; Thermotogae; Kosmotogales; Kosmotogaceae; Kosmotoga
+-0.6177810506114183
+-0.12392508048636232
+-0.4297484547172942
+0.09150440189622598
+0.544493646959939
+99
+NC_013642.1
+Thermotoga naphthophila RKU-10, complete genome
+1809823
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.39496583095309
+-0.1500921684981483
+-0.33791404847639983
+-0.023996523348543013
+0.33290501630686725
+100
+NC_015707.1
+Thermotoga thermarum DSM 5069, complete genome
+2039943
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Pseudothermotoga
+-0.5129889900926292
+-0.12333742508728637
+-0.34803320325818354
+-0.04709083843495127
+0.2933237185103538
+101
+NC_017934.1
+Mesotoga prima MesG1.Ag.4.2, complete genome
+2974229
+Bacteria; Thermotogae; Kosmotogales; Kosmotogaceae; Mesotoga
+-0.3827923560599524
+-0.18727938977172956
+-0.3377897475175975
+-0.057277316441501226
+0.2811921220971307
+102
+NC_017095.1
+Fervidobacterium pennivorans DSM 9078, complete genome
+2166381
+Bacteria; Thermotogae; Thermotogales; Fervidobacteriaceae; Fervidobacterium
+-0.6215985163472341
+-0.12212672133305656
+-0.42994554254215117
+0.09072053139469126
+0.5507286302331862
+103
+NC_010483.1
+Thermotoga sp. RQ2, complete genome
+1877693
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.4313583804229039
+-0.1171561304560515
+-0.3484508200011131
+-0.010652124812092073
+0.3773862511942316
+104
+NC_022792.1
+Thermotoga elfii NBRC 107921 DNA, complete genome
+2169860
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Pseudothermotoga
+-0.680368001737485
+-0.0958565742894525
+-0.40543610436994953
+0.03930444179583744
+0.4574752863277601
+105
+NC_022795.1
+Thermotoga hypogea NBRC 106472 DNA, complete genome
+2165165
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Pseudothermotoga
+-0.4503130489236249
+-0.14279183976761792
+-0.33197024118218604
+-0.042256911758464986
+0.2923760952435423
+106
+NZ_CP014334.1
+Fervidobacterium islandicum strain AW-1, complete genome
+2237377
+Bacteria; Thermotogae; Thermotogales; Fervidobacteriaceae; Fervidobacterium
+-0.7478891035238667
+-0.08564640463759596
+-0.4393873582830437
+0.06827936306984238
+0.5168985866323468
+107
+NZ_AP014509.1
+Thermotoga caldifontis AZM44c09 DNA, complete genome
+2014912
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.3904184444341781
+-0.1512544371766301
+-0.3425142583108463
+0.0007021854063879699
+0.3964478007293697
+108
+NZ_AP014510.1
+Thermotoga profunda AZM34c06 DNA, complete genome
+2187612
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.020923743009326368
+-0.22558016006897574
+-0.26837171208400434
+-0.061545471383090855
+0.26084855426854076
+109
+NZ_LN824141.1
+Defluviitoga tunisiensis genome assembly DTL3, chromosome : I
+2053097
+Bacteria; Thermotogae; Petrotogales; Petrotogaceae; Defluviitoga
+-0.4818408897025624
+-0.12427579439669921
+-0.3501410989537954
+-0.03834221622171627
+0.3091110393275961
+110
+NZ_CP011232.1
+Kosmotoga pacifica strain SLHLJ1, complete genome
+2169170
+Bacteria; Thermotogae; Kosmotogales; Kosmotogaceae; Kosmotoga
+-0.6810936008492751
+-0.09474761144160955
+-0.3991134104204798
+0.04179841909535224
+0.45834072272040033
+111
+NZ_CP007141.1
+Thermotoga hypogea DSM 11164, complete genome
+2165416
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Pseudothermotoga
+-0.621994721496097
+-0.12123339871383984
+-0.4253579595528959
+0.08619906104709352
+0.5569498334427443
+112
+NZ_CP003408.1
+Thermotoga sp. 2812B, complete genome
+1843731
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.36870238548984596
+-0.20363907620750335
+-0.3408808003799088
+-0.05702367892875702
+0.2748862421437463
+113
+NZ_CP011393.1
+Fervidobacterium pennivorans strain DYC, complete genome
+2061852
+Bacteria; Thermotogae; Thermotogales; Fervidobacteriaceae; Fervidobacterium
+-0.6204363572571221
+-0.11677014849669777
+-0.42032343867027744
+0.08677390258392441
+0.553222939219889
+114
+NC_023151.1
+Thermotoga maritima MSB8, complete genome
+1869644
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.6238436570750797
+-0.11929220413718973
+-0.42452780872335005
+0.09194761996289375
+0.555606223913506
+115
+NC_021214.1
+Thermotoga maritima MSB8, complete genome
+1869612
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.6355269244121928
+-0.12076856161588628
+-0.4417111313938149
+0.09956829595441884
+0.579708278035185
+116
+NZ_CP003409.1
+Thermotoga sp. Cell2, complete genome
+1749904
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.6367116894028695
+-0.1277366292114343
+-0.4269766206581908
+0.0935828287027372
+0.5700343679379947
+117
+NZ_CP007633.1
+Thermotoga sp. RQ7, complete genome
+1851618
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.6247381755608835
+-0.1189291227339076
+-0.4250606781313275
+0.09337768023978436
+0.5573860205879482
+118
+NZ_CP010967.1
+Thermotoga maritima strain Tma200, complete genome
+1859582
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.6237942502457376
+-0.11935115242370636
+-0.42450397239746424
+0.09201214454600987
+0.55565911646125
+119
+NZ_CP011107.1
+Thermotoga maritima MSB8, complete genome
+1869610
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga
+-0.6237608440729571
+-0.11942701194904748
+-0.42426278149801816
+0.09201864801270641
+0.5554503789202153
+120
+NZ_CP011108.1
+Thermotoga maritima strain Tma100, complete genome
+1869610
+Bacteria; Thermotogae; Thermotogales; Thermotogaceae; Thermotoga

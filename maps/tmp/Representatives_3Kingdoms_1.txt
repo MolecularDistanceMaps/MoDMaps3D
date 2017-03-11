@@ -1,0 +1,2504 @@
+90,25,112
+red,blue,green
+6
+Index,AsmAcc,Name,Kingdom,Category,AsmLevel
+red,blue,green
+plants,fungi,animalia
+Representative Signatures (UnknownMethod) for species from Plants, Fungi and Animalia Kingdom
+0.751918
+-0.783293
+0.149689
+-0.920029
+0.654411
+1
+GCA_000002595.2 
+Chlamydomonas reinhardtii
+Plants
+Green Algae
+Scaffold
+0.95944
+0.064469
+-0.41734
+-0.204922
+-1.
+2
+GCA_000214015.1 
+Ostreococcus tauri
+Plants
+Green Algae
+Chromosome with gaps
+0.873495
+0.133837
+-0.261493
+0.00225629
+-0.782069
+3
+GCA_000092065.1 
+Ostreococcus lucimarinus CCE9901
+Plants
+Green Algae
+Complete Genome
+0.452612
+-0.436885
+-0.0724505
+-0.158052
+0.700874
+4
+GCA_000143455.1 
+Volvox carteri f. nagariensis
+Plants
+Green Algae
+Scaffold
+0.953466
+-0.138216
+-0.34903
+-0.178752
+-0.738803
+5
+GCA_000151265.1 
+Micromonas pusilla CCMP1545
+Plants
+Green Algae
+Scaffold
+0.696872
+-1.
+0.178943
+-1.
+0.596814
+6
+GCA_000147415.1 
+Chlorella variabilis
+Plants
+Green Algae
+Scaffold
+1.
+-0.457466
+-0.604231
+-0.489034
+-0.362877
+7
+GCA_000090985.2 
+Micromonas sp. RCC299
+Plants
+Green Algae
+Complete Genome
+0.589086
+0.508967
+-0.03859
+0.504385
+-0.767874
+8
+-
+Bathycoccus prasinos
+Plants
+Green Algae
+Complete
+0.574493
+-0.921809
+-0.349334
+-0.499754
+0.52697
+9
+GCA_000733215.1 
+Auxenochlorella protothecoides
+Plants
+Green Algae
+Scaffold
+0.183246
+-0.926493
+0.0468258
+0.138475
+0.860267
+10
+GCA_000812005.1 
+Coccomyxa sp. LA000219
+Plants
+Green Algae
+Scaffold
+-0.0394302
+-0.7335
+0.561619
+0.345603
+1.
+11
+GCA_000818905.1 
+Trebouxia gelatinosa
+Plants
+Green Algae
+Scaffold
+-0.165993
+0.230286
+-0.646061
+-0.13756
+0.590313
+12
+GCA_000005005.5 
+Zea mays
+Plants
+Land Plants
+Chromosome
+-0.649673
+0.428971
+-0.399783
+0.0402453
+0.431156
+13
+GCA_000004515.2 
+Glycine max
+Plants
+Land Plants
+Chromosome
+-0.603727
+0.75219
+-0.367736
+-0.160778
+0.399628
+14
+GCA_000219495.1 
+Medicago truncatula
+Plants
+Land Plants
+Chromosome
+-0.582377
+0.369774
+-0.258898
+0.213214
+0.41912
+15
+GCA_000002775.2 
+Populus trichocarpa
+Plants
+Land Plants
+Chromosome
+-0.0321012
+0.0565245
+-0.180405
+-0.181837
+0.78065
+16
+GCA_000003195.1 
+Sorghum bicolor
+Plants
+Land Plants
+Chromosome
+-0.680578
+0.71259
+-0.291916
+-0.0573856
+0.383762
+17
+GCA_000226075.1 
+Solanum tuberosum
+Plants
+Land Plants
+Scaffold
+-0.614455
+0.301648
+-0.635047
+0.103024
+0.458672
+18
+GCA_000003745.2 
+Vitis vinifera
+Plants
+Land Plants
+Chromosome
+-0.448907
+0.540427
+-0.311364
+0.284255
+0.318161
+19
+GCA_000309985.1 
+Brassica rapa
+Plants
+Land Plants
+Chromosome
+-0.411655
+0.370772
+-0.587677
+0.316474
+0.515269
+20
+GCA_000148765.2 
+Malus domestica
+Plants
+Land Plants
+Chromosome
+-0.736109
+0.659383
+-0.456274
+-0.223647
+0.190373
+21
+GCA_000499845.1 
+Phaseolus vulgaris
+Plants
+Land Plants
+Chromosome
+-0.540242
+0.541971
+-0.348121
+0.0427334
+0.496827
+22
+GCA_000002425.1 
+Physcomitrella patens
+Plants
+Land Plants
+Scaffold
+-0.136364
+0.131633
+-0.570733
+0.340622
+0.443907
+23
+GCA_000143415.2 
+Selaginella moellendorffii
+Plants
+Land Plants
+Scaffold
+-0.178914
+0.240169
+-0.0170544
+-0.246983
+0.830292
+24
+GCA_000817225.1 
+Oryza rufipogon
+Plants
+Land Plants
+Scaffold
+-0.130645
+0.265539
+-0.33257
+-0.254936
+0.795671
+25
+GCA_000147395.2 
+Oryza glaberrima
+Plants
+Land Plants
+Scaffold
+-0.371158
+0.631114
+-0.126029
+0.169962
+0.430159
+26
+GCA_000504015.1 
+Erythranthe guttata
+Plants
+Land Plants
+Scaffold
+-0.501423
+0.668389
+-0.285846
+0.268489
+0.321546
+27
+GCA_000375325.1 
+Capsella rubella
+Plants
+Land Plants
+Scaffold
+-0.517091
+0.588474
+-0.352303
+-0.842338
+0.0360632
+28
+GCA_000150535.1 
+Carica papaya
+Plants
+Land Plants
+Scaffold
+-0.439001
+0.655052
+-0.549149
+0.337284
+0.250423
+29
+GCA_000004255.1 
+Arabidopsis lyrata subsp. lyrata
+Plants
+Land Plants
+Scaffold
+-0.649532
+0.538355
+-1.
+-0.0852109
+0.507242
+30
+GCA_000151685.2 
+Ricinus communis
+Plants
+Land Plants
+Scaffold
+-0.107349
+0.065156
+-0.348669
+0.101752
+0.730044
+31
+GCA_000005505.1 
+Brachypodium distachyon
+Plants
+Land Plants
+Chromosome
+-0.333975
+0.365665
+-0.494488
+0.237762
+0.465819
+32
+GCA_000612305.1 
+Eucalyptus grandis
+Plants
+Land Plants
+Scaffold
+-0.470958
+0.311432
+-0.68765
+0.100935
+0.576004
+33
+GCA_000442705.1 
+Elaeis guineensis
+Plants
+Land Plants
+Chromosome
+-0.137283
+0.310759
+-0.305816
+-0.335661
+0.719123
+34
+GCA_000182155.3 
+Oryza barthii
+Plants
+Land Plants
+Chromosome
+-0.124274
+0.250207
+-0.154395
+-0.278686
+0.793785
+35
+GCA_000576065.1 
+Oryza nivara
+Plants
+Land Plants
+Chromosome
+-0.689344
+0.862214
+-0.174676
+-0.308358
+0.316828
+36
+GCA_000331145.1 
+Cicer arietinum
+Plants
+Land Plants
+Chromosome
+-0.542516
+0.456708
+-0.404123
+0.207937
+0.486553
+37
+GCA_000184155.1 
+Fragaria vesca subsp. vesca
+Plants
+Land Plants
+Chromosome
+-0.511776
+0.703504
+-0.2819
+0.262264
+0.251964
+38
+GCA_000218505.1 
+Schrenkiella parvula
+Plants
+Land Plants
+Chromosome
+-0.601895
+0.652808
+-0.497589
+0.0294308
+0.454185
+39
+GCA_000987745.1 
+Gossypium hirsutum
+Plants
+Land Plants
+Chromosome
+-0.642267
+0.463426
+-0.814567
+-0.110864
+0.545581
+40
+GCA_000763605.1 
+Castanea mollissima
+Plants
+Land Plants
+Scaffold
+-0.25271
+0.300889
+-0.121173
+-0.153135
+0.736154
+41
+GCA_000231095.2 
+Oryza brachyantha
+Plants
+Land Plants
+Chromosome
+-0.395801
+0.663703
+-0.378866
+0.275537
+0.195771
+42
+GCA_000695525.1 
+Brassica oleracea var. oleracea
+Plants
+Land Plants
+Chromosome
+-0.143662
+0.271401
+-0.328968
+-0.165477
+0.768351
+43
+GCA_000573905.1 
+Oryza punctata
+Plants
+Land Plants
+Chromosome
+-0.674678
+0.631802
+-0.249571
+0.026331
+0.460524
+44
+GCA_000787875.1 
+Solanum melongena
+Plants
+Land Plants
+Scaffold
+-0.340695
+0.292243
+-0.746131
+0.172775
+0.614101
+45
+GCA_000313855.1 
+Musa acuminata subsp. malaccensis
+Plants
+Land Plants
+Chromosome
+-0.123169
+0.00331261
+-0.241921
+-0.00388319
+0.846362
+46
+GCA_000263155.1 
+Setaria italica
+Plants
+Land Plants
+Scaffold
+-0.548685
+0.690265
+-0.418403
+0.023737
+0.434347
+47
+GCA_000787975.1 
+Gossypium arboreum
+Plants
+Land Plants
+Scaffold
+-0.555231
+0.494468
+-0.0840811
+0.0860721
+0.512458
+48
+GCA_000493195.1 
+Citrus clementina
+Plants
+Land Plants
+Scaffold
+-0.0698442
+0.19556
+-0.184641
+-0.260029
+0.771623
+49
+GCA_000576495.1 
+Oryza glumipatula
+Plants
+Land Plants
+Chromosome
+-0.0416715
+0.146395
+-0.202793
+-0.266526
+0.759902
+50
+GCA_000338895.2 
+Oryza meridionalis
+Plants
+Land Plants
+Chromosome
+-0.531583
+0.44405
+-0.301246
+0.204187
+0.424553
+51
+GCA_000512975.1 
+Sesamum indicum
+Plants
+Land Plants
+Chromosome
+-0.333619
+0.650049
+-0.846078
+0.440711
+0.284819
+52
+GCA_000230575.1 
+Cannabis sativa
+Plants
+Land Plants
+Scaffold
+-0.410695
+0.224703
+-0.987449
+0.1165
+0.477914
+53
+GCA_000471905.1 
+Amborella trichopoda
+Plants
+Land Plants
+Scaffold
+-0.603096
+0.554549
+-0.594132
+-0.074309
+0.4042
+54
+GCA_000817695.1 
+Arachis duranensis
+Plants
+Land Plants
+Chromosome
+-0.350286
+0.327237
+-0.833999
+0.134239
+0.571298
+55
+GCA_000390325.1 
+Nicotiana tomentosiformis
+Plants
+Land Plants
+Scaffold
+-0.474182
+0.549038
+-0.807494
+-0.339963
+0.397523
+56
+GCA_000315295.1 
+Pyrus x bretschneideri
+Plants
+Land Plants
+Scaffold
+-0.410744
+0.344949
+-0.889863
+0.198957
+0.523821
+57
+GCA_000393655.1 
+Nicotiana sylvestris
+Plants
+Land Plants
+Scaffold
+-0.699228
+0.653306
+-0.237559
+-0.132005
+0.391121
+58
+GCA_000722935.2 
+Glycine soja
+Plants
+Land Plants
+Scaffold
+-0.677934
+0.536102
+-0.361124
+-0.137522
+0.42481
+59
+GCA_000495115.1 
+Populus euphratica
+Plants
+Land Plants
+Scaffold
+-0.130317
+0.216995
+-0.331806
+-0.0787268
+0.778765
+60
+GCA_000325765.3 
+Leersia perrieri
+Plants
+Land Plants
+Chromosome
+-0.466946
+0.379018
+-0.750251
+0.112026
+0.590268
+61
+GCA_000346735.1 
+Prunus mume
+Plants
+Land Plants
+Chromosome
+-0.428306
+0.561334
+-0.258464
+0.405865
+0.283544
+62
+GCA_000633955.1 
+Camelina sativa
+Plants
+Land Plants
+Chromosome
+-0.384693
+0.723236
+-0.149269
+0.209006
+0.499643
+63
+GCA_000512335.1 
+Dianthus caryophyllus
+Plants
+Land Plants
+Scaffold
+-0.66227
+0.642662
+-0.507174
+-0.276872
+0.414364
+64
+GCA_000826755.1 
+Ziziphus jujuba
+Plants
+Land Plants
+Chromosome
+-0.269488
+0.523646
+-0.49423
+0.492022
+0.292422
+65
+GCA_000463585.1 
+Tarenaya hassleriana
+Plants
+Land Plants
+Scaffold
+-0.491976
+0.596755
+-0.171681
+0.138715
+0.306922
+66
+GCA_000414095.2 
+Morus notabilis
+Plants
+Land Plants
+Scaffold
+-0.414093
+0.582623
+-0.47811
+0.353661
+0.308996
+67
+GCA_000733195.1 
+Arabis alpina
+Plants
+Land Plants
+Chromosome
+-0.16736
+0.199858
+-0.918409
+0.797691
+0.37897
+68
+GCA_000441915.1 
+Genlisea aurea
+Plants
+Land Plants
+Scaffold
+-0.536379
+0.653341
+-0.192673
+0.0368418
+0.441796
+69
+GCA_000576895.1 
+Fraxinus excelsior
+Plants
+Land Plants
+Scaffold
+-0.77471
+0.457701
+-0.928022
+-0.226894
+0.589128
+70
+GCA_000696445.1 
+Aquilaria agallochum
+Plants
+Land Plants
+Scaffold
+-0.566864
+0.480199
+-0.488376
+0.0713648
+0.405923
+71
+GCA_000816755.1 
+Arachis ipaensis
+Plants
+Land Plants
+Chromosome
+-0.412512
+0.629663
+-0.278577
+0.337666
+0.316064
+72
+GCA_000715565.1 
+Raphanus sativus
+Plants
+Land Plants
+Scaffold
+-0.442925
+0.606975
+-0.358206
+0.165882
+0.284003
+73
+GCA_000604025.1 
+Brassica oleracea var. capitata
+Plants
+Land Plants
+Scaffold
+-0.725113
+0.630828
+-0.834471
+-0.22008
+0.489589
+74
+GCA_000950795.1 
+Capsicum annuum var. glabriusculum
+Plants
+Land Plants
+Chromosome
+-0.116319
+0.269013
+-0.667798
+-0.0800083
+0.681604
+75
+GCA_000004655.2 
+Oryza sativa Indica Group
+Plants
+Land Plants
+Chromosome
+-0.3829
+0.498001
+-0.321805
+0.550349
+0.33635
+76
+GCA_000001735.1 
+Arabidopsis thaliana
+Plants
+Land Plants
+Chromosome with gaps
+-0.684115
+0.785792
+-0.250211
+-0.151353
+0.334705
+77
+GCA_000188115.2 
+Solanum lycopersicum
+Plants
+Land Plants
+Chromosome
+-0.0121078
+0.154201
+-0.384859
+-0.272929
+0.751097
+78
+GCA_000005425.2 
+Oryza sativa Japonica Group
+Plants
+Land Plants
+Chromosome
+-0.384288
+0.68124
+-0.289244
+0.215039
+0.0892717
+79
+GCA_000686985.1 
+Brassica napus
+Plants
+Land Plants
+Chromosome
+-0.558308
+0.622364
+-0.654707
+-0.106045
+0.476684
+80
+GCA_000511025.1 
+Beta vulgaris subsp. vulgaris
+Plants
+Land Plants
+Chromosome
+-0.602174
+0.381987
+-0.44366
+0.105397
+0.464468
+81
+GCA_000346465.1 
+Prunus persica
+Plants
+Land Plants
+Scaffold
+-0.662849
+0.538489
+-0.323771
+0.0779436
+0.448634
+82
+GCA_000403535.1 
+Theobroma cacao
+Plants
+Land Plants
+Chromosome
+-0.625931
+0.439487
+-0.185754
+0.207914
+0.482837
+83
+GCA_000696525.1 
+Jatropha curcas
+Plants
+Land Plants
+Scaffold
+-0.591825
+0.627877
+-0.417282
+0.0819522
+0.402514
+84
+GCA_000004075.2 
+Cucumis sativus
+Plants
+Land Plants
+Chromosome
+-0.641542
+0.500178
+-0.245332
+0.145007
+0.449397
+85
+GCA_000327365.1 
+Gossypium raimondii
+Plants
+Land Plants
+Chromosome
+-0.548581
+0.537675
+-0.099004
+0.0610069
+0.483937
+86
+GCA_000317415.1 
+Citrus sinensis
+Plants
+Land Plants
+Chromosome
+-0.659883
+0.523758
+-0.887657
+-0.000250296
+0.435431
+87
+GCA_000710875.1 
+Capsicum annuum
+Plants
+Land Plants
+Chromosome
+-0.449279
+0.587409
+-0.25849
+0.397023
+0.242383
+88
+GCA_000325905.2 
+Eutrema salsugineum
+Plants
+Land Plants
+Chromosome
+-0.547414
+0.216958
+-0.846272
+0.164756
+0.587727
+89
+GCA_000365185.2 
+Nelumbo nucifera
+Plants
+Land Plants
+Scaffold
+0.430293
+-0.461477
+-0.0867703
+0.267009
+0.597388
+90
+GCA_000708835.1 
+Klebsormidium flaccidum
+Plants
+Other Plants
+Scaffold
+0.218277
+-0.0218364
+-0.111806
+0.620082
+0.539612
+91
+GCA_000091025.4 
+Ashbya gossypii ATCC 10895
+Fungi
+Ascomycetes
+Complete Genome
+0.292715
+-0.206582
+-0.745749
+0.638339
+0.594755
+92
+GCA_000239835.2 
+Aspergillus kawachii IFO 4308
+Fungi
+Ascomycetes
+Scaffold
+-0.429347
+0.411218
+-0.273848
+0.74991
+0.530465
+93
+GCA_000002545.2 
+Candida glabrata
+Fungi
+Ascomycetes
+Chromosome with gaps
+0.419012
+-0.223504
+-0.688262
+0.291889
+0.563821
+94
+GCA_000149035.1 
+Colletotrichum graminicola M1.001
+Fungi
+Ascomycetes
+Scaffold
+0.180619
+-0.076142
+-0.551547
+0.781392
+0.43531
+95
+GCA_000149245.3 
+Cryptococcus neoformans var. grubii H99
+Fungi
+Basidiomycetes
+Chromosome with gaps
+-0.419538
+0.674038
+-0.370573
+0.703953
+0.474114
+96
+GCA_000006445.2 
+Debaryomyces hansenii CBS767
+Fungi
+Ascomycetes
+Chromosome with gaps
+0.45329
+-0.320436
+-0.519328
+0.694568
+0.50804
+97
+GCA_000230625.1 
+Exophiala dermatitidis NIH/UT8656
+Fungi
+Ascomycetes
+Scaffold
+0.053768
+0.0131368
+-0.537069
+0.988751
+0.584218
+98
+GCA_000240135.1 
+Gibberella zeae PH-1
+Fungi
+Ascomycetes
+Scaffold
+0.133988
+0.0797236
+-0.573555
+0.960903
+0.445044
+99
+GCA_000238015.2 
+Glarea lozoyensis 74030
+Fungi
+Ascomycetes
+Scaffold
+-0.374991
+0.508187
+-0.25299
+0.916059
+0.41214
+100
+GCA_000002515.1 
+Kluyveromyces lactis
+Fungi
+Ascomycetes
+Complete Genome
+-0.335265
+0.272503
+-0.504959
+1.
+0.393876
+101
+GCA_000223565.1 
+Komagataella pastoris CBS 7435
+Fungi
+Ascomycetes
+Chromosome with gaps
+0.253379
+-0.242161
+-0.490904
+0.562989
+0.460253
+102
+GCA_000739165.1 
+Mortierella verticillata NRRL 6337
+Fungi
+Other Fungi
+Scaffold
+0.209541
+0.132094
+-0.855587
+0.258964
+0.466255
+103
+GCA_000182925.2 
+Neurospora crassa OR74A
+Fungi
+Ascomycetes
+Chromosome
+0.296223
+-0.217205
+-0.191325
+0.460833
+0.692327
+104
+GCA_000317715.1 
+Ophiostoma novo-ulmi subsp. novo-ulmi H327
+Fungi
+Ascomycetes
+Scaffold
+0.165295
+-0.056923
+-0.770012
+0.699537
+0.588816
+105
+GCA_000710275.1 
+Penicillium chrysogenum
+Fungi
+Ascomycetes
+Chromosome
+0.180924
+-0.0785549
+-0.636278
+0.853326
+0.502124
+106
+GCA_000315645.2 
+Penicillium digitatum Pd1
+Fungi
+Ascomycetes
+Scaffold
+0.381044
+-0.137529
+-0.399385
+0.56159
+0.529209
+107
+GCA_000146915.2 
+Phaeosphaeria nodorum SN15
+Fungi
+Ascomycetes
+Scaffold
+0.282277
+-0.164277
+-0.594425
+0.608286
+0.603851
+108
+GCA_000184105.1 
+Pseudogymnoascus destructans 20631-21
+Fungi
+Ascomycetes
+Scaffold
+-0.329174
+0.45354
+-0.235986
+0.774296
+0.476363
+109
+GCA_000292725.1 
+Saccharomyces arboricola H-6
+Fungi
+Ascomycetes
+Chromosome
+-0.363897
+0.537271
+-0.136843
+0.740116
+0.435676
+110
+GCA_000146045.2 
+Saccharomyces cerevisiae S288c
+Fungi
+Ascomycetes
+Complete Genome
+0.413222
+-0.180046
+-0.166935
+0.426046
+0.534879
+111
+GCA_000412225.2 
+Saccharomycetaceae sp. 'Ashbya aceri'
+Fungi
+Ascomycetes
+Complete Genome
+-0.365419
+0.672322
+-0.00805252
+0.643529
+0.386933
+112
+GCA_000002945.2 
+Schizosaccharomyces pombe
+Fungi
+Ascomycetes
+Chromosome with gaps
+0.944344
+-0.521545
+-0.273123
+-0.0717648
+0.0615571
+113
+GCA_000230245.1 
+Sporisorium reilianum SRZ2
+Fungi
+Basidiomycetes
+Chromosome
+0.841569
+-0.610494
+-0.450368
+-0.00741156
+0.144952
+114
+GCA_000293215.1 
+Trichosporon asahii var. asahii CBS 2479
+Fungi
+Basidiomycetes
+Scaffold
+0.281493
+-0.162557
+-0.365105
+0.775607
+0.416748
+115
+GCA_000002525.1 
+Yarrowia lipolytica CLIB122
+Fungi
+Ascomycetes
+Chromosome with gaps
+-0.813433
+-0.00801753
+0.280392
+0.113734
+0.516058
+116
+GCA_000004195.2 
+Xenopus (Silurana) tropicalis
+Animals
+Amphibians
+Scaffold
+-0.965274
+-0.348602
+0.0658945
+0.132289
+0.192405
+117
+GCA_000534875.1 
+Serinus canaria
+Animals
+Birds
+Scaffold
+-0.953453
+-0.0280294
+0.111822
+0.135023
+0.307231
+118
+GCA_000337955.1 
+Falco peregrinus
+Animals
+Birds
+Scaffold
+-0.811563
+-0.338309
+0.139041
+0.302229
+0.312004
+119
+GCA_000002315.2 
+Gallus gallus
+Animals
+Birds
+Chromosome
+-0.910839
+-0.115105
+0.0846593
+0.200499
+0.327311
+120
+GCA_000698965.1 
+Struthio camelus australis
+Animals
+Birds
+Scaffold
+-0.902747
+-0.0601133
+0.15302
+0.241638
+0.318313
+121
+GCA_000690875.1 
+Gavia stellata
+Animals
+Birds
+Scaffold
+-0.83041
+-0.503009
+0.0776578
+0.198483
+0.246565
+122
+GCA_000151805.2 
+Taeniopygia guttata
+Animals
+Birds
+Chromosome
+-0.926075
+-0.0964293
+-0.021372
+0.195926
+0.312898
+123
+GCA_000708225.1 
+Nipponia nippon
+Animals
+Birds
+Scaffold
+-0.935356
+-0.176645
+0.019979
+0.225632
+0.310625
+124
+GCA_000238935.1 
+Melopsittacus undulatus
+Animals
+Birds
+Scaffold
+-0.836147
+-0.335378
+-0.00285465
+0.281686
+0.289146
+125
+GCA_000355885.1 
+Anas platyrhynchos
+Animals
+Birds
+Scaffold
+-0.782014
+-0.458431
+0.04179
+0.332329
+0.305661
+126
+GCA_000146605.3 
+Meleagris gallopavo
+Animals
+Birds
+Chromosome
+-0.940878
+-0.0884513
+0.0789811
+0.194772
+0.260519
+127
+GCA_000337935.1 
+Columba livia
+Animals
+Birds
+Scaffold
+-0.91968
+-0.36768
+-0.00876218
+0.251001
+0.246799
+128
+GCA_000331425.1 
+Pseudopodoces humilis
+Animals
+Birds
+Scaffold
+-0.831708
+-0.190125
+0.083667
+0.290629
+0.339179
+129
+GCA_000709895.1 
+Balearica regulorum gibbericeps
+Animals
+Birds
+Scaffold
+-0.892496
+-0.0582332
+0.158125
+0.196404
+0.352131
+130
+GCA_000699105.1 
+Pygoscelis adeliae
+Animals
+Birds
+Scaffold
+-0.811495
+-0.571999
+0.0401438
+0.229277
+0.162535
+131
+GCA_000247815.2 
+Ficedula albicollis
+Animals
+Birds
+Chromosome
+-0.939468
+-0.0421287
+0.0932506
+0.187489
+0.292211
+132
+GCA_000687185.1 
+Egretta garzetta
+Animals
+Birds
+Scaffold
+-0.909626
+-0.232098
+-0.0401086
+0.211494
+0.32779
+133
+GCA_000766835.1 
+Aquila chrysaetos canadensis
+Animals
+Birds
+Scaffold
+-0.957812
+-0.169964
+0.0905969
+0.162596
+0.259397
+134
+GCA_000738735.1 
+Corvus cornix cornix
+Animals
+Birds
+Scaffold
+-0.685328
+0.155548
+-0.0651751
+0.385711
+0.307412
+135
+GCA_000225785.1 
+Latimeria chalumnae
+Animals
+Fishes
+Scaffold
+-0.70474
+0.208293
+0.620438
+0.062795
+0.397867
+136
+GCA_000002035.3 
+Danio rerio
+Animals
+Fishes
+Chromosome
+-0.449442
+-0.18191
+0.507549
+0.33604
+0.288928
+137
+GCA_000180615.2 
+Takifugu rubripes
+Animals
+Fishes
+Chromosome
+-0.725272
+0.0449575
+0.380649
+0.109094
+0.383277
+138
+GCA_000313675.1 
+Oryzias latipes
+Animals
+Fishes
+Chromosome
+-0.686995
+-0.0976025
+0.183304
+0.239774
+0.504865
+139
+GCA_000721915.1 
+Esox lucius
+Animals
+Fishes
+Chromosome
+-0.84672
+-0.0541535
+0.201703
+0.181936
+0.38859
+140
+GCA_000242695.1 
+Lepisosteus oculatus
+Animals
+Fishes
+Chromosome
+-0.60775
+-0.257139
+0.328261
+0.224483
+0.466956
+141
+GCA_000239395.1 
+Neolamprologus brichardi
+Animals
+Fishes
+Scaffold
+-0.642441
+-0.0836268
+0.447566
+0.209888
+0.361786
+142
+GCA_000241075.1 
+Xiphophorus maculatus
+Animals
+Fishes
+Scaffold
+-0.735457
+-0.0859329
+0.434696
+0.222178
+0.461565
+143
+GCA_000742935.1 
+Larimichthys crocea
+Animals
+Fishes
+Scaffold
+-0.685523
+-0.0679115
+0.47229
+0.262474
+0.357053
+144
+GCA_000523025.1 
+Cynoglossus semilaevis
+Animals
+Fishes
+Chromosome
+-0.781288
+-0.0426625
+0.392163
+0.213422
+0.448571
+145
+GCA_000188235.2 
+Oreochromis niloticus
+Animals
+Fishes
+Chromosome
+-0.745525
+-0.010891
+0.0269187
+0.275612
+0.427398
+146
+GCA_000165045.2 
+Callorhinchus milii
+Animals
+Fishes
+Scaffold
+-0.672106
+-0.102786
+0.421722
+0.189755
+0.507788
+147
+GCA_000735185.1 
+Notothenia coriiceps
+Animals
+Fishes
+Scaffold
+-0.755339
+0.0560902
+0.514315
+0.239582
+0.312094
+148
+GCA_000633615.2 
+Poecilia reticulata
+Animals
+Fishes
+Chromosome
+-0.32956
+0.65844
+0.611687
+0.420179
+0.44688
+149
+GCA_000347755.1 
+Ceratitis capitata
+Animals
+Insects
+Scaffold
+-0.134325
+0.308719
+0.60475
+0.325961
+0.601105
+150
+GCA_000005975.1 
+Drosophila yakuba
+Animals
+Insects
+Chromosome
+-0.00735921
+0.896975
+0.147286
+0.383707
+-0.398767
+151
+GCA_000002195.1 
+Apis mellifera
+Animals
+Insects
+Chromosome
+-0.0349968
+0.369592
+0.653531
+0.448393
+0.44601
+152
+GCA_000005575.1 
+Anopheles gambiae str. PEST
+Animals
+Insects
+Chromosome
+-0.548119
+0.942717
+0.725031
+-0.0313412
+0.0246358
+153
+GCA_000002335.2 
+Tribolium castaneum
+Animals
+Insects
+Chromosome
+-0.141947
+0.234615
+0.54922
+0.339322
+0.652042
+154
+GCA_000005215.1 
+Drosophila sechellia
+Animals
+Insects
+Scaffold
+-0.170881
+0.334664
+0.636198
+0.269302
+0.573739
+155
+GCA_000259055.1 
+Drosophila simulans
+Animals
+Insects
+Chromosome
+-0.373123
+1.
+0.676218
+-0.199282
+0.158708
+156
+GCA_000142985.2 
+Acyrthosiphon pisum
+Animals
+Insects
+Scaffold
+0.00159209
+0.844078
+0.697279
+0.314093
+-0.275944
+157
+GCA_000188075.1 
+Solenopsis invicta
+Animals
+Insects
+Scaffold
+-0.23747
+0.581074
+1.
+0.127862
+0.61696
+158
+GCA_000806345.1 
+Bactrocera cucurbitae
+Animals
+Insects
+Scaffold
+-0.209208
+0.328258
+0.731871
+0.257597
+0.589394
+159
+GCA_000001215.4 
+Drosophila melanogaster
+Animals
+Insects
+Chromosome
+-0.298553
+0.557817
+0.486596
+0.205312
+0.403371
+160
+GCA_000330985.1 
+Plutella xylostella
+Animals
+Insects
+Scaffold
+-0.919887
+-0.140116
+-0.412069
+0.128958
+0.277057
+161
+GCA_000258655.1 
+Pan paniscus
+Animals
+Mammals
+Scaffold
+-0.878925
+-0.205999
+-0.362713
+0.178696
+0.266749
+162
+GCA_000003025.4 
+Sus scrofa
+Animals
+Mammals
+Chromosome
+-0.871052
+-0.355947
+-0.222535
+0.0948367
+0.331823
+163
+GCA_000151735.1 
+Cavia porcellus
+Animals
+Mammals
+Scaffold
+-0.843528
+-0.170275
+-0.472977
+0.151047
+0.268286
+164
+GCF_000002275.2 
+Ornithorhynchus anatinus
+Animals
+Mammals
+Chromosome
+-0.854524
+-0.0606867
+-0.358503
+0.208276
+0.292057
+165
+GCA_000001905.1 
+Loxodonta africana
+Animals
+Mammals
+Scaffold
+-0.893153
+-0.101949
+-0.29612
+0.122881
+0.297185
+166
+GCA_000002305.1 
+Equus caballus
+Animals
+Mammals
+Chromosome
+-0.870585
+-0.215714
+-0.393039
+0.170607
+0.257731
+167
+GCA_000001515.4 
+Pan troglodytes
+Animals
+Mammals
+Chromosome
+-0.865143
+-0.196561
+-0.435272
+0.241238
+0.316867
+168
+GCA_000001895.4 
+Rattus norvegicus
+Animals
+Mammals
+Chromosome
+-0.868932
+-0.392591
+-0.480432
+0.131423
+0.282667
+169
+GCA_000181335.3 
+Felis catus
+Animals
+Mammals
+Chromosome
+-0.88401
+-0.0750214
+-0.400573
+0.174345
+0.294656
+170
+GCA_000283155.1 
+Ceratotherium simum simum
+Animals
+Mammals
+Scaffold
+-0.918981
+-0.0843998
+-0.411848
+0.0871815
+0.291983
+171
+GCA_000208655.2 
+Dasypus novemcinctus
+Animals
+Mammals
+Scaffold
+-0.86318
+-0.195535
+-0.368033
+0.0785334
+0.317631
+172
+GCA_000003625.1 
+Oryctolagus cuniculus
+Animals
+Mammals
+Chromosome
+-0.890902
+-0.125998
+-0.413893
+0.215288
+0.175898
+173
+GCA_000298735.1 
+Ovis aries
+Animals
+Mammals
+Chromosome
+-0.902576
+-0.14869
+-0.435168
+0.138129
+0.26976
+174
+GCA_000002285.2 
+Canis lupus familiaris
+Animals
+Mammals
+Chromosome
+-0.812475
+-0.442068
+-0.577255
+0.203427
+0.347436
+175
+GCA_000298275.1 
+Orycteropus afer afer
+Animals
+Mammals
+Scaffold
+-0.888636
+-0.184788
+-0.434594
+0.0978675
+0.291134
+176
+GCA_000296755.1 
+Erinaceus europaeus
+Animals
+Mammals
+Scaffold
+-0.804373
+-0.331582
+-0.412885
+0.174522
+0.300397
+177
+GCF_000001545.4 
+Pongo abelii
+Animals
+Mammals
+Chromosome
+-0.907784
+-0.123882
+-0.385558
+0.129219
+0.270194
+178
+GCA_000472045.1 
+Physeter catodon
+Animals
+Mammals
+Scaffold
+-0.939438
+-0.111317
+-0.356936
+0.158704
+0.261323
+179
+GCA_000164845.2 
+Vicugna pacos
+Animals
+Mammals
+Scaffold
+-0.890972
+0.00372631
+-0.390822
+0.179585
+0.349644
+180
+GCA_000313985.1 
+Echinops telfairi
+Animals
+Mammals
+Scaffold
+-0.919765
+-0.0635918
+-0.358689
+0.122365
+0.248378
+181
+GCA_000687225.1 
+Ursus maritimus
+Animals
+Mammals
+Scaffold
+-0.879752
+-0.160385
+-0.392841
+0.131795
+0.342826
+182
+GCA_000696425.1 
+Galeopterus variegatus
+Animals
+Mammals
+Scaffold
+-0.823571
+-0.202964
+-0.348198
+0.250701
+0.314711
+183
+GCA_000296735.1 
+Chrysochloris asiatica
+Animals
+Mammals
+Scaffold
+-0.898021
+-0.0944204
+-0.370943
+0.144792
+0.17312
+184
+GCA_000317765.1 
+Capra hircus
+Animals
+Mammals
+Chromosome
+-0.907069
+-0.210525
+-0.419978
+0.18064
+0.331469
+185
+GCA_000001635.5 
+Mus musculus
+Animals
+Mammals
+Chromosome
+-0.809487
+-0.130307
+-0.313421
+0.0799925
+0.239336
+186
+GCA_000493695.1 
+Balaenoptera acutorostrata scammoni
+Animals
+Mammals
+Scaffold
+-0.8808
+-0.353119
+-0.51749
+0.213863
+0.354462
+187
+GCA_000280705.1 
+Jaculus jaculus
+Animals
+Mammals
+Scaffold
+-0.835732
+-0.31961
+-0.320576
+0.207391
+0.342317
+188
+GCA_000292845.1 
+Ochotona princeps
+Animals
+Mammals
+Scaffold
+-0.889758
+-0.187122
+-0.478304
+0.141162
+0.263895
+189
+GCF_000002255.3 
+Macaca mulatta
+Animals
+Mammals
+Chromosome
+-0.689642
+-0.587765
+-0.505727
+0.24409
+0.219532
+190
+GCA_000471725.1 
+Bubalus bubalis
+Animals
+Mammals
+Scaffold
+-1.
+0.0653324
+-0.663737
+0.0177778
+0.207115
+191
+GCF_000002295.2 
+Monodelphis domestica
+Animals
+Mammals
+Chromosome
+-0.846715
+-0.148192
+-0.364689
+0.162549
+0.207821
+192
+GCA_000298355.1 
+Bos mutus
+Animals
+Mammals
+Scaffold
+-0.877791
+-0.182902
+-0.436927
+0.119446
+0.212006
+193
+GCA_000003055.5 
+Bos taurus
+Animals
+Mammals
+Chromosome
+-0.792491
+-0.358125
+-0.386566
+0.282348
+0.228476
+194
+GCA_000400835.1 
+Pantholops hodgsonii
+Animals
+Mammals
+Scaffold
+-0.942163
+0.123771
+-0.28217
+-0.0526743
+0.193452
+195
+GCA_000442215.1 
+Lipotes vexillifer
+Animals
+Mammals
+Scaffold
+-0.871827
+-0.435385
+-0.521033
+0.23801
+0.344409
+196
+GCA_000223135.1 
+Cricetulus griseus
+Animals
+Mammals
+Scaffold
+-0.897254
+-0.163824
+-0.422625
+0.151781
+0.298428
+197
+GCA_000409795.2 
+Chlorocebus sabaeus
+Animals
+Mammals
+Chromosome
+-0.87265
+-0.289208
+-0.530423
+0.17704
+0.351296
+198
+GCA_000769185.1 
+Rhinopithecus roxellana
+Animals
+Mammals
+Scaffold
+-0.904583
+-0.163308
+-0.405118
+0.126098
+0.247234
+199
+GCA_000349705.1 
+Leptonychotes weddellii
+Animals
+Mammals
+Scaffold
+-0.830646
+-0.300755
+-0.366756
+0.223353
+0.296062
+200
+GCA_000004335.1 
+Ailuropoda melanoleuca
+Animals
+Mammals
+Scaffold
+-0.967996
+-0.0543412
+-0.383481
+0.120604
+0.272854
+201
+GCA_000767855.1 
+Camelus bactrianus
+Animals
+Mammals
+Scaffold
+-0.9708
+-0.0122998
+-0.324639
+0.103187
+0.255769
+202
+GCA_000311805.2 
+Camelus ferus
+Animals
+Mammals
+Scaffold
+-0.956146
+-0.0828362
+-0.414108
+0.156137
+0.245386
+203
+GCA_000767585.1 
+Camelus dromedarius
+Animals
+Mammals
+Scaffold
+-0.827463
+-0.243667
+-0.373172
+0.244382
+0.30327
+204
+GCA_000243295.1 
+Trichechus manatus latirostris
+Animals
+Mammals
+Scaffold
+-0.977183
+0.118226
+-0.266092
+0.00247822
+0.259931
+205
+GCA_000464555.1 
+Panthera tigris altaica
+Animals
+Mammals
+Scaffold
+-0.782384
+-0.390692
+-0.535757
+0.238469
+0.312891
+206
+GCA_000956105.1 
+Propithecus coquereli
+Animals
+Mammals
+Scaffold
+-0.855741
+-0.195016
+-0.348133
+0.100357
+0.265064
+207
+GCA_000151905.1 
+Gorilla gorilla gorilla
+Animals
+Mammals
+Chromosome
+-0.875874
+-0.246484
+-0.375121
+0.199808
+0.178333
+208
+GCA_000754665.1 
+Bison bison bison
+Animals
+Mammals
+Scaffold
+-0.880232
+-0.210523
+-0.502424
+0.1817
+0.289523
+209
+GCA_000364345.1 
+Macaca fascicularis
+Animals
+Mammals
+Chromosome
+-0.89877
+-0.109282
+-0.300774
+0.116425
+0.293913
+210
+GCA_000164805.2 
+Tarsius syrichta
+Animals
+Mammals
+Scaffold
+-0.911399
+-0.126041
+-0.394273
+0.0783208
+0.292785
+211
+GCA_000001405.17 
+Homo sapiens
+Animals
+Mammals
+Chromosome
+-0.909741
+-0.255555
+-0.336108
+0.200461
+0.3241
+212
+GCA_000349665.1 
+Mesocricetus auratus
+Animals
+Mammals
+Scaffold
+-0.680417
+-0.739523
+-0.49493
+0.186819
+0.277319
+213
+GCA_000247695.1 
+Heterocephalus glaber
+Animals
+Mammals
+Scaffold
+-0.945416
+-0.1128
+-0.432323
+0.144405
+0.225734
+214
+GCA_000235385.1 
+Saimiri boliviensis boliviensis
+Animals
+Mammals
+Scaffold
+-0.95195
+-0.0936832
+-0.447425
+0.116601
+0.199123
+215
+GCA_000952055.1 
+Aotus nancymaae
+Animals
+Mammals
+Scaffold
+-0.852395
+-0.252734
+-0.45607
+0.196361
+0.276851
+216
+GCA_000264685.1 
+Papio anubis
+Animals
+Mammals
+Chromosome
+-0.741853
+-0.574605
+-0.629503
+0.243042
+0.256791
+217
+GCA_000215625.1 
+Mustela putorius furo
+Animals
+Mammals
+Scaffold
+-0.705496
+-0.554243
+-0.356551
+0.230099
+0.32072
+218
+GCA_000260255.1 
+Octodon degus
+Animals
+Mammals
+Scaffold
+-0.752881
+-0.669424
+-0.448386
+0.232931
+0.335477
+219
+GCA_000622305.1 
+Nannospalax galili
+Animals
+Mammals
+Scaffold
+-0.84795
+-0.482683
+-0.423274
+0.238015
+0.286876
+220
+GCA_000276665.1 
+Chinchilla lanigera
+Animals
+Mammals
+Scaffold
+-0.990084
+0.183647
+-0.315638
+-0.0254581
+0.260288
+221
+GCA_000325575.1 
+Pteropus alecto
+Animals
+Mammals
+Scaffold
+-0.782603
+-0.411976
+-0.461546
+0.223999
+0.278577
+222
+GCA_000331955.2 
+Orcinus orca
+Animals
+Mammals
+Scaffold
+-0.924595
+-0.0430945
+-0.413523
+0.121249
+0.244297
+223
+GCA_000696695.1 
+Equus przewalskii
+Animals
+Mammals
+Scaffold
+-0.868915
+-0.207769
+-0.153147
+0.186061
+0.429364
+224
+GCA_000344595.1 
+Chelonia mydas
+Animals
+Reptiles
+Scaffold
+-0.762541
+-0.28834
+-0.153932
+0.226491
+0.441871
+225
+GCA_000230535.1 
+Pelodiscus sinensis
+Animals
+Reptiles
+Scaffold
+-0.778875
+-0.134329
+-0.135917
+0.158139
+0.468277
+226
+GCA_000090745.2 
+Anolis carolinensis
+Animals
+Reptiles
+Chromosome
+-0.799238
+-0.27549
+-0.16169
+0.126813
+0.462829
+227
+GCA_000241765.2 
+Chrysemys picta bellii
+Animals
+Reptiles
+Chromosome

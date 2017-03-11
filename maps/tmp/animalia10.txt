@@ -1,0 +1,9607 @@
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+H.sapiens (480), G.gorilla (480)
+Sampling from H.sapiens and G.gorilla; Number of genomic DNA sequences is 960; FCGR with k=9; Approx. Information
+0.345189
+-0.820981
+0.464178
+0.204102
+-0.293445
+1
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+249
+0.393682
+-0.602312
+0.356927
+-1.
+-0.65692
+2
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+640
+0.11532
+-0.909548
+0.490695
+0.478451
+-0.217239
+3
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+856
+0.235313
+-0.854308
+0.448672
+0.0912932
+-0.0990072
+4
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+188
+0.109788
+-0.916626
+0.504363
+0.384795
+-0.352774
+5
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+243
+0.107965
+-0.851475
+0.398364
+-0.206635
+-0.00254138
+6
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1310
+0.737727
+-0.654891
+0.450746
+0.352385
+0.116985
+7
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+916
+0.767253
+-0.640725
+0.454808
+-0.0239269
+-0.388891
+8
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1523
+0.600781
+-0.722026
+0.430373
+0.000546011
+-0.155864
+9
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+197
+0.81185
+-0.60732
+0.452119
+0.149159
+-0.281583
+10
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+869
+0.458407
+-0.763647
+0.466476
+-0.0722784
+-0.49448
+11
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+936
+0.549608
+-0.75062
+0.471909
+0.243113
+-0.313205
+12
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+221
+0.558145
+-0.691436
+0.404527
+-0.00785046
+0.143599
+13
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+505
+0.23438
+-0.727837
+0.386679
+-0.478588
+-0.29069
+14
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+458
+0.817618
+-0.597761
+0.423353
+0.0631238
+-0.0437428
+15
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+84
+0.202256
+-0.764904
+0.436064
+0.070272
+-0.253161
+16
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1464
+0.759705
+-0.63533
+0.466818
+0.187371
+-0.418354
+17
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+838
+0.713156
+-0.675881
+0.46676
+0.115507
+-0.350671
+18
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+627
+0.704084
+-0.671961
+0.46304
+0.15387
+-0.312996
+19
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+1336
+0.412291
+-0.71399
+0.383699
+-0.39373
+-0.0929677
+20
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38.p2 Primary Assembly
+150000
+955
+0.417449
+-0.736278
+0.392438
+-0.339027
+0.060342
+21
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1600
+0.67262
+-0.688778
+0.449097
+0.0897561
+-0.121073
+22
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1051
+0.7187
+-0.686225
+0.464762
+0.281334
+-0.0841007
+23
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+725
+0.912041
+-0.530889
+0.420203
+0.0556464
+-0.0534616
+24
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1231
+0.804789
+-0.569827
+0.413998
+-0.418192
+-0.498262
+25
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+771
+0.798083
+-0.593691
+0.402889
+-0.071804
+0.113889
+26
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+496
+0.275334
+-0.852204
+0.448177
+0.0589941
+-0.0566137
+27
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+336
+-0.651315
+0.924873
+0.849486
+0.0400446
+0.0136724
+28
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+297
+0.270993
+-0.797168
+0.425202
+-0.185435
+-0.201829
+29
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+1202
+0.362131
+-0.824278
+0.458306
+0.20431
+-0.052005
+30
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+660
+0.805478
+-0.596046
+0.41286
+-0.0660103
+-0.112247
+31
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+836
+0.172559
+-0.873574
+0.452851
+0.414514
+0.313417
+32
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+785
+0.788407
+-0.602749
+0.400954
+0.0483949
+0.252791
+33
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+116
+0.325458
+-0.813146
+0.425814
+-0.0675745
+0.0120395
+34
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+684
+0.668587
+-0.697811
+0.472733
+0.256121
+-0.298437
+35
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+272
+0.272012
+-0.86261
+0.471416
+0.291067
+-0.190384
+36
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+98
+0.398173
+-0.780719
+0.451125
+-0.0911315
+-0.353869
+37
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+805
+0.840616
+-0.580658
+0.446223
+-0.0289133
+-0.474905
+38
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+661
+0.869968
+-0.550047
+0.375493
+-0.0354186
+0.499599
+39
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+612
+-0.320893
+-0.905456
+0.363915
+-0.178338
+0.213886
+40
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38.p2 Primary Assembly
+150000
+75
+0.786418
+-0.609823
+0.417171
+0.159979
+0.316845
+41
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+716
+0.779494
+-0.630634
+0.455706
+0.0799669
+-0.475847
+42
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+623
+0.877917
+-0.554173
+0.424648
+0.115263
+0.0473959
+43
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+783
+0.782009
+-0.60459
+0.453984
+0.101144
+-0.201251
+44
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+563
+0.751076
+-0.635855
+0.455341
+-0.0233645
+-0.406014
+45
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+717
+0.744844
+-0.671118
+0.487203
+0.265424
+-0.424598
+46
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+747
+0.471529
+-0.793719
+0.478787
+0.314739
+-0.119381
+47
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+156
+0.707866
+-0.686637
+0.459052
+0.123555
+-0.276947
+48
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+47
+0.725708
+-0.649014
+0.474557
+0.0975684
+-0.600694
+49
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+6
+0.571164
+-0.719732
+0.403272
+-0.0763805
+0.151265
+50
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+739
+0.987937
+-0.457397
+0.404925
+-0.0480832
+-0.188955
+51
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+366
+-0.666694
+0.893713
+0.811177
+-0.0182501
+-0.223756
+52
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+815
+0.868295
+-0.526911
+0.447563
+0.0729729
+-0.567267
+53
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+1313
+0.670093
+-0.67432
+0.41223
+-0.112054
+0.130942
+54
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+166
+0.77729
+-0.587846
+0.461738
+-0.213174
+-0.733754
+55
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+192
+0.80147
+-0.636684
+0.440806
+0.23034
+-0.0137773
+56
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+147
+0.606479
+-0.709369
+0.498648
+0.23823
+-0.648488
+57
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+646
+0.808416
+-0.608125
+0.428234
+-0.0510516
+-0.153075
+58
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+452
+0.556256
+-0.728839
+0.429878
+-0.113239
+-0.0677232
+59
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+419
+0.0630794
+-0.833323
+0.403161
+-0.234203
+-0.155402
+60
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38.p2 Primary Assembly
+150000
+460
+0.792042
+-0.626243
+0.424454
+0.00103114
+-0.0208636
+61
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1237
+0.808658
+-0.621516
+0.455547
+0.127583
+-0.399729
+62
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1066
+0.396005
+-0.812523
+0.439973
+0.290133
+0.311161
+63
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+143
+0.847532
+-0.565063
+0.423606
+-0.0132248
+-0.0977237
+64
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1174
+0.953263
+-0.50089
+0.42577
+0.0653884
+-0.302151
+65
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+897
+0.652938
+-0.729635
+0.479433
+0.322489
+-0.140454
+66
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+611
+0.855166
+-0.571062
+0.411704
+-0.00116306
+0.190497
+67
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+847
+0.72707
+-0.632782
+0.436739
+0.0954353
+-0.372975
+68
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1090
+0.812085
+-0.581483
+0.44554
+-0.0420015
+-0.505241
+69
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+498
+0.786463
+-0.61489
+0.403917
+0.0256202
+0.28097
+70
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+234
+0.95171
+-0.489796
+0.402714
+-0.11345
+-0.216658
+71
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+910
+0.958187
+-0.491502
+0.40306
+0.0744909
+0.12876
+72
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1112
+0.839872
+-0.577053
+0.435319
+-0.084621
+-0.391373
+73
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+166
+0.872991
+-0.564276
+0.449378
+0.166693
+-0.319004
+74
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+793
+0.893495
+-0.535867
+0.409092
+-0.137872
+-0.052
+75
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+438
+0.908038
+-0.531635
+0.386095
+-0.00774066
+0.325132
+76
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1115
+0.88315
+-0.54332
+0.428474
+-0.0714003
+-0.299323
+77
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+873
+0.823924
+-0.588139
+0.417503
+-0.0632454
+-0.11847
+78
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+1239
+0.522657
+-0.719378
+0.423162
+-0.0280027
+-0.169582
+79
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+156
+0.411809
+-0.734544
+0.464134
+0.148146
+-0.530167
+80
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38.p2 Primary Assembly
+150000
+754
+0.838249
+-0.578626
+0.410958
+-0.0471679
+0.00715041
+81
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1008
+0.811553
+-0.570456
+0.395771
+-0.197657
+-0.077222
+82
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+84
+0.397897
+-0.690681
+0.407514
+-0.493767
+-0.440685
+83
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+431
+0.881732
+-0.564842
+0.4287
+-0.061587
+-0.201129
+84
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+296
+0.365437
+-0.726212
+0.404245
+-0.403201
+-0.264019
+85
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+630
+0.879568
+-0.549622
+0.428039
+-0.142736
+-0.346586
+86
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+288
+0.562549
+-0.739755
+0.450294
+-0.00602506
+-0.321411
+87
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+373
+0.531328
+-0.754485
+0.437813
+0.0369685
+-0.0838176
+88
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+988
+0.910986
+-0.513534
+0.424068
+-0.232247
+-0.450199
+89
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+709
+0.814111
+-0.558331
+0.400047
+-0.254225
+-0.17099
+90
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+163
+0.909823
+-0.516995
+0.398629
+0.0611144
+0.21585
+91
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+433
+0.938355
+-0.510013
+0.418796
+-0.0135736
+-0.288473
+92
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+554
+0.506718
+-0.753376
+0.460201
+0.100406
+-0.161505
+93
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+795
+0.767478
+-0.660924
+0.459598
+0.123788
+-0.303119
+94
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1084
+0.833213
+-0.609795
+0.451102
+0.0442666
+-0.320259
+95
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+1080
+0.665777
+-0.70296
+0.464727
+0.118269
+-0.302568
+96
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+957
+0.832047
+-0.595543
+0.458332
+0.176817
+-0.322622
+97
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+665
+0.458109
+-0.775057
+0.475406
+0.109001
+-0.50073
+98
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+496
+0.855084
+-0.573099
+0.431437
+-0.0284985
+-0.231579
+99
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+857
+0.865252
+-0.55743
+0.418107
+0.0401586
+-0.0236776
+100
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38.p2 Primary Assembly
+150000
+858
+0.271755
+-0.776335
+0.372198
+-0.403584
+0.14914
+101
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+884
+0.41439
+-0.819047
+0.479941
+0.202786
+-0.313194
+102
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+274
+0.843443
+-0.598913
+0.435918
+0.0423027
+-0.172528
+103
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1058
+0.854508
+-0.580745
+0.428631
+0.0719598
+-0.243748
+104
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+838
+0.833753
+-0.600851
+0.422654
+0.103833
+0.10327
+105
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+641
+0.716626
+-0.642272
+0.457045
+-0.0221491
+-0.538556
+106
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+670
+0.763159
+-0.600093
+0.378453
+-0.183742
+0.214938
+107
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+320
+0.804944
+-0.602328
+0.454826
+-0.0533683
+-0.521318
+108
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+335
+0.851129
+-0.563937
+0.419005
+0.0983004
+0.0339465
+109
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+616
+0.850601
+-0.592261
+0.419819
+0.0779776
+0.174096
+110
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+979
+0.753759
+-0.653726
+0.410113
+0.112792
+0.334248
+111
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+503
+0.800055
+-0.60624
+0.44485
+0.208217
+-0.113353
+112
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+790
+0.632464
+-0.668644
+0.399993
+-0.230606
+0.0204333
+113
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+480
+0.929246
+-0.515519
+0.386282
+-0.0296757
+0.237206
+114
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+909
+0.827786
+-0.602915
+0.453539
+0.0952371
+-0.366672
+115
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+231
+0.795124
+-0.603978
+0.454361
+0.182298
+-0.412944
+116
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+527
+0.561527
+-0.686117
+0.444189
+-0.0991068
+-0.529287
+117
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+532
+0.790167
+-0.604349
+0.418908
+-0.13825
+-0.147031
+118
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+799
+0.368082
+-0.806324
+0.487312
+0.233179
+-0.478747
+119
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+1127
+0.309663
+-0.760309
+0.390659
+0.0217814
+0.337137
+120
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38.p2 Primary Assembly
+150000
+539
+-0.41448
+-0.8793
+0.418737
+-0.142538
+-0.43273
+121
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+864
+-0.617498
+-0.925952
+0.369093
+0.220683
+0.444059
+122
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+527
+0.710609
+-0.661014
+0.461746
+-0.00062
+-0.48822
+123
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+801
+0.495129
+-0.779428
+0.437608
+0.247637
+0.26203
+124
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+945
+-0.0492149
+-0.913101
+0.402828
+0.185906
+0.405703
+125
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+398
+0.518372
+-0.72084
+0.507462
+0.376479
+-0.704204
+126
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+315
+-0.746775
+0.980088
+0.974879
+-0.0358111
+-0.298475
+127
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+702
+-0.747872
+0.99066
+0.980703
+-0.0446813
+-0.270626
+128
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+271
+-0.751843
+0.978575
+0.978245
+-0.0389013
+-0.268176
+129
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+395
+0.836578
+-0.587785
+0.429646
+-0.00521677
+-0.233558
+130
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+344
+0.764703
+-0.611409
+0.440087
+-0.140576
+-0.506374
+131
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+13
+0.704889
+-0.660885
+0.443356
+0.310835
+0.110316
+132
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+631
+0.750709
+-0.612941
+0.458346
+-0.0749411
+-0.65318
+133
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+393
+0.366584
+-0.709518
+0.354575
+-0.414155
+0.151928
+134
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+6
+0.313293
+-0.692014
+0.368239
+-0.648132
+-0.320778
+135
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+897
+0.922653
+-0.527927
+0.425503
+-0.0850801
+-0.420754
+136
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+533
+0.839804
+-0.593187
+0.461031
+0.119408
+-0.469126
+137
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+317
+0.117273
+-0.822611
+0.385574
+-0.278604
+0.0500794
+138
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+619
+0.601079
+-0.720259
+0.455032
+0.0398374
+-0.353023
+139
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+819
+0.652581
+-0.669249
+0.465559
+0.212022
+-0.420761
+140
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38.p2 Primary Assembly
+150000
+659
+0.423031
+-0.751997
+0.43786
+0.0478614
+-0.199824
+141
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+957
+0.561817
+-0.685351
+0.413451
+-0.0684794
+-0.0919528
+142
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+495
+0.526864
+-0.689135
+0.368072
+-0.296341
+0.221982
+143
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+675
+0.731873
+-0.585143
+0.469998
+-0.122251
+-0.905928
+144
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+18
+0.388258
+-0.725045
+0.393479
+-0.396843
+-0.226211
+145
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+579
+-0.183076
+-0.469031
+0.2592
+0.4476
+0.0268739
+146
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+308
+0.809317
+-0.601764
+0.410378
+0.0912494
+0.215217
+147
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+493
+0.525128
+-0.757963
+0.468328
+0.083513
+-0.249175
+148
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+280
+0.790029
+-0.600966
+0.462752
+0.111739
+-0.606188
+149
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+886
+0.91557
+-0.527609
+0.416385
+0.0490421
+0.056684
+150
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+894
+0.79539
+-0.597947
+0.45174
+-0.158547
+-0.520175
+151
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+707
+0.619886
+-0.626592
+0.333436
+-0.282616
+0.785014
+152
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+194
+0.460912
+-0.75068
+0.419764
+-0.0687929
+0.0108812
+153
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+260
+0.773496
+-0.612111
+0.431342
+-0.106308
+-0.286678
+154
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+657
+0.671403
+-0.603024
+0.423354
+-0.00185897
+-0.326833
+155
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+721
+0.774965
+-0.626152
+0.429345
+-0.104977
+-0.226073
+156
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+716
+0.68608
+-0.63613
+0.398756
+-0.292815
+-0.147039
+157
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+460
+0.153947
+-0.903213
+0.488585
+0.433221
+-0.173512
+158
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+513
+0.540735
+-0.789503
+0.481745
+0.398717
+-0.11404
+159
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+17
+-0.544914
+-0.949671
+0.411339
+0.00815024
+-0.0847165
+160
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38.p2 Primary Assembly
+150000
+809
+0.745559
+-0.655094
+0.46832
+0.388566
+-0.151089
+161
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+632
+0.656499
+-0.710364
+0.467858
+0.295652
+-0.117338
+162
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+676
+0.55145
+-0.70977
+0.398058
+-0.124405
+0.211658
+163
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+20
+0.727055
+-0.65261
+0.466522
+0.338026
+-0.156847
+164
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+746
+0.684657
+-0.662148
+0.481148
+0.132696
+-0.564082
+165
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+668
+0.819691
+-0.594881
+0.392073
+-0.0743149
+0.271729
+166
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+657
+0.83951
+-0.591567
+0.405496
+0.0397246
+0.148609
+167
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+447
+0.597904
+-0.706222
+0.421348
+0.133735
+0.306948
+168
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+504
+0.317775
+-0.673215
+0.31681
+-0.769525
+0.199076
+169
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+175
+0.25375
+-0.180743
+0.382384
+0.221534
+0.798795
+170
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+357
+0.564562
+-0.748508
+0.470726
+0.143466
+-0.393956
+171
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+694
+0.575
+-0.741255
+0.416871
+0.147315
+0.263385
+172
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+599
+0.408034
+-0.765516
+0.421761
+-0.0413083
+-0.0790277
+173
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+176
+0.811661
+-0.620839
+0.466795
+0.119544
+-0.467471
+174
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+118
+0.739583
+-0.622344
+0.383916
+-0.0331594
+0.378329
+175
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+107
+0.49908
+-0.774647
+0.48369
+0.22891
+-0.381885
+176
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+30
+0.588261
+-0.73903
+0.440588
+0.129125
+0.125766
+177
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+225
+0.783147
+-0.648753
+0.452393
+0.0615389
+-0.238466
+178
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+11
+0.507095
+-0.717692
+0.384525
+-0.294545
+0.0971412
+179
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+273
+-0.458473
+-0.914235
+0.405776
+-0.195163
+-0.290196
+180
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38.p2 Primary Assembly
+150000
+227
+0.429684
+-0.774264
+0.42788
+0.102654
+0.0537464
+181
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+36
+0.119918
+-0.875206
+0.452994
+0.269221
+-0.0920869
+182
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+82
+0.269959
+-0.698211
+0.392359
+-0.528827
+-0.534378
+183
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+776
+0.595967
+-0.693422
+0.422823
+-0.171066
+-0.174346
+184
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+751
+0.673282
+-0.672641
+0.40429
+0.0274331
+0.272538
+185
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+452
+0.564575
+-0.717798
+0.415798
+-0.0757053
+-0.0403042
+186
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+528
+0.896088
+-0.537509
+0.383679
+-0.245016
+0.125459
+187
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+445
+0.491572
+-0.721504
+0.421997
+-0.268996
+-0.280026
+188
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+396
+0.575168
+-0.69777
+0.453001
+-0.238063
+-0.650472
+189
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+299
+0.545965
+-0.738764
+0.433677
+0.202006
+0.149528
+190
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+497
+0.278093
+-0.837702
+0.411731
+0.0426301
+0.16595
+191
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+685
+0.26385
+-0.794106
+0.394345
+-0.248607
+-0.0627178
+192
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+708
+0.487344
+-0.685075
+0.372687
+-0.504404
+0.0414134
+193
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+737
+0.831482
+-0.602098
+0.408417
+-0.0339313
+0.105078
+194
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+333
+0.617586
+-0.704417
+0.437673
+-0.0497
+-0.240469
+195
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+763
+0.850229
+-0.525087
+0.442814
+-0.327179
+-0.624481
+196
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+835
+0.253129
+-0.815346
+0.49138
+0.0926971
+-0.850519
+197
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+666
+0.545414
+-0.687106
+0.415645
+-0.322803
+-0.324853
+198
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+76
+0.116843
+-0.882491
+0.4259
+0.0917171
+0.01974
+199
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+634
+0.422597
+-0.784393
+0.458067
+0.346739
+-0.0132665
+200
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38.p2 Primary Assembly
+150000
+707
+0.278954
+-0.814275
+0.426389
+-0.105999
+-0.196179
+201
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+262
+0.338281
+-0.853111
+0.505376
+0.572837
+-0.244407
+202
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+554
+0.847594
+-0.570388
+0.443478
+0.0853443
+-0.29765
+203
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+757
+0.759832
+-0.65327
+0.428332
+0.157863
+0.13066
+204
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+541
+0.885406
+-0.541782
+0.423475
+-0.00810605
+-0.197934
+205
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+289
+0.795766
+-0.58611
+0.40439
+-0.147151
+0.00981232
+206
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+861
+0.635252
+-0.685584
+0.454688
+0.30143
+-0.0843846
+207
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+649
+0.623461
+-0.676309
+0.432667
+-0.163274
+-0.300618
+208
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+458
+0.711924
+-0.680602
+0.454134
+0.167765
+-0.100688
+209
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+151
+-0.0741918
+-0.859056
+0.386809
+-0.270548
+-0.0316843
+210
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+205
+-0.431629
+-0.959629
+0.466277
+0.233621
+-0.467135
+211
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+257
+0.70141
+-0.689415
+0.449333
+0.148136
+-0.0152433
+212
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+60
+0.895517
+-0.553182
+0.439766
+0.0795727
+-0.268734
+213
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+288
+0.788495
+-0.647821
+0.450107
+0.238106
+0.051213
+214
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+75
+0.856172
+-0.573833
+0.429363
+-0.0952421
+-0.340089
+215
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+529
+0.00795035
+-0.906005
+0.462857
+0.117628
+-0.377335
+216
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+817
+0.151757
+-0.882579
+0.521587
+0.393826
+-0.609565
+217
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+399
+0.340086
+-0.718508
+0.385295
+-0.432798
+-0.235923
+218
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+758
+0.440817
+-0.796567
+0.475029
+0.321306
+-0.123503
+219
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+844
+0.471546
+-0.765066
+0.422611
+0.229783
+0.393964
+220
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38.p2 Primary Assembly
+150000
+414
+0.349603
+-0.794336
+0.473424
+0.130911
+-0.453812
+221
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+78
+0.486056
+-0.736938
+0.449519
+-0.0924487
+-0.407097
+222
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+807
+0.773718
+-0.572961
+0.360149
+0.0134534
+0.683245
+223
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+494
+0.529041
+-0.702575
+0.383785
+-0.222177
+0.378241
+224
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+299
+0.140851
+-0.904663
+0.462087
+0.42452
+0.0722538
+225
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+352
+-0.120783
+-0.933417
+0.423475
+0.190012
+0.217706
+226
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+55
+0.917778
+-0.522851
+0.414455
+-0.0486483
+-0.166707
+227
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+502
+0.85705
+-0.550449
+0.384339
+-0.173463
+0.0883343
+228
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+339
+0.843275
+-0.551978
+0.360919
+-0.393129
+0.262975
+229
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+734
+0.867005
+-0.550416
+0.421044
+-0.0769294
+-0.296911
+230
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+532
+0.425852
+-0.762342
+0.410232
+-0.174173
+-0.0614301
+231
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+351
+0.426504
+-0.702995
+0.417976
+-0.408182
+-0.518174
+232
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+728
+0.874348
+-0.539038
+0.360599
+-0.211323
+0.319968
+233
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+789
+0.531881
+-0.784817
+0.463611
+0.269047
+-0.058321
+234
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+706
+-0.0102155
+-0.886845
+0.461726
+0.00218274
+-0.404921
+235
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+636
+0.452503
+-0.661595
+0.403685
+-0.61358
+-0.515082
+236
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+631
+0.459433
+-0.721629
+0.432269
+-0.309486
+-0.436456
+237
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+665
+0.118896
+-0.82754
+0.412012
+-0.208903
+-0.126807
+238
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+865
+0.362525
+-0.781285
+0.416417
+0.201412
+0.322444
+239
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+885
+-0.351517
+-0.837326
+0.328312
+-0.340722
+0.32751
+240
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38.p2 Primary Assembly
+150000
+605
+-0.704655
+0.99357
+1.
+0.0692906
+0.186962
+241
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+632
+0.482034
+-0.75919
+0.437209
+0.0649694
+0.0519297
+242
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+441
+0.672067
+-0.637179
+0.416138
+-0.0972466
+-0.303368
+243
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+217
+0.489707
+-0.788566
+0.483253
+0.220148
+-0.398233
+244
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+344
+0.59603
+-0.743648
+0.480479
+0.322261
+-0.252448
+245
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+511
+0.866922
+-0.559353
+0.426123
+-0.0739159
+-0.2215
+246
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+307
+0.823293
+-0.579782
+0.40479
+-0.185628
+-0.111517
+247
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+493
+0.917892
+-0.542519
+0.439493
+0.0698334
+-0.302276
+248
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+462
+0.472528
+-0.64455
+0.387151
+-0.577129
+-0.407322
+249
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+17
+0.863903
+-0.573842
+0.432921
+-0.0296704
+-0.335359
+250
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+44
+0.875543
+-0.534456
+0.379655
+-0.152649
+0.286765
+251
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+380
+0.856729
+-0.553716
+0.408202
+-0.127092
+-0.150996
+252
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+278
+0.884004
+-0.561613
+0.441006
+0.0609871
+-0.284606
+253
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+414
+0.901474
+-0.531109
+0.420142
+-0.118767
+-0.216999
+254
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+602
+0.912913
+-0.539676
+0.399826
+0.0185983
+0.221445
+255
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+112
+0.743845
+-0.632393
+0.418579
+-0.00705522
+-0.0334244
+256
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+621
+0.645612
+-0.691792
+0.437508
+0.0983421
+-0.0893395
+257
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+480
+0.451315
+-0.751881
+0.442146
+0.0441983
+-0.145415
+258
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+599
+0.506802
+-0.753334
+0.439926
+0.101622
+0.0300605
+259
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+572
+0.369133
+-0.806823
+0.438126
+0.197257
+0.0824414
+260
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38.p2 Primary Assembly
+150000
+13
+-0.602032
+0.879528
+0.813269
+0.0688169
+0.0740279
+261
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+199
+0.467097
+-0.751841
+0.45135
+0.114469
+-0.240807
+262
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+554
+0.733978
+-0.626826
+0.390822
+-0.223722
+0.0557697
+263
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+521
+0.940114
+-0.496903
+0.391878
+-0.121336
+-0.0103915
+264
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+139
+0.915958
+-0.52197
+0.3933
+-0.0638431
+0.140128
+265
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+266
+0.930557
+-0.509901
+0.448668
+0.0733634
+-0.464518
+266
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+421
+0.567077
+-0.729471
+0.492358
+0.0874717
+-0.591474
+267
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+347
+0.7794
+-0.59425
+0.454976
+-0.185863
+-0.710838
+268
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+175
+0.578751
+-0.743267
+0.469686
+0.0332214
+-0.39556
+269
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+544
+0.762432
+-0.630532
+0.45308
+-0.00899857
+-0.344917
+270
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+136
+0.797312
+-0.633093
+0.460668
+0.0202175
+-0.426747
+271
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+345
+0.779353
+-0.61758
+0.440847
+-0.0611187
+-0.336776
+272
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+513
+0.869925
+-0.512944
+0.423146
+0.0625292
+-0.234366
+273
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+7
+0.169688
+-0.878591
+0.490173
+0.285352
+-0.477904
+274
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+185
+0.153561
+-0.745531
+0.373019
+-0.570257
+-0.227749
+275
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+439
+0.334544
+-0.850132
+0.499314
+0.327513
+-0.429359
+276
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+549
+0.442678
+-0.800747
+0.473236
+0.221489
+-0.163832
+277
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+455
+0.548917
+-0.752633
+0.439742
+0.137117
+-0.058326
+278
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+584
+0.0384479
+-0.880713
+0.419581
+0.0544118
+0.114033
+279
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+507
+-0.0353229
+-0.818747
+0.357641
+-0.555488
+0.0251956
+280
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38.p2 Primary Assembly
+150000
+466
+0.490896
+-0.710733
+0.414444
+-0.204449
+-0.111813
+281
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+267
+0.514347
+-0.484936
+0.401298
+-0.1541
+-0.578194
+282
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+62
+0.604519
+-0.713563
+0.426059
+0.0648337
+0.130737
+283
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+430
+0.490744
+-0.670311
+0.409317
+-0.349313
+-0.424212
+284
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+340
+0.370323
+-0.755822
+0.402271
+-0.067223
+0.130589
+285
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+115
+0.350518
+-0.767879
+0.41445
+-0.26067
+-0.254768
+286
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+370
+0.49545
+-0.657988
+0.382238
+-0.541163
+-0.299391
+287
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+511
+0.84947
+-0.587835
+0.428896
+0.020911
+-0.058481
+288
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+168
+0.470251
+-0.732351
+0.44074
+-0.207704
+-0.489156
+289
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+319
+0.117685
+-0.854979
+0.425668
+-0.147484
+-0.120047
+290
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+399
+-0.18006
+-0.904159
+0.400477
+-0.167491
+-0.0477052
+291
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+224
+0.382956
+-0.762392
+0.42751
+-0.2444
+-0.266205
+292
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+249
+0.0461934
+-0.926438
+0.476586
+0.403931
+-0.223053
+293
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+537
+0.347868
+-0.791705
+0.441518
+-0.181754
+-0.339322
+294
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+458
+0.12644
+-0.899199
+0.46025
+0.14027
+-0.160144
+295
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+28
+0.619317
+-0.661532
+0.429597
+0.368875
+0.293353
+296
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+519
+0.385093
+-0.821264
+0.492885
+0.246883
+-0.455224
+297
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+48
+0.692225
+-0.658235
+0.449558
+-0.0244944
+-0.314186
+298
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+77
+0.742772
+-0.644001
+0.434338
+-0.000454034
+-0.216768
+299
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+353
+0.610035
+-0.71552
+0.442337
+0.161205
+0.0306152
+300
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38.p2 Primary Assembly
+150000
+321
+-0.0363345
+-0.818249
+0.333164
+-0.466343
+0.270913
+301
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+213
+0.32689
+-0.808222
+0.474085
+0.0697486
+-0.461609
+302
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+469
+0.544047
+-0.709102
+0.46747
+0.0368899
+-0.513745
+303
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+281
+0.174558
+-0.788028
+0.413547
+-0.21045
+-0.289575
+304
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+175
+0.234966
+-0.790186
+0.392179
+-0.225313
+-0.00157673
+305
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+124
+0.291026
+-0.765461
+0.40735
+-0.277035
+-0.218279
+306
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+459
+-0.0355309
+-0.847271
+0.438567
+-0.143014
+-0.59019
+307
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+28
+0.243004
+-0.793755
+0.382157
+-0.080077
+0.496791
+308
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+100
+0.661841
+-0.70243
+0.457132
+0.0617878
+-0.232439
+309
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+85
+-0.0917673
+-0.893702
+0.425609
+-0.0992874
+-0.11657
+310
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+236
+0.421237
+-0.784115
+0.458949
+0.29529
+0.0784588
+311
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+210
+0.48194
+-0.713579
+0.438319
+0.175796
+-0.0987561
+312
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+250
+-0.697171
+0.885847
+0.796632
+-0.01866
+-0.236019
+313
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+425
+0.0886262
+-0.810718
+0.386462
+-0.367472
+-0.159407
+314
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+42
+0.0501278
+-0.923065
+0.502033
+0.288443
+-0.424066
+315
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+69
+0.826693
+-0.57174
+0.446414
+-0.147653
+-0.457929
+316
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+86
+0.271177
+-0.81851
+0.459237
+0.122065
+-0.14297
+317
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+363
+0.601715
+-0.680344
+0.416135
+0.0402803
+-0.0306784
+318
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+257
+0.47509
+-0.743242
+0.458967
+0.00362516
+-0.485471
+319
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+437
+0.327553
+-0.79834
+0.466608
+0.0143954
+-0.487266
+320
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38.p2 Primary Assembly
+150000
+40
+-0.167603
+-0.865251
+0.391169
+-0.0407261
+0.0939572
+321
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+270
+0.0312779
+-0.676506
+0.289426
+-0.873312
+0.118919
+322
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+407
+0.62683
+-0.695486
+0.421049
+-0.0903058
+-0.12756
+323
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+438
+0.289928
+-0.832979
+0.430172
+0.0911634
+-0.00349453
+324
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+103
+-0.476805
+-0.98814
+0.458669
+0.258796
+-0.224548
+325
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+292
+-0.687173
+0.864141
+0.765704
+0.0660154
+-0.049864
+326
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+381
+0.436013
+-0.167911
+0.350813
+-0.00827214
+0.675313
+327
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+118
+0.279587
+-0.0652123
+0.154203
+-0.31219
+-0.117924
+328
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+234
+0.520733
+-0.743971
+0.434829
+0.155435
+0.113916
+329
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+329
+0.609169
+-0.663419
+0.441341
+-0.189002
+-0.526714
+330
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+177
+-0.191983
+-0.518786
+0.31287
+-0.694432
+-0.371185
+331
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+178
+-0.150002
+-0.867904
+0.383367
+-0.258149
+0.0266385
+332
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+1
+-0.100614
+-0.932205
+0.442114
+0.0638635
+-0.138015
+333
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+346
+0.706285
+-0.686187
+0.452233
+0.142808
+-0.0856103
+334
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+543
+0.825247
+-0.582799
+0.428551
+-0.127757
+-0.30077
+335
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+9
+0.879982
+-0.53383
+0.407195
+-0.219442
+-0.211283
+336
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+287
+0.158627
+-0.866256
+0.506497
+0.213271
+-0.737668
+337
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+167
+0.498315
+-0.709123
+0.439199
+-0.255181
+-0.499103
+338
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+351
+0.708813
+-0.628972
+0.383781
+-0.216675
+0.278329
+339
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+356
+-0.511374
+-0.914538
+0.351967
+-0.345559
+0.0971201
+340
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38.p2 Primary Assembly
+150000
+91
+0.396249
+-0.717123
+0.381592
+-0.428899
+-0.154496
+341
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+141
+0.326724
+-0.840402
+0.473944
+0.308281
+-0.22789
+342
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+526
+-0.693381
+0.898175
+0.779758
+0.0580034
+0.00138803
+343
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+236
+-0.410566
+0.740871
+0.277032
+0.382891
+-0.305721
+344
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+351
+0.512634
+-0.647194
+0.393774
+-0.580014
+-0.50364
+345
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+522
+0.874611
+-0.554615
+0.411863
+-0.0758156
+-0.114243
+346
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+344
+0.803186
+-0.609389
+0.450804
+0.0366757
+-0.470102
+347
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+137
+0.443391
+-0.796265
+0.449632
+0.0709284
+-0.151146
+348
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+69
+0.380414
+-0.837523
+0.49529
+0.282439
+-0.436345
+349
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+394
+0.807737
+-0.610782
+0.406062
+0.0262473
+0.338739
+350
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+497
+0.00267984
+-0.9396
+0.495101
+0.363427
+-0.374034
+351
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+242
+0.666102
+-0.709685
+0.463839
+0.355289
+0.0110741
+352
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+198
+0.72813
+-0.664613
+0.462313
+0.0710185
+-0.416494
+353
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+21
+0.381194
+-0.788763
+0.436675
+0.0712799
+0.0809985
+354
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+419
+0.518301
+-0.718957
+0.435784
+-0.0560001
+-0.0476152
+355
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+263
+0.81888
+-0.563721
+0.400066
+-0.154868
+-0.0952117
+356
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+431
+0.605487
+-0.662952
+0.474235
+-0.0500953
+-0.719561
+357
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+135
+0.790806
+-0.567845
+0.472354
+0.0353123
+-0.619032
+358
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+498
+0.299707
+-0.784115
+0.437525
+0.151513
+-0.132819
+359
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+230
+0.00752515
+-0.802157
+0.408815
+-0.0683338
+-0.051364
+360
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38.p2 Primary Assembly
+150000
+309
+-0.760112
+-0.862239
+0.347364
+-0.0957541
+0.112287
+361
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+168
+-0.800217
+-0.921734
+0.381579
+-0.223136
+-0.263839
+362
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+53
+-0.50332
+-0.886015
+0.38776
+-0.321764
+-0.287416
+363
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+388
+-0.646772
+-0.931536
+0.364817
+-0.189895
+0.0630623
+364
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+354
+-0.305694
+-0.903317
+0.398491
+-0.100279
+-0.0437568
+365
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+116
+-0.23026
+-0.894922
+0.378764
+-0.220852
+0.0982486
+366
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+133
+-0.529062
+-0.872007
+0.365496
+-0.44008
+-0.247076
+367
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+3
+0.484218
+-0.695689
+0.418242
+-0.110473
+-0.31365
+368
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+235
+0.568079
+-0.59533
+0.334493
+-0.467966
+0.316366
+369
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+103
+0.46375
+-0.129182
+0.263689
+0.46989
+0.273879
+370
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+327
+-0.599037
+0.875168
+0.768552
+0.034449
+-0.26542
+371
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+158
+0.263435
+-0.847307
+0.436692
+0.242198
+0.101565
+372
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+111
+-0.0851949
+-0.933455
+0.421418
+0.12338
+0.0821915
+373
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+223
+-0.219944
+-0.898819
+0.397774
+-0.106562
+-0.0914495
+374
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+213
+-0.0175808
+-0.587226
+0.309085
+-0.742175
+-0.247119
+375
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+292
+0.680077
+-0.641747
+0.418916
+-0.142632
+-0.203317
+376
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+22
+-0.44467
+-0.878071
+0.348672
+-0.388824
+-0.0286309
+377
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+241
+-0.444011
+-0.863315
+0.402121
+-0.284197
+-0.449958
+378
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+162
+0.375091
+-0.687947
+0.370587
+-0.386017
+-0.110277
+379
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+298
+-0.0866386
+-0.857333
+0.417947
+-0.22856
+-0.206187
+380
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38.p2 Primary Assembly
+150000
+9
+0.0816767
+-0.83032
+0.427857
+-0.267359
+-0.301953
+381
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+305
+0.198045
+-0.801225
+0.370747
+-0.299857
+0.238693
+382
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+308
+0.696778
+-0.67685
+0.482364
+0.250136
+-0.4869
+383
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+262
+0.555409
+-0.71005
+0.463291
+-0.14738
+-0.653592
+384
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+42
+0.70115
+-0.681765
+0.444763
+0.306703
+0.0588819
+385
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+130
+0.692565
+-0.689312
+0.44882
+0.108443
+-0.161728
+386
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+70
+0.640489
+-0.626551
+0.353872
+-0.348264
+0.357388
+387
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+375
+0.459443
+-0.783203
+0.450096
+0.00738399
+-0.255639
+388
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+202
+0.367386
+-0.849208
+0.497536
+0.464252
+-0.176895
+389
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+311
+-0.711673
+0.906418
+0.788216
+0.0626642
+0.00782655
+390
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+91
+0.35268
+-0.543072
+0.279942
+0.174858
+0.709327
+391
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+85
+0.40694
+-0.627156
+0.333744
+-0.101959
+0.136188
+392
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+111
+0.369426
+-0.740901
+0.387758
+-0.455114
+-0.167553
+393
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+263
+0.615098
+-0.734689
+0.459596
+0.236967
+-0.0979279
+394
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+230
+0.707656
+-0.697531
+0.474025
+0.293546
+-0.140941
+395
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+183
+0.00358033
+-0.904093
+0.456499
+0.0680628
+-0.258677
+396
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+198
+0.396735
+-0.811811
+0.457092
+0.089531
+-0.200136
+397
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+33
+0.240887
+-0.855892
+0.480037
+0.18406
+-0.327117
+398
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+87
+0.749516
+-0.638307
+0.408998
+0.154609
+0.319924
+399
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+370
+0.0192957
+-0.805114
+0.401901
+-0.374301
+-0.393223
+400
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38.p2 Primary Assembly
+150000
+19
+0.483
+-0.618811
+0.379787
+0.132734
+0.233954
+401
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+108
+0.439609
+-0.499756
+0.294727
+0.104071
+0.137492
+402
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+227
+0.464291
+-0.526659
+0.398124
+0.331231
+0.112637
+403
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+16
+0.152628
+-0.660805
+0.376012
+-0.0710372
+0.0383269
+404
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+41
+0.491907
+-0.698534
+0.444952
+0.0165081
+-0.503345
+405
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+121
+0.752597
+-0.613439
+0.413971
+0.0392648
+0.037465
+406
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+48
+-0.676009
+1.
+0.982952
+0.0525312
+0.164833
+407
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+4
+-0.693772
+0.997515
+0.994748
+0.0499763
+0.197545
+408
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+198
+0.518359
+-0.744763
+0.434927
+0.10883
+-0.00762312
+409
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+40
+0.596762
+-0.661512
+0.429485
+-0.302756
+-0.453545
+410
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+11
+0.921421
+-0.508202
+0.397523
+-0.088954
+-0.00466222
+411
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+160
+0.902128
+-0.54682
+0.421256
+-0.0323229
+-0.151023
+412
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+80
+0.881868
+-0.545298
+0.406358
+-0.159401
+-0.133916
+413
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+19
+0.858728
+-0.545651
+0.400972
+-0.262467
+-0.159026
+414
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+235
+0.854947
+-0.56555
+0.421487
+-0.146543
+-0.306593
+415
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+123
+0.856307
+-0.557689
+0.417809
+-0.146607
+-0.246503
+416
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+74
+0.0389912
+-0.798606
+0.407344
+-0.361427
+-0.428088
+417
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+101
+0.583656
+-0.74151
+0.48105
+0.247706
+-0.296703
+418
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+21
+0.561842
+-0.714315
+0.419448
+-0.0238717
+0.0283515
+419
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+12
+-0.163875
+-0.921885
+0.427444
+0.214765
+0.0513242
+420
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38.p2 Primary Assembly
+150000
+211
+0.383841
+-0.619021
+0.333339
+0.277991
+0.490266
+421
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+85
+0.523784
+-0.697316
+0.418771
+0.0438436
+-0.04638
+422
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+51
+0.742189
+-0.547876
+0.323614
+-0.195059
+0.239105
+423
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+59
+0.0295205
+-0.865832
+0.381613
+-0.0538899
+0.430838
+424
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+98
+-0.0216164
+-0.873801
+0.393982
+-0.192785
+0.0977668
+425
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+90
+-0.145777
+-0.875031
+0.396293
+-0.129578
+-0.107758
+426
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+180
+-0.234156
+-0.940339
+0.450407
+0.0169207
+-0.282886
+427
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+8
+0.380824
+-0.765343
+0.442895
+-0.196243
+-0.318187
+428
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+103
+-0.0219148
+-0.861573
+0.452294
+-0.124251
+-0.46211
+429
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+60
+-0.048987
+-0.90239
+0.476058
+0.047481
+-0.564573
+430
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+130
+0.462256
+-0.803021
+0.468656
+0.275707
+-0.156182
+431
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+4
+0.300183
+-0.849261
+0.47961
+0.314384
+-0.237594
+432
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+106
+0.286674
+-0.853732
+0.495688
+0.397027
+-0.309686
+433
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+161
+-0.0458201
+-0.938428
+0.461298
+0.356949
+-0.0807826
+434
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+32
+-0.175026
+-0.910141
+0.420996
+-0.0960157
+-0.0441118
+435
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+160
+-0.154599
+-0.933315
+0.450223
+0.213738
+-0.149775
+436
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+97
+0.46173
+-0.710136
+0.414079
+-0.143137
+-0.201235
+437
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+244
+0.299237
+-0.712606
+0.367998
+-0.565071
+-0.142888
+438
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+44
+-0.415982
+-0.933739
+0.391815
+-0.17135
+-0.0333341
+439
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+207
+0.11989
+-0.880282
+0.444919
+0.275642
+-0.0298941
+440
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38.p2 Primary Assembly
+150000
+89
+-0.509558
+-0.743155
+0.282995
+-0.5527
+0.0859343
+441
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+714
+0.743964
+-0.643366
+0.44039
+0.104187
+-0.0150905
+442
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+421
+0.569426
+-0.736273
+0.443024
+0.143559
+-0.027982
+443
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+88
+0.596404
+-0.717971
+0.483365
+0.00476905
+-0.590299
+444
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+320
+0.908167
+-0.512101
+0.386419
+-0.215949
+0.0308462
+445
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+215
+0.0714874
+-0.804931
+0.395076
+-0.0743346
+0.23403
+446
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+731
+0.644645
+-0.674757
+0.426044
+0.393595
+0.453945
+447
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+665
+0.88591
+-0.53219
+0.40275
+0.109315
+0.308811
+448
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+848
+0.831211
+-0.59832
+0.440926
+0.25768
+0.0492541
+449
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+796
+0.866342
+-0.569243
+0.429755
+-0.0391884
+-0.224315
+450
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+112
+0.716292
+-0.65698
+0.418928
+0.116204
+0.305561
+451
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+667
+0.619587
+-0.678548
+0.448202
+0.0215643
+-0.328212
+452
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+909
+0.301042
+-0.825284
+0.481365
+0.122698
+-0.509321
+453
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+9
+0.63059
+-0.708157
+0.478827
+0.161921
+-0.489616
+454
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+624
+0.563936
+-0.757777
+0.486889
+0.317159
+-0.322075
+455
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+1004
+0.616671
+-0.724897
+0.455479
+0.249
+-0.00254214
+456
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+897
+0.924612
+-0.505861
+0.376426
+0.0400443
+0.529156
+457
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+621
+0.602425
+-0.701458
+0.460456
+-0.011206
+-0.377746
+458
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+712
+0.611963
+-0.714597
+0.453017
+0.128863
+-0.108754
+459
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+48
+0.429826
+-0.789124
+0.495071
+0.31391
+-0.491269
+460
+NC_000023.11
+Homo sapiens chromosome X  GRCh38.p2 Primary Assembly
+150000
+576
+0.0729543
+-0.682704
+0.352789
+-0.342605
+-0.15605
+461
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+104
+-0.120907
+-0.638411
+0.306861
+-0.616009
+-0.122381
+462
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+24
+-0.509558
+-0.743155
+0.282995
+-0.5527
+0.0859343
+463
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+132
+-0.267486
+-0.728726
+0.335837
+-0.447247
+-0.196566
+464
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+10
+0.822682
+-0.604277
+0.429151
+0.0263534
+-0.098939
+465
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+169
+0.862423
+-0.566627
+0.428076
+0.018323
+-0.0686328
+466
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+7
+0.64427
+-0.652119
+0.443132
+0.263719
+-0.174328
+467
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+168
+0.612477
+-0.699752
+0.443932
+0.149128
+-0.203168
+468
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+5
+0.245576
+-0.644369
+0.398094
+0.147112
+-0.0858752
+469
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+69
+-0.266338
+0.14817
+0.217506
+-0.08804
+-0.14208
+470
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+33
+0.027844
+-0.62659
+0.360233
+0.0234751
+-0.0278818
+471
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+108
+0.626879
+-0.655211
+0.42527
+0.216306
+0.208132
+472
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+49
+0.722188
+-0.655844
+0.443054
+0.104794
+-0.185449
+473
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+135
+0.802494
+-0.589724
+0.415484
+0.0332395
+-0.0315704
+474
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+60
+0.822777
+-0.586798
+0.430547
+0.341334
+0.0938108
+475
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+40
+0.743148
+-0.587893
+0.450699
+0.357982
+-0.115379
+476
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+89
+0.659636
+-0.645456
+0.417424
+0.176207
+0.0982965
+477
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+70
+0.784014
+-0.621023
+0.433652
+0.213619
+0.0644132
+478
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+9
+0.743365
+-0.622059
+0.448223
+0.255013
+-0.24208
+479
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+142
+0.492533
+-0.748372
+0.499304
+0.23819
+-0.628888
+480
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38.p2 Primary Assembly
+150000
+176
+0.232917
+-0.858483
+0.482959
+0.256821
+-0.332115
+481
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+826
+0.306952
+-0.676215
+0.380783
+-0.85181
+-0.641936
+482
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+188
+0.126018
+-0.907941
+0.468256
+0.523893
+0.194177
+483
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+176
+0.238347
+-0.841967
+0.414077
+-0.0499289
+0.202801
+484
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+565
+0.552626
+-0.624176
+0.401734
+-0.602793
+-0.567498
+485
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+952
+-0.093317
+-0.922785
+0.435223
+0.119329
+-0.0519851
+486
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1238
+0.648818
+-0.700513
+0.440768
+0.0160181
+-0.16269
+487
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+501
+0.796849
+-0.617908
+0.414452
+0.142528
+0.224687
+488
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+380
+0.630594
+-0.6774
+0.442951
+-0.0141795
+-0.342951
+489
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+423
+0.9294
+-0.499394
+0.393956
+-0.249552
+-0.07549
+490
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+90
+0.892253
+-0.533062
+0.41188
+-0.0443478
+-0.0258297
+491
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+217
+0.708215
+-0.669054
+0.442625
+0.303924
+0.0983261
+492
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1353
+0.579466
+-0.701894
+0.422951
+-0.242421
+-0.263653
+493
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+839
+-0.252379
+-0.936911
+0.441872
+0.0186791
+-0.26002
+494
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+219
+0.460189
+-0.768988
+0.469361
+0.201085
+-0.345308
+495
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1293
+0.754988
+-0.599765
+0.378935
+-0.271251
+0.0990529
+496
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+360
+0.866305
+-0.570078
+0.4414
+0.0623617
+-0.234758
+497
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1018
+0.66171
+-0.695217
+0.427196
+-0.042368
+-0.00696402
+498
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+454
+0.38139
+-0.786623
+0.434508
+-0.050404
+-0.17212
+499
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+234
+0.859835
+-0.531132
+0.403787
+-0.0980774
+-0.135902
+500
+NC_018424.1
+Gorilla gorilla gorilla chromosome 1  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+588
+0.0594826
+-0.847535
+0.461237
+0.0807406
+-0.482142
+501
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+412
+0.149248
+-0.86244
+0.47389
+0.141156
+-0.45332
+502
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+669
+-0.101419
+-0.904165
+0.433665
+-0.0178364
+-0.139747
+503
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+340
+0.791889
+-0.50145
+0.416537
+-0.586601
+-0.779
+504
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+286
+-0.0509519
+-0.924211
+0.451264
+0.371924
+0.0800202
+505
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+176
+0.823891
+-0.579622
+0.421947
+-0.312734
+-0.447094
+506
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+431
+0.591882
+-0.72568
+0.437407
+-0.0434874
+-0.198968
+507
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+276
+0.870481
+-0.565069
+0.409373
+0.004902
+-0.0333785
+508
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+463
+0.700855
+-0.637051
+0.409264
+-0.362472
+-0.238823
+509
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+571
+0.786181
+-0.634349
+0.452699
+0.127733
+-0.136221
+510
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+479
+0.399854
+-0.800469
+0.450126
+0.356669
+0.229795
+511
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+310
+0.124631
+-0.863136
+0.457419
+-0.0130981
+-0.280837
+512
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+559
+0.548336
+-0.747915
+0.437484
+0.188234
+0.102419
+513
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+491
+0.814148
+-0.59017
+0.444168
+0.0171023
+-0.36476
+514
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+76
+0.525085
+-0.707789
+0.459972
+0.0364097
+-0.488817
+515
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+602
+0.521599
+-0.622321
+0.40483
+0.213238
+0.22219
+516
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+662
+0.763799
+-0.56604
+0.365714
+-0.239101
+0.122444
+517
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+650
+0.375281
+-0.775425
+0.437663
+-0.109512
+-0.349863
+518
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+485
+0.512987
+-0.782126
+0.453215
+0.183459
+-0.050842
+519
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+210
+0.111052
+-0.898112
+0.5061
+0.413483
+-0.434817
+520
+NC_018425.1
+Gorilla gorilla gorilla chromosome 2A  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+24
+0.270092
+-0.829134
+0.441444
+0.0660815
+-0.136127
+521
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+736
+0.469646
+-0.788887
+0.511574
+0.428064
+-0.511901
+522
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+513
+0.93836
+-0.499817
+0.406758
+-0.0940277
+-0.159292
+523
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+470
+0.908112
+-0.514029
+0.401908
+-0.192206
+-0.142672
+524
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+400
+0.765283
+-0.616353
+0.470746
+0.0808937
+-0.561273
+525
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+172
+0.624375
+-0.699349
+0.473518
+0.143936
+-0.398723
+526
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+121
+0.863567
+-0.576513
+0.4236
+0.0388321
+-0.0593751
+527
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+182
+0.672103
+-0.670779
+0.414156
+0.112243
+0.260261
+528
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+307
+0.662784
+-0.713197
+0.485698
+0.177194
+-0.427402
+529
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+502
+0.655188
+-0.708928
+0.480043
+0.174089
+-0.324541
+530
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+402
+0.653479
+-0.689645
+0.428053
+0.331845
+0.354228
+531
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+93
+0.922414
+-0.534031
+0.409801
+-0.059593
+0.0249086
+532
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+693
+0.90361
+-0.542884
+0.389137
+-0.105569
+0.207336
+533
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+469
+0.737545
+-0.615257
+0.404625
+0.102322
+0.159054
+534
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+230
+0.941371
+-0.498484
+0.410155
+-0.145541
+-0.219269
+535
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+706
+0.784049
+-0.598529
+0.40555
+-0.172819
+0.0293188
+536
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+200
+0.762027
+-0.636052
+0.448626
+0.0277358
+-0.381558
+537
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+718
+0.493664
+-0.724322
+0.428671
+-0.163843
+-0.216181
+538
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+532
+0.669346
+-0.630816
+0.37518
+-0.324302
+0.180315
+539
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+275
+0.610304
+-0.670641
+0.4226
+-0.209794
+-0.310508
+540
+NC_018426.1
+Gorilla gorilla gorilla chromosome 2B  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+367
+0.769034
+-0.594233
+0.462694
+0.245685
+-0.372846
+541
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1245
+0.723042
+-0.630875
+0.436665
+0.00495079
+-0.142904
+542
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+669
+0.0661907
+-0.839756
+0.423201
+-0.216257
+-0.277094
+543
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+425
+0.654749
+-0.708323
+0.478192
+0.18106
+-0.423691
+544
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+943
+0.140183
+-0.908118
+0.489076
+0.409733
+-0.212502
+545
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+40
+0.226701
+-0.81114
+0.392448
+-0.0309783
+0.329554
+546
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+353
+0.508733
+-0.757541
+0.492655
+0.388186
+-0.414436
+547
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+440
+0.582248
+-0.75316
+0.467116
+0.360269
+-0.0131834
+548
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+617
+0.59245
+-0.705513
+0.399467
+-0.116835
+0.0955421
+549
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+813
+0.765504
+-0.643842
+0.471515
+0.197511
+-0.393704
+550
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+46
+0.840138
+-0.574297
+0.435776
+-0.0134731
+-0.31037
+551
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1137
+0.639273
+-0.650861
+0.418979
+-0.19057
+-0.168629
+552
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+358
+0.729126
+-0.665218
+0.457635
+0.113954
+-0.319384
+553
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+748
+0.822578
+-0.584719
+0.403964
+-0.029845
+0.219513
+554
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+252
+0.680641
+-0.695543
+0.433139
+0.0857349
+0.0591122
+555
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+562
+0.0535531
+-0.83145
+0.396063
+-0.334262
+-0.118931
+556
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+639
+0.773405
+-0.626319
+0.425347
+0.0682077
+0.024597
+557
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+333
+0.885386
+-0.529991
+0.433577
+-0.0729285
+-0.314713
+558
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+223
+0.759211
+-0.65649
+0.436981
+0.17899
+-0.0942576
+559
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1034
+0.549541
+-0.632163
+0.342187
+-0.570423
+0.136317
+560
+NC_018427.1
+Gorilla gorilla gorilla chromosome 3  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+66
+0.609657
+-0.73798
+0.449352
+0.204836
+0.0896095
+561
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+225
+0.884362
+-0.525208
+0.414706
+-0.0940241
+-0.204857
+562
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+431
+0.939021
+-0.493399
+0.403448
+-0.133794
+-0.107268
+563
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+278
+0.600348
+-0.700322
+0.46126
+0.107013
+-0.318871
+564
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+455
+0.869489
+-0.559325
+0.421749
+0.0106418
+-0.131486
+565
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+238
+0.856766
+-0.582579
+0.443338
+0.149031
+-0.178247
+566
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+617
+0.945285
+-0.486816
+0.40165
+-0.0287027
+0.0780212
+567
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+885
+0.987458
+-0.472379
+0.408897
+-0.0222807
+-0.143342
+568
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+595
+0.85217
+-0.563509
+0.410953
+0.0533398
+0.035659
+569
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+931
+0.903919
+-0.52624
+0.438982
+-0.0159235
+-0.387259
+570
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+610
+0.766116
+-0.640308
+0.459869
+0.088829
+-0.394191
+571
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+781
+0.726361
+-0.665671
+0.432139
+0.15113
+0.0520604
+572
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+183
+0.759268
+-0.627709
+0.406305
+-0.0621816
+0.233628
+573
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+477
+0.701073
+-0.656877
+0.403235
+-0.0777892
+0.0970888
+574
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+80
+0.817278
+-0.599255
+0.446413
+0.070425
+-0.260773
+575
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+286
+0.82631
+-0.596833
+0.41291
+0.0944756
+0.178572
+576
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+805
+0.922905
+-0.529371
+0.409574
+-0.0613435
+-0.122183
+577
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+556
+0.819894
+-0.550944
+0.415429
+-0.102234
+-0.271924
+578
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1161
+0.856837
+-0.557988
+0.408208
+-0.0803805
+-0.0852916
+579
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1100
+0.403056
+-0.761317
+0.438211
+-0.0213346
+-0.251607
+580
+NC_018428.1
+Gorilla gorilla gorilla chromosome 4  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+707
+-0.189853
+-0.903829
+0.404617
+0.0415911
+0.055817
+581
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+802
+0.720932
+-0.647238
+0.440481
+0.0974764
+-0.0337287
+582
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+231
+0.761681
+-0.578228
+0.412176
+-0.0507167
+-0.143624
+583
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+221
+0.069308
+-0.895075
+0.468551
+0.0980903
+-0.350171
+584
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+914
+0.471147
+-0.763717
+0.455645
+0.0491364
+-0.311173
+585
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+157
+-0.188092
+-0.938586
+0.439375
+0.106552
+-0.244845
+586
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+457
+-0.056659
+-0.910802
+0.445324
+0.161302
+-0.0979107
+587
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+371
+0.0682095
+-0.834992
+0.423758
+-0.219182
+-0.279166
+588
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+173
+0.463234
+-0.694617
+0.408782
+-0.448473
+-0.414752
+589
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+317
+0.28406
+-0.874313
+0.493346
+0.361559
+-0.227212
+590
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+73
+-0.215502
+-0.945785
+0.420764
+0.103044
+0.0481741
+591
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+1008
+-0.210299
+-0.950181
+0.457447
+0.219392
+-0.186385
+592
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+89
+0.88795
+-0.542613
+0.382498
+-0.248927
+0.19329
+593
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+680
+0.873938
+-0.570618
+0.436895
+0.0333582
+-0.208195
+594
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+967
+0.68106
+-0.687767
+0.449917
+0.0549075
+-0.340147
+595
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+280
+0.84932
+-0.552776
+0.43531
+0.0248929
+-0.351867
+596
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+307
+0.678918
+-0.68508
+0.442467
+0.02916
+-0.121967
+597
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+382
+0.850515
+-0.575841
+0.439989
+0.0176111
+-0.312686
+598
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+17
+0.198129
+-0.811589
+0.389843
+-0.261126
+0.106199
+599
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+694
+0.243228
+-0.798452
+0.423411
+-0.0984555
+-0.364587
+600
+NC_018429.1
+Gorilla gorilla gorilla chromosome 5  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+252
+0.542985
+-0.688265
+0.384143
+-0.11684
+0.182508
+601
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+290
+0.466375
+-0.707477
+0.414448
+-0.269882
+-0.309103
+602
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+311
+0.729354
+-0.65141
+0.422399
+0.121425
+0.218734
+603
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+610
+0.467078
+-0.741564
+0.414919
+-0.162267
+-0.105705
+604
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+946
+-0.00736078
+-0.894835
+0.420159
+-0.051492
+-0.112494
+605
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+133
+-0.0312814
+-0.951539
+0.500141
+0.556795
+-0.115435
+606
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+126
+0.837194
+-0.542697
+0.358723
+-0.276728
+0.38569
+607
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+843
+0.853948
+-0.573255
+0.441254
+0.0337486
+-0.344367
+608
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+693
+0.935833
+-0.51689
+0.411834
+0.069041
+0.102994
+609
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+490
+1.
+-0.45048
+0.385742
+-0.0871943
+0.0507956
+610
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+911
+0.779384
+-0.599116
+0.40829
+0.245087
+0.360216
+611
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+110
+0.680108
+-0.68547
+0.450614
+0.0152453
+-0.239607
+612
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+404
+0.830871
+-0.537816
+0.344219
+-0.288085
+0.582195
+613
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+201
+0.84349
+-0.582602
+0.453023
+0.122987
+-0.363745
+614
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+119
+0.948986
+-0.501144
+0.431285
+-0.0623649
+-0.365702
+615
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+601
+0.453249
+-0.773763
+0.430354
+-0.0208065
+-0.0400196
+616
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+380
+0.62513
+-0.619232
+0.341692
+-0.533311
+0.243555
+617
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+554
+0.754622
+-0.614436
+0.419771
+-0.0315591
+-0.0929004
+618
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+692
+0.547587
+-0.711601
+0.455154
+-0.0674023
+-0.455277
+619
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+282
+0.512669
+-0.622621
+0.351266
+-0.664491
+-0.063802
+620
+NC_018430.1
+Gorilla gorilla gorilla chromosome 6  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+550
+0.872707
+-0.546683
+0.435944
+-0.0472188
+-0.320065
+621
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+940
+0.533318
+-0.736451
+0.448818
+0.242511
+-0.0935499
+622
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+642
+0.618969
+-0.701081
+0.436319
+-0.0310256
+-0.207441
+623
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+427
+0.727122
+-0.633801
+0.440139
+0.154188
+-0.143594
+624
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+172
+0.700903
+-0.677065
+0.471526
+0.206179
+-0.433812
+625
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+269
+0.536905
+-0.744282
+0.443036
+0.269812
+0.114235
+626
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+723
+0.31835
+-0.707557
+0.372844
+-0.542306
+-0.237024
+627
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+963
+0.751234
+-0.597035
+0.416592
+-0.0773266
+-0.180693
+628
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+771
+0.767867
+-0.64364
+0.469232
+0.189907
+-0.299338
+629
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+199
+0.616853
+-0.671556
+0.387878
+-0.119885
+0.385293
+630
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+160
+0.530876
+-0.711138
+0.432449
+-0.191889
+-0.368102
+631
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+288
+0.931173
+-0.524643
+0.431365
+-0.0226208
+-0.426241
+632
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+793
+0.782882
+-0.602446
+0.447681
+-0.0614202
+-0.443904
+633
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+54
+0.856448
+-0.570011
+0.437248
+-0.00454417
+-0.351529
+634
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+769
+0.709578
+-0.626227
+0.397654
+0.0881479
+0.356356
+635
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+727
+0.629173
+-0.682847
+0.509873
+0.0362457
+-0.88107
+636
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+611
+0.672424
+-0.636876
+0.44343
+-0.311652
+-0.558515
+637
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+531
+0.309923
+-0.809122
+0.43573
+0.0629517
+-0.031913
+638
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+536
+0.00331282
+-0.909148
+0.469997
+0.315301
+-0.185749
+639
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+728
+-0.205511
+-0.896842
+0.406835
+0.287418
+0.245866
+640
+NC_018431.1
+Gorilla gorilla gorilla chromosome 7  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+901
+0.282967
+-0.760604
+0.442485
+0.164492
+-0.236417
+641
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+555
+0.772254
+-0.593534
+0.402208
+-0.199396
+0.00412273
+642
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+116
+0.476415
+-0.728717
+0.405263
+0.0654379
+0.273676
+643
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+763
+0.0729066
+-0.858126
+0.434456
+-0.0934849
+-0.187266
+644
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+397
+0.521024
+-0.742775
+0.442707
+-0.000748609
+-0.116376
+645
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+456
+0.440613
+-0.755742
+0.453303
+-0.0689363
+-0.417
+646
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+756
+0.720396
+-0.625161
+0.441929
+-0.196842
+-0.485721
+647
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+302
+0.646814
+-0.701225
+0.474124
+0.221067
+-0.322545
+648
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+660
+0.847436
+-0.572137
+0.416793
+-0.00968497
+-0.105799
+649
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+354
+0.736172
+-0.659947
+0.439377
+0.222326
+0.0970093
+650
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+288
+0.760669
+-0.624603
+0.442831
+-0.0247321
+-0.249066
+651
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+877
+0.623339
+-0.641202
+0.391743
+-0.439163
+-0.24966
+652
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+43
+0.680711
+-0.664051
+0.447692
+0.0544034
+-0.442966
+653
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+409
+0.809276
+-0.592869
+0.438775
+-0.0107215
+-0.270853
+654
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+154
+0.800084
+-0.600858
+0.428511
+-0.0518024
+-0.120296
+655
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+152
+0.820727
+-0.588092
+0.416885
+0.207365
+0.242633
+656
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+133
+0.553127
+-0.452647
+0.378233
+0.138454
+0.399424
+657
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+344
+0.626331
+-0.721972
+0.449125
+0.153572
+-0.0978601
+658
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+753
+0.78451
+-0.60042
+0.428254
+-0.0468073
+-0.176234
+659
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+200
+0.447105
+-0.78562
+0.449044
+0.186223
+-0.0250644
+660
+NC_018432.1
+Gorilla gorilla gorilla chromosome 8  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+87
+0.884294
+-0.551787
+0.404041
+-0.0515821
+0.132873
+661
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+192
+0.573223
+-0.744821
+0.478075
+0.439809
+-0.0713126
+662
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+168
+0.646455
+-0.679954
+0.467168
+0.194404
+-0.296435
+663
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+116
+0.844635
+-0.582037
+0.426156
+-0.0415138
+-0.230789
+664
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+198
+0.730711
+-0.664628
+0.480851
+0.295507
+-0.370358
+665
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+249
+0.917981
+-0.505495
+0.401363
+-0.0828277
+-0.0228008
+666
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+215
+0.920223
+-0.518865
+0.400105
+-0.00756746
+0.218855
+667
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+536
+0.251155
+-0.831593
+0.40737
+0.0159904
+0.357242
+668
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+370
+0.362358
+-0.770002
+0.424154
+0.0332436
+-0.102952
+669
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+587
+0.508466
+-0.766764
+0.463164
+0.130203
+-0.238221
+670
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+104
+0.66493
+-0.682717
+0.484961
+0.269581
+-0.549177
+671
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+563
+0.884821
+-0.553559
+0.417566
+0.0552678
+0.0259813
+672
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+421
+0.640798
+-0.705989
+0.480789
+0.258205
+-0.369413
+673
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+180
+0.347544
+-0.825898
+0.453391
+0.333615
+0.0881295
+674
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+427
+0.30053
+-0.855352
+0.490142
+0.374621
+-0.213843
+675
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+65
+0.477587
+-0.802391
+0.46373
+0.244388
+-0.0969973
+676
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+303
+0.76205
+-0.623769
+0.398837
+-0.0523527
+0.165623
+677
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+394
+0.63084
+-0.665716
+0.438055
+-0.296674
+-0.523736
+678
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+334
+0.536302
+-0.766877
+0.487506
+0.202386
+-0.447633
+679
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+571
+0.119055
+-0.889901
+0.475127
+0.174161
+-0.325778
+680
+NC_018433.1
+Gorilla gorilla gorilla chromosome 9  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+629
+0.697862
+-0.652948
+0.439848
+0.272372
+-0.00373027
+681
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+652
+0.71496
+-0.650195
+0.437775
+-0.0252496
+-0.241231
+682
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+772
+0.346222
+-0.775921
+0.414551
+-0.0614292
+-0.00906152
+683
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+332
+-0.399453
+0.554073
+-0.935699
+0.902779
+-0.851694
+684
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+340
+-0.432478
+0.600093
+-0.978601
+0.986937
+-1.
+685
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+296
+-0.375242
+0.572327
+-0.984119
+0.988502
+-0.941629
+686
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+278
+-0.415055
+0.593368
+-1.
+1.
+-0.963727
+687
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+575
+0.534908
+-0.715526
+0.432597
+0.0398581
+-0.0662721
+688
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+404
+0.899882
+-0.532028
+0.422757
+-0.0174051
+-0.185266
+689
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+204
+0.633273
+-0.688773
+0.462396
+0.0179895
+-0.508685
+690
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+310
+0.845072
+-0.566486
+0.440615
+-0.0191348
+-0.406976
+691
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+916
+0.147361
+-0.913791
+0.5015
+0.518672
+-0.183731
+692
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+476
+0.0422809
+-0.903633
+0.436337
+0.0757126
+0.0174105
+693
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+459
+0.589115
+-0.747748
+0.471017
+0.255596
+-0.138209
+694
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+787
+0.543273
+-0.631267
+0.379162
+-0.617702
+-0.295123
+695
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+67
+0.724901
+-0.662809
+0.448682
+0.158284
+-0.230653
+696
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+644
+0.322122
+-0.845666
+0.495816
+0.204295
+-0.44331
+697
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+848
+0.238398
+-0.826768
+0.490821
+0.125305
+-0.798171
+698
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+762
+0.0211342
+-0.866611
+0.497149
+0.445387
+-0.469512
+699
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+564
+-0.331547
+-0.904474
+0.429232
+0.0938426
+-0.178176
+700
+NC_018434.1
+Gorilla gorilla gorilla chromosome 10  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+33
+0.460278
+-0.699407
+0.437964
+-0.344055
+-0.593448
+701
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+664
+0.517687
+-0.770375
+0.46867
+0.175292
+-0.166714
+702
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+151
+0.877254
+-0.556784
+0.426612
+-0.0794534
+-0.285516
+703
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+261
+0.720635
+-0.647523
+0.426836
+0.0713394
+0.0374913
+704
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+790
+0.850689
+-0.597856
+0.46255
+0.146748
+-0.413505
+705
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+194
+0.838309
+-0.564316
+0.388543
+0.0185056
+0.291025
+706
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+744
+0.867904
+-0.570088
+0.419201
+0.0532754
+-0.00350672
+707
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+768
+-0.129281
+-0.953721
+0.444044
+0.195576
+-0.0427094
+708
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+680
+0.628817
+-0.735305
+0.479779
+0.27897
+-0.272687
+709
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+556
+0.424467
+-0.805177
+0.440784
+0.13964
+0.0563406
+710
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+695
+0.588039
+-0.681487
+0.409307
+-0.106952
+0.0729783
+711
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+671
+0.624613
+-0.694785
+0.430197
+0.0446246
+0.0196684
+712
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+254
+0.46064
+-0.815751
+0.499178
+0.359396
+-0.386764
+713
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+519
+0.410727
+-0.807671
+0.492604
+0.348631
+-0.251733
+714
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+236
+0.531194
+-0.777394
+0.469175
+0.437209
+0.0211471
+715
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+755
+0.663673
+-0.691593
+0.446118
+0.120819
+-0.0698709
+716
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+60
+0.392864
+-0.7578
+0.413638
+-0.149347
+-0.0993378
+717
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+740
+0.784552
+-0.571065
+0.4235
+-0.0180118
+-0.232164
+718
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+684
+0.150445
+-0.832387
+0.444963
+-0.149201
+-0.325092
+719
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+443
+0.398025
+-0.773519
+0.411935
+0.266295
+0.552797
+720
+NC_018435.1
+Gorilla gorilla gorilla chromosome 11  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+83
+0.848331
+-0.564422
+0.403806
+-0.0776216
+-0.0208601
+721
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+153
+0.864108
+-0.554956
+0.432835
+-0.0972588
+-0.281364
+722
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+203
+0.783114
+-0.589193
+0.405939
+-0.192371
+-0.148063
+723
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+245
+0.303409
+-0.804585
+0.430157
+0.246002
+0.284938
+724
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+783
+0.548743
+-0.681809
+0.427037
+-0.260059
+-0.338788
+725
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+606
+0.302339
+-0.377738
+0.351976
+-0.23439
+-0.333422
+726
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+764
+0.733971
+-0.657355
+0.437319
+0.155721
+-0.0973183
+727
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+655
+0.626214
+-0.680271
+0.470809
+-0.0451819
+-0.606734
+728
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+359
+-0.0868319
+-0.915802
+0.453169
+0.294514
+-0.0854121
+729
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+308
+0.668755
+-0.663894
+0.461255
+0.195353
+-0.273214
+730
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+455
+0.868833
+-0.568248
+0.414968
+0.0611045
+0.0974092
+731
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+667
+0.850566
+-0.563604
+0.419848
+-0.000498993
+-0.130404
+732
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+467
+0.929391
+-0.528526
+0.414823
+-0.00369194
+-0.114304
+733
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+451
+0.575769
+-0.714368
+0.444284
+-0.131368
+-0.321807
+734
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+130
+0.679555
+-0.698698
+0.445137
+0.162439
+-0.030811
+735
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+323
+0.528584
+-0.78182
+0.501878
+0.373209
+-0.502314
+736
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+218
+0.205588
+-0.894005
+0.506814
+0.447136
+-0.302282
+737
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+197
+-0.17233
+-0.859306
+0.389335
+-0.239011
+-0.0778634
+738
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+817
+0.516878
+-0.750054
+0.4636
+0.109785
+-0.309385
+739
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+114
+-0.136957
+-0.894362
+0.486542
+0.361194
+-0.429889
+740
+NC_018436.1
+Gorilla gorilla gorilla chromosome 12  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+329
+0.235076
+-0.827522
+0.430308
+0.0455381
+0.000960649
+741
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+303
+0.483939
+-0.745544
+0.420533
+-0.0650605
+-0.011778
+742
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+153
+0.18462
+-0.784126
+0.394447
+-0.245129
+-0.0534577
+743
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+83
+0.710952
+-0.660395
+0.42956
+0.139249
+-0.0398595
+744
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+264
+0.456044
+-0.77136
+0.456721
+0.125541
+-0.270258
+745
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+59
+0.669902
+-0.694548
+0.446382
+0.172457
+-0.199605
+746
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+418
+0.641837
+-0.712007
+0.451954
+0.234465
+0.0256064
+747
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+357
+0.859587
+-0.565936
+0.402935
+-0.138547
+-0.0799687
+748
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+10
+0.862806
+-0.559592
+0.435566
+-0.053078
+-0.242965
+749
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+468
+0.903158
+-0.514049
+0.397629
+-0.218242
+-0.114768
+750
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+568
+0.87611
+-0.535249
+0.409647
+-0.104313
+-0.133983
+751
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+288
+0.700517
+-0.616851
+0.379238
+-0.226208
+0.13352
+752
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+529
+0.922101
+-0.521484
+0.40803
+-0.001507
+-0.0146403
+753
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+519
+0.889579
+-0.517665
+0.41115
+-0.229245
+-0.285327
+754
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+277
+0.727083
+-0.627318
+0.414781
+-0.0481712
+-0.168675
+755
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+137
+0.793233
+-0.587269
+0.40357
+-0.0409933
+0.142415
+756
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+506
+0.645007
+-0.703195
+0.462993
+0.165911
+-0.352348
+757
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+47
+0.411
+-0.745007
+0.439152
+-0.0927964
+-0.397481
+758
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+459
+0.305602
+-0.7691
+0.428553
+0.0532281
+-0.117112
+759
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+498
+0.534121
+-0.73973
+0.462758
+0.186353
+-0.273328
+760
+NC_018437.1
+Gorilla gorilla gorilla chromosome 13  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+109
+0.912974
+-0.528538
+0.416757
+-0.0363549
+-0.150342
+761
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+378
+0.911193
+-0.511369
+0.407223
+-0.139118
+-0.123731
+762
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+264
+0.790721
+-0.626536
+0.437246
+0.284916
+0.0830269
+763
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+349
+0.507382
+-0.74838
+0.440268
+-0.0175304
+-0.15226
+764
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+416
+0.635428
+-0.727682
+0.487552
+0.308741
+-0.309955
+765
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+283
+0.385882
+-0.807836
+0.477426
+0.199631
+-0.306282
+766
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+317
+0.484826
+-0.712626
+0.416358
+-0.329946
+-0.259181
+767
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+341
+0.796294
+-0.589689
+0.443678
+0.0920151
+-0.256402
+768
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+185
+0.153888
+-0.86915
+0.427789
+0.0104212
+0.0177127
+769
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+425
+0.348856
+-0.802387
+0.468158
+-0.00161015
+-0.543474
+770
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+312
+0.319335
+-0.816989
+0.465838
+0.0308067
+-0.427407
+771
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+296
+0.222769
+-0.759291
+0.376278
+-0.507898
+-0.135246
+772
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+179
+0.362899
+-0.77934
+0.46312
+-0.154403
+-0.559899
+773
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+197
+0.686554
+-0.63272
+0.459726
+0.070255
+-0.401396
+774
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+150
+0.831526
+-0.594882
+0.422016
+-0.0403567
+-0.186837
+775
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+468
+0.743705
+-0.62663
+0.429401
+-0.028616
+-0.140027
+776
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+227
+0.905236
+-0.522917
+0.422104
+0.0454547
+-0.0921333
+777
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+418
+0.615108
+-0.703935
+0.44657
+-0.107404
+-0.328135
+778
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+440
+-0.315201
+-0.954377
+0.41113
+0.0792404
+0.256621
+779
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+550
+0.544896
+-0.691695
+0.44662
+0.383608
+0.0152395
+780
+NC_018438.1
+Gorilla gorilla gorilla chromosome 14  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+315
+0.333159
+-0.507093
+0.347052
+-0.174448
+0.0342828
+781
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+398
+0.479797
+-0.676059
+0.418256
+0.160048
+0.138018
+782
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+27
+0.396067
+-0.779134
+0.45763
+0.0445778
+-0.374989
+783
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+374
+0.463014
+-0.755003
+0.458261
+0.20352
+-0.30628
+784
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+407
+0.668257
+-0.64542
+0.422113
+-0.0710643
+-0.183069
+785
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+3
+0.222599
+-0.845428
+0.464489
+0.0275596
+-0.267995
+786
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+278
+0.833841
+-0.601741
+0.446885
+0.153541
+-0.102633
+787
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+467
+0.363664
+-0.819409
+0.507505
+0.247342
+-0.621644
+788
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+440
+0.469721
+-0.747839
+0.431329
+-0.182338
+-0.256567
+789
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+169
+0.33117
+-0.704456
+0.401567
+-0.470557
+-0.465609
+790
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+466
+-0.353378
+-1.
+0.476334
+0.467536
+-0.0409047
+791
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+90
+-0.374041
+-0.984725
+0.446797
+0.460589
+0.118491
+792
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+142
+0.543587
+-0.740537
+0.46616
+0.0855979
+-0.306457
+793
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+221
+0.324613
+-0.817424
+0.43667
+-0.0174935
+-0.145758
+794
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+51
+0.611089
+-0.66298
+0.462769
+-0.183746
+-0.698516
+795
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+459
+0.749279
+-0.643616
+0.439331
+0.105854
+-0.00243933
+796
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+351
+0.547823
+-0.736186
+0.449974
+0.250259
+0.0638756
+797
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+383
+0.785851
+-0.629035
+0.440276
+0.0735579
+-0.175394
+798
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+273
+0.539922
+-0.718057
+0.415851
+-0.0529095
+-0.0604826
+799
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+22
+0.268501
+-0.774219
+0.430347
+0.00177314
+-0.315116
+800
+NC_018439.1
+Gorilla gorilla gorilla chromosome 15  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+329
+-1.
+-0.944735
+0.403757
+0.0315957
+-0.178833
+801
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+472
+0.0670836
+-0.770354
+0.315622
+-0.479673
+0.274978
+802
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+79
+0.491279
+-0.743207
+0.452751
+0.165817
+-0.174377
+803
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+218
+0.567699
+-0.657627
+0.42027
+-0.337768
+-0.446133
+804
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+5
+0.143698
+-0.866222
+0.50122
+0.280453
+-0.607116
+805
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+346
+0.469748
+-0.773836
+0.443435
+0.0645967
+-0.0363204
+806
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+66
+0.241899
+-0.874308
+0.480943
+0.448267
+-0.127747
+807
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+230
+-0.0652955
+-0.918169
+0.417659
+0.0550992
+0.106776
+808
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+365
+0.840322
+-0.553362
+0.412493
+-0.1387
+-0.227964
+809
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+26
+0.820015
+-0.599668
+0.424749
+-0.0361077
+-0.20311
+810
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+439
+0.631137
+-0.71403
+0.464594
+0.19754
+-0.317106
+811
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+359
+-0.150879
+-0.920031
+0.408153
+-0.123804
+0.0541169
+812
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+304
+0.481718
+-0.667749
+0.404866
+-0.558264
+-0.544526
+813
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+112
+0.0464586
+-0.819169
+0.399571
+-0.363383
+-0.208118
+814
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+430
+-0.0541184
+-0.809403
+0.377655
+-0.427003
+-0.136554
+815
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+356
+0.665436
+-0.694757
+0.444225
+0.0634212
+-0.118924
+816
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+360
+0.303973
+-0.785944
+0.436901
+-0.0700479
+-0.151271
+817
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+53
+0.462908
+-0.796548
+0.489793
+0.275286
+-0.334016
+818
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+329
+0.431327
+-0.803167
+0.493791
+0.292647
+-0.403723
+819
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+310
+-0.467079
+-0.948813
+0.380562
+-0.0345903
+0.0990116
+820
+NC_018440.1
+Gorilla gorilla gorilla chromosome 16  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+438
+0.403187
+-0.805531
+0.48596
+0.222894
+-0.390297
+821
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+233
+0.433448
+-0.788686
+0.464053
+0.14279
+-0.264808
+822
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+383
+0.599013
+-0.703748
+0.442086
+0.112564
+-0.0417181
+823
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+134
+0.831319
+-0.548671
+0.441302
+-0.0416262
+-0.390895
+824
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+580
+0.697496
+-0.635571
+0.414241
+-0.0726486
+-0.0912455
+825
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+363
+0.701307
+-0.683238
+0.432037
+0.0854581
+0.0388106
+826
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+241
+0.675837
+-0.696568
+0.440693
+0.245042
+0.175279
+827
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+469
+0.56272
+-0.670911
+0.376869
+-0.376306
+0.0544146
+828
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+243
+0.448967
+-0.781441
+0.469654
+0.211357
+-0.243398
+829
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+271
+0.811397
+-0.600241
+0.410925
+-0.0262991
+0.110234
+830
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+69
+0.599086
+-0.695834
+0.441034
+-0.0903246
+-0.343032
+831
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+118
+0.421026
+-0.805384
+0.475937
+0.184928
+-0.368307
+832
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+430
+0.637558
+-0.689709
+0.458574
+0.0155836
+-0.276701
+833
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+113
+0.852199
+-0.570732
+0.422149
+-0.0724916
+-0.150725
+834
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+71
+0.884812
+-0.545644
+0.410454
+-0.0470073
+-0.026005
+835
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+390
+0.851129
+-0.485348
+0.374485
+-0.0383722
+0.0451967
+836
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+422
+0.553969
+-0.723433
+0.41293
+-0.00726431
+0.203294
+837
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+248
+0.564448
+-0.72323
+0.490396
+0.456913
+-0.25104
+838
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+517
+0.54879
+-0.677404
+0.418276
+0.128
+-0.03936
+839
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+535
+-0.0976305
+-0.872428
+0.390078
+0.0396169
+0.247667
+840
+NC_018441.1
+Gorilla gorilla gorilla chromosome 17  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+361
+0.846034
+-0.577014
+0.435754
+0.114711
+-0.161262
+841
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+116
+-0.243164
+0.483652
+-0.343393
+0.380218
+-0.499887
+842
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+322
+0.642029
+-0.64972
+0.42919
+-0.367887
+-0.564018
+843
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+456
+0.497502
+-0.625899
+0.344776
+-0.737496
+-0.0604109
+844
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+140
+0.605985
+-0.714713
+0.440241
+0.0395113
+-0.113373
+845
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+404
+0.631958
+-0.683693
+0.432026
+-0.0382918
+-0.110234
+846
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+138
+0.550726
+-0.737313
+0.455233
+0.0691373
+-0.232558
+847
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+408
+0.473655
+-0.773314
+0.441027
+0.284985
+0.212346
+848
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+294
+0.823694
+-0.589673
+0.427586
+-0.081745
+-0.236861
+849
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+256
+0.823925
+-0.59748
+0.428274
+-0.00443049
+-0.0963856
+850
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+244
+-0.153922
+-0.967773
+0.486865
+0.381311
+-0.240877
+851
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+29
+0.216526
+-0.890139
+0.476169
+0.422875
+0.09456
+852
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+109
+0.852118
+-0.570786
+0.43782
+-0.0270908
+-0.359799
+853
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+398
+0.43189
+-0.768889
+0.434897
+0.116651
+0.0175217
+854
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+114
+0.826802
+-0.593764
+0.436923
+0.0583106
+-0.131673
+855
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+204
+0.936141
+-0.488622
+0.398813
+-0.116644
+-0.0949075
+856
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+301
+0.882019
+-0.531731
+0.40814
+-0.152081
+-0.117287
+857
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+484
+0.812319
+-0.5892
+0.424654
+0.0584279
+-0.102684
+858
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+458
+0.588622
+-0.724303
+0.436662
+0.197121
+0.0189159
+859
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+208
+0.542548
+-0.684179
+0.449375
+0.158667
+-0.266608
+860
+NC_018442.1
+Gorilla gorilla gorilla chromosome 18  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+351
+-0.191863
+-0.831322
+0.396759
+-0.295887
+-0.353934
+861
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+24
+-0.497496
+-0.863456
+0.343978
+-0.46807
+0.0631773
+862
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+54
+-0.610428
+-0.908364
+0.384368
+-0.305896
+-0.151528
+863
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+16
+0.340194
+-0.731483
+0.382921
+-0.302566
+-0.0137263
+864
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+242
+-0.329861
+-0.881479
+0.425017
+-0.236001
+-0.550019
+865
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+210
+0.050342
+-0.779182
+0.375691
+-0.390508
+-0.104559
+866
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+60
+-0.522895
+-0.910379
+0.372955
+-0.364718
+-0.0384991
+867
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+274
+-0.392181
+-0.906385
+0.397878
+-0.209562
+-0.0970356
+868
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+183
+-0.328515
+-0.90679
+0.397412
+-0.127528
+-0.115133
+869
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+211
+0.24371
+-0.864523
+0.440231
+0.363176
+0.300691
+870
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+97
+0.163359
+-0.859741
+0.498027
+0.322618
+-0.559279
+871
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+312
+0.0623444
+-0.816484
+0.447233
+-0.32056
+-0.65783
+872
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+155
+0.439773
+-0.737888
+0.421891
+0.269709
+0.239099
+873
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+147
+-0.242426
+-0.903627
+0.415866
+-0.186102
+-0.252677
+874
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+251
+-0.287925
+-0.929325
+0.430912
+-0.0625299
+-0.296456
+875
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+78
+-0.450241
+-0.909512
+0.40214
+-0.247491
+-0.289524
+876
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+316
+-0.0147879
+-0.835028
+0.38992
+-0.290422
+-0.0618675
+877
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+181
+-0.46013
+-0.914693
+0.398079
+-0.113339
+-0.173861
+878
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+100
+0.192923
+-0.799346
+0.406661
+-0.141172
+-0.0925924
+879
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+22
+0.302322
+-0.763158
+0.411786
+-0.158253
+0.0161516
+880
+NC_018443.1
+Gorilla gorilla gorilla chromosome 19  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+77
+0.483714
+-0.770461
+0.452881
+0.096778
+-0.205623
+881
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+235
+0.776706
+-0.625583
+0.461207
+0.0910405
+-0.393628
+882
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+199
+0.768532
+-0.630986
+0.461221
+0.0598724
+-0.450742
+883
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+219
+0.422586
+-0.783839
+0.462032
+0.163381
+-0.204126
+884
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+69
+0.753211
+-0.639332
+0.460827
+0.0811131
+-0.407044
+885
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+349
+-0.062666
+-0.941742
+0.459157
+0.283866
+-0.0776177
+886
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+382
+0.362731
+-0.806244
+0.460043
+0.177404
+-0.194884
+887
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+147
+0.336303
+-0.749487
+0.383678
+-0.400978
+0.0257258
+888
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+271
+-0.0513703
+-0.900847
+0.446759
+0.216486
+-0.0694868
+889
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+365
+0.597296
+-0.736566
+0.441983
+0.142963
+-0.0240453
+890
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+324
+0.10461
+-0.911911
+0.502911
+0.379213
+-0.312
+891
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+337
+0.112798
+-0.839655
+0.408523
+-0.0870897
+0.110937
+892
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+294
+0.200314
+-0.852642
+0.464425
+0.281149
+-0.14997
+893
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+115
+0.0728717
+-0.907521
+0.451214
+0.166151
+-0.126055
+894
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+52
+0.411706
+-0.755555
+0.447281
+-0.110859
+-0.429026
+895
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+285
+0.554899
+-0.728574
+0.443876
+0.0993097
+-0.142166
+896
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+102
+0.390699
+-0.797945
+0.426793
+0.193121
+0.318098
+897
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+311
+0.139573
+-0.87839
+0.427226
+0.208936
+0.140703
+898
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+29
+0.444263
+-0.79049
+0.473967
+0.313702
+-0.226432
+899
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+259
+-0.768115
+-0.967783
+0.435706
+0.392223
+-0.109538
+900
+NC_018444.1
+Gorilla gorilla gorilla chromosome 20  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+54
+-0.105125
+0.0938203
+0.192436
+-0.149034
+-0.148179
+901
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+187
+0.869464
+-0.528674
+0.397088
+-0.125783
+0.03354
+902
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+103
+0.907654
+-0.520268
+0.422067
+-0.116713
+-0.269602
+903
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+85
+0.908855
+-0.512102
+0.404855
+-0.155025
+-0.140183
+904
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+76
+0.876857
+-0.53866
+0.415374
+-0.167503
+-0.260146
+905
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+102
+0.845207
+-0.574541
+0.426249
+-0.0670388
+-0.272832
+906
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+83
+0.86958
+-0.550731
+0.395427
+-0.0560386
+0.0866222
+907
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+107
+0.664602
+-0.666882
+0.408446
+-0.103985
+0.0199656
+908
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+100
+0.7761
+-0.602985
+0.438809
+-0.0428915
+-0.236311
+909
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+109
+0.818132
+-0.60003
+0.431994
+0.0197327
+-0.216725
+910
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+139
+0.782057
+-0.635475
+0.42443
+0.00416339
+-0.0504965
+911
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+2
+0.614314
+-0.674292
+0.444735
+-0.227902
+-0.524101
+912
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+80
+0.580738
+-0.71515
+0.467032
+0.0728455
+-0.421782
+913
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+81
+0.832664
+-0.579283
+0.421331
+0.0548178
+0.0726799
+914
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+165
+0.198911
+-0.788157
+0.396438
+-0.265388
+-0.0260944
+915
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+61
+0.231609
+-0.834148
+0.435458
+0.0293601
+-0.087225
+916
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+133
+0.451114
+-0.760624
+0.46273
+0.115219
+-0.387156
+917
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+181
+0.565109
+-0.751302
+0.477251
+0.243907
+-0.201419
+918
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+123
+0.596404
+-0.707802
+0.424762
+0.0131933
+0.0503446
+919
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+117
+0.084046
+-0.889525
+0.455052
+0.215325
+-0.0272338
+920
+NC_018445.1
+Gorilla gorilla gorilla chromosome 21  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+49
+0.278527
+-0.255812
+0.193356
+-0.174714
+1.
+921
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+69
+0.462828
+-0.589603
+0.370262
+-0.0668313
+0.411059
+922
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+81
+-0.105751
+-0.903942
+0.420748
+-0.0205734
+-0.12313
+923
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+206
+0.0755037
+-0.849372
+0.437169
+0.244115
+-0.125374
+924
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+100
+0.0599449
+-0.901903
+0.508808
+0.154942
+-0.66808
+925
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+154
+0.226498
+-0.845712
+0.44876
+0.125512
+-0.15528
+926
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+45
+0.238889
+-0.861269
+0.492326
+0.271632
+-0.384552
+927
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+196
+-0.130367
+-0.939025
+0.442196
+0.242149
+0.0561616
+928
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+133
+0.241263
+-0.834822
+0.465841
+-0.0562859
+-0.531914
+929
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+108
+-0.12257
+-0.937035
+0.468091
+0.11243
+-0.318158
+930
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+36
+0.48499
+-0.724855
+0.443917
+-0.192225
+-0.442325
+931
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+77
+0.0627262
+-0.874471
+0.451622
+-0.038568
+-0.344456
+932
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+9
+0.236425
+-0.873712
+0.487523
+0.31332
+-0.27356
+933
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+2
+0.547207
+-0.743449
+0.466511
+0.033739
+-0.374107
+934
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+3
+0.582491
+-0.745123
+0.45954
+0.443303
+0.211573
+935
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+63
+0.155135
+-0.834522
+0.450891
+0.240061
+-0.189041
+936
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+60
+-0.435373
+-0.968375
+0.445511
+0.0752415
+-0.387039
+937
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+113
+-0.0513432
+-0.858296
+0.418792
+-0.266655
+-0.228559
+938
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+122
+-0.0826025
+-0.922404
+0.435819
+0.361638
+0.148924
+939
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+83
+-0.25951
+-0.921377
+0.409192
+0.256703
+0.257175
+940
+NC_018446.1
+Gorilla gorilla gorilla chromosome 22  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+91
+0.753767
+-0.635322
+0.444653
+0.116701
+-0.0716514
+941
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+638
+0.778291
+-0.621702
+0.439751
+-0.0231167
+-0.180951
+942
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+746
+0.790661
+-0.617555
+0.464559
+0.236356
+-0.32771
+943
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+908
+0.684287
+-0.657403
+0.423436
+-0.142834
+-0.219301
+944
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+919
+0.666907
+-0.674021
+0.441007
+0.0100698
+-0.183698
+945
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+43
+0.725145
+-0.627169
+0.450091
+0.0713017
+-0.39808
+946
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+530
+0.860118
+-0.547343
+0.414726
+0.123508
+0.0967594
+947
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+673
+0.876981
+-0.54958
+0.435165
+0.00554511
+-0.249892
+948
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+234
+0.916588
+-0.541197
+0.449241
+0.0433139
+-0.304352
+949
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+669
+0.69845
+-0.643022
+0.457432
+0.282535
+-0.127133
+950
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+141
+0.735831
+-0.60958
+0.453205
+0.413291
+-0.0849392
+951
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+692
+0.662611
+-0.656555
+0.432516
+0.135174
+-0.051554
+952
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+834
+0.720134
+-0.686216
+0.445291
+0.148433
+0.0162153
+953
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+634
+0.894175
+-0.529557
+0.414816
+-0.12695
+-0.137749
+954
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+901
+0.745415
+-0.663773
+0.459503
+0.232732
+-0.0822505
+955
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+866
+0.712701
+-0.686301
+0.462938
+0.321177
+0.000774492
+956
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+659
+0.702071
+-0.649514
+0.452059
+0.258601
+-0.145385
+957
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+327
+0.789655
+-0.582983
+0.404177
+0.0338
+0.258797
+958
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+564
+0.750566
+-0.648258
+0.486957
+0.252671
+-0.52551
+959
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+294
+0.353644
+-0.81662
+0.505892
+0.475936
+-0.491564
+960
+NC_018447.1
+Gorilla gorilla gorilla chromosome X  gorGor3.1 Primary Assembly  whole genome shotgun sequence
+150000
+243

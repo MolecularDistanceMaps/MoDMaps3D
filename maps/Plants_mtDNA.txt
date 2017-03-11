@@ -1,0 +1,3067 @@
+4,46,256
+blue,red,green
+5
+Index,Acc,Name,Length,Taxa
+blue,red,green
+Glaucocystophyceae (4),Rhodophyta (46),Viridiplantae (256)
+Kingdom Plants#mtDNA, complete genome#306 sequences#Approx.Inf.Dist.(k=9)#199,225
+0.865475
+-0.84067
+0.435368
+-0.802511
+0.297375
+56
+NC_015117.1
+mitochondrion Glaucocystis nostochinearum
+34087
+{Eukaryota  Glaucocystophyceae  Glaucocystales  Glaucocystaceae  Glaucocystis}
+0.770528
+-0.79135
+0.287969
+-0.885579
+0.384126
+143
+NC_017836.1
+mitochondrion Cyanophora paradoxa
+51557
+{Eukaryota  Glaucocystophyceae  Cyanophoraceae  Cyanophora}
+0.768971
+-0.800644
+0.249084
+-0.704553
+0.326291
+211
+NC_025293.1
+mitochondrion Gloeochaete wittrockiana
+36046
+{Eukaryota  Glaucocystophyceae  Gloeochaetales  Gloeochaetaceae  Gloeochaete}
+0.809778
+-0.828132
+0.283493
+-0.656177
+0.331752
+212
+NC_025294.1
+mitochondrion Cyanoptyche gloeocystis
+33240
+{Eukaryota  Glaucocystophyceae  Cyanoptyche}
+0.848894
+-0.852603
+0.373801
+-0.766827
+0.26563
+1
+NC_000887.3
+mitochondrion Cyanidioschyzon merolae
+32211
+{Eukaryota  Rhodophyta  Bangiophyceae  Cyanidiales  Cyanidiaceae  Cyanidioschyzon}
+0.927256
+-0.944058
+0.742154
+-0.86066
+-0.284261
+8
+NC_001677.2
+mitochondrion Chondrus crispus (carragheen)
+25836
+{Eukaryota  Rhodophyta  Florideophyceae  Gigartinales  Gigartinaceae  Chondrus}
+0.725011
+-0.857263
+0.159486
+-0.793044
+0.6487
+12
+NC_002007.1
+mitochondrion Porphyra purpurea
+36753
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Porphyra}
+0.868533
+-0.899873
+0.406648
+-0.546027
+0.602826
+52
+NC_014771.1
+mitochondrion Gracilariophila oryzoides
+25161
+{Eukaryota  Rhodophyta  Florideophyceae  Gracilariales  Gracilariaceae  Gracilariophila}
+0.870123
+-0.889126
+0.407153
+-0.620973
+0.589508
+53
+NC_014772.1
+mitochondrion Gracilariopsis andersonii
+27036
+{Eukaryota  Rhodophyta  Florideophyceae  Gracilariales  Gracilariaceae  Gracilariopsis}
+0.978143
+-0.948861
+0.894869
+-0.887756
+-0.194414
+54
+NC_014773.1
+mitochondrion Plocamiocolax pulvinata
+25894
+{Eukaryota  Rhodophyta  Florideophyceae  Plocamiales  Plocamiaceae  Plocamiocolax}
+0.792021
+-0.849909
+0.287508
+-0.972009
+0.827508
+141
+NC_017751.1
+mitochondrion Pyropia haitanensis
+37023
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Pyropia}
+0.721995
+-0.838232
+0.156965
+-0.993479
+0.986931
+144
+NC_017837.1
+mitochondrion Pyropia yezoensis (susabi-nori)
+41688
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Pyropia}
+0.823738
+-0.88666
+0.348653
+-0.762662
+0.637966
+149
+NC_018544.1
+mitochondrion Porphyra umbilicalis (laver)
+29123
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Porphyra}
+0.712524
+-0.835605
+0.121421
+-0.998095
+1.
+159
+NC_021475.1
+mitochondrion Pyropia tenera (asakusa nori)
+42268
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Pyropia}
+0.896035
+-0.942114
+0.775354
+-0.803362
+-0.621313
+169
+NC_023077.1
+mitochondrion Gelidium vagum
+24901
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Gelidium}
+0.873723
+-0.91037
+0.641537
+-0.802105
+-0.220242
+171
+NC_023094.1
+mitochondrion Grateloupia angusta
+27943
+{Eukaryota  Rhodophyta  Florideophyceae  Halymeniales  Halymeniaceae  Grateloupia}
+0.929525
+-0.929374
+0.778913
+-0.877552
+-0.223862
+174
+NC_023251.1
+mitochondrion Gracilaria chorda
+26534
+{Eukaryota  Rhodophyta  Florideophyceae  Gracilariales  Gracilariaceae  Gracilaria}
+0.885091
+-0.925035
+0.618949
+-0.76505
+-0.212992
+175
+NC_023252.1
+mitochondrion Rhodymenia pseudopalmata
+26166
+{Eukaryota  Rhodophyta  Florideophyceae  Rhodymeniales  Rhodymeniaceae  Rhodymenia}
+0.909636
+-0.924662
+0.668089
+-0.792419
+-0.180684
+180
+NC_023454.1
+mitochondrion Sporolithon durum
+26202
+{Eukaryota  Rhodophyta  Florideophyceae  Corallinophycidae  Corallinales  Sporolithaceae  Sporolithon}
+0.860123
+-0.913203
+0.361595
+-0.527406
+0.541033
+181
+NC_023784.1
+mitochondrion Gracilaria salicornia
+25272
+{Eukaryota  Rhodophyta  Florideophyceae  Gracilariales  Gracilariaceae  Gracilaria}
+0.825707
+-0.900606
+0.200401
+-0.487814
+0.527562
+182
+NC_024265.1
+mitochondrion Kappaphycus striatus
+25242
+{Eukaryota  Rhodophyta  Florideophyceae  Gigartinales  Solieriaceae  Kappaphycus}
+0.771514
+-0.857891
+0.233814
+-0.915483
+0.88458
+183
+NC_024288.1
+mitochondrion Pyropia fucicola
+35035
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Pyropia}
+0.780824
+-0.851746
+0.227868
+-1.
+0.718564
+184
+NC_024289.1
+mitochondrion Pyropia kanakaensis
+39300
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Pyropia}
+0.796148
+-0.890061
+0.286273
+-0.703828
+0.615552
+198
+NC_024579.1
+mitochondrion Wildemania schizophylla
+29156
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Wildemania}
+0.652294
+-0.946671
+-0.103257
+0.55742
+-0.0656714
+201
+NC_024666.1
+mitochondrion Galdieria sulphuraria
+21428
+{Eukaryota  Rhodophyta  Bangiophyceae  Cyanidiales  Cyanidiaceae  Galdieria}
+0.932161
+-0.959309
+0.960707
+-0.932796
+-0.954356
+216
+NC_026053.1
+mitochondrion Gelidium elegans
+24922
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Gelidium}
+0.758819
+-0.873727
+0.311547
+-0.730748
+-0.0721529
+217
+NC_026054.1
+mitochondrion Ahnfeltia plicata
+32878
+{Eukaryota  Rhodophyta  Florideophyceae  Ahnfeltiales  Ahnfeltiaceae  Ahnfeltia}
+0.760961
+-0.849093
+0.209891
+-0.685543
+0.127058
+218
+NC_026055.1
+mitochondrion Hildenbrandia rubra
+33066
+{Eukaryota  Rhodophyta  Florideophyceae  Hildenbrandiales  Hildenbrandiaceae  Hildenbrandia}
+0.810053
+-0.885906
+0.439835
+-0.659732
+0.0440011
+219
+NC_026056.1
+mitochondrion Palmaria palmata (Dulse)
+29735
+{Eukaryota  Rhodophyta  Florideophyceae  Palmariales  Palmariaceae  Palmaria}
+0.876916
+-0.894498
+0.403018
+-0.596226
+0.559328
+227
+NC_026831.1
+mitochondrion Gracilaria chilensis
+26898
+{Eukaryota  Rhodophyta  Florideophyceae  Gracilariales  Gracilariaceae  Gracilaria}
+0.937165
+-0.937051
+0.767763
+-0.875828
+-0.262677
+228
+NC_026843.1
+mitochondrion Asparagopsis taxiformis
+26097
+{Eukaryota  Rhodophyta  Florideophyceae  Bonnemaisoniales  Bonnemaisoniaceae  Asparagopsis}
+0.683823
+-0.823367
+0.0842777
+-0.949018
+0.785161
+232
+NC_026905.1
+mitochondrion Bangia fuscopurpurea
+43517
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Bangia}
+0.933735
+-0.944721
+0.740919
+-0.837816
+-0.169803
+237
+NC_027061.1
+mitochondrion Calliarthron tuberculosum
+26469
+{Eukaryota  Rhodophyta  Florideophyceae  Corallinophycidae  Corallinales  Corallinaceae  Corallinoideae  Calliarthron}
+0.866532
+-0.89524
+0.384222
+-0.566513
+0.542414
+238
+NC_027064.1
+mitochondrion Gracilaria vermiculophylla
+25971
+{Eukaryota  Rhodophyta  Florideophyceae  Gracilariales  Gracilariaceae  Gracilaria}
+0.813156
+-0.873076
+0.32797
+-0.939039
+0.749132
+242
+NC_027616.1
+mitochondrion Pyropia nitida
+35313
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Pyropia}
+0.777984
+-0.864137
+0.208288
+-0.884787
+0.606619
+269
+NC_030222.1
+mitochondrion Bangia atropurpurea
+35679
+{Eukaryota  Rhodophyta  Bangiophyceae  Bangiales  Bangiaceae  Bangia}
+0.984607
+-0.95396
+0.832288
+-0.882677
+-0.11318
+274
+NC_031160.1
+mitochondrion Dasya binghamiae
+26052
+{Eukaryota  Rhodophyta  Florideophyceae  Ceramiales  Dasyaceae  Dasya}
+0.779229
+-0.900349
+0.389409
+-0.479287
+-0.259928
+276
+NC_031166.1
+mitochondrion Mastocarpus papillatus
+25906
+{Eukaryota  Rhodophyta  Florideophyceae  Gigartinales  Phyllophoraceae  Mastocarpus}
+0.832758
+-0.903148
+0.212244
+-0.508199
+0.511807
+291
+NC_031814.1
+mitochondrion Kappaphycus alvarezii
+25198
+{Eukaryota  Rhodophyta  Florideophyceae  Gigartinales  Solieriaceae  Kappaphycus}
+0.941241
+-0.95639
+1.
+-0.939336
+-1.
+292
+NC_031836.1
+mitochondrion Gelidium arborescens
+24935
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Gelidium}
+0.914543
+-0.946966
+0.875594
+-0.841498
+-0.714003
+293
+NC_031837.1
+mitochondrion Gelidium galapagense
+24970
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Gelidium}
+0.93572
+-0.954887
+0.983188
+-0.932912
+-0.943126
+294
+NC_031838.1
+mitochondrion Gelidium isabelae
+24937
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Gelidium}
+0.930205
+-0.957968
+0.95894
+-0.923503
+-0.953883
+295
+NC_031839.1
+mitochondrion Gelidium sclerophyllum
+24916
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Gelidium}
+0.91491
+-0.948524
+0.875852
+-0.848995
+-0.740945
+296
+NC_031840.1
+mitochondrion Gelidium sinicola
+24969
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Gelidium}
+0.939754
+-0.944539
+0.880242
+-0.889788
+-0.549799
+297
+NC_031841.1
+mitochondrion Pterocladia media
+24915
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Pterocladia}
+0.917825
+-0.950843
+0.87602
+-0.854234
+-0.727336
+298
+NC_031842.1
+mitochondrion Pterocladia mexicana
+24932
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Pterocladia}
+0.934425
+-0.948952
+0.861344
+-0.882505
+-0.558988
+299
+NC_031843.1
+mitochondrion Pterocladia musciformis
+24927
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Pterocladia}
+0.919137
+-0.948868
+0.880609
+-0.851803
+-0.722393
+300
+NC_031844.1
+mitochondrion Pterocladia robusta
+24935
+{Eukaryota  Rhodophyta  Florideophyceae  Gelidiales  Gelidiaceae  Pterocladia}
+1.
+-0.965176
+0.88018
+-0.812191
+-0.118571
+303
+NC_032002.1
+mitochondrion Choreocolax polysiphoniae
+25357
+{Eukaryota  Rhodophyta  Florideophyceae  Gigartinales  Choreocolacaceae  Choreocolax}
+0.975504
+-0.954458
+0.792017
+-0.844226
+-0.14824
+304
+NC_032003.1
+mitochondrion Vertebrata lanosa
+25337
+{Eukaryota  Rhodophyta  Florideophyceae  Ceramiales  Rhodomelaceae  Vertebrata}
+0.93149
+-0.945572
+0.492662
+-0.368721
+0.210673
+2
+NC_000892.1
+mitochondrion Pedinomonas minor
+25137
+{Eukaryota  Viridiplantae  Chlorophyta  Pedinophyceae  Pedinomonadales  Pedinomonadaceae  Pedinomonas}
+-0.792118
+-0.868068
+0.234113
+-0.469196
+0.0993574
+3
+NC_001284.2
+mitochondrion Arabidopsis thaliana (thale cress)
+366924
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Camelineae  Arabidopsis}
+0.710111
+-0.989356
+0.122799
+0.936119
+-0.000027773
+4
+NC_001400.1
+mitochondrion Zea mays
+1913
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogonodae  Andropogoneae  Tripsacinae  Zea}
+0.721794
+-0.771171
+0.0621593
+-0.971579
+0.49815
+5
+NC_001613.1
+mitochondrion Prototheca wickerhamii
+55328
+{Eukaryota  Viridiplantae  Chlorophyta  Trebouxiophyceae  Chlorellales  Chlorellaceae  Prototheca}
+0.670212
+-0.921737
+0.0709811
+0.607414
+0.179787
+6
+NC_001638.1
+mitochondrion Chlamydomonas reinhardtii
+15758
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Chlamydomonas}
+-0.34595
+-0.58711
+-0.0230685
+-0.522642
+0.239449
+7
+NC_001660.1
+mitochondrion Marchantia polymorpha (liverwort)
+186609
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Marchantiophyta  Marchantiopsida  Marchantiidae  Marchantiales  Marchantiaceae  Marchantia}
+0.70994
+-0.990969
+0.109941
+0.9409
+-0.0140109
+9
+NC_001751.1
+mitochondrion Oryza sativa Japonica Group (Japanese rice)
+2135
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BOP            clade  Oryzoideae  Oryzeae  Oryzinae  Oryza}
+0.712971
+-0.991073
+0.123521
+0.940962
+-0.00478809
+10
+NC_001776.1
+mitochondrion Oryza sativa Indica Group (long-grained rice)
+1485
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BOP            clade  Oryzoideae  Oryzeae  Oryzinae  Oryza}
+0.791128
+-0.899639
+0.258086
+-0.137337
+0.256234
+11
+NC_001872.1
+mitochondrion Chlamydomonas moewusii
+22897
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Chlamydomonas}
+0.659205
+-0.816207
+-0.115064
+-0.20303
+0.303318
+13
+NC_002254.1
+mitochondrion Tetradesmus obliquus
+42781
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Scenedesmaceae  Tetradesmus}
+-0.779797
+-0.848223
+0.185715
+-0.500494
+0.0915589
+14
+NC_002511.2
+mitochondrion Beta vulgaris subsp. vulgaris (Beta vulgaris var.
+368801
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Chenopodiaceae  Betoideae  Beta}
+0.530687
+-0.687825
+-0.0787539
+-0.747792
+0.374802
+15
+NC_004118.1
+mitochondrion Chaetosphaeridium globosum
+56574
+{Eukaryota  Viridiplantae  Streptophyta  Coleochaetophyceae  Coleochaetales  Chaetosphaeridiaceae  Chaetosphaeridium}
+0.795651
+-0.96512
+0.156122
+0.167501
+0.0945525
+16
+NC_004946.1
+mitochondrion Brassica napus (rape)
+11640
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+0.293481
+-0.615377
+-0.267339
+-0.454005
+0.311074
+17
+NC_005255.1
+mitochondrion Chara vulgaris
+67737
+{Eukaryota  Viridiplantae  Streptophyta  Charophyceae  Charales  Characeae  Chara}
+0.262275
+-0.707639
+-0.375025
+-0.669782
+0.282962
+18
+NC_005926.1
+mitochondrion Pseudendoclonium akinetum
+95880
+{Eukaryota  Viridiplantae  Chlorophyta  Ulvophyceae  Ulvales  Pseudendoclonium}
+-0.824954
+-0.846777
+0.313693
+-0.453494
+0.104548
+19
+NC_006581.1
+mitochondrion Nicotiana tabacum (common tobacco)
+430597
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Solanales  Solanaceae  Nicotianoideae  Nicotianeae  Nicotiana}
+-0.839296
+-0.870295
+0.376668
+-0.450234
+0.143418
+20
+NC_007579.1
+mitochondrion Triticum aestivum (bread wheat)
+452528
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BOP            clade  Pooideae  Triticodae  Triticeae  Triticinae  Triticum}
+-0.791011
+-0.846749
+0.305994
+-0.489204
+0.142747
+21
+NC_007886.1
+mitochondrion Oryza sativa Indica Group (long-grained rice)
+491515
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BOP            clade  Oryzoideae  Oryzeae  Oryzinae  Oryza}
+0.0411717
+0.797941
+0.112773
+-0.40232
+0.0977699
+22
+NC_007945.1
+mitochondrion Physcomitrella patens
+105340
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Funariidae  Funariales  Funariaceae  Physcomitrella}
+-0.894283
+-0.879682
+0.464319
+-0.455297
+0.153667
+23
+NC_007982.1
+mitochondrion Zea mays subsp. mays (maize)
+569630
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogonodae  Andropogoneae  Tripsacinae  Zea}
+0.640144
+-0.724284
+-0.0600871
+-0.731804
+0.326371
+24
+NC_008239.1
+mitochondrion Nephroselmis olivacea
+45223
+{Eukaryota  Viridiplantae  Chlorophyta  prasinophytes  Nephroselmidophyceae  Nephroselmis}
+0.680538
+-0.751035
+-0.0325983
+-0.692756
+0.343135
+25
+NC_008240.1
+mitochondrion Mesostigma viride
+42424
+{Eukaryota  Viridiplantae  Streptophyta  Mesostigmatophyceae  Mesostigmatales  Mesostigmataceae  Mesostigma}
+0.561412
+-0.775398
+-0.132523
+-0.692204
+0.334251
+26
+NC_008256.1
+mitochondrion Oltmannsiellopsis viridis
+56761
+{Eukaryota  Viridiplantae  Chlorophyta  Oltmannsiellopsis}
+-0.59888
+-0.801107
+-0.0424774
+-0.43528
+0.0366982
+27
+NC_008285.1
+mitochondrion Brassica napus (rape)
+221853
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+0.545336
+-0.788602
+-0.115163
+-0.408276
+0.304003
+28
+NC_008290.1
+mitochondrion Ostreococcus tauri
+44237
+{Eukaryota  Viridiplantae  Chlorophyta  prasinophytes  Mamiellophyceae  Mamiellales  Bathycoccaceae  Ostreococcus}
+-0.894844
+-0.885147
+0.463969
+-0.456355
+0.151414
+29
+NC_008331.1
+mitochondrion Zea perennis
+570354
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogonodae  Andropogoneae  Tripsacinae  Zea}
+-0.915399
+-0.882538
+0.507958
+-0.450138
+0.158566
+30
+NC_008332.1
+mitochondrion Zea mays subsp. parviglumis
+680603
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogonodae  Andropogoneae  Tripsacinae  Zea}
+-0.893625
+-0.885695
+0.457737
+-0.455363
+0.152146
+31
+NC_008333.1
+mitochondrion Zea luxurians
+539368
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogonodae  Andropogoneae  Tripsacinae  Zea}
+-0.827934
+-0.859059
+0.351414
+-0.484873
+0.140162
+32
+NC_008360.1
+mitochondrion Sorghum bicolor (sorghum)
+468628
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogonodae  Andropogoneae  Sorghinae  Sorghum}
+-0.91205
+-0.888049
+0.49227
+-0.442893
+0.153137
+33
+NC_008362.1
+mitochondrion Tripsacum dactyloides (gama grass)
+704100
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogonodae  Andropogoneae  Tripsacinae  Tripsacum}
+-0.188471
+-0.704865
+-0.149252
+-0.703865
+0.263519
+34
+NC_009630.1
+mitochondrion Chlorokybus atmophyticus
+201763
+{Eukaryota  Viridiplantae  Streptophyta  Chlorokybophyceae  Chlorokybales  Chlorokybaceae  Chlorokybus}
+-0.754423
+-0.845538
+0.346682
+-0.347914
+0.127001
+35
+NC_010303.1
+mitochondrion Cycas taitungensis
+414903
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Cycadidae  Cycadales  Cycadaceae  Cycas}
+0.621971
+-0.940044
+0.00739066
+0.907519
+0.0562618
+36
+NC_010357.1
+mitochondrion Polytomella capuana
+12998
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+-0.790855
+-0.846203
+0.305612
+-0.489244
+0.142541
+37
+NC_011033.1
+mitochondrion Oryza sativa Japonica Group (Japanese rice)
+490520
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BOP            clade  Oryzoideae  Oryzeae  Oryzinae  Oryza}
+0.695093
+-0.990679
+0.0868617
+0.993917
+-0.0197704
+38
+NC_011084.1
+mitochondrion Vicia faba (fava bean)
+1478
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Fabeae  Vicia}
+-0.871656
+-0.894896
+0.355896
+-0.418378
+0.105933
+39
+NC_012116.1
+mitochondrion Carica papaya (papaya)
+476890
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Caricaceae  Carica}
+-0.953165
+-0.905773
+0.570821
+-0.422337
+0.156793
+40
+NC_012119.1
+mitochondrion Vitis vinifera (wine grape)
+773279
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  Vitales  Vitaceae  Vitis}
+0.598856
+-0.75439
+-0.0174854
+-0.618444
+0.426329
+41
+NC_012643.1
+mitochondrion Micromonas commoda
+47425
+{Eukaryota  Viridiplantae  Chlorophyta  prasinophytes  Mamiellophyceae  Mamiellales  Mamiellaceae  Micromonas}
+-0.429955
+-0.694196
+-0.061475
+-0.406075
+0.133127
+42
+NC_012651.1
+mitochondrion Nothoceros aenigmaticus
+184908
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Anthocerotophyta  Anthocerotopsida  Dendrocerotidae  Dendrocerotales  Dendrocerotaceae  Dendrocerotoideae  Nothoceros}
+0.740072
+-0.891696
+0.127287
+-0.183186
+0.256628
+43
+NC_012930.1
+mitochondrion Dunaliella salina
+28331
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Dunaliellaceae  Dunaliella}
+-0.333714
+-0.60526
+0.00617667
+-0.405916
+0.229653
+44
+NC_013444.1
+mitochondrion Pleurozia purpurea
+168526
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Marchantiophyta  Jungermanniopsida  Metzgeriidae  Pleuroziales  Pleuroziaceae  Pleurozia}
+0.727037
+-0.951417
+0.0864174
+0.653554
+0.0998506
+45
+NC_013472.1
+mitochondrion Polytomella piriformis
+13004
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+-0.470382
+-0.711805
+-0.0548874
+-0.495843
+0.144843
+46
+NC_013765.1
+mitochondrion Phaeoceros laevis
+209482
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Anthocerotophyta  Anthocerotopsida  Notothylidae  Notothyladales  Notothyladaceae  Phaeoceros}
+-0.802984
+-0.86068
+0.332381
+-0.483068
+0.143568
+47
+NC_013816.1
+mitochondrion Oryza rufipogon
+559045
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BOP            clade  Oryzoideae  Oryzeae  Oryzinae  Oryza}
+0.711923
+-0.878206
+-0.0239478
+0.0300058
+0.192388
+48
+NC_013935.1
+mitochondrion Pycnococcus provasolii
+24321
+{Eukaryota  Viridiplantae  Chlorophyta  prasinophytes  Pycnococcaceae  Pycnococcus}
+-0.814247
+-0.850176
+0.305076
+-0.437873
+0.112936
+49
+NC_014043.1
+mitochondrion Citrullus lanatus
+379236
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Citrullus}
+-0.934789
+-0.898052
+0.503661
+-0.43291
+0.143297
+50
+NC_014050.1
+mitochondrion Cucurbita pepo
+982833
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Cucurbiteae  Cucurbita}
+-0.580501
+-0.791568
+-0.187404
+-0.565777
+0.0308621
+51
+NC_014487.1
+mitochondrion Silene latifolia
+253413
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.751938
+-0.842799
+0.140498
+-0.497371
+0.0829996
+55
+NC_015099.1
+mitochondrion Beta vulgaris subsp. maritima
+364950
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Chenopodiaceae  Betoideae  Beta}
+-0.834435
+-0.878441
+0.295176
+-0.437762
+0.102475
+57
+NC_015121.1
+mitochondrion Vigna radiata (mungbean)
+401262
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Phaseoleae  Vigna}
+-0.883386
+-0.879157
+0.415467
+-0.438317
+0.127529
+58
+NC_015141.1
+mitochondrion Ricinus communis (castor bean)
+502773
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Malpighiales  Euphorbiaceae  Acalyphoideae  Acalypheae  Ricinus}
+0.154185
+-0.814399
+-0.374613
+0.321021
+0.0355003
+59
+NC_015316.1
+mitochondrion Coccomyxa subellipsoidea C-169
+65497
+{Eukaryota  Viridiplantae  Chlorophyta  Trebouxiophyceae  Trebouxiophyceae incertae sedis  Coccomyxaceae  Coccomyxa}
+-0.766313
+-0.844571
+0.165301
+-0.49737
+0.0872246
+60
+NC_015994.1
+mitochondrion Beta macrocarpa
+385220
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Chenopodiaceae  Betoideae  Beta}
+0.100719
+-0.810063
+-0.851798
+-0.157684
+-0.130304
+61
+NC_016004.1
+mitochondrion Cucumis sativus (cucumber)
+83817
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Cucumis}
+-0.968818
+-0.9125
+0.590464
+-0.382289
+0.142614
+62
+NC_016005.1
+mitochondrion Cucumis sativus (cucumber)
+1555935
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Cucumis}
+0.387243
+-0.856904
+-0.764439
+0.0625588
+-0.126609
+63
+NC_016006.1
+mitochondrion Cucumis sativus (cucumber)
+44840
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Cucumis}
+-0.601182
+-0.834217
+-0.0325963
+-0.438604
+0.0266821
+64
+NC_016118.1
+mitochondrion Brassica oleracea
+360271
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.623889
+-0.811183
+-0.0208875
+-0.439151
+0.0256559
+65
+NC_016120.1
+mitochondrion Brassica carinata
+232241
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+0.0284381
+0.863076
+0.115075
+-0.328499
+0.0244419
+66
+NC_016121.1
+mitochondrion Anomodon rugelii
+104239
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Anomodontaceae  Anomodon}
+-0.245495
+-0.578951
+-0.0759536
+-0.480544
+0.23697
+67
+NC_016122.1
+mitochondrion Treubia lacunosa
+151983
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Marchantiophyta  Haplomitriopsida  Treubiidae  Treubiales  Treubiaceae  Treubia}
+-0.602955
+-0.827862
+-0.0429824
+-0.434803
+0.0216553
+68
+NC_016123.1
+mitochondrion Brassica juncea
+219766
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.602904
+-0.827813
+-0.0431229
+-0.434802
+0.0217251
+69
+NC_016125.1
+mitochondrion Brassica rapa subsp. oleifera (Brassica rapa
+219747
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+0.68233
+-0.955599
+-0.240816
+0.388778
+-0.0269079
+70
+NC_016170.1
+mitochondrion Silene vulgaris (bladder campion)
+14341
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.12886
+-0.771133
+-0.835328
+-0.676314
+-0.0486622
+71
+NC_016171.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+130008
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0122121
+-0.789111
+-0.933555
+-0.648324
+-0.0465917
+72
+NC_016344.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+103557
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.170544
+-0.78432
+-0.827044
+-0.643992
+-0.0525689
+73
+NC_016345.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+134806
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.112649
+-0.778416
+-0.893185
+-0.672739
+-0.0451056
+74
+NC_016346.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+127930
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0059089
+-0.780938
+-0.937094
+-0.635447
+-0.0583516
+75
+NC_016347.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+103548
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.252074
+-0.78405
+-0.751561
+-0.64934
+-0.0471941
+76
+NC_016348.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+153996
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.183886
+-0.788211
+-0.816955
+-0.654026
+-0.0421835
+77
+NC_016349.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+140341
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0211472
+-0.792163
+-0.941451
+-0.605246
+-0.0631152
+78
+NC_016350.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+100078
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0418724
+-0.782976
+-0.930472
+-0.625279
+-0.0591142
+79
+NC_016351.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+97627
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0956708
+-0.77899
+-0.877671
+-0.663867
+-0.049453
+80
+NC_016352.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+122890
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.049811
+-0.779887
+-0.950603
+-0.580217
+-0.0451691
+81
+NC_016353.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+95084
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0200231
+-0.771438
+-0.910382
+-0.625729
+-0.0623334
+82
+NC_016354.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+108040
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.217827
+-0.781737
+-0.791855
+-0.667642
+-0.0416782
+83
+NC_016355.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+147958
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.00932304
+-0.786818
+-0.933247
+-0.61402
+-0.0525999
+84
+NC_016356.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+102347
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.11433
+-0.771635
+-0.865378
+-0.665606
+-0.0467074
+85
+NC_016357.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+127245
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0446049
+-0.784367
+-0.929807
+-0.542645
+-0.0639027
+86
+NC_016358.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+94621
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0730017
+-0.786269
+-0.879921
+-0.620562
+-0.0572801
+87
+NC_016359.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+115341
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0854858
+-0.780903
+-0.892938
+-0.640817
+-0.0543511
+88
+NC_016360.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+119408
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.015117
+-0.781987
+-0.91337
+-0.641395
+-0.0440236
+89
+NC_016361.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+107738
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.033813
+-0.78609
+-0.91589
+-0.588462
+-0.0654054
+90
+NC_016362.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+108152
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.14443
+-0.788501
+-0.863321
+-0.65218
+-0.0476704
+91
+NC_016363.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+130152
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.103427
+-0.778426
+-0.86804
+-0.648329
+-0.0193457
+92
+NC_016364.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+122485
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.126541
+-0.782193
+-0.851492
+-0.671661
+-0.036975
+93
+NC_016365.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+128843
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0109179
+-0.764943
+-0.919268
+-0.601063
+-0.0496408
+94
+NC_016366.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+104288
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0577348
+-0.791096
+-0.951383
+-0.550963
+-0.0700134
+95
+NC_016367.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+91804
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.121982
+-0.755013
+-0.819456
+-0.655244
+-0.036761
+96
+NC_016368.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+126609
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0564687
+-0.789404
+-0.897429
+-0.579674
+-0.027769
+97
+NC_016369.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+92946
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.000224295
+-0.790977
+-0.939588
+-0.607203
+-0.0595733
+98
+NC_016370.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+103320
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.00496199
+-0.788979
+-0.884359
+-0.58243
+-0.0454849
+99
+NC_016371.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+100579
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.231439
+-0.773901
+-0.74089
+-0.658943
+-0.0337001
+100
+NC_016372.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+148612
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.19116
+-0.783755
+-0.915675
+-0.542791
+-0.0435303
+101
+NC_016373.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+74922
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0359122
+-0.772336
+-0.918563
+-0.615644
+-0.0649914
+102
+NC_016374.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+108290
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.06612
+-0.765491
+-0.958672
+-0.591766
+-0.0641806
+103
+NC_016375.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+92480
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0341622
+-0.781784
+-0.971205
+-0.601375
+-0.0691269
+104
+NC_016376.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+98550
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.181101
+-0.782142
+-0.820933
+-0.651576
+-0.0469885
+105
+NC_016377.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+138824
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0180704
+-0.775905
+-0.91292
+-0.621307
+-0.0532028
+106
+NC_016378.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+106477
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0155276
+-0.778178
+-0.937404
+-0.617154
+-0.0496663
+107
+NC_016379.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+100876
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.233477
+-0.798543
+-0.969874
+-0.444811
+-0.0560599
+108
+NC_016380.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+67018
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.218891
+-0.78242
+-0.776452
+-0.670843
+-0.0433877
+109
+NC_016381.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+146587
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.195325
+-0.789668
+-0.806274
+-0.671214
+-0.0281633
+110
+NC_016382.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+142006
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0606064
+-0.782857
+-0.928567
+-0.607471
+-0.063822
+111
+NC_016383.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+114914
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.135194
+-0.782526
+-0.87032
+-0.635709
+-0.0411382
+112
+NC_016384.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+129012
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.122908
+-0.774683
+-1.
+-0.609463
+-0.0534528
+113
+NC_016385.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+86782
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0664419
+-0.783911
+-0.955339
+-0.562765
+-0.0572147
+114
+NC_016386.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+91595
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0370546
+-0.77279
+-0.906425
+-0.581834
+-0.050037
+115
+NC_016387.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+96564
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0616424
+-0.779928
+-0.946826
+-0.572646
+-0.0714615
+116
+NC_016388.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+92366
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.122388
+-0.775516
+-0.85154
+-0.650156
+-0.0444153
+117
+NC_016389.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+126452
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.214067
+-0.786361
+-0.823373
+-0.650509
+-0.0478202
+118
+NC_016390.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+145239
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0727095
+-0.800297
+-0.908137
+-0.541581
+-0.0818737
+119
+NC_016391.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+113308
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0430546
+-0.785104
+-0.983018
+-0.581565
+-0.0746923
+120
+NC_016392.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+96233
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.371699
+-0.795198
+-0.626933
+-0.687981
+-0.0227315
+121
+NC_016393.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+191963
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.243011
+-0.802578
+-0.936241
+-0.461959
+-0.0367972
+122
+NC_016394.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+66365
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.132799
+-0.782721
+-0.953754
+-0.526174
+-0.0587465
+123
+NC_016395.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+81416
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.268382
+-0.784096
+-0.736285
+-0.683725
+-0.0378864
+124
+NC_016396.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+161299
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.242084
+-0.784139
+-0.781165
+-0.649164
+-0.05333
+125
+NC_016397.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+152707
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.14435
+-0.780154
+-0.796271
+-0.568836
+-0.050654
+126
+NC_016398.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+127193
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0738278
+-0.783322
+-0.979086
+-0.632603
+-0.0560176
+127
+NC_016399.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+94201
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.0789872
+-0.788217
+-0.980071
+-0.573491
+-0.0417418
+128
+NC_016400.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+89951
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.0040662
+-0.779738
+-0.930712
+-0.60425
+-0.052438
+129
+NC_016401.1
+mitochondrion Silene noctiflora (night-flowering catchfly)
+103926
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.643866
+-0.924464
+-0.171963
+0.606725
+-0.0393847
+130
+NC_016402.1
+mitochondrion Silene vulgaris (bladder campion)
+12697
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.720858
+-0.83045
+0.0142067
+-0.568009
+0.0725863
+131
+NC_016406.1
+mitochondrion Silene vulgaris (bladder campion)
+394403
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+0.685581
+-0.978683
+-0.0313392
+0.855467
+-0.0234723
+132
+NC_016415.1
+mitochondrion Silene vulgaris (bladder campion)
+5697
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Sileneae  Silene}
+-0.949964
+-0.903097
+0.578958
+-0.401742
+0.155116
+133
+NC_016740.1
+mitochondrion Phoenix dactylifera (date palm)
+715001
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Arecaceae  Coryphoideae  Phoeniceae  Phoenix}
+-0.8732
+-0.872402
+0.388001
+-0.487057
+0.132225
+134
+NC_016741.1
+mitochondrion Dorcoceras hygrometricum
+510519
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Gesneriaceae  Didymocarpoideae  Trichosporeae  Loxocarpinae  Dorcoceras}
+-0.837029
+-0.877716
+0.306807
+-0.445792
+0.0984963
+135
+NC_016742.1
+mitochondrion Millettia pinnata
+425718
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Millettieae  Millettia}
+-0.79981
+-0.865679
+0.263115
+-0.451056
+0.0971291
+136
+NC_016743.2
+mitochondrion Lotus japonicus
+380861
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Loteae  Lotus}
+0.740528
+-0.95829
+0.0866886
+0.636093
+0.0961027
+137
+NC_016916.1
+mitochondrion Polytomella parva
+13135
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+0.732158
+-1.
+0.137122
+1.
+0.00138004
+138
+NC_016917.1
+mitochondrion Polytomella parva
+3018
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+0.722424
+-0.996045
+0.136457
+0.994092
+-0.000871071
+139
+NC_016918.1
+mitochondrion Polytomella piriformis
+3079
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+0.195322
+-0.616454
+-0.284026
+-0.513073
+0.311328
+140
+NC_017598.1
+mitochondrion Nitella hyalina
+80193
+{Eukaryota  Viridiplantae  Streptophyta  Charophyceae  Charales  Characeae  Nitella}
+-0.763992
+-0.768878
+0.392585
+-0.470651
+0.186458
+142
+NC_017755.1
+mitochondrion Phlegmariurus squarrosus
+413530
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Lycopodiidae  Lycopodiales  Lycopodiaceae  Phlegmariurus}
+-0.60731
+-0.80978
+0.0691189
+-0.431278
+0.0853024
+145
+NC_017840.1
+mitochondrion Spirodela polyrhiza (great duckweed)
+228493
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Araceae  Lemnoideae  Spirodela}
+0.757479
+-0.804299
+0.0989938
+-0.959929
+0.378194
+146
+NC_017841.1
+mitochondrion Helicosporidium sp. ex Simulium jonesi
+49343
+{Eukaryota  Viridiplantae  Chlorophyta  Trebouxiophyceae  Chlorellales  Helicosporidium}
+-0.600484
+-0.810343
+0.0238925
+-0.433708
+0.0671047
+147
+NC_017855.1
+mitochondrion Daucus carota subsp. sativus
+281132
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  campanulids  Apiales  Apiaceae  Apioideae  Scandiceae  Daucinae  Daucus  Daucus sect Daucus}
+-0.895776
+-0.885209
+0.423895
+-0.424215
+0.125813
+148
+NC_018041.1
+mitochondrion Erythranthe guttata (spotted monkey flower)
+525671
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Phrymaceae  Erythranthe}
+-0.667574
+-0.852596
+0.0260386
+-0.443685
+0.0369839
+150
+NC_018551.1
+mitochondrion Raphanus sativus (radish)
+258426
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Raphanus}
+-0.823751
+-0.878345
+0.322001
+-0.450846
+0.107972
+151
+NC_018554.1
+mitochondrion Malus domestica (apple)
+396947
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Rosales  Rosaceae  Maloideae  Maleae  Malus}
+0.10164
+-0.836837
+-0.344515
+0.333323
+0.00595966
+152
+NC_018568.1
+mitochondrion Trebouxiophyceae sp. MX-AZ01
+74423
+{Eukaryota  Viridiplantae  Chlorophyta  Trebouxiophyceae  unclassified Trebouxiophyceae}
+0.74862
+-0.926361
+0.191232
+0.367876
+0.221485
+153
+NC_020437.1
+mitochondrion Gonium pectorale
+15993
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Volvocaceae  Gonium}
+-0.814645
+-0.878122
+0.261072
+-0.454173
+0.0918322
+154
+NC_020455.1
+mitochondrion Glycine max (soybean)
+402558
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Phaseoleae  Glycine  Soja}
+-0.835373
+-0.869103
+0.304294
+-0.435009
+0.102179
+155
+NC_021092.1
+mitochondrion Vigna angularis (adzuki bean)
+404466
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Phaseoleae  Vigna}
+0.743729
+-0.910946
+0.186862
+0.104861
+0.198395
+156
+NC_021108.1
+mitochondrion Pleodorina starrii
+20375
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Volvocaceae  Pleodorina}
+-0.916818
+-0.89765
+0.541263
+-0.348895
+0.138111
+157
+NC_021152.1
+mitochondrion Liriodendron tulipifera
+553721
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Magnoliidae  Magnoliales  Magnoliaceae  Liriodendron}
+-0.861619
+-0.899591
+0.441581
+-0.234262
+0.104668
+158
+NC_021399.1
+mitochondrion Butomus umbellatus
+450826
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Butomaceae  Butomus}
+0.0286747
+0.863956
+0.114412
+-0.327895
+0.0240833
+160
+NC_021931.1
+mitochondrion Anomodon attenuatus
+104252
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Anomodontaceae  Anomodon}
+-0.859111
+-0.869095
+0.409744
+-0.448371
+0.147104
+161
+NC_022666.1
+mitochondrion Aegilops speltoides
+476091
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BOP            clade  Pooideae  Triticodae  Triticeae  Triticinae  Aegilops}
+-0.831463
+-0.862939
+0.360252
+-0.452574
+0.140788
+162
+NC_022714.1
+mitochondrion Triticum timopheevii
+443419
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BOP            clade  Pooideae  Triticodae  Triticeae  Triticinae  Triticum}
+-0.92857
+-0.893011
+0.499539
+-0.449573
+0.147262
+163
+NC_022796.1
+mitochondrion Asclepias syriaca
+682498
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Gentianales  Apocynaceae  Asclepiadoideae  Asclepiadeae  Asclepiadinae  Asclepias}
+0.373827
+-0.740054
+-0.4081
+-0.439542
+0.176215
+164
+NC_022797.1
+mitochondrion Monomastix sp. OKE-1
+60883
+{Eukaryota  Viridiplantae  Chlorophyta  prasinophytes  Mamiellophyceae  Monomastigales  Monomastigaceae  Monomastix}
+-0.0355969
+-0.702862
+-0.31344
+-0.696284
+0.264943
+165
+NC_022860.1
+mitochondrion Closterium baillyanum
+152089
+{Eukaryota  Viridiplantae  Streptophyta  Zygnemophyceae  Desmidiales  Closteriaceae  Closterium}
+0.38488
+-0.720679
+-0.211898
+-0.405935
+0.254169
+166
+NC_022861.1
+mitochondrion Entransia fimbriata
+61645
+{Eukaryota  Viridiplantae  Streptophyta  Zygnemophyceae  Zygnematales  Zygnemataceae  Entransia}
+0.179794
+-0.678004
+-0.472268
+-0.493994
+0.192199
+167
+NC_022862.1
+mitochondrion Microspora stagnorum
+87405
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Microsporaceae  Microspora}
+0.654047
+-0.661452
+-0.0425933
+-0.988396
+0.389023
+168
+NC_022863.1
+mitochondrion Roya obtusa
+69465
+{Eukaryota  Viridiplantae  Streptophyta  Zygnemophyceae  Zygnematales  Mesotaeniaceae  Roya}
+0.783249
+-0.889132
+0.220145
+-0.178312
+0.336336
+170
+NC_023091.1
+mitochondrion Polytomella magna
+24370
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+-0.774165
+-0.871607
+0.205385
+-0.450387
+0.0953821
+172
+NC_023103.1
+mitochondrion Ajuga reptans (bugle)
+352069
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Lamiaceae  Teucrioideae  Ajuga}
+-0.871024
+-0.873414
+0.39526
+-0.456823
+0.129012
+173
+NC_023209.1
+mitochondrion Salvia miltiorrhiza
+499236
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Lamiaceae  Nepetoideae  Mentheae  Salvia}
+0.533421
+-0.767206
+-0.167774
+-0.296281
+0.262359
+176
+NC_023273.1
+mitochondrion Bathycoccus prasinos
+43614
+{Eukaryota  Viridiplantae  Chlorophyta  prasinophytes  Mamiellophyceae  Mamiellales  Bathycoccaceae  Bathycoccus}
+-0.711633
+-0.846007
+0.102119
+-0.449297
+0.0731694
+177
+NC_023337.1
+mitochondrion Helianthus annuus (common sunflower)
+300945
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  campanulids  Asterales  Asteraceae  Asteroideae  Heliantheae alliance  Heliantheae  Helianthus}
+-0.865048
+-0.874997
+0.380688
+-0.436445
+0.116294
+178
+NC_023338.1
+mitochondrion Vaccinium macrocarpon
+459678
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  Ericales  Ericaceae  Vaccinioideae  Vaccinieae  Vaccinium}
+0.307548
+-0.808676
+-0.577933
+0.0654189
+0.0312807
+179
+NC_023355.1
+mitochondrion Prasinoderma coloniale
+54546
+{Eukaryota  Viridiplantae  Chlorophyta  prasinophytes  Prasinococcales  Prasinoderma}
+-0.0246304
+0.251183
+-0.00800601
+-0.362776
+0.119304
+185
+NC_024290.1
+mitochondrion Tetraphis pellucida
+107730
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Tetraphidopsida  Tetraphidales  Tetraphidaceae  Tetraphis}
+-0.878926
+-0.876768
+0.397818
+-0.476476
+0.12737
+186
+NC_024293.1
+mitochondrion Rhazya stricta
+548608
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Gentianales  Apocynaceae  Rauvolfioideae  Amsonieae  Rhazya}
+-0.834161
+-0.886027
+0.30084
+-0.424781
+0.102844
+187
+NC_024429.1
+mitochondrion Batis maritima
+403930
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Bataceae  Batis}
+0.000475971
+0.57815
+0.0828726
+-0.323268
+0.0584342
+188
+NC_024514.1
+mitochondrion Ptychomnion cygnisetum
+104480
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Ptychomniales  Ptychomniaceae  Ptychomnion}
+0.0274165
+0.866198
+0.120929
+-0.335008
+0.0275257
+189
+NC_024515.1
+mitochondrion Climacium americanum
+105048
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Climaciaceae  Climacium}
+0.0373346
+0.869067
+0.116776
+-0.339674
+0.0339731
+190
+NC_024516.1
+mitochondrion Hypnum imponens
+103830
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Hypnaceae  Hypnum}
+0.0622202
+0.995432
+0.1416
+-0.391527
+0.0303068
+191
+NC_024517.1
+mitochondrion Ulota hutchinsiae
+104608
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Ulota}
+0.0541976
+0.107544
+-0.0869657
+-0.479638
+0.156479
+192
+NC_024518.1
+mitochondrion Buxbaumia aphylla
+100725
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Buxbaumiidae  Buxbaumiales  Buxbaumiaceae  Buxbaumia}
+0.0717638
+0.910281
+0.111956
+-0.431051
+0.0745571
+193
+NC_024519.1
+mitochondrion Bartramia pomiformis
+106198
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Bartramiales  Bartramiaceae  Bartramia}
+-0.0266305
+0.249803
+-0.0412448
+-0.484065
+0.139819
+194
+NC_024520.1
+mitochondrion Atrichum angustatum
+115146
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Polytrichopsida  Polytrichales  Polytrichaceae  Atrichum}
+-0.109568
+-0.119807
+-0.159259
+-0.622369
+0.19342
+195
+NC_024521.1
+mitochondrion Sphagnum palustre
+141276
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Sphagnophytina  Sphagnopsida  Sphagnales  Sphagnaceae  Sphagnum}
+0.0622166
+0.997475
+0.138018
+-0.386065
+0.0264123
+196
+NC_024522.1
+mitochondrion Orthotrichum stellatum
+104131
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Orthotrichum}
+0.0148429
+0.746809
+0.0824233
+-0.424826
+0.0944488
+197
+NC_024523.1
+mitochondrion Funaria hygrometrica
+109586
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Funariidae  Funariales  Funariaceae  Funaria}
+-0.872607
+-0.866021
+0.398214
+-0.448095
+0.125885
+199
+NC_024624.1
+mitochondrion Capsicum annuum
+511530
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Solanales  Solanaceae  Solanoideae  Capsiceae  Capsicum}
+0.652574
+-0.784255
+-0.124432
+-0.817777
+0.339183
+200
+NC_024626.1
+mitochondrion Chlorella sorokiniana
+52528
+{Eukaryota  Viridiplantae  Chlorophyta  Trebouxiophyceae  Chlorellales  Chlorellaceae  Chlorella}
+0.468449
+-0.839499
+-0.0701902
+0.176067
+0.208878
+202
+NC_024755.1
+mitochondrion Bracteacoccus aerius
+47158
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Bracteacoccaceae  Bracteacoccus}
+0.468403
+-0.792135
+-0.189553
+0.0156022
+0.275303
+203
+NC_024756.1
+mitochondrion Bracteacoccus minor
+45175
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Bracteacoccaceae  Bracteacoccus}
+0.669858
+-0.808144
+-0.0378071
+-0.2432
+0.35232
+204
+NC_024757.1
+mitochondrion Chlorotetraedron incus
+38406
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Neochloridaceae  Chlorotetraedron}
+0.625258
+-0.799631
+-0.00873005
+-0.308689
+0.394133
+205
+NC_024758.1
+mitochondrion Chromochloris zofingiensis
+44840
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Chromochloridaceae  Chromochloris}
+0.531864
+-0.757005
+-0.225614
+-0.445885
+0.330944
+206
+NC_024759.1
+mitochondrion Kirchneriella aperta
+52927
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Selenastraceae  Kirchneriella}
+0.598059
+-0.868298
+-0.140354
+0.288206
+0.210431
+207
+NC_024760.1
+mitochondrion Mychonastes homosphaera
+25149
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Mychonastaceae  Mychonastes}
+0.687922
+-0.814537
+0.0381778
+-0.428406
+0.364223
+208
+NC_024761.1
+mitochondrion Neochloris aquatica
+38021
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Neochloridaceae  Neochloris}
+0.646479
+-0.781358
+-0.0999159
+-0.552079
+0.354905
+209
+NC_024762.1
+mitochondrion Ourococcus multisporus
+49705
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Selenastraceae  Ourococcus}
+0.552448
+-0.803741
+-0.236077
+0.000459952
+0.243833
+210
+NC_024763.1
+mitochondrion Pseudomuriella schumacherensis
+43134
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Pseudomuriellaceae  Pseudomuriella}
+0.549889
+-0.741136
+-0.240538
+-0.922605
+0.355052
+213
+NC_025413.1
+mitochondrion Chlorella variabilis
+78500
+{Eukaryota  Viridiplantae  Chlorophyta  Trebouxiophyceae  Chlorellales  Chlorellaceae  Chlorella}
+0.0554297
+0.849004
+0.137045
+-0.435833
+0.131183
+214
+NC_025931.1
+mitochondrion Codriophorus laevigatus
+106809
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Grimmiales  Grimmiaceae  Codriophorus}
+0.641796
+-0.745592
+0.0175426
+-0.891824
+0.478707
+215
+NC_026009.1
+mitochondrion Auxenochlorella protothecoides
+57274
+{Eukaryota  Viridiplantae  Chlorophyta  Trebouxiophyceae  Chlorellales  Chlorellaceae  Auxenochlorella}
+0.0601722
+0.996912
+0.138859
+-0.391141
+0.0282119
+220
+NC_026121.1
+mitochondrion Orthotrichum speciosum
+104747
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Orthotrichum}
+-0.865048
+-0.871091
+0.362856
+-0.449608
+0.116511
+221
+NC_026515.1
+mitochondrion Hyoscyamus niger (henbane)
+501401
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Solanales  Solanaceae  Solanoideae  Hyoscyameae  Hyoscyamus}
+0.0560391
+0.837359
+0.132783
+-0.439131
+0.131763
+222
+NC_026540.1
+mitochondrion Racomitrium ericoides
+106727
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Grimmiales  Grimmiaceae  Racomitrium}
+0.516239
+-0.907338
+-0.151258
+0.412957
+0.170779
+223
+NC_026571.1
+mitochondrion Dunaliella viridis
+45980
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Dunaliellaceae  Dunaliella}
+0.587364
+-0.943305
+-0.00377653
+0.851597
+0.0447623
+224
+NC_026572.1
+mitochondrion Polytoma uvella
+17411
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytoma}
+0.73674
+-0.947682
+0.146564
+0.455163
+0.118682
+225
+NC_026573.1
+mitochondrion Chlamydomonas leiostraca
+14029
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Chlamydomonas}
+0.0550556
+0.839431
+0.135722
+-0.43637
+0.130574
+226
+NC_026784.1
+mitochondrion Codriophorus aciculare
+106818
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Grimmiales  Grimmiaceae  Codriophorus}
+0.0559679
+0.841056
+0.132538
+-0.437452
+0.129786
+229
+NC_026890.1
+mitochondrion Racomitrium elongatum
+106746
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Grimmiales  Grimmiaceae  Racomitrium}
+0.0582576
+0.841087
+0.132025
+-0.43875
+0.13132
+230
+NC_026891.1
+mitochondrion Codriophorus varius
+106358
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Grimmiales  Grimmiaceae  Codriophorus}
+-0.356046
+-0.650282
+0.0557413
+-0.312594
+0.200221
+231
+NC_026901.1
+mitochondrion Aneura pinguis
+165603
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Marchantiophyta  Jungermanniopsida  Metzgeriidae  Metzgeriales  Aneuraceae  Aneura}
+0.0474545
+0.833963
+0.131346
+-0.430205
+0.126862
+233
+NC_026974.1
+mitochondrion Bucklandiella orthotrichacea
+107215
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Grimmiales  Grimmiaceae  Bucklandiella}
+0.0501003
+0.839268
+0.134793
+-0.430118
+0.127711
+234
+NC_026975.1
+mitochondrion Racomitrium emersum
+107186
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Grimmiales  Grimmiaceae  Racomitrium}
+-0.907292
+-0.881943
+0.445005
+-0.468846
+0.148533
+235
+NC_027000.1
+mitochondrion Geranium maderense
+737091
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Geraniales  Geraniaceae  Geranium}
+0.48608
+-0.702391
+-0.159086
+-0.628615
+0.327065
+236
+NC_027060.1
+mitochondrion Lobosphaera incisa
+69997
+{Eukaryota  Viridiplantae  Chlorophyta  Trebouxiophyceae  Chlorellales  Chlorellaceae  Lobosphaera}
+-0.924123
+-0.890875
+0.495874
+-0.431387
+0.134614
+239
+NC_027406.1
+mitochondrion Gossypium hirsutum (cotton)
+668584
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Malvales  Malvaceae  Malvoideae  Gossypium}
+-0.923998
+-0.8907
+0.495267
+-0.431284
+0.134298
+240
+NC_027407.1
+mitochondrion Gossypium harknessii
+666081
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Malvales  Malvaceae  Malvoideae  Gossypium}
+0.0589144
+0.687802
+0.0800673
+-0.45237
+0.127701
+241
+NC_027515.1
+mitochondrion Syntrichia filaris
+106343
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Pottiales  Pottiaceae  Syntrichia}
+0.211522
+-0.756406
+-0.481849
+-0.292458
+0.113824
+243
+NC_027722.1
+mitochondrion Botryococcus braunii
+84583
+{Eukaryota  Viridiplantae  Chlorophyta  Trebouxiophyceae  Trebouxiophyceae incertae sedis  Botryococcaceae  Botryococcus}
+0.0254761
+0.855723
+0.115792
+-0.328432
+0.026568
+244
+NC_027974.1
+mitochondrion Sanionia uncinata
+104497
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Amblystegiaceae  Sanionia}
+-0.753153
+-0.880468
+0.39401
+-0.227048
+0.114917
+245
+NC_027976.1
+mitochondrion Ginkgo biloba (maidenhair tree)
+346544
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Ginkgoidae  Ginkgoales  Ginkgoaceae  Ginkgo}
+0.0786022
+0.637745
+0.0698831
+-0.477882
+0.137662
+246
+NC_028040.1
+mitochondrion Chionoloma tenuirostre
+105001
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Pottiales  Pottiaceae  Chionoloma}
+0.529426
+-0.749348
+-0.166143
+-0.797014
+0.451698
+247
+NC_028081.1
+mitochondrion Ulva fasciata
+61614
+{Eukaryota  Viridiplantae  Chlorophyta  Ulvophyceae  Ulvales  Ulvaceae  Ulva}
+-0.95639
+-0.903917
+0.571952
+-0.413061
+0.148192
+248
+NC_028096.1
+mitochondrion Populus tremula
+783442
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Malpighiales  Salicaceae  Saliceae  Populus}
+0.0582191
+0.91225
+0.120785
+-0.396908
+0.0608131
+249
+NC_028191.1
+mitochondrion Tetraplodon fuegianus
+104741
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Splachnales  Splachnaceae  Tetraplodon}
+-0.913886
+-0.897045
+0.468131
+-0.435426
+0.132567
+250
+NC_028254.1
+mitochondrion Gossypium barbadense (sea-island cotton)
+677434
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Malvales  Malvaceae  Malvoideae  Gossypium}
+-0.956361
+-0.903913
+0.571949
+-0.413044
+0.148169
+251
+NC_028329.1
+mitochondrion Populus tremula x Populus alba
+783513
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Malpighiales  Salicaceae  Saliceae  Populus}
+0.496341
+-0.744939
+-0.187398
+-0.78455
+0.543999
+252
+NC_028538.1
+mitochondrion Ulva prolifera (Enteromorpha prolifera)
+63845
+{Eukaryota  Viridiplantae  Chlorophyta  Ulvophyceae  Ulvales  Ulvaceae  Ulva}
+-0.896417
+-0.896264
+0.473829
+-0.379617
+0.142154
+253
+NC_029039.1
+mitochondrion Viscum album (European mistletoe)
+565432
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Santalales  Viscaceae  Viscum}
+-0.962776
+-0.958656
+0.828404
+-0.147073
+0.183104
+254
+NC_029130.1
+mitochondrion Welwitschia mirabilis
+978846
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Gnetidae  Welwitschiales  Welwitschiaceae  Welwitschia}
+-0.623664
+-0.811872
+-0.0206935
+-0.440912
+0.0262296
+255
+NC_029182.1
+mitochondrion Brassica nigra (black mustard)
+232407
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.931664
+-0.893762
+0.508078
+-0.420831
+0.136614
+256
+NC_029317.1
+mitochondrion Salix suchowensis
+644437
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Malpighiales  Salicaceae  Saliceae  Salix}
+0.0617403
+0.995233
+0.134952
+-0.392858
+0.0271595
+257
+NC_029355.1
+mitochondrion Orthotrichum macrocephalum
+104624
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Orthotrichum}
+0.0607299
+0.991491
+0.132233
+-0.393307
+0.0281994
+258
+NC_029356.1
+mitochondrion Orthotrichum diaphanum
+104744
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Orthotrichum}
+0.0520094
+0.857608
+0.144784
+-0.429981
+0.124288
+259
+NC_029452.1
+mitochondrion Racomitrium lanuginosum
+106795
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Grimmiales  Grimmiaceae  Racomitrium}
+-0.69165
+-0.839704
+0.103558
+-0.454003
+0.0723776
+260
+NC_029641.1
+mitochondrion Medicago truncatula (barrel medic)
+271618
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Trifolieae  Medicago}
+-0.919123
+-0.894028
+0.477382
+-0.426883
+0.131486
+261
+NC_029693.1
+mitochondrion Salix purpurea
+598970
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Malpighiales  Salicaceae  Saliceae  Salix}
+0.440267
+-0.731937
+-0.220615
+-0.794734
+0.542945
+262
+NC_029701.1
+mitochondrion Ulva linza (Enteromorpha linza)
+70858
+{Eukaryota  Viridiplantae  Chlorophyta  Ulvophyceae  Ulvales  Ulvaceae  Ulva}
+-0.824935
+-0.846882
+0.313721
+-0.453413
+0.104535
+263
+NC_029805.1
+mitochondrion Nicotiana sylvestris (wood tobacco)
+430597
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Solanales  Solanaceae  Nicotianoideae  Nicotianeae  Nicotiana}
+-0.80381
+-0.875317
+0.283018
+-0.445797
+0.107728
+264
+NC_029809.1
+mitochondrion Ziziphus jujuba (common jujube)
+365190
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Rosales  Rhamnaceae  Paliureae  Ziziphus}
+-0.778748
+-0.856422
+0.302322
+-0.488546
+0.138698
+265
+NC_029816.1
+mitochondrion Oryza minuta
+515022
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BOP            clade  Oryzoideae  Oryzeae  Oryzinae  Oryza}
+-0.843422
+-0.877388
+0.352625
+-0.430418
+0.11431
+266
+NC_029855.1
+mitochondrion Cannabis sativa (hemp)
+415602
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Rosales  Cannabaceae  Cannabis}
+-0.921114
+-0.900001
+0.48453
+-0.431207
+0.135411
+267
+NC_029998.1
+mitochondrion Gossypium raimondii
+676078
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Malvales  Malvaceae  Malvoideae  Gossypium}
+-0.729992
+-0.855726
+0.204069
+-0.434395
+0.101929
+268
+NC_030100.1
+mitochondrion Allium cepa (onion)
+316363
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Asparagales  Amaryllidaceae  Allioideae  Allieae  Allium}
+-0.885642
+-0.875458
+0.485236
+-0.36364
+0.132339
+270
+NC_030753.1
+mitochondrion Nelumbo nucifera (sacred lotus)
+524797
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Proteales  Nelumbonaceae  Nelumbo}
+-0.644848
+-0.804706
+0.235289
+-0.255547
+0.097515
+271
+NC_030900.1
+mitochondrion Ophioglossum californicum
+372339
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Moniliformopses  Ophioglossidae  Ophioglossales  Ophioglossaceae  Ophioglossum}
+-0.510724
+-0.800291
+0.0798256
+-0.235636
+0.115406
+272
+NC_030952.1
+mitochondrion Psilotum nudum
+364070
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Moniliformopses  Ophioglossidae  Psilotales  Psilotaceae  Psilotum}
+-0.657882
+-0.806877
+0.0888979
+-0.47794
+0.0970494
+273
+NC_031158.1
+mitochondrion Ipomoea nil (Japanese morning glory)
+265768
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Solanales  Convolvulaceae  Ipomoeeae  Ipomoea}
+-0.685707
+-0.823815
+0.12475
+-0.506157
+0.113674
+275
+NC_031164.1
+mitochondrion Saccharum officinarum
+300784
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogonodae  Andropogoneae  Saccharinae  Saccharum  Saccharum officinarum complex}
+0.0304583
+0.866216
+0.118219
+-0.340474
+0.0286302
+277
+NC_031212.1
+mitochondrion Brachythecium rivulare
+104460
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Brachytheciaceae  Brachythecium}
+-0.934886
+-0.904566
+0.515731
+-0.429987
+0.148489
+278
+NC_031323.1
+mitochondrion Hesperelaea palmeri
+658522
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Oleaceae  Oleeae  Hesperelaea}
+-1.
+-0.924676
+0.726906
+-0.366025
+0.183425
+279
+NC_031359.1
+mitochondrion Corchorus capsularis
+1999602
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Malvales  Malvaceae  Grewioideae  Apeibeae  Corchorus}
+-0.995219
+-0.922339
+0.703312
+-0.376598
+0.181021
+280
+NC_031360.1
+mitochondrion Corchorus olitorius
+1829341
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Malvales  Malvaceae  Grewioideae  Apeibeae  Corchorus}
+0.0602255
+1.
+0.140176
+-0.390714
+0.0284173
+281
+NC_031389.1
+mitochondrion Orthotrichum bicolor
+104736
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Orthotrichum}
+0.0603287
+0.998078
+0.138779
+-0.390655
+0.0291465
+282
+NC_031390.1
+mitochondrion Orthotrichum callistomum
+104785
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Orthotrichum}
+0.0633035
+0.994024
+0.13848
+-0.394013
+0.0315316
+283
+NC_031391.1
+mitochondrion Nyholmiella gymnostoma
+104638
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Nyholmiella}
+0.0617765
+0.997755
+0.139684
+-0.385797
+0.02797
+284
+NC_031392.1
+mitochondrion Stoneobryum bunyaense
+104352
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Stoneobryum}
+0.0611005
+0.998467
+0.140122
+-0.391066
+0.0279856
+285
+NC_031393.1
+mitochondrion Ulota crispa
+104636
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Ulota}
+0.0609336
+0.997627
+0.140738
+-0.391211
+0.029278
+286
+NC_031394.1
+mitochondrion Ulota phyllantha
+104671
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Ulota}
+0.696885
+-0.76306
+-0.0277718
+-0.796264
+0.283998
+287
+NC_031504.1
+mitochondrion Pyramimonas parkeae
+43294
+{Eukaryota  Viridiplantae  Chlorophyta  prasinophytes  Pyramimonadales  Pyramimonas}
+-0.942264
+-0.905506
+0.557195
+-0.400249
+0.152051
+288
+NC_031696.1
+mitochondrion Cocos nucifera (coconut palm)
+678653
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Arecaceae  Arecoideae  Cocoseae  Attaleinae  Cocos}
+0.0636092
+0.995411
+0.138923
+-0.393583
+0.031339
+289
+NC_031767.1
+mitochondrion Nyholmiella obtusifolia
+104603
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Nyholmiella}
+-0.864388
+-0.871118
+0.383658
+-0.481896
+0.134401
+290
+NC_031806.1
+mitochondrion Castilleja paramensis
+495499
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Orobanchaceae  Pedicularideae  Castillejinae  Castilleja}
+0.0786111
+0.93513
+0.119452
+-0.419365
+0.0405568
+301
+NC_031846.1
+mitochondrion Zygodon viridissimus
+103098
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Zygodon}
+-0.629948
+-0.807304
+-0.00425301
+-0.451872
+0.0291852
+302
+NC_031896.1
+mitochondrion Sinapis arvensis
+240024
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Sinapis}
+-0.312584
+-0.83843
+0.159076
+-0.074189
+0.135968
+305
+NW_003314435.1
+mitochondrion Selaginella moellendorffii
+186484
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Lycopodiidae  Selaginellales  Selaginellaceae  Selaginella}
+0.179561
+-0.744819
+-0.39081
+-0.317322
+0.190405
+306
+NW_014013625.1
+mitochondrion Monoraphidium neglectum
+93840
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Selenastraceae  Monoraphidium}

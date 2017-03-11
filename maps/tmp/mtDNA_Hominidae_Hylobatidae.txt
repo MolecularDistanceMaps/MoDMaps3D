@@ -1,0 +1,177 @@
+10,7
+blue,red
+5
+Index,Acc,Name,Length,Taxa
+blue,red
+Hominidae (10),Hylobatidae (7)
+taxa#mtDNA, complete genome#17#Approx.Inf.Dist.(k=9)#16498.5
+0.55199
+0.0616332
+0.266691
+-0.0759642
+1.
+1
+NC_001643.1
+mitochondrion Pan troglodytes (chimpanzee)
+16554
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Pan}
+0.546856
+0.0664179
+0.273748
+-0.066098
+0.980099
+2
+NC_001644.1
+mitochondrion Pan paniscus (pygmy chimpanzee)
+16563
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Pan}
+0.475145
+1.
+1.
+0.0272568
+-1.
+3
+NC_001645.1
+mitochondrion Gorilla gorilla (western gorilla)
+16364
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Gorilla}
+0.0500108
+0.840011
+-0.989703
+0.926468
+-0.477416
+4
+NC_001646.1
+mitochondrion Pongo pygmaeus (Bornean orangutan)
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Pongo}
+0.067842
+0.829115
+-1.
+0.917772
+-0.521201
+6
+NC_002083.1
+mitochondrion Pongo abelii (Sumatran orangutan)
+16499
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Pongo}
+0.468278
+0.993437
+0.998932
+0.0133653
+-0.983753
+7
+NC_011120.1
+mitochondrion Gorilla gorilla gorilla (western lowland gorilla)
+16412
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Gorilla}
+0.997439
+-0.976683
+-0.0792057
+0.0871077
+-0.705007
+8
+NC_011137.1
+mitochondrion Homo sapiens neanderthalensis (Neandertal)
+16565
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Homo}
+1.
+-0.984585
+-0.0796072
+0.0870734
+-0.701913
+9
+NC_012920.1
+mitochondrion Homo sapiens (human)
+16569
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Homo}
+0.988155
+-0.980013
+-0.078446
+0.0896778
+-0.682239
+10
+NC_013993.1
+mitochondrion Homo sapiens ssp. Denisova (Denisova hominin)
+16570
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Homo}
+0.996764
+-1.
+-0.0834478
+0.103169
+-0.703156
+17
+NC_023100.1
+mitochondrion Homo heidelbergensis (Heidelberg man)
+16568
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hominidae  Homo}
+-0.750241
+-0.186455
+-0.239361
+-0.99625
+-0.579641
+5
+NC_002082.1
+mitochondrion Hylobates lar (common gibbon)
+16472
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Hylobates}
+-0.753327
+-0.227231
+-0.220287
+-1.
+-0.53565
+11
+NC_014042.1
+mitochondrion Hylobates agilis (agile gibbon)
+16500
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Hylobates}
+-0.743939
+-0.173392
+-0.192202
+-0.948207
+-0.499233
+12
+NC_014045.1
+mitochondrion Hylobates pileatus (pileated gibbon)
+16502
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Hylobates}
+-0.701852
+-0.190804
+-0.0324667
+-0.43908
+-0.409777
+13
+NC_014047.1
+mitochondrion Symphalangus syndactylus (siamang)
+16516
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Symphalangus}
+-0.999779
+-0.755884
+0.451726
+0.999457
+-0.368327
+14
+NC_014051.1
+mitochondrion Nomascus siki (southern white-cheeked gibbon)
+16476
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Nomascus}
+-0.967326
+-0.713644
+0.416244
+0.938775
+-0.378404
+15
+NC_018753.1
+mitochondrion Nomascus gabriellae (Red-cheeked gibbon)
+16478
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Nomascus}
+-1.
+-0.753072
+0.44877
+1.
+-0.363441
+16
+NC_021957.1
+mitochondrion Nomascus leucogenys (northern white-cheeked gibbon)
+16478
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Catarrhini  Hylobatidae  Nomascus}

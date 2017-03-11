@@ -1,0 +1,3387 @@
+1,5,2,10,3,1,7,3,2,4,4,7,6,5,7,6,20,20,20,20,20,20,20,20,20,19,15,14,11,11,15
+blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue,red,red,red,red,red,red,red,red,red,red,red,red,red,red,red
+5
+Index,Acc,Name,Length,Fragment
+blue,red
+S.cerevisiae (73), F.oxysporum (265)
+Sampling from S.cerevisiae and F.oxysporum; Number of genomic DNA sequences is 338; FCGR with k=9; Approx. Information
+-0.70912
+0.634587
+-0.0733597
+0.280318
+-0.0514188
+1
+NC_001133.9
+Saccharomyces cerevisiae S288c chromosome I  complete sequence
+150000
+1
+-0.883529
+0.661443
+-0.0958679
+0.287506
+-0.0870631
+2
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+1
+-0.889513
+0.581907
+-0.0667724
+0.249433
+-0.0855312
+3
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+4
+-0.891151
+0.604788
+-0.0767196
+0.288678
+-0.0777964
+4
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+3
+-0.870621
+0.6107
+-0.0697374
+0.276278
+-0.0703875
+5
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+5
+-0.751352
+0.617397
+-0.0769133
+0.283753
+-0.0643346
+6
+NC_001134.8
+Saccharomyces cerevisiae S288c chromosome II  complete sequence
+150000
+2
+-0.816148
+0.614437
+-0.065907
+0.257139
+-0.0661826
+7
+NC_001135.5
+Saccharomyces cerevisiae S288c chromosome III  complete sequence
+150000
+1
+-0.818582
+0.606446
+-0.0813595
+0.280847
+-0.0613637
+8
+NC_001135.5
+Saccharomyces cerevisiae S288c chromosome III  complete sequence
+150000
+2
+-0.827365
+0.617823
+-0.0854354
+0.284944
+-0.0797141
+9
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+5
+-0.873858
+0.602068
+-0.0672082
+0.323871
+-0.0840779
+10
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+6
+-0.851943
+0.569309
+-0.064488
+0.281126
+-0.0895626
+11
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+7
+-0.94312
+0.590719
+-0.0744388
+0.26711
+-0.0901166
+12
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+2
+-0.972025
+0.578269
+-0.0743036
+0.268374
+-0.0859482
+13
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+4
+-0.979788
+0.63848
+-0.0717541
+0.25399
+-0.0611931
+14
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+10
+-0.980259
+0.587139
+-0.0534911
+0.32911
+-0.0760213
+15
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+8
+-1.
+0.587372
+-0.0660284
+0.292038
+-0.0921476
+16
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+3
+-0.905906
+0.56765
+-0.0774597
+0.30705
+-0.0616066
+17
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+1
+-0.843651
+0.631044
+-0.0773699
+0.293501
+-0.0782279
+18
+NC_001136.10
+Saccharomyces cerevisiae S288c chromosome IV  complete sequence
+150000
+9
+-0.833336
+0.576296
+-0.0831083
+0.305215
+-0.0850046
+19
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+3
+-0.810315
+0.574366
+-0.0744226
+0.285235
+-0.0953072
+20
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+2
+-0.901962
+0.581422
+-0.0716769
+0.294364
+-0.0833521
+21
+NC_001137.3
+Saccharomyces cerevisiae S288c chromosome V  complete sequence
+150000
+1
+-0.848893
+0.644141
+-0.0716155
+0.28168
+-0.0695616
+22
+NC_001138.5
+Saccharomyces cerevisiae S288c chromosome VI  complete sequence
+150000
+1
+-0.92564
+0.624828
+-0.0726969
+0.269266
+-0.0682916
+23
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+3
+-0.87044
+0.58134
+-0.0610543
+0.292279
+-0.0925122
+24
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+2
+-0.879368
+0.576313
+-0.0556828
+0.281605
+-0.0643568
+25
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+7
+-0.922313
+0.600545
+-0.0734319
+0.284365
+-0.0659202
+26
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+6
+-0.92436
+0.564029
+-0.0649174
+0.296626
+-0.0847363
+27
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+4
+-0.972237
+0.655388
+-0.0750844
+0.283064
+-0.0620777
+28
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+1
+-0.817072
+0.604081
+-0.0793778
+0.271266
+-0.0754209
+29
+NC_001139.9
+Saccharomyces cerevisiae S288c chromosome VII  complete sequence
+150000
+5
+-0.857349
+0.619168
+-0.0802543
+0.289953
+-0.0979526
+30
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+3
+-0.823693
+0.595874
+-0.0874585
+0.276414
+-0.0764983
+31
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+1
+-0.864933
+0.58501
+-0.0678322
+0.279839
+-0.0645469
+32
+NC_001140.6
+Saccharomyces cerevisiae S288c chromosome VIII  complete sequence
+150000
+2
+-0.815029
+0.637245
+-0.0916157
+0.269301
+-0.0586796
+33
+NC_001141.2
+Saccharomyces cerevisiae S288c chromosome IX  complete sequence
+150000
+2
+-0.796405
+0.608447
+-0.0727418
+0.276546
+-0.0648119
+34
+NC_001141.2
+Saccharomyces cerevisiae S288c chromosome IX  complete sequence
+150000
+1
+-0.859767
+0.626325
+-0.0901415
+0.281913
+-0.0586697
+35
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+2
+-0.850258
+0.584961
+-0.0647228
+0.272897
+-0.0885874
+36
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+3
+-0.875205
+0.595295
+-0.0869447
+0.276976
+-0.0691788
+37
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+4
+-0.871746
+0.639267
+-0.0607949
+0.25
+-0.0831178
+38
+NC_001142.9
+Saccharomyces cerevisiae S288c chromosome X  complete sequence
+150000
+1
+-0.856584
+0.5664
+-0.0761766
+0.280095
+-0.0839265
+39
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+4
+-0.872487
+0.539597
+-0.0699679
+0.273335
+-0.073099
+40
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+1
+-0.909169
+0.602442
+-0.0790449
+0.308297
+-0.0779765
+41
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+2
+-0.83455
+0.589297
+-0.06137
+0.299358
+-0.074383
+42
+NC_001143.9
+Saccharomyces cerevisiae S288c chromosome XI  complete sequence
+150000
+3
+-0.839429
+0.588262
+-0.0982964
+0.301721
+-0.0832141
+43
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+1
+-0.913816
+0.617985
+-0.0826761
+0.276413
+-0.0771473
+44
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+4
+-0.789774
+0.567735
+-0.0802704
+0.298831
+-0.0933457
+45
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+7
+-0.882734
+0.569798
+-0.079058
+0.269463
+-0.0909279
+46
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+3
+-0.946017
+0.597515
+-0.0860211
+0.26746
+-0.0747637
+47
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+2
+-0.846364
+0.614178
+-0.0532142
+0.281179
+-0.0736118
+48
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+6
+-0.910362
+0.600035
+-0.0735249
+0.282712
+-0.077659
+49
+NC_001144.5
+Saccharomyces cerevisiae S288c chromosome XII  complete sequence
+150000
+5
+-0.83943
+0.622366
+-0.0931044
+0.284548
+-0.0641303
+50
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+5
+-0.938333
+0.590148
+-0.0704495
+0.256538
+-0.0751226
+51
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+4
+-0.897145
+0.566386
+-0.0631672
+0.310955
+-0.0815068
+52
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+2
+-0.917002
+0.59378
+-0.0805022
+0.301235
+-0.0649456
+53
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+3
+-0.887541
+0.577326
+-0.0675284
+0.292485
+-0.0934515
+54
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+1
+-0.826453
+0.582964
+-0.0554204
+0.304244
+-0.0696463
+55
+NC_001145.3
+Saccharomyces cerevisiae S288c chromosome XIII  complete sequence
+150000
+6
+-0.80854
+0.612386
+-0.067102
+0.300031
+-0.0851181
+56
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+5
+-0.858568
+0.564278
+-0.0810889
+0.287568
+-0.0606566
+57
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+2
+-0.82465
+0.611513
+-0.0734209
+0.271531
+-0.0825546
+58
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+4
+-0.891505
+0.607739
+-0.0773055
+0.289547
+-0.0648566
+59
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+1
+-0.776544
+0.599976
+-0.0659184
+0.269888
+-0.0863823
+60
+NC_001146.8
+Saccharomyces cerevisiae S288c chromosome XIV  complete sequence
+150000
+3
+-0.938875
+0.565457
+-0.0686255
+0.288198
+-0.0667959
+61
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+4
+-0.797255
+0.617638
+-0.0753287
+0.287663
+-0.0658518
+62
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+5
+-0.895316
+0.526578
+-0.0647904
+0.297843
+-0.0965721
+63
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+7
+-0.848307
+0.620588
+-0.079585
+0.282071
+-0.0743329
+64
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+2
+-0.971371
+0.5925
+-0.068131
+0.281902
+-0.0825653
+65
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+1
+-0.880832
+0.568715
+-0.0677454
+0.252669
+-0.0902403
+66
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+3
+-0.872707
+0.568955
+-0.069653
+0.284607
+-0.0998195
+67
+NC_001147.6
+Saccharomyces cerevisiae S288c chromosome XV  complete sequence
+150000
+6
+-0.843255
+0.671036
+-0.0763228
+0.270085
+-0.0611582
+68
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+4
+-0.926627
+0.566066
+-0.0740039
+0.286573
+-0.0719644
+69
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+5
+-0.905927
+0.558974
+-0.0650567
+0.295831
+-0.0826018
+70
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+1
+-0.833335
+0.507513
+-0.0655884
+0.276361
+-0.0916649
+71
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+2
+-0.866058
+0.582472
+-0.0640797
+0.301658
+-0.0788363
+72
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+3
+-0.979532
+0.61158
+-0.07582
+0.27668
+-0.0976304
+73
+NC_001148.4
+Saccharomyces cerevisiae S288c chromosome XVI  complete sequence
+150000
+6
+0.672449
+0.56066
+-0.0788728
+0.290393
+-0.11428
+74
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+37
+0.900008
+0.917132
+-0.0460444
+0.227238
+-0.071348
+75
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+9
+0.864101
+0.81562
+-0.0531804
+0.288357
+-0.077955
+76
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+16
+0.846784
+0.777788
+-0.0690432
+0.285774
+-0.070778
+77
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+15
+0.939065
+0.745933
+-0.0721172
+0.252301
+-0.0908275
+78
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+33
+0.916282
+0.733141
+-0.08886
+0.25707
+-0.071196
+79
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+21
+0.967167
+0.85453
+-0.0409474
+0.249794
+-0.0758636
+80
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+17
+0.93908
+0.841939
+-0.0656749
+0.235067
+-0.0890671
+81
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+27
+0.96961
+0.789837
+-0.0564006
+0.257116
+-0.053429
+82
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+11
+0.825084
+0.747352
+-0.0536495
+0.264084
+-0.0650573
+83
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+12
+0.92256
+0.796385
+-0.0490386
+0.262891
+-0.0800023
+84
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+14
+0.959555
+0.804333
+-0.048817
+0.241278
+-0.0741602
+85
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+41
+0.913272
+0.814895
+-0.064081
+0.238462
+-0.080092
+86
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+30
+0.900867
+0.865919
+-0.0370986
+0.234827
+-0.0711227
+87
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+13
+0.736884
+0.72443
+-0.05001
+0.253
+-0.0832485
+88
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+28
+0.893174
+0.791855
+-0.0513511
+0.270401
+-0.0648302
+89
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+40
+0.755172
+0.791801
+-0.0694731
+0.254305
+-0.0765848
+90
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+8
+0.592255
+0.563671
+-0.101565
+0.293755
+-0.0935554
+91
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+2
+0.702583
+0.141724
+-0.0384463
+0.295142
+-0.114888
+92
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+39
+0.822512
+-0.278313
+0.00956913
+0.228559
+-0.114712
+93
+CM000589.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1  whole genome shotgun sequence
+150000
+23
+0.715844
+0.603249
+-0.0793921
+0.276281
+-0.11944
+94
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+13
+0.791248
+0.811153
+-0.0773902
+0.269313
+-0.0671845
+95
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+33
+0.846204
+0.903881
+-0.0575746
+0.249802
+-0.0621461
+96
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+23
+0.814209
+0.839512
+-0.0750365
+0.224431
+-0.0793322
+97
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+32
+0.888531
+0.787032
+-0.0556835
+0.241202
+-0.0778484
+98
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+35
+0.941208
+0.791872
+-0.0409569
+0.224287
+-0.073406
+99
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+11
+0.931473
+0.786682
+-0.0392327
+0.257982
+-0.0672748
+100
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+16
+0.874014
+0.84084
+-0.0572153
+0.2703
+-0.0806081
+101
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+5
+0.9398
+0.825842
+-0.0439354
+0.233677
+-0.0782
+102
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+21
+0.827055
+0.824135
+-0.0611165
+0.272357
+-0.0726187
+103
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+10
+0.981536
+0.775968
+-0.0764384
+0.326846
+-0.073813
+104
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+31
+0.916388
+0.834081
+-0.0299748
+0.257655
+-0.0810919
+105
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+30
+0.847161
+0.872066
+-0.0494571
+0.250805
+-0.0699571
+106
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+19
+0.9059
+0.878592
+-0.0563432
+0.264614
+-0.0704817
+107
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+14
+0.805195
+0.843101
+-0.0617183
+0.270724
+-0.0845716
+108
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+27
+0.685481
+0.677555
+-0.0992729
+0.284763
+-0.0924219
+109
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+7
+0.840606
+0.739034
+-0.0905197
+0.318821
+-0.0791622
+110
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+17
+0.0343275
+-0.574593
+-0.0275664
+0.274133
+-0.426441
+111
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+2
+0.463593
+-0.25416
+-0.0517454
+0.320617
+-0.130188
+112
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+24
+0.215156
+-0.555715
+-0.143964
+0.470401
+-0.284318
+113
+CM000590.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 2  whole genome shotgun sequence
+150000
+25
+0.400948
+-0.041414
+-0.175154
+0.66319
+-0.154811
+114
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+34
+0.627925
+-0.0797419
+-0.14483
+0.492986
+-0.203767
+115
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+25
+0.405499
+0.225606
+-0.144693
+0.458801
+-0.0948619
+116
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+23
+0.642689
+0.450136
+-0.112178
+0.425476
+-0.112801
+117
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+19
+0.83223
+-0.0460394
+-0.259102
+0.696103
+-0.134131
+118
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+6
+0.829613
+0.333437
+-0.141663
+0.398497
+-0.141766
+119
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+32
+0.618165
+-0.306877
+-0.128271
+0.189567
+0.04672
+120
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+3
+0.55482
+-0.348288
+-0.138947
+0.60096
+0.0182886
+121
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+13
+0.731139
+-0.163164
+-0.100864
+0.313016
+-0.0240852
+122
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+29
+0.675304
+-0.689507
+-0.976666
+-0.934636
+-1.
+123
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+5
+0.780113
+-0.616077
+-0.620233
+-0.990934
+0.946207
+124
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+21
+0.640497
+-0.285144
+-0.233814
+0.314691
+0.0104919
+125
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+36
+0.718684
+-0.584155
+-0.334134
+0.0756199
+0.528471
+126
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+12
+0.596462
+-0.756826
+-0.108766
+0.901497
+0.416472
+127
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+10
+0.648481
+-0.719344
+0.184591
+0.932761
+0.393559
+128
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+7
+0.536276
+0.220744
+-0.0910525
+0.403999
+-0.055478
+129
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+4
+0.568507
+-0.128214
+-0.13193
+0.362141
+-0.0835211
+130
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+33
+0.58852
+-0.169379
+-0.0344314
+0.278742
+-0.137803
+131
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+22
+0.539074
+-0.281822
+-0.0125241
+0.291743
+-0.162086
+132
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+35
+0.645455
+-0.185341
+-0.0473621
+0.274123
+-0.171204
+133
+CM000591.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 3  whole genome shotgun sequence
+150000
+28
+0.625872
+0.422588
+-0.0974701
+0.256459
+-0.13184
+134
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+30
+0.855448
+0.885061
+-0.0588476
+0.229531
+-0.0711006
+135
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+22
+0.85973
+0.846839
+-0.0534207
+0.280714
+-0.0779399
+136
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+31
+0.824733
+0.83726
+-0.0482074
+0.25013
+-0.0657078
+137
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+20
+0.837755
+0.830489
+-0.0612452
+0.278206
+-0.0797061
+138
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+17
+0.846913
+0.882845
+-0.0469821
+0.24749
+-0.0651077
+139
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+19
+0.937654
+0.800305
+-0.0537372
+0.269844
+-0.0733062
+140
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+5
+0.873019
+0.842299
+-0.0582524
+0.242189
+-0.0785811
+141
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+1
+0.951778
+0.858031
+-0.0624467
+0.27901
+-0.0667937
+142
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+24
+0.874707
+0.807555
+-0.0796422
+0.315144
+-0.053146
+143
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+13
+0.742545
+0.714806
+-0.0728845
+0.27691
+-0.0668691
+144
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+10
+0.799591
+0.720063
+-0.0832528
+0.32363
+-0.085823
+145
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+27
+0.691564
+0.62495
+-0.012904
+0.345993
+-0.113069
+146
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+23
+0.737891
+0.501416
+-0.139291
+0.508592
+-0.121089
+147
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+15
+0.789324
+0.851669
+-0.0516869
+0.258341
+-0.0814971
+148
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+6
+0.85878
+0.79571
+-0.0849528
+0.287063
+-0.0832509
+149
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+11
+0.913966
+0.863744
+-0.0512463
+0.261576
+-0.0652663
+150
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+21
+0.852662
+0.85425
+-0.0587353
+0.258521
+-0.0748076
+151
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+32
+0.827696
+0.632182
+-0.114581
+0.433861
+-0.0428699
+152
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+12
+0.721044
+0.540718
+-0.0933669
+0.331652
+-0.116566
+153
+CM000592.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 4  whole genome shotgun sequence
+150000
+8
+0.582246
+0.527866
+-0.0805621
+0.308099
+-0.101893
+154
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+5
+0.715851
+0.65455
+-0.061575
+0.28574
+-0.097356
+155
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+17
+0.63291
+0.604113
+-0.0920061
+0.240412
+-0.0906474
+156
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+26
+0.901225
+0.777405
+-0.0688952
+0.261916
+-0.0713558
+157
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+15
+0.96981
+0.88702
+-0.056004
+0.286316
+-0.0628531
+158
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+21
+0.756858
+0.81982
+-0.0492785
+0.274049
+-0.0922327
+159
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+31
+0.815098
+0.818551
+-0.0598137
+0.267225
+-0.0680771
+160
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+2
+0.866363
+0.774658
+-0.0939098
+0.2374
+-0.0705996
+161
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+10
+0.886077
+0.790176
+-0.0950073
+0.238429
+-0.096395
+162
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+9
+0.991832
+0.746696
+-0.0660803
+0.24692
+-0.0799147
+163
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+25
+0.797127
+0.777839
+-0.059623
+0.243632
+-0.0848975
+164
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+32
+0.749292
+0.732589
+-0.0577397
+0.264377
+-0.0845378
+165
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+28
+0.844387
+0.811231
+-0.0565188
+0.278108
+-0.070817
+166
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+6
+0.906071
+0.836567
+-0.0328662
+0.263886
+-0.0588628
+167
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+24
+0.922185
+0.857864
+-0.0679749
+0.249688
+-0.0675556
+168
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+4
+0.845302
+0.883931
+-0.0519297
+0.245132
+-0.0824842
+169
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+27
+0.921438
+0.874422
+-0.0411159
+0.278473
+-0.0852123
+170
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+29
+0.954861
+0.91696
+-0.0398
+0.265915
+-0.0806314
+171
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+1
+0.658286
+0.6364
+-0.0655918
+0.294793
+-0.112114
+172
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+8
+0.54784
+0.310942
+-0.115089
+0.294862
+-0.128947
+173
+CM000593.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 5  whole genome shotgun sequence
+150000
+20
+0.747825
+-0.443419
+-0.0785492
+0.380654
+-0.228986
+174
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+7
+0.567838
+-0.0637034
+-0.0885395
+0.300082
+-0.0646113
+175
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+18
+0.799301
+-0.11054
+-0.116185
+0.336307
+-0.181609
+176
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+15
+0.723307
+-0.315237
+-0.157389
+0.430709
+-0.151396
+177
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+10
+0.706865
+-0.248629
+-0.235207
+0.405257
+-0.137518
+178
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+27
+0.610623
+-0.293868
+-0.133557
+0.320206
+-0.0892798
+179
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+14
+0.67244
+-0.732869
+-1.
+-1.
+-0.940448
+180
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+26
+0.759102
+-0.565765
+-0.583654
+-0.925122
+1.
+181
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+5
+0.759834
+-0.611818
+-0.347584
+0.101002
+0.53496
+182
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+17
+0.63018
+-0.280712
+-0.186873
+0.263743
+-0.14904
+183
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+28
+0.590001
+-0.848971
+-0.060057
+1.
+0.530312
+184
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+4
+0.590428
+-0.39326
+0.179761
+0.765577
+0.221215
+185
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+1
+0.853599
+-0.154289
+-0.346916
+0.981163
+-0.277812
+186
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+3
+0.908922
+0.154052
+-0.210147
+0.763385
+-0.252973
+187
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+29
+0.762888
+-0.07672
+-0.290538
+0.923207
+-0.252692
+188
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+23
+0.552722
+0.43974
+-0.0950914
+0.367018
+-0.132043
+189
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+24
+0.544625
+-0.130626
+-0.174952
+0.505368
+-0.131837
+190
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+6
+0.325315
+0.174106
+-0.0946417
+0.420606
+-0.159562
+191
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+22
+0.320476
+0.243357
+-0.127115
+0.468607
+-0.109783
+192
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+11
+0.790699
+-0.0837089
+-0.106475
+0.513149
+-0.202421
+193
+CM000594.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 6  whole genome shotgun sequence
+150000
+21
+0.505074
+0.431235
+-0.0744615
+0.311311
+-0.129566
+194
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+2
+0.606714
+0.384676
+-0.0814591
+0.274446
+-0.13399
+195
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+8
+0.714149
+0.628513
+-0.077716
+0.286919
+-0.0851623
+196
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+25
+0.723772
+0.748961
+-0.0580913
+0.274225
+-0.0764062
+197
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+18
+0.876936
+0.83829
+-0.0780591
+0.219507
+-0.0735226
+198
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+12
+0.862748
+0.849007
+-0.0191373
+0.260198
+-0.0728074
+199
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+26
+0.933743
+0.823569
+-0.0527319
+0.264221
+-0.0703519
+200
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+6
+0.819323
+0.762523
+-0.0706482
+0.286393
+-0.0689603
+201
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+16
+0.864177
+0.731925
+-0.0604192
+0.278295
+-0.0978849
+202
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+3
+0.946203
+0.790238
+-0.0604888
+0.273423
+-0.0956198
+203
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+19
+0.910291
+0.823247
+-0.0601211
+0.241489
+-0.0899954
+204
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+23
+0.842437
+0.763876
+-0.0450878
+0.239382
+-0.0912525
+205
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+27
+0.949965
+0.811501
+-0.0473623
+0.250265
+-0.0764239
+206
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+9
+0.890717
+0.810593
+-0.0550036
+0.254044
+-0.0735992
+207
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+13
+0.835774
+0.860515
+-0.0409232
+0.219224
+-0.0706959
+208
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+7
+0.887152
+0.839132
+-0.0599813
+0.24824
+-0.0713784
+209
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+1
+0.915055
+0.890258
+-0.0547525
+0.244024
+-0.0507488
+210
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+11
+0.861073
+0.834088
+-0.0521151
+0.23576
+-0.0801466
+211
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+22
+0.770948
+0.785407
+-0.074792
+0.253025
+-0.0539362
+212
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+14
+0.661983
+0.542531
+-0.0711732
+0.312899
+-0.127815
+213
+CM000595.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 7  whole genome shotgun sequence
+150000
+28
+0.605358
+0.535246
+-0.0783008
+0.25849
+-0.11679
+214
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+23
+0.71497
+0.695573
+-0.0933669
+0.261623
+-0.095454
+215
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+18
+0.717211
+0.684069
+-0.0646481
+0.26599
+-0.0849765
+216
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+15
+0.864492
+0.807447
+-0.0548892
+0.261805
+-0.0658368
+217
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+8
+0.816458
+0.909089
+-0.0537426
+0.271618
+-0.0747807
+218
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+20
+0.886497
+0.81168
+-0.0633679
+0.256876
+-0.0745778
+219
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+12
+0.853782
+0.735966
+-0.0665544
+0.245035
+-0.104103
+220
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+2
+0.784548
+0.745707
+-0.0582564
+0.288706
+-0.0873484
+221
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+7
+0.847117
+0.726889
+-0.0607269
+0.266309
+-0.0931529
+222
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+6
+0.879545
+0.834546
+-0.0535652
+0.283482
+-0.0600047
+223
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+3
+0.882758
+0.857894
+-0.0742289
+0.247263
+-0.0683793
+224
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+10
+0.895608
+0.824944
+-0.0453381
+0.247742
+-0.0716516
+225
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+14
+0.802688
+0.797622
+-0.0563459
+0.250314
+-0.0677659
+226
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+11
+0.865912
+0.898753
+-0.0563011
+0.273982
+-0.0655553
+227
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+17
+0.828686
+0.877425
+-0.0503424
+0.254005
+-0.0598883
+228
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+25
+0.902421
+0.876404
+-0.0518426
+0.26862
+-0.0696695
+229
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+19
+0.996913
+0.794581
+-0.0401581
+0.244544
+-0.0624095
+230
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+24
+0.848633
+0.603515
+-0.140812
+0.472963
+-0.122986
+231
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+9
+0.558361
+0.46753
+-0.0388969
+0.274432
+-0.119238
+232
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+5
+0.633214
+0.475181
+-0.0745296
+0.270486
+-0.108573
+233
+CM000596.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 8  whole genome shotgun sequence
+150000
+26
+0.373685
+0.164912
+-0.0733867
+0.291641
+-0.156292
+234
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+8
+0.631674
+0.548453
+-0.0645241
+0.256159
+-0.0890865
+235
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+11
+0.87037
+0.557688
+-0.0808753
+0.397785
+-0.0954274
+236
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+9
+0.970941
+1.
+-0.0522964
+0.275875
+-0.0304351
+237
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+6
+0.813528
+0.839242
+-0.0698505
+0.288248
+-0.0612205
+238
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+21
+0.836068
+0.872127
+-0.0508665
+0.255623
+-0.0760048
+239
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+12
+0.823813
+0.86579
+-0.0595065
+0.219017
+-0.0664361
+240
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+17
+0.969735
+0.886662
+-0.0714396
+0.268393
+-0.069663
+241
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+15
+0.934119
+0.835579
+-0.0529188
+0.259138
+-0.0593553
+242
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+19
+0.895912
+0.774661
+-0.0719094
+0.273104
+-0.0939419
+243
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+7
+0.904271
+0.710317
+-0.0865078
+0.248401
+-0.0815637
+244
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+3
+0.918089
+0.827743
+-0.0378671
+0.26221
+-0.0606173
+245
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+1
+0.968589
+0.808648
+-0.0707721
+0.249969
+-0.0587216
+246
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+20
+0.9715
+0.839055
+-0.0603421
+0.246537
+-0.0834079
+247
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+14
+0.919722
+0.860211
+-0.0440474
+0.256744
+-0.0684722
+248
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+13
+0.942085
+0.880739
+-0.0533166
+0.254901
+-0.062863
+249
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+10
+0.87008
+0.833473
+-0.0665539
+0.254972
+-0.0813329
+250
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+5
+0.988712
+0.872504
+-0.0499286
+0.23756
+-0.0706325
+251
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+2
+0.780827
+0.402221
+-0.0635014
+0.363677
+-0.132935
+252
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+16
+0.704702
+0.261256
+-0.126092
+0.418717
+-0.150612
+253
+CM000597.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 9  whole genome shotgun sequence
+150000
+4
+0.588906
+0.607378
+-0.0676739
+0.286391
+-0.101494
+254
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+17
+0.929912
+0.804568
+-0.0581339
+0.250746
+-0.0726859
+255
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+9
+0.863641
+0.840866
+-0.0722963
+0.267846
+-0.0768762
+256
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+7
+0.850581
+0.823764
+-0.0860234
+0.229775
+-0.0707414
+257
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+11
+0.891383
+0.871071
+-0.0514089
+0.247787
+-0.0702063
+258
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+2
+0.804485
+0.890656
+-0.0519396
+0.262017
+-0.0636665
+259
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+14
+0.88739
+0.861557
+-0.0600368
+0.276611
+-0.0535277
+260
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+13
+1.
+0.769376
+-0.0502268
+0.258034
+-0.0832315
+261
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+6
+0.808709
+0.859253
+-0.0566549
+0.254032
+-0.0587782
+262
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+18
+0.845498
+0.819285
+-0.0502631
+0.273541
+-0.055801
+263
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+19
+0.86995
+0.860951
+-0.049613
+0.264951
+-0.0751003
+264
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+15
+0.913703
+0.84988
+-0.0761505
+0.252147
+-0.0592725
+265
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+3
+0.874665
+0.698634
+-0.0795369
+0.35549
+-0.111426
+266
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+4
+0.831248
+0.830131
+-0.0496039
+0.255369
+-0.0660829
+267
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+1
+0.829215
+0.769735
+-0.0653146
+0.263491
+-0.0861326
+268
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+16
+0.755433
+0.618257
+-0.110724
+0.271789
+-0.0981432
+269
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+10
+0.767133
+0.534396
+-0.046021
+0.396705
+-0.110411
+270
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+8
+0.596485
+0.384299
+-0.120696
+0.393178
+-0.110732
+271
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+5
+0.394545
+0.0907043
+-0.138984
+0.362051
+-0.153469
+272
+CM000598.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 10  whole genome shotgun sequence
+150000
+12
+0.655486
+0.685634
+-0.0638458
+0.26272
+-0.0761921
+273
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+10
+0.756901
+0.71775
+-0.079385
+0.268727
+-0.0966016
+274
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+11
+0.81841
+0.664183
+-0.0533333
+0.374318
+-0.0898735
+275
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+12
+0.759242
+0.768278
+-0.0478387
+0.299092
+-0.0668771
+276
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+8
+0.813087
+0.797115
+-0.0667941
+0.293865
+-0.0843084
+277
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+7
+0.866423
+0.728723
+-0.0947698
+0.328288
+-0.0673222
+278
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+15
+0.831336
+0.728801
+-0.0681725
+0.298937
+-0.0731116
+279
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+14
+0.928128
+0.852915
+-0.0689107
+0.26505
+-0.0698835
+280
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+6
+0.849951
+0.710523
+-0.0571022
+0.289887
+-0.0803279
+281
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+5
+0.767351
+0.664697
+-0.0893306
+0.318271
+-0.0940029
+282
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+2
+0.815622
+0.756757
+-0.090697
+0.269912
+-0.0899665
+283
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+4
+0.848118
+0.734367
+-0.0862434
+0.287772
+-0.0795395
+284
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+1
+0.62507
+0.55021
+-0.10996
+0.235304
+-0.110742
+285
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+3
+0.764456
+0.595392
+-0.0961241
+0.318239
+-0.0912336
+286
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+13
+0.602835
+0.430059
+-0.0366547
+0.231203
+-0.00405157
+287
+CM000599.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 11  whole genome shotgun sequence
+150000
+9
+0.644163
+0.640879
+-0.067452
+0.269974
+-0.0899633
+288
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+14
+0.672254
+0.764504
+-0.0602125
+0.275338
+-0.0805017
+289
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+9
+0.766688
+0.769997
+-0.0897513
+0.273254
+-0.0928046
+290
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+13
+0.855721
+0.799993
+-0.0564394
+0.285904
+-0.0737371
+291
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+12
+0.711279
+0.789388
+-0.0568123
+0.294363
+-0.0818202
+292
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+3
+0.797747
+0.73581
+-0.0712208
+0.298682
+-0.083784
+293
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+2
+0.780601
+0.699332
+-0.0788414
+0.327638
+-0.0655999
+294
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+4
+0.617926
+0.652935
+-0.0929161
+0.309052
+-0.0825757
+295
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+10
+0.761993
+0.815247
+-0.0537381
+0.306302
+-0.0549676
+296
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+11
+0.775636
+0.718988
+-0.0801301
+0.330545
+-0.100213
+297
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+8
+0.761751
+0.759083
+-0.0803163
+0.295987
+-0.0719734
+298
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+7
+0.640528
+0.699451
+-0.0736982
+0.316974
+-0.0888638
+299
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+5
+0.464406
+0.513399
+-0.0565351
+0.294687
+-0.103482
+300
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+6
+0.581896
+0.592133
+-0.0973498
+0.294321
+-0.0954379
+301
+CM000600.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12  whole genome shotgun sequence
+150000
+1
+0.711925
+0.325657
+-0.0473776
+0.307427
+-0.113068
+302
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+8
+0.892043
+0.72497
+-0.0901162
+0.248793
+-0.0859543
+303
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+6
+0.610853
+0.631968
+-0.0575498
+0.31665
+-0.105613
+304
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+3
+0.753767
+0.494418
+-0.081104
+0.427173
+-0.104808
+305
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+5
+0.805095
+0.81337
+-0.0682279
+0.293293
+-0.063199
+306
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+2
+0.749921
+0.730876
+-0.0643168
+0.283024
+-0.080763
+307
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+9
+0.876723
+0.779895
+-0.0860635
+0.270307
+-0.0640876
+308
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+1
+0.86877
+0.780861
+-0.0732353
+0.246164
+-0.056559
+309
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+11
+0.886048
+0.828209
+-0.075909
+0.307554
+-0.0657737
+310
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+7
+0.840475
+0.842826
+-0.0571516
+0.28124
+-0.0591369
+311
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+10
+0.799253
+0.811714
+-0.058245
+0.317992
+-0.0652657
+312
+CM000601.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 13  whole genome shotgun sequence
+150000
+4
+0.651731
+-0.107952
+-0.12271
+0.57861
+-0.191057
+313
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+3
+0.747952
+0.0167406
+-0.229188
+0.665356
+-0.0659855
+314
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+1
+0.982963
+0.00765344
+-0.237648
+0.659091
+-0.228151
+315
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+11
+0.860175
+0.0666109
+-0.14779
+0.400815
+-0.19088
+316
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+5
+0.894565
+-0.35344
+-0.28759
+0.816672
+-0.173253
+317
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+4
+0.854979
+0.00363538
+-0.181139
+0.478346
+-0.161075
+318
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+6
+0.743931
+0.239981
+-0.115596
+0.354398
+-0.0905769
+319
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+9
+0.765471
+-0.541408
+-0.277982
+0.724593
+-0.0986781
+320
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+7
+0.673972
+-0.454588
+-0.283365
+0.873875
+-0.190471
+321
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+10
+0.590894
+-0.357726
+-0.380386
+0.981126
+-0.218651
+322
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+2
+0.609346
+-0.118205
+-0.116853
+0.330899
+-0.272308
+323
+CM000602.2
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 14  whole genome shotgun sequence
+150000
+8
+0.743992
+-0.764852
+0.847048
+-0.308518
+-0.297796
+324
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+12
+0.77695
+-0.916716
+0.963568
+-0.118404
+-0.246288
+325
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+11
+0.581408
+-1.
+0.747641
+-0.383492
+-0.164164
+326
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+5
+0.741588
+-0.800484
+1.
+-0.221531
+-0.295828
+327
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+10
+0.596478
+-0.930069
+0.767896
+-0.220722
+-0.12442
+328
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+14
+0.492238
+-0.369611
+-0.0102396
+0.246601
+-0.156313
+329
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+3
+0.50175
+-0.149407
+-0.0376281
+0.386306
+-0.105196
+330
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+1
+0.718302
+-0.240751
+-0.161254
+0.31514
+-0.185842
+331
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+13
+0.646818
+-0.192598
+-0.0676868
+0.301028
+-0.0700579
+332
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+15
+0.72961
+-0.200992
+-0.0791846
+0.247615
+-0.149082
+333
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+7
+0.786654
+-0.136085
+0.0334271
+0.306332
+-0.0902612
+334
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+4
+0.4789
+0.191413
+-0.0489844
+0.29082
+-0.0198061
+335
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+8
+0.439093
+-0.0315444
+-0.0601189
+0.444951
+-0.0828857
+336
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+2
+0.711876
+-0.202862
+-0.114233
+0.256169
+-0.0840547
+337
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+9
+0.657415
+-0.229543
+-0.207513
+0.552054
+-0.143556
+338
+CM000603.1
+Fusarium oxysporum f. sp. lycopersici 4287 chromosome 15  whole genome shotgun sequence
+150000
+6
