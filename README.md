@@ -1,13 +1,13 @@
 # MoDMaps3D
 Build your Molecular Distance Map and visualize it in 3D!
 
-See it in action, here http://rallis.github.io/MoDMaps3D
+See it in action, here http://moleculardistancemaps.github.io/MoDMaps3D
 
 Samples:
 <ul>
-<li>Phylum Vertebrata with its five subphyla. (<a href="http://rallis.github.io/MoDMaps3D/load.html?mapid=Animalia_mtDNA_Vertebrata.txt">4322 points here</a>)</li>
-<li>Class Mammalia. (<a href="http://rallis.github.io/MoDMaps3D/load.html?mapid=Animalia_mtDNA_ClassMammalia.txt">872 points here</a>)</li>
-<li>Order Primates and its suborders. (<a href="http://rallis.github.io/MoDMaps3D/load.html?mapid=Animalia_mtDNA_OrderPrimates.txt">148 points here</a>)</li>
+<li>Phylum Vertebrata with its five subphyla. (<a href="http://moleculardistancemaps.github.io/MoDMaps3D/load.html?mapid=Animalia_mtDNA_Vertebrata.txt">4322 points here</a>)</li>
+<li>Class Mammalia. (<a href="http://moleculardistancemaps.github.io/MoDMaps3D/load.html?mapid=Animalia_mtDNA_ClassMammalia.txt">872 points here</a>)</li>
+<li>Order Primates and its suborders. (<a href="http://moleculardistancemaps.github.io/MoDMaps3D/load.html?mapid=Animalia_mtDNA_OrderPrimates.txt">148 points here</a>)</li>
 </ul>
 
 #### HotKeys:
