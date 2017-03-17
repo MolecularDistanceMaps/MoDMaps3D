@@ -127,11 +127,13 @@ function shareLink(){
     var meshesY= meshes[0].rotation.y; 
 
     var baseLink = window.location["origin"] + window.location["pathname"];
-    var shareLink = baseLink+"?mapid="+mapid +"&dim1="+dim1selected+"&dim2="+dim2selected+"&dim3="+dim3selected+"&radius="+radiusSelected+"&cameraX="+camX+"&cameraY="+camY+"&cameraZ="+camZ+"&meshesRotX="+meshesX+"&meshesRotY="+meshesY+"&autonavigate=true";
+    var shareLink = baseLink+"?mapid="+mapid +"&dim1="+dim1selected+"&dim2="+dim2selected+"&dim3="+dim3selected+"&radius="+radiusSelected+"&cameraX="+camX+"&cameraY="+camY+"&cameraZ="+camZ+"&meshesRotX="+meshesX+"&meshesRotY="+meshesY+"&autonavigate=true&highlightcolor="+document.getElementById("pickbtn").value;
 
     if(document.getElementById('tosearch').value.length>=4){
         shareLink = shareLink + '&search='+document.getElementById('tosearch').value;
     }
+
+    console.log(shareLink);
    
     var xmlhttp;
     if (window.XMLHttpRequest){ // IE7+, Firefox, Chrome, Opera, Safari
@@ -275,8 +277,10 @@ function computeDist(){
 	if(($("#fromHere").val()!="")&&($("#toHere").val()!="")){
 		$("#computeDist").html('<img src="img/loading.gif" height="30">');
 		var dMatSplitBy = 100;
-		var idFrom=parseInt($("#fromHere").val())  ;
-		var idTo=parseInt($("#toHere").val()) ;
+		// var idFrom=parseInt($("#fromHere").val())  ;
+		// var idTo=parseInt($("#toHere").val()) ;
+		var idFrom=parseInt(fromIndex);
+		var idTo=parseInt(toIndex);
 		console.log(idFrom, idTo);
 		var rowInd = Math.ceil(Math.min(idFrom,idTo)/dMatSplitBy);
 		var colInd = Math.ceil(Math.max(idFrom,idTo)/dMatSplitBy);
@@ -333,11 +337,11 @@ function add(place){
 	// before was simply selectedIndex?!
 	if(selectedIndex!=undefined){
 		if(place=='from'){
-			$('#fromHere').val(parseInt(globalPointsLabels[selectedIndex][0]));
+			$('#fromHere').val(allAccessionNums[selectedIndex]);
 			fromIndex=parseInt(globalPointsLabels[selectedIndex][0]);
 		}
 		if(place=='to'){
-			$('#toHere').val(parseInt(globalPointsLabels[selectedIndex][0]));
+			$('#toHere').val(allAccessionNums[selectedIndex]);
 			toIndex=parseInt(globalPointsLabels[selectedIndex][0]);
 		}
 	}
@@ -415,8 +419,8 @@ function updateInfoDiv() {
 	fcgrDiv.innerHTML=fcgrInfo;
 
 	// DISTPOINTS DIV
-	if(document.getElementById("fromHere")!=undefined){$("#fromHere").val(fromIndex);}
-	if(document.getElementById("toHere")!=undefined){$("#toHere").val(toIndex);}
+	// if(document.getElementById("fromHere")!=undefined){$("#fromHere").val(fromIndex);}
+	// if(document.getElementById("toHere")!=undefined){$("#toHere").val(toIndex);}
 
 }
 
@@ -825,7 +829,7 @@ function initGraphics(){
 	<table>\
 	<tr><td>Show CGR image:</td><td><input type="checkbox" onchange="toggle(\'cgrInfoDiv\');" unchecked></td></tr>\
 	<tr><td>Show distances:</td><td><input type="checkbox" onchange="toggle(\'distPointsDiv\');" unchecked></td></tr>\
-	<tr><td>Show highlight color:</td><td><input type="checkbox" onchange="toggle(\'pickcolor\');" unchecked></td></tr>\
+	<tr><td>Show highlight color:</td><td><input type="checkbox" id="changecolor" onchange="toggle(\'pickcolor\');" unchecked></td></tr>\
 	<tr><td>Select mouseover:</td><td><input type="checkbox" onchange="enableMouseover();" unchecked></td></tr>';
 	
 	if(geturlparamvalue('mapid').slice(0,5)!='local'){
@@ -862,15 +866,15 @@ function initGraphics(){
 			<table border="0">\
 			<tr>\
 				<td>From:</td>\
-				<td><input id="fromHere" value="'+fromIndex+'" maxlength="7" size="7" disabled /></td>\
+				<td><input id="fromHere" value="'+fromIndex+'" maxlength="7" size="8" disabled /></td>\
 				<td><input type="button" value="Add" onclick="add(\'from\');"></td></tr>\
 			<tr>\
 				<td>To:</td>\
-				<td><input id="toHere" value="'+toIndex+'" maxlength="7" size="7" disabled /></td>\
+				<td><input id="toHere" value="'+toIndex+'" maxlength="7" size="8" disabled /></td>\
 				<td><input type="button" value="Add" onclick="add(\'to\');"></td></tr>\
 			<tr>\
-				<td>Distance:</td>\
-				<td colspan="2"><input id="outputDist" type="text" value="" maxlength="10" size="14" disabled /></td></tr>\
+				<td>Dist.:</td>\
+				<td colspan="2"><input id="outputDist" type="text" value="" maxlength="10" size="15" disabled /></td></tr>\
 			<tr>\
 				<td><div id="computeDist"></div></td></tr>\
 			</table><hr color="white" width="60%">';
@@ -1176,6 +1180,16 @@ function initGraphics(){
 
 	if(dbg){console.log("autonavigation mode is ON!");}
 		
+	if(geturlparamvalue("highlightcolor")!=-1){
+		if(dbg){console.log("we got color value!");}
+		highlightColor = parseInt("0x"+geturlparamvalue("highlightcolor")); 
+		MoDMaps3D['highlightColor'] = highlightColor;
+		
+		document.getElementById("pickbtn").value = geturlparamvalue("highlightcolor");
+		document.getElementById("changecolor").checked = true;
+		toggle('pickcolor');
+	}
+
 	if(geturlparamvalue("search")!=-1){
 		document.getElementById("tosearch").value=decodeURIComponent(geturlparamvalue("search"));
 		if(dbg){console.log("we got filter value! Now we start the search!");}
