@@ -205,7 +205,7 @@
 		// eigenval = res2['lambda']['x'];
 		// eigenvec = numeric.transpose(res2['E']['x']);   /// here transpose!!!
 		
-		
+
 		eigensystem =[];
 		for(var i=0; i<numOfSeq; i++){
 			eigensystem.push([eigenval[i], eigenvec[i]]);
@@ -230,7 +230,14 @@
 		if(dbg){console.log("finalEigenvec=",finalEigenvec);}
 		
 		// POINTS COORDINATES
-		points = numeric.dot(numeric.transpose(finalEigenvec), numeric.sqrt(numeric.T.diag(finalEigenval)['x']));
+		try{
+			points = numeric.dot(numeric.transpose(finalEigenvec), numeric.sqrt(numeric.T.diag(finalEigenval)['x']));
+		}catch(err){
+			console.log(err.message);
+			errorHasOccured = true;
+			$('#progress').html('<div class="alert alert-danger" role="alert"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span><span class="sr-only">Error:</span>'+' ERROR [<strong>'+err.message+'</strong>] while computing MDS. Internal errors originate from numerical errors in distance matrices. Consider changing/increasing value of length of k-mers.</div>');
+			return;
+		}
 		if(dbg){console.log("points=",points);}
 		
 		// MIN-MAX PER DIMENSION (FOR LATER SCALING)
