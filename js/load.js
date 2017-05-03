@@ -1320,10 +1320,10 @@ $(document).ready(function(){
 		if(tmpMapId.slice(0,5)=='local'){
 			try{
 				alldata = localStorage.getItem("mapfile"+tmpMapId.slice(5));
-				if(geturlparamvalue('distmatrix')!='false'){
-					distMatrix = localStorage.getItem("distMatrix"+tmpMapId.slice(5)).split(',');
-					console.log(distMatrix.length);
-				}
+				// if(geturlparamvalue('distmatrix')!='false'){
+				// 	distMatrix = localStorage.getItem("distMatrix"+tmpMapId.slice(5)).split(',');
+				// 	console.log(distMatrix.length);
+				// }
 				mapContentParsing();
 			}catch(err){
 				document.write('<font color="red" size="4"><b>The mapid you provided ['+mapid+'] cannot be found. <br>Available in localStorage ['+Object.keys(localStorage)+'].</b></font>');

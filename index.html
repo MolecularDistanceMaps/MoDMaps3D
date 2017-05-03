@@ -14,10 +14,10 @@
 	<script type="text/javascript" src="js/jszip.min.js"></script>
 	<script type="text/javascript" src="js/FileSaver.min.js"></script>
 	<script type="text/javascript" src="js/parallel.js"></script>
-
+	<script type="text/javascript" src="js/jsfeat.js"></script>
 
 	<script>
-	var dbg = false, errorHasOccured = false, noMDS = false, splitBy, offlineCompMinSize = 500;
+	var dbg = false, errorHasOccured = false, noMDS = false, splitBy, offlineCompMinSize = 2000;
 	var eigenval, eigenvec, eigensystem, finalEigenval, finalEigenvec, points, mapfile ;
 	var fastaFilesLoaded = [], defaultInputType = "ncbi";
 	var mapID, allSequences={}, distMatrix=[], fcgrRes=9, getTaxa = false;
@@ -174,18 +174,38 @@
 		
 
 		// EIGENVALUES - EIGENVECTORS
-		try{
-			res2 = numeric.eig(distMatrixCentered);	
-		}catch(err){
-			console.log(err.message);
-			errorHasOccured = true;
-			$('#progress').html('<div class="alert alert-danger" role="alert"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span><span class="sr-only">Error:</span>'+' ERROR [<strong>'+err.message+'</strong>] while computing MDS. Internal errors originate from numerical errors in distance matrices. Consider changing/increasing value of length of k-mers.</div>');
-			return;
+		var res2;
+		// part 4 NEW MDS
+		var data_type = jsfeat.F64_t | jsfeat.C1_t;
+		var columns = numOfSeq, rows = numOfSeq;
+		var my_matrix = new jsfeat.matrix_t(columns, rows, data_type);
+		my_matrix.data = [].concat.apply([], distMatrixCentered);    
+		var my_eigenvec = new jsfeat.matrix_t(columns, rows, data_type);
+		var my_eigenval = new jsfeat.matrix_t(columns, rows, data_type);
+		jsfeat.linalg.eigenVV(my_matrix, my_eigenvec, my_eigenval);
+		
+		// var eigenval, eigenvec, eigensystem;
+		eigenval = my_eigenval.data;
+		eigenvec = [];
+		for( var mdsInd = 0; mdsInd < numOfSeq; mdsInd++){
+			eigenvec.push(my_eigenvec.data.slice( mdsInd*numOfSeq, (mdsInd+1)*numOfSeq ));
 		}
-		if(dbg){console.log('numeric.js=',res2['lambda']['x']);}
 
-		eigenval = res2['lambda']['x'];
-		eigenvec = numeric.transpose(res2['E']['x']);   /// here transpose!!!
+
+		// try{
+		// 	res2 = numeric.eig(distMatrixCentered);	
+		// }catch(err){
+		// 	console.log(err.message);
+		// 	errorHasOccured = true;
+		// 	$('#progress').html('<div class="alert alert-danger" role="alert"><span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span><span class="sr-only">Error:</span>'+' ERROR [<strong>'+err.message+'</strong>] while computing MDS. Internal errors originate from numerical errors in distance matrices. Consider changing/increasing value of length of k-mers.</div>');
+		// 	return;
+		// }
+		// if(dbg){console.log('numeric.js=',res2['lambda']['x']);}
+
+		// eigenval = res2['lambda']['x'];
+		// eigenvec = numeric.transpose(res2['E']['x']);   /// here transpose!!!
+		
+		
 		eigensystem =[];
 		for(var i=0; i<numOfSeq; i++){
 			eigensystem.push([eigenval[i], eigenvec[i]]);
@@ -278,7 +298,7 @@
 		if(typeof(Storage) !== "undefined") {
 			try{
 				localStorage.setItem("mapfile"+mapTimeStamp, mapfile);
-				localStorage.setItem("distMatrix"+mapTimeStamp, distMatrix);	
+				// localStorage.setItem("distMatrix"+mapTimeStamp, distMatrix);	
 			}catch(err){
 				console.log(err.message);
 				errorHasOccured = true;
